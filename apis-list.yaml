@@ -25752,3 +25752,24 @@
   links:
     - name: Docs / Website
       url: https://www.searchapi.io/
+- name: Vedika
+  slug: vedika
+  description: AI-powered Vedic astrology API with birth charts (Kundali), 
+    horoscopes, compatibility matching (36 Guna Milan), doshas analysis, 
+    muhurta calculations, and natural language AI chat. Supports 22 languages 
+    including Hindi, Tamil, Telugu. 108+ endpoints for comprehensive 
+    astrological data.
+  categories:
+    - Astrology
+    - AI & Machine Learning
+    - Lifestyle
+  is_free: false
+  logo: https://vedika.io/assets/vedika-logo.png
+  type: REST
+  links:
+    - name: Docs / Website
+      url: https://vedika.io
+    - name: Documentation
+      url: https://vedika.io/docs
+    - name: GraphQL Endpoint
+      url: https://vedika-api-854222120654.us-central1.run.app/graphql
