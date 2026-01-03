@@ -1525,6 +1525,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Portfolio Optimizer](https://github.com/apis-list/apis-list/blob/main/apis/portfolio-optimizer/portfolio-optimizer.md) - API for investment portfolio optimization
 - [SHARE](https://github.com/apis-list/apis-list/blob/main/apis/share/share.md) - SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
 - [Sunrise and Sunset](https://github.com/apis-list/apis-list/blob/main/apis/sunrise-and-sunset/sunrise-and-sunset.md) - Sunset and sunrise times API
+- [Vedika](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints for birth charts, dasha, compatibility, and AI chatbot in 22 languages
 
 ### Scrapers & Data Mining 🕸️
 - [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images
