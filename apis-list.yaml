@@ -25752,3 +25752,26 @@
   links:
     - name: Docs / Website
       url: https://www.searchapi.io/
+- name: Vedika
+  slug: vedika
+  categories:
+    - Entertainment
+    - AI & ML
+  description: AI-powered Vedic astrology API for gaming and entertainment apps. Provides
+    personalized astrological insights, horoscopes, birth charts (kundali), compatibility
+    matching, numerology, and AI chatbot features. Supports 22 languages with REST
+    API and GraphQL endpoints.
+  is_free: false
+  type: REST
+  links:
+    - name: Docs / Website
+      url: https://vedika.io
+    - name: API Reference
+      url: https://vedika.io/api-reference.html
+  libraries:
+    - name: Vedika JavaScript SDK
+      platform: JavaScript
+      documentation_url: https://www.npmjs.com/package/@vedikaai/sdk
+    - name: Vedika Python SDK
+      platform: Python
+      documentation_url: https://pypi.org/project/vedika-sdk/

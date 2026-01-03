@@ -165,6 +165,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Amazon Transcribe](https://github.com/apis-list/apis-list/blob/main/apis/amazon-transcribe/amazon-transcribe.md) - Automatically convert speech to text
 - [Otter.ai](https://github.com/apis-list/apis-list/blob/main/apis/otter.ai/otter.ai.md) - Generates rich notes for meetings, interviews, lectures, and other important voice conversations
 - [VOCAPIA](https://github.com/apis-list/apis-list/blob/main/apis/vocapia/vocapia.md) - Speech Recognition, Broadcast Monitoring, Lecture and Seminar Transcription, Video Subtitling, Conference Call and Voicemail Transcription, Speech Analytics
+- [Vedika](https://github.com/apis-list/apis-list/blob/main/apis/vedika/vedika.md) - AI-powered Vedic astrology API for gaming and entertainment apps
 
 ### Adult 🍓
 - [Danbooru](https://github.com/apis-list/apis-list/blob/main/apis/danbooru/danbooru.md) - Danbooru Imageboard API
@@ -787,6 +788,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Vimeo](https://github.com/apis-list/apis-list/blob/main/apis/vimeo/vimeo.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
 - [Wargaming.net](https://github.com/apis-list/apis-list/blob/main/apis/wargaming-net/wargaming-net.md) - Wargaming Games API. Stats, Matches, Data
 - [xkcd](https://github.com/apis-list/apis-list/blob/main/apis/xkcd/xkcd.md) - xkcd API
+- [Vedika](https://github.com/apis-list/apis-list/blob/main/apis/vedika/vedika.md) - AI-powered Vedic astrology API for gaming and entertainment apps
 
 ### Environment & Nature 🌲
 - [AirVisual](https://github.com/apis-list/apis-list/blob/main/apis/airvisual/airvisual.md) - Enhance your projects with free trusted historical, real-time and forecast air quality data
