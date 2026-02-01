@@ -282,7 +282,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 ### Blockchain & Cryptocurrencies 📒️
 - [Alpha Vantage](https://github.com/apis-list/apis-list/blob/main/apis/alpha-vantage/alpha-vantage.md) - Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series
 - [Binance](https://github.com/apis-list/apis-list/blob/main/apis/binance/binance.md) - Binance cryptocurrency exchange official API
-- [Bitquery](https://github.com/apis-list/apis-list/blob/main/apis/Bitquery/Bitquery.md) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool. 
 - [Bitcoin](https://github.com/apis-list/apis-list/blob/main/apis/bitcoin/bitcoin.md) - Bitcoin is an innovative payment network and a new kind of money
 - [BitcoinAverage](https://github.com/apis-list/apis-list/blob/main/apis/bitcoinaverage/bitcoinaverage.md) - The world&#x27;s best and longest running Cryptocurrency price API provider
 - [Bitcoincharts](https://github.com/apis-list/apis-list/blob/main/apis/bitcoincharts/bitcoincharts.md) - You can use this API to include markets data in your websites, mobile apps or desktop applets
@@ -892,7 +891,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [PunkAPI](https://github.com/apis-list/apis-list/blob/main/apis/punkapi/punkapi.md) - Brewdog&#x27;s DIY Dog as a searchable, filterable API
 - [Recipe Puppy](https://github.com/apis-list/apis-list/blob/main/apis/recipe-puppy/recipe-puppy.md) - Recipe Puppy API lets you search through recipe puppy database of over a million recipes by keyword and/or by search query
 - [Spoonacular Food API](https://github.com/apis-list/apis-list/blob/main/apis/spoonacular-food-api/spoonacular-food-api.md) - The only Food API you&#x27;ll ever need
-- [TacoFancy API](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - API for community-driven, object-oriented taco recipe repo - [https://github](https://github.com/) 🆓
+- [TacoFancy API](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - API for community-driven, object-oriented taco recipe repo - https://github 🆓
 - [The Meal Db](https://github.com/apis-list/apis-list/blob/main/apis/the-meal-db/the-meal-db.md) - This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more
 - [The Report of the Week](https://github.com/apis-list/apis-list/blob/main/apis/the-report-of-the-week/the-report-of-the-week.md) - API of The Report Of The Week Reviews
 - [TheCocktailDB](https://github.com/apis-list/apis-list/blob/main/apis/thecocktaildb/thecocktaildb.md) - An open, crowd-sourced database of drinks and cocktails from around the world
@@ -1526,7 +1525,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Portfolio Optimizer](https://github.com/apis-list/apis-list/blob/main/apis/portfolio-optimizer/portfolio-optimizer.md) - API for investment portfolio optimization
 - [SHARE](https://github.com/apis-list/apis-list/blob/main/apis/share/share.md) - SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
 - [Sunrise and Sunset](https://github.com/apis-list/apis-list/blob/main/apis/sunrise-and-sunset/sunrise-and-sunset.md) - Sunset and sunrise times API
-- [Vedika](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints for birth charts, dasha, compatibility, and AI chatbot in 22 languages
 
 ### Scrapers & Data Mining 🕸️
 - [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images
