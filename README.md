@@ -892,7 +892,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [PunkAPI](https://github.com/apis-list/apis-list/blob/main/apis/punkapi/punkapi.md) - Brewdog&#x27;s DIY Dog as a searchable, filterable API
 - [Recipe Puppy](https://github.com/apis-list/apis-list/blob/main/apis/recipe-puppy/recipe-puppy.md) - Recipe Puppy API lets you search through recipe puppy database of over a million recipes by keyword and/or by search query
 - [Spoonacular Food API](https://github.com/apis-list/apis-list/blob/main/apis/spoonacular-food-api/spoonacular-food-api.md) - The only Food API you&#x27;ll ever need
-- [TacoFancy API](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - API for community-driven, object-oriented taco recipe repo - [https://github](https://github.com/) 🆓
+- [TacoFancy API](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - API for community-driven, object-oriented taco recipe repo - https://github.com/sinker/tacofancy 🆓
 - [The Meal Db](https://github.com/apis-list/apis-list/blob/main/apis/the-meal-db/the-meal-db.md) - This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more
 - [The Report of the Week](https://github.com/apis-list/apis-list/blob/main/apis/the-report-of-the-week/the-report-of-the-week.md) - API of The Report Of The Week Reviews
 - [TheCocktailDB](https://github.com/apis-list/apis-list/blob/main/apis/thecocktaildb/thecocktaildb.md) - An open, crowd-sourced database of drinks and cocktails from around the world
