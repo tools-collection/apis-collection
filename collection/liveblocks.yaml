@@ -1,0 +1,14 @@
+name: Liveblocks
+slug: liveblocks
+description: Liveblocks API enables real-time collaboration features including presence, live cursors, shared state, comments, and notifications. Build collaborative document editors and multiplayer experiences.
+categories:
+  - Development
+  - Collaboration
+  - Chats & Messaging
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://liveblocks.io/docs
+  - name: API Reference
+    url: https://liveblocks.io/docs/api-reference/rest-api-endpoints

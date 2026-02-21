@@ -1,0 +1,13 @@
+name: Webflow
+slug: webflow
+description: Webflow's CMS API manages collections, items, sites, pages, and forms. Build headless CMS integrations, sync content, and automate publishing workflows for Webflow sites.
+categories:
+  - Development
+  - Documents & Productivity
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.webflow.com
+  - name: API Reference
+    url: https://developers.webflow.com/data/reference

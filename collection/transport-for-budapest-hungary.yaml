@@ -1,0 +1,10 @@
+name: Transportation in Budapest, Hungary
+slug: transport-for-budapest-hungary
+description: A place where APIs are kept. A place where APIs are kept
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://bkkfutar.docs.apiary.io

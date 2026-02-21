@@ -1,0 +1,30 @@
+name: OneDrive
+slug: onedrive
+description: File storage & sharing
+categories:
+  - Files & Storage
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://dev.onedrive.com/
+libraries:
+  - name: OneDrive C# SDK by OneDrive
+    documentation_url: https://github.com/OneDrive/onedrive-sdk-csharp
+    platform: C#
+    stargazers_count: 241
+  - name: OneDrive iOS SDK by OneDrive
+    documentation_url: https://github.com/OneDrive/onedrive-sdk-ios
+    platform: Objective-C
+    stargazers_count: 92
+  - name: OneDrive Android SDK by OneDrive
+    documentation_url: https://github.com/OneDrive/onedrive-sdk-android
+    platform: Java
+    stargazers_count: 111
+  - name: OneDrive Python SDK by OneDrive
+    documentation_url: https://github.com/OneDrive/onedrive-sdk-python
+    platform: Python
+    stargazers_count: 676
+  - name: OneDrive Picker iOS SDK by OneDrive
+    documentation_url: https://dev.onedrive.com/sdks.htm
+    platform: Objective-C

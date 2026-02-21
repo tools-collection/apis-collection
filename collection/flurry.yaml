@@ -1,0 +1,18 @@
+name: Flurry
+slug: flurry
+description: Yahoo’s Flurry provides you with a number of APIs enabling you to export your data. Flurry provides two
+  main APIs that are designed to get the same data about your applications as the data reported on the Flurry Dev Portal
+categories:
+  - Analytics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.yahoo.com/flurry/docs/api/
+libraries:
+  - name: Flurry Analytics iOS SDK
+    documentation_url: https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/ios/
+    platform: Objective-C
+  - name: Flurry Analytics Android SDK
+    documentation_url: https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/android/
+    platform: Java

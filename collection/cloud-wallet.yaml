@@ -1,0 +1,11 @@
+name: Cloud Wallet
+slug: cloud-wallet
+description: Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide. It
+  allows developers to reduce cost & time-to-market while building and scaling
+categories:
+  - IoT & Home Automation
+  - Payments
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://walletapi.cloud/index.html

@@ -1,0 +1,126 @@
+name: Yelp
+slug: yelp
+description: Yelp's API exposes search to 3rd party developers. You can search location using longitude and latitude,
+  neighborhood, address or city and filter listings by “where”, using a list of support categories
+categories:
+  - Business
+  - Commerce
+  - Point of Interest
+  - Search
+  - Maps & Geo
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.yelp.com/developers/documentation/v3/
+libraries:
+  - name: Yelp Fusion Swift SDK by Christopher de Haan
+    documentation_url: https://yelp.github.io
+    source_code_url: https://github.com/chrisdhaan/CDYelpFusionKit
+    platform: Swift
+    author: chrisdhaan
+    stargazers_count: 46
+  - name: Yelp React Native SDK by dobiedad
+    documentation_url: https://www.npmjs.com/package/v3-yelp-api
+    source_code_url: https://github.com/dobiedad/v3-yelp-api
+    platform: JavaScript
+    author: dobiedad
+    stargazers_count: 6
+  - name: Yelp Fusion PHP SDK by radoneman
+    documentation_url: https://github.com/radoneman/yelp-fusion-v3-php-client
+    platform: PHP
+    author: radoneman
+    stargazers_count: 2
+  - name: Yelp Fusion Node.js SDK by Vinnie Giarrusso
+    documentation_url: https://github.com/vingiarrusso/BasicYelpClient
+    platform: Node.js
+    author: vingiarrusso
+    stargazers_count: 0
+  - name: Yelp Fusion Java SDK by RedRoma
+    documentation_url: https://github.com/RedRoma/YelpJavaClient
+    platform: Java
+    stargazers_count: 3
+  - name: Yelp Fusion JavaScript SDK by Joshua Anderson Slate
+    documentation_url: https://github.com/joshuaslate/node-yelp-api
+    platform: JavaScript, Node.js
+    author: joshuaslate
+    stargazers_count: 5
+  - name: Yelp Fusion C# SDK by Joe Brock
+    documentation_url: https://github.com/jdbrock/yelp-sharp
+    platform: C#
+    author: jdbrock
+    stargazers_count: 2
+  - name: Yelp Fusion Python SDK by Garry Polley
+    documentation_url: https://github.com/garrypolley/yelp-client
+    platform: Python
+    author: garrypolley
+    stargazers_count: 0
+  - name: Yelp Fusion Python SDK by Randy Daw-Ran Liou
+    documentation_url: https://github.com/dawran6/yelpy
+    platform: Python
+  - name: Yelp Fusion Elixir SDK by Gaslight
+    documentation_url: https://github.com/gaslight/exyelp
+    platform: Elixir
+    stargazers_count: 1
+  - name: Yelp Fusion Python SDK by Johnie Lee
+    documentation_url: https://github.com/JohnieLee/YelpClient
+    platform: Python
+    author: JohnieLee
+    stargazers_count: 3
+  - name: Yelp Fusion Node.js SDK by tonybadguy
+    documentation_url: https://github.com/tonybadguy/yelp-fusion
+    platform: Node.js
+    author: tonybadguy
+    stargazers_count: 69
+  - name: Yelp Fusion Android SDK by ugomarinelli
+    documentation_url: https://github.com/ugomarinelli/Yelp
+    platform: Java
+    author: ugomarinelli
+    stargazers_count: 0
+  - name: Yelp Fusion Objective-C SDK by Dhanu Agnihotri
+    documentation_url: https://github.com/dhanuagnihotri/Yelp
+    platform: Objective-C
+    author: dhanuagnihotri
+    stargazers_count: 0
+  - name: Yelp Fusion Python SDK by Adam Ever-Hadani
+    documentation_url: https://github.com/adamhadani/python-yelp
+    platform: Python
+    author: adamhadani
+    stargazers_count: 11
+  - name: Yelp Fusion Swift SDK by Jerry Su
+    documentation_url: https://github.com/jerrysu/CodePath-Yelp
+    platform: Swift
+    author: jerrysu
+    stargazers_count: 40
+  - name: Yelp Fusion PHP SDK by Steven Maguire
+    documentation_url: https://github.com/stevenmaguire/yelp-php
+    platform: PHP
+    author: stevenmaguire
+    stargazers_count: 55
+  - name: Yelp Fusion Node.js SDK by Oli Lalonde
+    documentation_url: https://github.com/olalonde/node-yelp
+    platform: Node.js
+    author: olalonde
+    stargazers_count: 213
+  - name: Yelp Fusion Android SDK by Yelp
+    documentation_url: https://github.com/Yelp/yelp-android
+    platform: Java
+    stargazers_count: 53
+  - name: Yelp Fusion iOS SDK by Yelp
+    documentation_url: https://github.com/Yelp/yelp-ios
+    platform: Objective-C
+    stargazers_count: 56
+  - name: Yelp Fusion Ruby SDK by Yelp
+    documentation_url: https://github.com/Yelp/yelp-ruby
+    platform: Ruby
+    stargazers_count: 106
+  - name: Yelp Fusion Python SDK by Yelp
+    documentation_url: https://github.com/Yelp/yelp-python
+    platform: Python
+    stargazers_count: 161
+  - name: "Yelp C# Library by Justin Beckwith "
+    documentation_url: https://github.com/JustinBeckwith/YelpSharp
+    platform: C#
+    author: JustinBeckwith
+    stargazers_count: 36

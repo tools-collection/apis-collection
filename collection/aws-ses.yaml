@@ -1,0 +1,13 @@
+name: AWS SES
+slug: aws-ses
+description: AWS Simple Email Service API enables sending transactional and marketing emails at scale with high deliverability. Manage verified identities, sending quotas, and bounce/complaint handling.
+categories:
+  - Email & SMS
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.aws.amazon.com/ses/latest/dg/Welcome.html
+  - name: API Reference
+    url: https://docs.aws.amazon.com/ses/latest/APIReference/Welcome.html

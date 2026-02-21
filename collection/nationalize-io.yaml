@@ -1,0 +1,10 @@
+name: Nationalize.io
+slug: nationalize-io
+description: Free API to check and predict the nationality of a name
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://nationalize.io

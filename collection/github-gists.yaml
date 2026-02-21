@@ -1,0 +1,13 @@
+name: GitHub Gists
+slug: github-gists
+description: For more information. Access to GitHub’s Gists API. You can read public gists anonymously, but you must be
+  signed into GitHub to create gists. To read or write gists on a user's behalf, you need the gist OAuth scope and a
+  token
+categories:
+  - Development
+  - Files & Storage
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.github.com/v3/gists/

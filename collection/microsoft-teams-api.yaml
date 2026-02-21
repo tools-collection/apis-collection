@@ -1,0 +1,13 @@
+name: Microsoft Teams API
+slug: microsoft-teams-api
+description: Microsoft Teams API via Microsoft Graph provides access to chats, channels, messages, meetings, and team membership. Build bots, tabs, and integrations for the Teams collaboration platform.
+categories:
+  - Chats & Messaging
+  - Collaboration
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://learn.microsoft.com/en-us/graph/teams-concept-overview
+  - name: API Reference
+    url: https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview

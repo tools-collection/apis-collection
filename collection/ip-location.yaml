@@ -1,0 +1,10 @@
+name: IP Location
+slug: ip-location
+description: Free IP Geolocation API - lookup any IP address. Free IP Geolocation API - lookup any IP address
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://ip-api.com/

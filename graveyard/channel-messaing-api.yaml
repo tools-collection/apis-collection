@@ -1,0 +1,13 @@
+name: Channel Messaing API
+slug: channel-messaing-api
+description: Channel Messaging API lets your build real-time application
+categories:
+  - Chats & Messaging
+  - Documents & Productivity
+  - Bots
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/channel-messaing-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.getchannel.co

@@ -1,0 +1,13 @@
+name: Image-Charts
+slug: image-charts
+description: A drop-in-replacement for the deprecated Google Image Charts. Easiest way to embed charts as image in emails, pdfs etc.
+categories:
+  - Visualizations
+  - Email & SMS
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/image-charts/logo_256x256.png
+contact: contact@ijenko.com
+links:
+  - name: Docs / Website
+    url: https://www.image-charts.com

@@ -1,0 +1,13 @@
+name: MongoDB Atlas
+slug: mongodb-atlas
+description: MongoDB Atlas Administration API manages clusters, database users, network access, backups, and organizations. Automate cloud MongoDB infrastructure and integrate with DevOps pipelines.
+categories:
+  - Databases
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.mongodb.com/docs/atlas/reference/api-resources-spec
+  - name: API Reference
+    url: https://www.mongodb.com/docs/atlas/reference/api-resources-spec/v2

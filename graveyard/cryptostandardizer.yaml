@@ -1,0 +1,11 @@
+name: Cryptostandardizer
+slug: cryptostandardizer
+description: Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
+categories:
+  - Blockchain & Cryptocurrencies
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptostandardizer/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://cryptostandardizer.com

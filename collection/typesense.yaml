@@ -1,0 +1,13 @@
+name: Typesense
+slug: typesense
+description: Typesense is an open-source, typo-tolerant search engine with a REST API. Self-host or use Typesense Cloud for fast, relevant full-text search with faceting and vector search support.
+categories:
+  - Search
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://typesense.org/docs
+  - name: API Reference
+    url: https://typesense.org/docs/latest/api

@@ -1,0 +1,22 @@
+name: Wolfram|Alpha
+slug: wolfram-alpha
+description: General knowledge on every topic; query it all with natural language input. Easily add top-of-the-line
+  computational knowledge into your applications with Wolfram|Alpha APIs. Options from free to pre-built and custom
+  solutions. The official Wolfram|Alpha API
+categories:
+  - Statistics & Data
+  - Search
+  - Text Analysis & Tools
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://products.wolframalpha.com/api/
+libraries:
+  - name: Wolfram Alpha .Net SDK by Ian Qvist
+    documentation_url: https://github.com/Genbox/WolframAlpha.NET
+    platform: .Net, C#
+    author: Genbox
+    stargazers_count: 45
+  - name: Wolfram Alpha Python Library by Derik Pereira
+    documentation_url: http://products.wolframalpha.com/api/libraries.html
+    platform: Python

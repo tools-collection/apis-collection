@@ -1,0 +1,13 @@
+name: PubMed (NCBI E-utilities)
+slug: pubmed
+description: NCBI's E-utilities API provides programmatic access to PubMed abstracts, full-text articles, gene sequences, and other biomedical literature from the National Center for Biotechnology Information.
+categories:
+  - Science & Math
+  - Health
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.ncbi.nlm.nih.gov/books/NBK25501
+  - name: API Reference
+    url: https://www.ncbi.nlm.nih.gov/books/NBK25500

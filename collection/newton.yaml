@@ -1,0 +1,10 @@
+name: Newton
+slug: newton
+description: A really micro micro-service for advanced math
+categories:
+  - Science & Math
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://newton.now.sh/

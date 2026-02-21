@@ -1,0 +1,113 @@
+name: PubNub
+slug: pubnub
+description: <div class="homepage-wrap">
+categories:
+  - Chats & Messaging
+  - IoT & Home Automation
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pubnub/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.pubnub.com/docs
+libraries:
+  - name: PubNub Silverlight C# SDK
+    documentation_url: https://www.pubnub.com/docs/silverlight-c-sharp/pubnub-c-sharp-sdk
+    source_code_url: https://github.com/pubnub/c-sharp/tree/master_3x/csharp.net
+    platform: C#
+    stargazers_count: 93
+  - name: PubNub Scala SDK
+    documentation_url: https://www.pubnub.com/docs/scala-java/pubnub-java-sdk
+    source_code_url: https://github.com/pubnub/java/tree/master_3x/scala
+    platform: Scala
+    stargazers_count: 528
+  - name: PubNub Perl SDK
+    documentation_url: https://github.com/pubnub/pubnub-api/tree/master/perl5
+    platform: PERL
+    stargazers_count: 822
+  - name: PubNub Objective-C SDK
+    documentation_url: https://www.pubnub.com/docs/ios-objective-c/pubnub-objective-c-sdk
+    source_code_url: https://github.com/pubnub/objective-c
+    platform: Objective-C
+    stargazers_count: 172
+  - name: PubNub Haskell SDK
+    documentation_url: https://github.com/pubnub/haskell/blob/master/README.md
+    source_code_url: https://github.com/pubnub/haskell
+    platform: Haskell
+    stargazers_count: 18
+  - name: PubNub Lua SDK
+    documentation_url: https://www.pubnub.com/docs/lua/pubnub-lua-sdk
+    source_code_url: https://github.com/pubnub/lua/tree/master/pure
+    platform: Lua
+    stargazers_count: 12
+  - name: PubNub C++ SDK
+    documentation_url: https://www.pubnub.com/docs/windows-cpp/pubnub-cpp-sdk
+    source_code_url: https://github.com/pubnub/c-core
+    platform: C++
+    stargazers_count: 33
+  - name: PubNub Go SDK
+    documentation_url: https://www.pubnub.com/docs/go/pubnub-go-sdk
+    source_code_url: https://github.com/pubnub/go
+    platform: Go
+    stargazers_count: 93
+  - name: PubNub MQTT Python SDK
+    documentation_url: https://www.pubnub.com/blog/new-improved-pubnub-mqtt-support-and-iot-capabilities
+    source_code_url: https://www.pubnub.com/docs/mqtt-pubnub-bridge/getting-started#introduction
+    platform: Python
+  - name: PubNub Asyncio Python SDK
+    documentation_url: https://www.pubnub.com/docs/python-aiohttp/pubnub-python-sdk
+    source_code_url: https://github.com/pubnub/python
+    platform: Python
+    stargazers_count: 141
+  - name: PubNub Tornado Python SDK
+    documentation_url: https://www.pubnub.com/docs/python-tornado/pubnub-python-sdk
+    source_code_url: https://github.com/pubnub/python
+    platform: Python
+    stargazers_count: 141
+  - name: PubNub Unity C# SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/unity3d-c-sharp/pubnub-c-sharp-sdk
+    platform: C#
+  - name: PubNub Moai Lua SDK by PubNub
+    documentation_url: https://github.com/pubnub/lua/tree/master/moai
+    platform: Lua
+    stargazers_count: 12
+  - name: PubNub Impact JavaScript SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/impactjs-javascript/pubnub-javascript-sdk
+    platform: JavaScript
+  - name: PubNub Corona Lua SDK by PubNub
+    documentation_url: https://github.com/pubnub/lua
+    platform: Lua
+    stargazers_count: 12
+  - name: PubNub ColdFusion SDK by PubNub
+    documentation_url: https://github.com/pubnub/pubnub-api/tree/master/coldfusion
+    platform: ColdFusion
+    stargazers_count: 822
+  - name: "PubNub AngularJS SDK by PubNub "
+    documentation_url: https://www.pubnub.com/docs/angularjs-javascript/pubnub-javascript-sdk
+    platform: JavaScript
+  - name: PubNub Xamarin iOS C# SDK by PubNub
+    documentation_url: https://github.com/pubnub/c-sharp
+    platform: Objective-C
+    stargazers_count: 93
+  - name: PubNub Xamarin Android C# SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/c-sharp-net-c-sharp/pubnub-c-sharp-sdk
+    platform: C#
+  - name: PubNub Pocket PC C# SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/pocket-pc-c-sharp/pubnub-c-sharp-sdk
+    platform: C#
+  - name: PubNub Java ME SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/j2me-java/pubnub-java-sdk
+    platform: Java
+  - name: PubNub Accelerator Titanium JavaScript SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/titanium-javascript/pubnub-javascript-sdk-v3
+    platform: JavaScript
+  - name: PubNub CodeNameOne Java SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/codename-one-java/pubnub-java-sdk
+    platform: Java
+  - name: PubNub Blackberry Java SDK by PubNub
+    documentation_url: https://www.pubnub.com/docs/blackberry-java/pubnub-java-sdk
+    platform: Java
+  - name: PubNub C Library
+    documentation_url: https://github.com/pubnub/c
+    platform: C, C++
+    stargazers_count: 46

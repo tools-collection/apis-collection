@@ -1,0 +1,13 @@
+name: ClickUp
+slug: clickup
+description: ClickUp's API provides access to tasks, lists, folders, spaces, goals, and time tracking. Build integrations and automate project management workflows on the ClickUp platform.
+categories:
+  - Project Management
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://clickup.com/api
+  - name: API Reference
+    url: https://clickup.com/api/clickupreference/operation/GetAuthorizedUser

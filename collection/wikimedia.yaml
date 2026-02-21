@@ -1,0 +1,13 @@
+name: Wikimedia REST API
+slug: wikimedia
+description: Wikimedia's REST API provides access to Wikipedia articles, summaries, page metadata, media files, and editing history across all Wikimedia projects in multiple formats.
+categories:
+  - Wiki
+  - Content & Dictionaries
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.mediawiki.org/wiki/API:REST_API
+  - name: API Reference
+    url: https://en.wikipedia.org/api/rest_v1

@@ -1,0 +1,13 @@
+name: Sentry
+slug: sentry
+description: Sentry's API provides access to error events, issues, projects, organizations, and releases. Integrate Sentry's error monitoring and performance tracking into CI/CD pipelines.
+categories:
+  - Development
+  - Analytics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.sentry.io/api
+  - name: API Reference
+    url: https://docs.sentry.io/api

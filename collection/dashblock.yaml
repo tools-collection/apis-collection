@@ -1,0 +1,11 @@
+name: Dashblock
+slug: dashblock
+description: The easiest way to access websites programmatically and collect structured data. With Dashblock you can
+  turn any website into an API. Offers 1000 free API calls per month.
+categories:
+  - Scrapers & Data Mining
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dashblock/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.dashblock.com/

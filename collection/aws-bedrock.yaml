@@ -1,0 +1,12 @@
+name: AWS Bedrock
+slug: aws-bedrock
+description: Amazon Bedrock is a fully managed service that provides access to foundation models from Anthropic, Meta, Mistral, Stability AI, and Amazon via a single API with enterprise security.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.aws.amazon.com/bedrock
+  - name: API Reference
+    url: https://docs.aws.amazon.com/bedrock/latest/APIReference

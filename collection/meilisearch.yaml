@@ -1,0 +1,13 @@
+name: Meilisearch
+slug: meilisearch
+description: Meilisearch is an open-source search engine with a REST API. Offers instant, typo-tolerant full-text search with filtering, faceting, geosearch, and vector similarity search.
+categories:
+  - Search
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.meilisearch.com/docs
+  - name: API Reference
+    url: https://www.meilisearch.com/docs/reference/api/overview

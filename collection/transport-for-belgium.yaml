@@ -1,0 +1,10 @@
+name: Transportation in Belgium
+slug: transport-for-belgium
+description: Belgian Transport API
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://hello.irail.be/api/

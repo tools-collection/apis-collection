@@ -1,0 +1,11 @@
+name: Food2fork
+slug: food2fork
+description: Recipe Search
+categories:
+  - Food & Drinks
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/food2fork/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://food2fork.com/about/api

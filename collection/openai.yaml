@@ -1,0 +1,12 @@
+name: OpenAI
+slug: openai
+description: OpenAI's API provides access to GPT-4o, o-series reasoning models, DALL-E, Whisper, and Embeddings. Build AI-powered applications for text generation, image generation, speech recognition, real-time audio, and web search.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://platform.openai.com/docs
+  - name: API Reference
+    url: https://platform.openai.com/docs/api-reference

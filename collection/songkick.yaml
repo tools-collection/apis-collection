@@ -1,0 +1,45 @@
+name: Songkick
+slug: songkick
+description: Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all
+  the best upcoming concerts
+categories:
+  - Events
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songkick/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.songkick.com/developer/
+libraries:
+  - name: Songkick NodeJS SDK by Andrew Schneider
+    documentation_url: https://www.npmjs.com/package/songkick-api-node
+    source_code_url: https://github.com/schnogz/songkick-api-node
+    platform: Node.js
+    author: schnogz
+    stargazers_count: 3
+  - name: Songkick Node.js SDK by Andrew Jaeger
+    documentation_url: https://www.npmjs.com/package/songkick-api
+    source_code_url: https://github.com/MrJaeger/songkick-api
+    platform: Node.js
+    author: MrJaeger
+    stargazers_count: 3
+  - name: Songkick PHP SDK by Antonello D'Ippolito
+    documentation_url: https://github.com/antodippo/SongkickPHP
+    platform: PHP
+  - name: Songkick Java SDK by Greg Knox
+    documentation_url: https://www.versioneye.com/java/com.randomnoun.songkick:songkick-api-client/0.0.2
+    platform: Java
+  - name: Songkick PHP SDK by Tiago Pereira
+    documentation_url: https://github.com/wildlifechorus/songkick-php
+    platform: PHP
+  - name: Songkick Node.js SDK by gig.today
+    documentation_url: https://github.com/gigtoday/sdk-songkick-nodejs
+    platform: Node.js
+    author: matchilling
+    stargazers_count: 0
+  - name: Songkick Ruby SDK by Jared Mehle
+    documentation_url: https://github.com/jrmehle/songkickr
+    platform: Ruby
+    author: jrmehle
+    stargazers_count: 41

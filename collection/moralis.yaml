@@ -1,0 +1,12 @@
+name: Moralis
+slug: moralis
+description: Moralis Web3 API provides NFT data, token balances, DeFi positions, transaction history, and wallet analytics across EVM-compatible blockchains including Ethereum, Polygon, and BNB Chain.
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.moralis.io
+  - name: API Reference
+    url: https://docs.moralis.io/web3-data-api/evm/reference

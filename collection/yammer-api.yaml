@@ -1,0 +1,13 @@
+name: Yammer API
+slug: yammer-api
+description: Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, and crowdsource answers from
+  coworkers around the globe. Yammer gives your team a faster, smarter way to connect and collaborate across your
+  company
+categories:
+  - Social
+  - Business
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yammer-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.yammer.com/documentation/

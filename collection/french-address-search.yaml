@@ -1,0 +1,10 @@
+name: French Address Search
+slug: french-address-search
+description: Find addresses and localities in France
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://geo.api.gouv.fr/adresse

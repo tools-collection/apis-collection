@@ -1,0 +1,13 @@
+name: Datadog
+slug: datadog
+description: Datadog's API provides access to metrics, logs, traces, monitors, dashboards, and alerts. Automate observability workflows and integrate monitoring into CI/CD pipelines.
+categories:
+  - Analytics
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.datadoghq.com/api
+  - name: API Reference
+    url: https://docs.datadoghq.com/api/latest

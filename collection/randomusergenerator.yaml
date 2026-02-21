@@ -1,0 +1,11 @@
+name: RandomUserGenerator
+slug: randomusergenerator
+description: Random user generator is a FREE API for generating placeholder user information. Get profile photos, names,
+  and more. It's like Lorem Ipsum, for people.
+categories:
+  - Testing
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://randomuser.me/

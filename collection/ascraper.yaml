@@ -1,0 +1,10 @@
+name: aScraper
+slug: ascraper
+description: Scraping Service API. Simple and ultrafast web crawler, webpages Javascript rendering
+categories:
+  - Scrapers & Data Mining
+type: REST
+logo: https://ascraper.com/static/images/logo_white.svg
+links:
+  - name: Docs / Website
+    url: https://ascraper.com/

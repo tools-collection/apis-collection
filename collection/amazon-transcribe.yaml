@@ -1,0 +1,14 @@
+name: Amazon Transcribe
+slug: amazon-transcribe
+description: Automatically convert speech to text. Amazon Transcribe uses a deep learning process called automatic
+  speech recognition (ASR) to convert speech to text quickly and accurately. Amazon Transcribe can be used to transcribe
+  customer service calls, automate subtitling, and generate metadata for media assets to create a fully searchable
+  archive.
+categories:
+  - AI & ML
+  - Voice
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://aws.amazon.com/transcribe/

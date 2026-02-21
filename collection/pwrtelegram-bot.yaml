@@ -1,0 +1,9 @@
+name: Pwrtelegram Bot
+slug: pwrtelegram-bot
+description: The PWRTelegram MTProto API. Boosted version of the Telegram bot API
+categories:
+  - Social
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://pwrtelegram.xyz

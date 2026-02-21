@@ -1,0 +1,11 @@
+name: Temporal
+slug: temporal
+description: IPFS API. Upload files, pin hashes, and send pubsub messages using our proprietary API, or interact
+  directly with our IPFS nodes using the IPFS HTTP API reverse proxy.
+categories:
+  - Files & Storage
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud

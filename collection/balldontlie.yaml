@@ -1,0 +1,10 @@
+name: balldontlie
+slug: balldontlie
+description: Access NBA related data
+categories:
+  - Sport & Fitness
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://balldontlie.io

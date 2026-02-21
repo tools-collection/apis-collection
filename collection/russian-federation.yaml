@@ -1,0 +1,12 @@
+name: Russian Central Bank
+slug: russian-federation
+description: Central bank of Russian Federation
+categories:
+  - Finance & Economics
+  - Government
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/russian-federation/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.cbr.ru/development/

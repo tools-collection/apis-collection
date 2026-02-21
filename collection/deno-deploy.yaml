@@ -1,0 +1,12 @@
+name: Deno Deploy
+slug: deno-deploy
+description: Deno Deploy API manages projects and deployments on Deno's edge JavaScript/TypeScript runtime. Deploy serverless functions globally with built-in TypeScript support and no configuration.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.deno.com/deploy
+  - name: API Reference
+    url: https://apidocs.deno.com

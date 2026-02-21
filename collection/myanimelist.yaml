@@ -1,0 +1,132 @@
+name: MyAnimeList
+slug: myanimelist
+description: MyAnimeList.net official API
+categories:
+  - Comics & Anime
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myanimelist/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://myanimelist.net/clubs.php?cid=13727
+libraries:
+  - name: Minoshiro Python SDK by Minoshiro
+    documentation_url: https://github.com/Mino-shiro/Minoshiro
+    platform: Python
+    stargazers_count: 13
+  - name: Hakuchou iOS SDK by MAL Updater OS X
+    documentation_url: https://github.com/Atelier-Shiori/Hakuchou
+    platform: Objective-C
+    stargazers_count: 2
+  - name: MyAnimeList Java SDK by Chris Allen
+    documentation_url: https://github.com/thegreatchrispy/mal4j
+    platform: Java
+    author: thegreatchrispy
+    stargazers_count: 0
+  - name: MyAnimeList Java SDK by Ben Doerr
+    documentation_url: https://github.com/bendoerr/mal-java-client
+    platform: Java
+    author: bendoerr
+    stargazers_count: 3
+  - name: MyAnimeList Node.js SDK by Josselin BUILS
+    documentation_url: https://github.com/josselinbuils/MALVApi
+    platform: Node.js
+    author: josselinbuils
+    stargazers_count: 0
+  - name: MyAnimeList Node.js SDK by Vaughan Hilts
+    documentation_url: https://github.com/hilts-vaughan/otaku-scraper
+    platform: Node.js
+    author: hilts-vaughan
+    stargazers_count: 2
+  - name: MyAnimeList Python SDK by lofdat
+    documentation_url: https://github.com/lofdat/YetAnotherMALAPI
+    platform: Python
+    author: lofdat
+    stargazers_count: 1
+  - name: MyAnimeList Node.js SDK by Pratik Chaudhary
+    documentation_url: https://github.com/abs-zero/node-mal
+    platform: Node.js
+    author: aeruhxi
+    stargazers_count: 2
+  - name: MyAnimeList Java SDK by bunuble
+    documentation_url: https://github.com/bunuble/MAL-Java-Wrapper
+    platform: Java
+  - name: MyAnimeList Node.js SDK by Julien
+    documentation_url: https://github.com/jballanger/chinmei
+    platform: Node.js
+    author: jballanger
+    stargazers_count: 3
+  - name: MyAnimeList Java SDK by Barracuda72
+    documentation_url: https://github.com/Barracuda72/MALApi
+    platform: Java
+    author: Barracuda72
+    stargazers_count: 0
+  - name: MyAnimeList Swift SDK by nktn
+    documentation_url: https://github.com/nktn/MalKit
+    platform: Swift
+    author: nktn
+    stargazers_count: 5
+  - name: MyAnimeList Node.js SDK by Chris Alderson
+    documentation_url: https://github.com/ChrisAlderson/mal-api
+    platform: Node.js
+    author: ChrisAlderson
+    stargazers_count: 8
+  - name: MyAnimeList C# SDK by William Santana
+    documentation_url: https://github.com/wmer/MyAnimeListApiConsumer
+    platform: C#
+    author: wmer
+    stargazers_count: 0
+  - name: MyAnimeList PHP SDK by animelist
+    documentation_url: https://github.com/animelist/mal-api
+    platform: PHP
+    stargazers_count: 1
+  - name: MyAnimeList Go SDK by Anime Notifier
+    documentation_url: https://github.com/animenotifier/mal
+    platform: Go
+    stargazers_count: 5
+  - name: MyAnimeList Ruby SDK by Oli4242
+    documentation_url: https://github.com/Oli4242/myanimelist_client
+    platform: Ruby
+    author: Oli4242
+    stargazers_count: 0
+  - name: MyAnimeList Java SDK by Joel Rousseau
+    documentation_url: https://github.com/v4lproik/myanimelist-api
+    platform: Java
+    author: v4lproik
+    stargazers_count: 0
+  - name: MyAnimeList .NET SDK by Sung Kim
+    documentation_url: https://github.com/dance2die/MyAnimeListSharp
+    platform: .Net
+    author: dance2die
+    stargazers_count: 13
+  - name: MyAnimeList Python SDK by Byron Vanstien
+    documentation_url: https://github.com/GetRektByMe/Pyanimelist
+    platform: Python
+    author: byronvanstien
+    stargazers_count: 9
+  - name: MyAnimeList Ruby SDK by Corey Roberts
+    documentation_url: https://github.com/croberts22/railgun
+    platform: Ruby
+    author: croberts22
+    stargazers_count: 9
+  - name: MyAnimeList Node.js SDK by João Ferreira
+    documentation_url: https://github.com/lubien/popura
+    platform: Node.js
+    author: lubien
+    stargazers_count: 30
+  - name: MyAnimeList Go SDK by Stratos Neiros
+    documentation_url: https://github.com/nstratos/go-myanimelist
+    platform: Go
+    author: nstratos
+    stargazers_count: 19
+  - name: MyAnimeList Ruby SDK by Harvey Ico
+    documentation_url: https://github.com/harveyico/myanimelist
+    platform: Ruby
+    author: harveyico
+    stargazers_count: 22
+  - name: MyAnimeList Python SDK by May
+    documentation_url: https://pypi.python.org/pypi/spice-api/1.0.3
+    source_code_url: https://github.com/Utagai/spice
+    platform: Python
+    author: Utagai
+    stargazers_count: 29

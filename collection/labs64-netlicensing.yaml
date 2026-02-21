@@ -1,0 +1,11 @@
+name: Labs64 NetLicensing
+slug: labs64-netlicensing
+description: Innovative License Management Solution. NetLicensing RESTful APIis for developers integrating NetLicensing
+  with applications and administrators who want to script interactions with the NetLicensing server
+categories:
+  - Other
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://netlicensing.io/wiki/restful-api

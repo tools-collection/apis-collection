@@ -1,0 +1,12 @@
+name: Deck of Cards
+slug: deck-of-cards
+description: Deck of Cards - an API for playing cards
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deck-of-cards/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://deckofcardsapi.com/

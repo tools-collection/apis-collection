@@ -1,0 +1,13 @@
+name: Wise (TransferWise)
+slug: wise-transferwise
+description: Wise's API enables international money transfers, multi-currency accounts, balance management, and payment automation. Build global payouts and borderless banking integrations.
+categories:
+  - Payments
+  - Finance & Economics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.wise.com/api-docs/api-reference
+  - name: API Reference
+    url: https://docs.wise.com/api-docs/api-reference

@@ -1,0 +1,12 @@
+name: Shopify Storefront API
+slug: shopify-storefront
+description: Shopify's Storefront API (GraphQL) enables building custom headless storefronts with product catalogs, carts, checkout, and customer authentication without Shopify's default themes.
+categories:
+  - Commerce
+type: GraphQL
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://shopify.dev/docs/api/storefront
+  - name: API Reference
+    url: https://shopify.dev/docs/api/storefront/latest

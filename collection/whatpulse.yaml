@@ -1,0 +1,11 @@
+name: WhatPulse
+slug: whatpulse
+description: Get to know your time with your computer
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whatpulse/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://whatpulse.org/pages/webapi/

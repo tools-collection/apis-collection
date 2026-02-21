@@ -1,0 +1,13 @@
+name: Jira
+slug: jira
+description: Jira's REST API provides access to issues, projects, sprints, users, and workflows. Automate project management, build integrations, and sync data with Atlassian's project tracking platform.
+categories:
+  - Project Management
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.atlassian.com/cloud/jira/platform/rest/v3
+  - name: API Reference
+    url: https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro

@@ -1,0 +1,10 @@
+name: Apileap
+slug: apileap
+description: Make screenshots from web pages and HTML
+categories:
+  - Collaboration
+  - Development
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://apileap.com/

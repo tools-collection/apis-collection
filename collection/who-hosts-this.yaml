@@ -1,0 +1,10 @@
+name: Who Hosts This
+slug: who-hosts-this
+description: Detect the hosting provider powering any web site. API
+categories:
+  - Other
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.who-hosts-this.com/API

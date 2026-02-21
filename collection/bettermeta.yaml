@@ -1,0 +1,11 @@
+name: BetterMeta
+slug: bettermeta
+description: A simple API to return the meta tags of any site in a digestable JSON format.
+categories:
+  - Scrapers & Data Mining
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bettermeta/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://bettermeta.io

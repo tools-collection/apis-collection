@@ -1,0 +1,12 @@
+name: Tomorrow.io
+slug: tomorrow-io
+description: Tomorrow.io's Weather API delivers hyper-local, minute-by-minute forecasts with 100+ weather data layers including precipitation, wind, air quality, and pollen. Formerly ClimaCell.
+categories:
+  - Weather
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.tomorrow.io
+  - name: API Reference
+    url: https://docs.tomorrow.io/reference/api-overview

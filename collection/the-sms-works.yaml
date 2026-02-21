@@ -1,0 +1,11 @@
+name: The SMS Works
+slug: the-sms-works
+description: The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all
+  failed messages are refunded
+categories:
+  - Email & SMS
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://thesmsworks.co.uk/sms-api

@@ -1,0 +1,136 @@
+name: Poloniex
+slug: poloniex
+description: US based digital asset exchange
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://poloniex.com/support/api/
+libraries:
+  - name: Store-json-in-Database Python SDK by Umar Mohamed
+    documentation_url: https://github.com/moroclash/Store-json-in-Database
+    platform: Python
+    author: moroclash
+    stargazers_count: 0
+  - name: ExchangeSharp .NET/C# by Jeff Johnson
+    documentation_url: https://github.com/jjxtra/ExchangeSharp
+    platform: .Net, C#
+    author: jjxtra
+    stargazers_count: 478
+  - name: GoEx Go SDK by nntaoli.com
+    documentation_url: https://github.com/nntaoli-project/GoEx
+    platform: Go
+    stargazers_count: 1152
+  - name: Go-ccex-api-Client Go SDK by fxpgr
+    documentation_url: https://github.com/fxpgr/go-exchange-client
+    platform: Go
+    stargazers_count: 9
+  - name: Cryptex iOS SDK by Sathya Rajaraman
+    documentation_url: https://github.com/trsathya/Cryptex
+    platform: Swift
+    author: trsathya
+    stargazers_count: 51
+  - name: Poloniex Perl SDK by Vladislav
+    documentation_url: https://poloniex.com/support/api/
+    source_code_url: https://github.com/mirkos-vf/Poloniex-API
+    platform: PERL
+    author: mirkos-vf
+    stargazers_count: 1
+  - name: Poloniex NodeJS SDK by Graham Haley
+    documentation_url: https://www.npmjs.com/package/poloniex-exchange-api
+    source_code_url: https://github.com/haleyga/poloniex-exchange-api
+    platform: Node.js
+    author: haleyga
+    stargazers_count: 3
+  - name: Poloniex Twisted Python SDK by congruency
+    documentation_url: https://github.com/congruency/txpoloniex
+    platform: Python
+    author: congruency
+    stargazers_count: 2
+  - name: Poloniex Python SDK by slowdove
+    documentation_url: https://github.com/slowdove/Poloniex_API_Python3_wrapper
+    platform: Python
+  - name: Poloniex Python SDK by Kelvin Fichter
+    documentation_url: https://github.com/kfichter/pypolo
+    platform: Python
+  - name: Poloniex Python SDK by Andy Hawkins
+    documentation_url: https://github.com/a904guy/poloniex-python3
+    platform: Python
+    author: a904guy
+    stargazers_count: 4
+  - name: Poloniex Java SDK by TheCookieLab
+    documentation_url: https://github.com/TheCookieLab/poloniex-api-java
+    platform: Java
+    author: TheCookieLab
+    stargazers_count: 64
+  - name: Poloniex Node.js SDK by embicoin
+    documentation_url: https://github.com/embicoin/nodejs-Poloniex-Api
+    platform: Node.js
+    author: embicoin
+    stargazers_count: 0
+  - name: Poloniex C# SDK by ZXTeam Public Domain
+    documentation_url: https://github.com/zxteamorg/org.zxteam.apiwrap.poloniex.csharp
+    platform: C#
+    stargazers_count: 1
+  - name: Poloniex C# SDK by Takehiro M.
+    documentation_url: https://github.com/takeknock/PoloniexClientCS
+    platform: C#
+    author: takeknock
+    stargazers_count: 0
+  - name: Poloniex C# SDK by Anton Shchukin
+    documentation_url: https://github.com/Sokel/PoloniexApiWrapper
+    platform: C#
+    author: sokel
+    stargazers_count: 0
+  - name: Poloniex JavaScript SDK by Edilio Gallardo
+    documentation_url: https://github.com/edilio/rhPoloniex
+    platform: JavaScript
+    author: edilio
+    stargazers_count: 0
+  - name: Poloniex Python SDK by Chris Moser
+    documentation_url: https://github.com/twopercent/poloniex-lendrates
+    platform: Python
+    author: twopercent
+    stargazers_count: 0
+  - name: Poloniex Laravel SDK by Tibor Huđik
+    documentation_url: https://github.com/htunlogic/laravel-poloniex
+    platform: PHP
+    author: htunlogic
+    stargazers_count: 15
+  - name: Poloniex Node.js SDK by Nick Tzavalas
+    documentation_url: https://github.com/nicktzavalas/poloniex-api
+    platform: Node.js
+    author: nicktzavalas
+    stargazers_count: 0
+  - name: Poloniex Elixir SDK by cyberpunk-ventures
+    documentation_url: https://github.com/cyberpunk-ventures/poloniex_ex
+    platform: Elixir
+    stargazers_count: 2
+  - name: Poloniex Python SDK by danieljbruce
+    documentation_url: https://github.com/danieljbruce/poloniex-api
+    platform: Python
+    author: danieljbruce
+    stargazers_count: 0
+  - name: Poloniex Node.js SDK by Yuki Akiyama
+    documentation_url: https://github.com/you21979/node-poloniex
+    platform: Node.js
+    author: you21979
+    stargazers_count: 6
+  - name: Poloniex Ruby SDK by psyipm
+    documentation_url: https://github.com/psyipm/poloniex-websockets
+    platform: Ruby
+    author: psyipm
+    stargazers_count: 1
+  - name: Poloniex R SDK by jmfti
+    documentation_url: https://github.com/jmfti/Poloniex-R
+    platform: R
+    author: jmfti
+    stargazers_count: 0
+  - name: Poloniex Python API
+    documentation_url: http://pastebin.com/SB5c4Yr1
+    platform: Python
+  - name: Poloniex API - PHP Wrapper
+    documentation_url: http://pastebin.com/iuezwGRZ
+    platform: PHP

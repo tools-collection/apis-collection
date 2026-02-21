@@ -1,0 +1,13 @@
+name: Asana
+slug: asana
+description: Asana's API provides programmatic access to tasks, projects, teams, portfolios, and goals. Automate work management, build integrations, and sync data with Asana's project platform.
+categories:
+  - Project Management
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.asana.com/docs
+  - name: API Reference
+    url: https://developers.asana.com/reference/rest-api-reference

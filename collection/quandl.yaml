@@ -1,0 +1,129 @@
+name: Quandl
+slug: quandl
+description: The source for financial, economic, and alternative datasets, serving investment professionals.
+categories:
+  - Finance & Economics
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quandl/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.quandl.com/
+libraries:
+  - name: QuandlAPIClient Swift SDK by suzhoupanda
+    documentation_url: https://github.com/suzhoupanda/QuandlAPIClient
+    platform: Swift
+    author: suzhoupanda
+    stargazers_count: 0
+  - name: Quandl Python SDK by Samvaran Sharma
+    documentation_url: https://github.com/samvaran/historical_stock_data
+    platform: Python
+    author: samvaran
+    stargazers_count: 2
+  - name: Quandl .NET SDK by Marissa
+    documentation_url: https://github.com/paranoidTwitch/DotNetConnect.Quandl
+    platform: .Net
+  - name: Quandl Python SDK by Jyoti_Shambho
+    documentation_url: https://github.com/JSidh/legendary-ttf
+    platform: Python
+    author: JSidh
+    stargazers_count: 0
+  - name: Quandl Python SDK by Beiwen Liu
+    documentation_url: https://github.com/BeiwenLiu/StockUp
+    platform: Python
+    author: BeiwenLiu
+    stargazers_count: 0
+  - name: Quandl Java SDK by Thomas Schlabra
+    documentation_url: https://github.com/TexanBackpacker/securities-data-calculator
+    platform: Java
+  - name: Quandl JavaScript SDK by dlimx
+    documentation_url: https://github.com/dlimx/stock-vis
+    platform: JavaScript
+    author: dlimx
+    stargazers_count: 0
+  - name: Quandl Annual Company Data Python SDK by adubashi
+    documentation_url: https://github.com/adubashi/annualCompanyData
+    platform: Python
+    author: adubashi
+    stargazers_count: 0
+  - name: Quandl Python SDK by Spencer Delcore
+    documentation_url: https://github.com/sdelcore/quandl-retriever
+    platform: Python
+    author: sdelcore
+    stargazers_count: 0
+  - name: Quandl Go SDK by tchitchikov
+    documentation_url: https://github.com/tchitchikov/instant_cocoa
+    platform: Go
+    author: tchitchikov
+    stargazers_count: 0
+  - name: Quandl Scala SDK by Kaiwalya Kher
+    documentation_url: https://github.com/kaiwalya/scandl
+    platform: Scala
+    stargazers_count: 0
+  - name: Quandl JavaScript SDK by Ian Halverson
+    documentation_url: https://github.com/IDHalverson/quandl-eod-helper
+    source_code_url: https://www.npmjs.com/package/quandl-eod-helper
+    platform: JavaScript
+    author: IDHalverson
+    stargazers_count: 1
+  - name: Quandl JavaScript SDK by Jerry Hamlet
+    documentation_url: https://github.com/jhamlet/quandler
+    platform: JavaScript
+    author: jhamlet
+    stargazers_count: 1
+  - name: Quandl React Native SDK by azaleas
+    documentation_url: https://github.com/azaleas/react-native-stockticker
+    platform: JavaScript
+    author: azaleas
+    stargazers_count: 0
+  - name: Quandl Python SDK by TommyRedblue
+    documentation_url: https://github.com/TommyRedblue/quandl_viewer
+    platform: Python
+  - name: Quandl PHP SDK by wells5609
+    documentation_url: https://github.com/wells5609/Quandl-PHP
+    platform: PHP
+    author: wells5609
+    stargazers_count: 1
+  - name: Quandl Go SDK by Cédric
+    documentation_url: https://github.com/cedricmar/go-quandl
+    platform: Go
+    author: cedricmar
+    stargazers_count: 0
+  - name: Quandl Haskell SDK by Rogério Chaves
+    documentation_url: https://github.com/rogeriochaves/quandl-downloader
+    platform: Haskell
+    author: rogeriochaves
+    stargazers_count: 0
+  - name: Quandl Go SDK by twold
+    documentation_url: https://github.com/twold/go-quandl
+    platform: Go
+    author: twold
+    stargazers_count: 0
+  - name: Quandl Python SDK by Steven Gao
+    documentation_url: https://github.com/stevenlusonggao/Quandl-Python-API-Wrapper
+    platform: Python
+    author: stevenlusonggao
+    stargazers_count: 0
+  - name: Quandl JavaScript SDK by Yash Paliwal
+    documentation_url: https://github.com/ypaliwal/quandlVisualizer
+    platform: JavaScript
+    author: ypaliwal
+    stargazers_count: 0
+  - name: Quandl Ruby SDK by erikwjonsson
+    documentation_url: https://github.com/erikwjonsson/quandl_api_client
+    platform: Ruby
+    author: std6566
+    stargazers_count: 0
+  - name: Quandl Clojure SDK by keorn
+    documentation_url: https://github.com/keorn/clj-quandl-api
+    platform: Clojure
+    author: keorn
+    stargazers_count: 2
+  - name: Quandl Python SDK by Carlos Christian Salazar
+    documentation_url: https://github.com/ccsalazar/quandl-api
+    platform: Python
+  - name: Quandl C++ SDK by Daniel Cardenas
+    documentation_url: https://github.com/danielcardeenas/quandl-cpp
+    platform: C++
+    author: danielcardeenas
+    stargazers_count: 0

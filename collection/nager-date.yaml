@@ -1,0 +1,10 @@
+name: Nager.Date
+slug: nager-date
+description: Worldwide public holidays API
+categories:
+  - Calendar & Time
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://date.nager.at

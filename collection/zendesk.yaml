@@ -1,0 +1,13 @@
+name: Zendesk
+slug: zendesk
+description: Zendesk's REST API manages support tickets, users, organizations, macros, and automations. Build customer support integrations, chatbots, and helpdesk workflows.
+categories:
+  - CRM
+  - Business
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.zendesk.com/documentation
+  - name: API Reference
+    url: https://developer.zendesk.com/api-reference

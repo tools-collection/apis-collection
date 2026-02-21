@@ -1,0 +1,11 @@
+name: Storm Glass Marine Weather API
+slug: storm-glass-marine-weather-api
+description: Read More. Global marine weather data from multiple sources in one single API!
+categories:
+  - Weather
+type: REST
+is_free: false
+contact: support@stormglass.io
+links:
+  - name: Docs / Website
+    url: https://stormglass.io

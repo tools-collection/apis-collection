@@ -1,0 +1,11 @@
+name: Czech Namedays Calendar
+slug: czech-namedays-calendar
+description: Czech Holidays API
+categories:
+  - Government
+  - Calendar & Time
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://svatky.adresa.info

@@ -1,0 +1,11 @@
+name: Zetta
+slug: zetta
+description: An API-first, open source software platform for the Internet of Things. - zettajs/zetta
+categories:
+  - IoT & Home Automation
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zetta/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/zettajs/zetta/wiki

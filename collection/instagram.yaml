@@ -1,0 +1,150 @@
+name: Instagram
+slug: instagram
+description: How to use the Instagram Graph API. Access to Instagram’s OAuth API
+categories:
+  - Authentication & User Management
+  - Social
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.facebook.com/docs/instagram-api/overview
+libraries:
+  - name: Facebook Business NodeJS SDK
+    documentation_url: https://developers.facebook.com/docs/business-sdk/getting-started#github-repositories_7
+    source_code_url: https://github.com/facebook/facebook-nodejs-business-sdk
+    platform: Node.js
+    stargazers_count: 312
+  - name: Facebook Business Ruby SDK
+    documentation_url: https://developers.facebook.com/docs/business-sdk
+    source_code_url: https://github.com/facebook/facebook-ruby-business-sdk
+    platform: Ruby
+    stargazers_count: 143
+  - name: Instagram PHP SDK by Christian Metz
+    documentation_url: https://github.com/cosenary/Instagram-PHP-API
+    platform: PHP
+    author: cosenary
+    stargazers_count: 1423
+  - name: Instagram PHP SDK by Jonathan Torres
+    documentation_url: https://github.com/jonathantorres/Instagram-PHP-API
+    platform: PHP
+    author: jonathantorres
+    stargazers_count: 1
+  - name: Instagram Node.js SDK by Squid
+    documentation_url: https://www.npmjs.com/package/instagram-node-api
+    source_code_url: https://github.com/squidit/instagram-node-api
+    platform: Node.js
+    stargazers_count: 4
+  - name: Social Networks Node.js SDK by Léo Pradel
+    documentation_url: https://www.npmjs.com/package/node-social-api
+    source_code_url: https://github.com/pradel/node-social-api
+    platform: Node.js
+    author: pradel
+    stargazers_count: 6
+  - name: Instagram Python SDK by Dmitry Kalinin
+    documentation_url: https://pypi.python.org/pypi/python-api-instagram/0.0.4
+    source_code_url: https://github.com/null-none/python-api-instagram
+    platform: Python
+    author: null-none
+    stargazers_count: 2
+  - name: Instagram Node.js SDK by Hung-Wei Kao
+    documentation_url: https://www.npmjs.com/package/node-instagram-api
+    source_code_url: https://github.com/ricky155030/node-instagram
+    platform: Node.js
+    author: ricky155030
+    stargazers_count: 6
+  - name: Instagram Python SDK by Pasha Lev
+    documentation_url: https://github.com/LevPasha/Instagram-API-python
+    platform: Python
+  - name: Instagram Ruby SDK by Facebook Archive
+    documentation_url: https://github.com/facebookarchive/instagram-ruby-gem
+    platform: Ruby
+    stargazers_count: 1458
+  - name: AngularJS JavaScript hd-stagram SDK by Chris Sloan
+    documentation_url: https://github.com/chrissloan/hd-stagram/blob/master/README.md
+    source_code_url: https://github.com/chrissloan/hd-stagram
+    platform: JavaScript
+    author: chrissloan
+    stargazers_count: 2
+  - name: Instagram Objective-C SDK by Stuart Hall
+    documentation_url: https://github.com/stuartkhall/Instagram
+    source_code_url: https://github.com/stuartkhall/Instagram
+    platform: Objective-C
+    author: stuartkhall
+    stargazers_count: 56
+  - name: Instagram Node.js SDK by Instagram
+    documentation_url: https://www.npmjs.com/package/instagram-node
+    source_code_url: https://github.com/totemstech/instagram-node
+    platform: Node.js
+    stargazers_count: 643
+  - name: Instagram PHP SDK by Lenny Code
+    documentation_url: https://github.com/lenny-code/instagram-php-sdk
+    platform: PHP
+    author: numbleroot
+    stargazers_count: 1
+  - name: Instagram JavaScript SDK by Shayne Sweeney
+    documentation_url: https://github.com/facebookarchive/instagram-javascript-sdk
+    platform: JavaScript
+    stargazers_count: 143
+  - name: Instagram iOS SDK by Shyam Bhat
+    documentation_url: https://github.com/shyambhat/InstagramKit
+    platform: Objective-C
+    author: shyambhat
+    stargazers_count: 953
+  - name: The Instagram JavaScript SDK
+    documentation_url: https://github.com/Instagram/instagram-javascript-sdk
+    platform: JavaScript
+    stargazers_count: 143
+  - name: Instagram Django Library by Boris Shifrin
+    documentation_url: https://pypi.python.org/pypi/django-instagram-api/0.1.8
+    source_code_url: https://github.com/ramusus/django-instagram-api
+    platform: Python
+    author: ramusus
+    stargazers_count: 24
+  - name: Instagram JavaScript Library by Tomomi Imura (girliemac)
+    documentation_url: https://github.com/girliemac/Filterous
+    platform: JavaScript
+    author: girliemac
+    stargazers_count: 136
+  - name: "Instagram iOS Library by Huong Do "
+    documentation_url: https://github.com/itsmeichigo/ICGVideoTrimmer
+    platform: Objective-C
+    author: itsmeichigo
+    stargazers_count: 619
+  - name: Instagram iOS Library by Brad Kendall
+    documentation_url: https://github.com/bradkendall/populatephotos
+    platform: Objective-C
+    author: bradkendall
+    stargazers_count: 4
+  - name: Instagram Go Library by Akeda Bagus
+    documentation_url: https://github.com/gedex/go-instagram
+    platform: Go
+    author: gedex
+    stargazers_count: 69
+  - name: Instagram Python Library
+    documentation_url: http://instagram.com/developer/libraries/
+    source_code_url: https://github.com/Instagram/python-instagram
+    platform: Python
+    stargazers_count: 2831
+  - name: Instagram Python Library python-instagram
+    documentation_url: https://github.com/Instagram/python-instagram
+    platform: Python
+    stargazers_count: 2831
+  - name: PHP Instagram API
+    documentation_url: https://github.com/galen/PHP-Instagram-API
+    platform: PHP
+    author: galen
+    stargazers_count: 344
+  - name: Instagram API PHP Class
+    documentation_url: http://jabran.me/instagram-api-php-class/
+    source_code_url: https://github.com/jabranr/instagram-api-php
+    platform: PHP
+    author: jabranr
+    stargazers_count: 3
+  - name: Instagram API implementation in PHP
+    documentation_url: http://www.mauriciocuenca.com/blog/2011/02/instagram-api-implementation-in-php/
+    source_code_url: https://github.com/macuenca/Instagram-PHP-API/
+    platform: PHP
+    author: macuenca
+    stargazers_count: 188

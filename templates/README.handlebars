@@ -1,0 +1,47 @@
+# List of Public APIs
+![APIs: 1200+](https://img.shields.io/badge/apis-1200+-violet)
+![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-green)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/tools-collection/apis-collection)
+
+This project is an attempt to categorise and compile information about different public APIs into one place. Its goal is to build
+most complete and handy list which will help developers to find APIs most suitable for their needs.
+It includes APIs description, links to docs, specification, list of SDK and libraries, logo etc.
+
+This list intended to be maintained by wide open source community, so any contributions appreciated.
+If you want to add/edit/remove/etc APIs from this list, please see the [contributing guide](https://github.com/tools-collection/apis-collection/blob/main/CONTRIBUTING.md).
+
+Discuss any topic related to the specific API you can [here](https://github.com/tools-collection/apis-collection/discussions)
+
+## Table of Contents
+- [APIs](#apis):
+{{#each categoriesNames}}
+    - [{{{ this }}}](#{{slug this}}-) {{{category_icon this}}}
+{{/each}}
+- [Graveyard](#graveyard) 🪦
+- [Contributors](#contributors)
+- [Similar projects](#similar-projects)
+
+## APIs
+{{#each categoriesNames }}
+### {{{ this }}} {{{category_icon .}}}
+{{#each (lookup ../apis this) as |api| }}
+- [{{ api.name }}](https://tools-collection.net/apis-list/{{api.slug}}) - {{short api.description}}{{#if api.is_free }} 🆓{{/if}}
+{{/each}}
+
+{{/each}}
+
+## Graveyard 🪦
+{{#each Graveyard }}
+- [{{ this.name }}](https://tools-collection.net/apis-list/{{this.slug}}){{# if this.description}} - {{short this.description }}{{/if}}
+{{/each}}
+
+## Contributors
+
+This project exists because of people who spent their time to make software development a little bit better. Thank you!
+
+
+## Similar projects
+This project was heavily inspired by:
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory)

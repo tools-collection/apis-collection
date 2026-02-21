@@ -1,0 +1,11 @@
+name: Schiphol Airport
+slug: schiphol-airport
+description: Schiphol Airport's API. Through these APIs, it disclose an enormous amount of airport data – for you to use
+  and build fantastic, innovative solutions.
+categories:
+  - Transportation
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.schiphol.nl/

@@ -1,0 +1,13 @@
+name: Strapi
+slug: strapi
+description: Strapi is an open-source headless CMS with auto-generated REST and GraphQL APIs. Manage content types and entries with a customizable admin panel and plugin ecosystem.
+categories:
+  - Development
+  - Documents & Productivity
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.strapi.io/dev-docs/api/rest
+  - name: API Reference
+    url: https://docs.strapi.io/dev-docs/api/rest

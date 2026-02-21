@@ -1,0 +1,12 @@
+name: Final Space API
+slug: final-space-api
+description: The Final Space API is a RESTful API based on the television show Final Space.e
+categories:
+  - Video & Media
+  - Entertainment
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/final-space-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://finalspaceapi.com/docs/

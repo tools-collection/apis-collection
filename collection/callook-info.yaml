@@ -1,0 +1,10 @@
+name: Callook.info
+slug: callook-info
+description: A. callsign lookups. Look up information about United States ham radio callsigns. No-nonsense amateur radio U. S
+categories:
+  - Other
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://callook.info

@@ -1,0 +1,30 @@
+name: Infermedica API
+slug: infermedica-api
+description: The most advanced Symptom Checker and Patient Triage API. Infermedica provides an API for patient triage
+  and preliminary medical diagnosis that can help you implement an intelligent symptom checker or an adaptive patient
+  intake form for your health application
+categories:
+  - Health
+  - Bots
+  - AI & ML
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/infermedica-api/logo_256x256.png
+contact: support@mailsquad.com
+links:
+  - name: Docs / Website
+    url: https://developer.infermedica.com/
+libraries:
+  - name: "Infermedica Ruby SDK "
+    documentation_url: https://github.com/mjskier/infermedica
+    platform: Ruby
+    author: mjskier
+    stargazers_count: 2
+  - name: "Infermedica Python SDK "
+    documentation_url: https://github.com/infermedica/python-api
+    platform: Python
+    stargazers_count: 44
+  - name: "Infermedica Go SDK "
+    documentation_url: https://github.com/torniker/infermedica
+    platform: Go
+    stargazers_count: 7

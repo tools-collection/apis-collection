@@ -1,0 +1,13 @@
+name: Freshservice
+slug: freshservice
+description: Freshservice's ITSM API manages IT service desk tickets, assets, changes, problems, and releases. Build IT operations integrations on Freshservice's cloud-based service management platform.
+categories:
+  - Business
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.freshservice.com
+  - name: API Reference
+    url: https://api.freshservice.com/#introduction

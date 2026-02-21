@@ -1,0 +1,11 @@
+name: Pro Motocross
+slug: pro-motocross
+description: The RESTful AMA Pro Motocross lap times for every racer on the start gate
+categories:
+  - Sport & Fitness
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pro-motocross/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://promotocrossapi.com

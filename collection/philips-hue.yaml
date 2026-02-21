@@ -1,0 +1,26 @@
+name: Philips Hue
+slug: philips-hue
+description: Philips Hue, smart home lighting
+categories:
+  - IoT & Home Automation
+  - Hardware
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/philips-hue/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.meethue.com/documentation/getting-started
+libraries:
+  - name: Weaver Android SDK by Weaver
+    documentation_url: http://www.weavingthings.com/
+    source_code_url: https://github.com/Produvia-Weaver/weaver_lights
+    platform: Java
+    author: Produvia-Weaver
+    stargazers_count: 12
+  - name: Philips hue SDK
+    documentation_url: http://www.developers.meethue.com/tools-and-sdks
+    platform: Java, Objective-C, PHP
+  - name: Philips hue 3d party libraries
+    documentation_url: http://www.developers.meethue.com/
+    source_code_url: http://www.developers.meethue.com/tools-and-sdks
+    platform: ActionScript, C#, C++, Java, JavaScript, Node.js, Objective-C, PERL, PHP, Python, Ruby

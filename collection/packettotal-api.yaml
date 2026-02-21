@@ -1,0 +1,11 @@
+name: Packettotal Api
+slug: packettotal-api
+description: Search, correlate, and download PCAP files, based on their behaviors and contents. PacketTotal is a free,
+  online PCAP analyzer designed to visualize network traffic, detect malware, and provide analytics for the traffic
+  contained within
+categories:
+  - Security
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://packettotal.com/api.html

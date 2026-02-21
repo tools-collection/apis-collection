@@ -1,0 +1,12 @@
+name: RandomDog
+slug: randomdog
+description: Random dog image API
+categories:
+  - Animals
+  - Fun
+  - Random
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://random.dog/woof.json

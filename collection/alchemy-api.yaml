@@ -1,0 +1,13 @@
+name: Alchemy
+slug: alchemy-api
+description: Alchemy's Web3 API provides enhanced node access, NFT data, transaction history, token balances, and webhook notifications across Ethereum, Polygon, Solana, and other blockchains.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.alchemy.com
+  - name: API Reference
+    url: https://docs.alchemy.com/reference/api-overview

@@ -1,0 +1,13 @@
+name: Airtable
+slug: airtable
+description: Airtable's API allows reading and writing records, managing tables, and handling attachments in Airtable bases. Use it to build automations and integrations with the flexible spreadsheet-database.
+categories:
+  - Documents & Productivity
+  - Databases
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://airtable.com/developers/web/api/introduction
+  - name: API Reference
+    url: https://airtable.com/developers/web/api/field-model

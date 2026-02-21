@@ -1,0 +1,11 @@
+name: The Old Reader
+slug: the-old-reader
+description: The Old Reader API. The Old Reader API. Contribute to theoldreader/api development by creating an account on GitHub
+categories:
+  - News & Feeds
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-old-reader/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/theoldreader/api

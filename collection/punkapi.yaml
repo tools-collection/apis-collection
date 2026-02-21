@@ -1,0 +1,11 @@
+name: PunkAPI
+slug: punkapi
+description: Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a searchable, filterable API
+categories:
+  - Food & Drinks
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/punkapi/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://punkapi.com/

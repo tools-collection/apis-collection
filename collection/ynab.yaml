@@ -1,0 +1,30 @@
+name: YNAB
+slug: ynab
+description: You Need A Budget API. YNAB is a budgeting app that helps you confidently spend your money, get out of
+  debt, and take control of your financial freedom.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png
+contact: contact@wordassociations.net
+links:
+  - name: Docs / Website
+    url: https://api.youneedabudget.com/
+libraries:
+  - name: YNAB PowerShell SDK by Connor Griffin
+    documentation_url: https://api.youneedabudget.com/#clients-community
+    source_code_url: https://github.com/ConnorGriffin/Posh-YNAB
+    platform: .Net
+    author: ConnorGriffin
+    stargazers_count: 12
+  - name: YNAB JavaScript SDK
+    documentation_url: https://api.youneedabudget.com/#client-javascript
+    source_code_url: https://github.com/ynab/ynab-sdk-js
+    platform: JavaScript
+    stargazers_count: 164
+  - name: YNAB Ruby SDK
+    documentation_url: https://api.youneedabudget.com/#client-ruby
+    source_code_url: https://github.com/ynab/ynab-sdk-ruby
+    platform: Ruby
+    stargazers_count: 49

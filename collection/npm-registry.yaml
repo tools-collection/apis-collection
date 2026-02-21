@@ -1,0 +1,12 @@
+name: npm Registry
+slug: npm-registry
+description: The npm Registry API provides access to package metadata, versions, download counts, and search. Query package information, resolve dependencies, and automate npm package workflows.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://github.com/npm/registry/blob/main/docs/REGISTRY-API.md
+  - name: Registry API
+    url: https://registry.npmjs.org

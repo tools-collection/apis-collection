@@ -1,0 +1,12 @@
+name: iDigBio
+slug: idigbio
+description: Making data and images of millions of biological specimens available on the web
+categories:
+  - Environment & Nature
+  - Animals
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/idigbio/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/idigbio/idigbio-search-api/wiki

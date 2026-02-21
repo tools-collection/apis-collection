@@ -1,0 +1,11 @@
+name: Coinlore
+slug: coinlore
+description: Coinlore presents public free crypto tick data api
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinlore/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.coinlore.com/cryptocurrency-data-api

@@ -1,0 +1,11 @@
+name: OwlBot
+slug: owlbot
+description: OwlBot is an english dictionary API
+categories:
+  - Content & Dictionaries
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/owlbot/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://owlbot.info/

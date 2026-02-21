@@ -1,0 +1,12 @@
+name: AYLIEN
+slug: aylien
+description: AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine
+  Learning tools for extracting meaning and insight from textual and visual content with ease. Understand the severity
+  and impact of news events and stories in real-time with AYLIEN News API
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://aylien.com/

@@ -1,0 +1,10 @@
+name: Transportation in Toronto, Canada
+slug: transport-for-toronto-canada
+description: MyTTC is the best trip planner available for the TTC
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://myttc.ca/developers

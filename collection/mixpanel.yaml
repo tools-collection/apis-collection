@@ -1,0 +1,55 @@
+name: MixPanel
+slug: mixpanel
+description: Maintains a custom datastore that queries your data in a fast, scalable, and reliable manner. On top of
+  that datastore is user-friendly web application which lets you visualize the data you have sent. Analytics for mobile
+  and web which helps you analyze the actions people take in your application. Mixpanel was built to give you an answer
+  about your product's usage
+categories:
+  - Analytics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.mixpanel.com/docs/implement-mixpanel
+libraries:
+  - name: Mixpanel Ruby SDK by Scott Bellware
+    documentation_url: https://github.com/sbellware/mixpanel-api
+    source_code_url: https://github.com/sbellware/mixpanel-api/tree/master/lib
+    platform: Ruby
+  - name: Mixpanel Android SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/android
+    source_code_url: https://github.com/mixpanel/mixpanel-android
+    platform: Java
+    stargazers_count: 905
+  - name: Mixpanel iOS Swift Tracking SDK by Mixpanel
+    documentation_url: http://www.mixpanel.com/
+    source_code_url: https://github.com/mixpanel/mixpanel-swift
+    platform: Swift
+    stargazers_count: 290
+  - name: Mixpanel Action Script SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/as3
+    platform: ActionScript
+  - name: Mixpanel Java SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/java
+    platform: Java
+  - name: Mixpanel Unity SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/unity
+    platform: Objective-C
+  - name: Mixpanel Ruby SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/data-export-api
+    source_code_url: https://github.com/keolo/mixpanel_client
+    platform: Ruby
+    author: keolo
+    stargazers_count: 148
+  - name: Mixpanel PHP SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/php
+    platform: PHP
+  - name: Mixpanel Python SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/python
+    platform: Python
+  - name: " Mixpanel iOS SDK by Mixpanel"
+    documentation_url: https://mixpanel.com/help/reference/ios
+    platform: Objective-C
+  - name: Mixpanel JavaScript SDK by Mixpanel
+    documentation_url: https://mixpanel.com/help/reference/javascript
+    platform: JavaScript

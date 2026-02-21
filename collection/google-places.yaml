@@ -1,0 +1,82 @@
+name: Google Places
+slug: google-places
+description: Connect your app or website users to over 100 million points of interests with Places, using Autocomplete,
+  Geocoding & Place Search APIs
+categories:
+  - Maps & Geo
+  - Point of Interest
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-places/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/places/?hl=en
+libraries:
+  - name: Google Maps Android SDK
+    documentation_url: https://developers.google.com/maps/documentation/android-sdk/intro
+    source_code_url: https://github.com/googlemaps/google-maps-services-java
+    platform: Java
+    stargazers_count: 1387
+  - name: Geocoder Ruby SDK by Alex Reisner
+    documentation_url: https://github.com/alexreisner/geocoder
+    source_code_url: https://rubygems.org/gems/geocoder
+    platform: Ruby
+    author: alexreisner
+    stargazers_count: 5834
+  - name: Google Maps Objective-C SDK
+    documentation_url: https://developers.google.com/places/web-service/client-library
+    source_code_url: https://github.com/google/google-api-objectivec-client-for-rest
+    platform: Objective-C
+    stargazers_count: 542
+  - name: Google Maps Java SDK
+    documentation_url: https://developers.google.com/maps/web-services/client-library
+    source_code_url: https://github.com/googlemaps/google-maps-services-java
+    platform: Java
+    stargazers_count: 1387
+  - name: mesibo Client-side UI iOS SDK
+    documentation_url: https://mesibo.com/documentation/sdk-installation.html#ios
+    source_code_url: https://mesibo.com/downloads/ios/mesibo-ui-1.0.0.tgz
+    platform: Objective-C, Swift
+  - name: Google Places Node.js SDK by Srirangan
+    documentation_url: https://github.com/Srirangan/googleplaces.js
+    platform: Node.js
+    author: srirangan
+    stargazers_count: 81
+  - name: Google Places PHP SDK by Calin Marian
+    documentation_url: https://github.com/calin-marian/place-autocomplete
+    platform: PHP
+    author: calin-marian
+    stargazers_count: 0
+  - name: Google Places Python SDK by Pasha
+    documentation_url: https://pypi.python.org/pypi/django-google-places
+    source_code_url: https://github.com/pashamaigutiak/django-google-places
+    platform: Python
+  - name: Google Places iOS SDK by Tom Corwine
+    documentation_url: https://github.com/TomCorwine/TOMGooglePlaces-iOS
+    platform: Objective-C
+    author: TomCorwine
+    stargazers_count: 0
+  - name: Google Places PERL SDK by Mohammad S. Anwar
+    documentation_url: https://metacpan.org/release/MANWAR/WWW-Google-Places-0.21
+    source_code_url: https://github.com/Manwar/WWW-Google-Places
+    platform: PERL
+    author: manwar
+    stargazers_count: 1
+  - name: Google Maps iOS SDK
+    documentation_url: https://developers.google.com/maps/documentation/ios/
+    source_code_url: https://developers.google.com/maps/documentation/ios/start#getting_the_google_maps_sdk_for_ios
+    platform: Objective-C
+  - name: Google Places Android Library by Greg Marzouka
+    documentation_url: https://github.com/gmarz/android-google-places
+    platform: Java
+    author: gmarz
+    stargazers_count: 38
+  - name: Google Places iOS Library by Lukas Kukacka
+    documentation_url: https://github.com/FuerteInternational/FTGooglePlacesAPI
+    platform: Objective-C
+    stargazers_count: 110
+  - name: Google Places Java Library by Walker Crouse
+    documentation_url: https://github.com/windy1/google-places-api-java
+    platform: Java
+    author: windy1
+    stargazers_count: 175

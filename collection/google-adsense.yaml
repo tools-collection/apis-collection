@@ -1,0 +1,70 @@
+name: Google AdSense
+slug: google-adsense
+description: Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site
+  search results with relevant and engaging ads.
+categories:
+  - Marketing & SEO
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-adsense/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/adsense/?hl=en
+libraries:
+  - name: "Google Go SDK "
+    documentation_url: https://github.com/google/google-api-go-client/blob/master/GettingStarted.md
+    source_code_url: https://github.com/google/google-api-go-client
+    platform: Go
+    stargazers_count: 2553
+  - name: Google NodeJS SDK
+    documentation_url: https://github.com/google/google-api-nodejs-client/#google-apis-nodejs-client
+    source_code_url: https://github.com/google/google-api-nodejs-client/
+    platform: Node.js
+    stargazers_count: 9129
+  - name: "Google Ruby SDK "
+    documentation_url: https://developers.google.com/api-client-library/ruby/
+    source_code_url: https://github.com/google/google-api-ruby-client
+    platform: Ruby
+    stargazers_count: 2382
+  - name: Google Dart SDK
+    documentation_url: https://developers.google.com/api-client-library/
+    source_code_url: https://github.com/dart-lang/googleapis
+    platform: Dart
+    stargazers_count: 222
+  - name: "Google PHP SDK "
+    documentation_url: https://developers.google.com/api-client-library/php/
+    source_code_url: https://github.com/google/google-api-php-client
+    platform: PHP
+    stargazers_count: 7333
+  - name: Google Javascript SDK
+    documentation_url: https://developers.google.com/api-client-library/javascript/
+    source_code_url: https://github.com/google/google-api-javascript-client
+    platform: JavaScript
+    stargazers_count: 1727
+  - name: Google Python SDK
+    documentation_url: https://developers.google.com/api-client-library/python/
+    source_code_url: https://github.com/google/google-api-python-client/
+    platform: Python
+    stargazers_count: 4459
+  - name: Google .NET SDK
+    documentation_url: https://developers.google.com/api-client-library/dotnet/get_started
+    source_code_url: https://github.com/google/google-api-dotnet-client
+    platform: .Net
+    stargazers_count: 918
+  - name: Google Assistant Python SDK by Google
+    documentation_url: https://developers.google.com/assistant/sdk/prototype/getting-started-pi-python/
+    source_code_url: https://github.com/googlesamples/assistant-sdk-python
+    platform: Python
+    stargazers_count: 839
+  - name: Google AdSense Management Java Library
+    documentation_url: https://developers.google.com/api-client-library/java/apis/adsense/v1.4
+    platform: Java
+  - name: Google AdSense Host Java Library
+    documentation_url: https://developers.google.com/api-client-library/java/apis/adsensehost/v4.1
+    platform: Java
+  - name: Google APIs Client Library for Objective-C
+    documentation_url: https://code.google.com/p/google-api-objectivec-client/
+    platform: Objective-C
+  - name: Google APIs Client Library for .NET
+    documentation_url: https://developers.google.com/api-client-library/dotnet/
+    platform: .Net

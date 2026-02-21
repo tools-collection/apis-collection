@@ -1,0 +1,11 @@
+name: Population.Io
+slug: population-io
+description: Open demographic data such as population tables, population rank and life expectancy
+categories:
+  - Statistics & Data
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/population-io/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://api.population.io

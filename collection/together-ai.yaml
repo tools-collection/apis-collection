@@ -1,0 +1,12 @@
+name: Together AI
+slug: together-ai
+description: Together AI provides fast inference for 100+ open-source models including Llama 3, Mistral, and FLUX image models. Offers fine-tuning and dedicated deployment options.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.together.ai
+  - name: API Reference
+    url: https://docs.together.ai/reference

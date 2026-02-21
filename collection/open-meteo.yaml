@@ -1,0 +1,12 @@
+name: Open-Meteo
+slug: open-meteo
+description: Open-Meteo is a free, open-source weather API with no API key required. Provides hourly and daily forecasts, historical data, and climate projections using multiple weather models.
+categories:
+  - Weather
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://open-meteo.com/en/docs
+  - name: API Reference
+    url: https://open-meteo.com/en/docs

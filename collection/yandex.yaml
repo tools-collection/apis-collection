@@ -1,0 +1,25 @@
+name: Yandex
+slug: yandex
+description: Maps and the necessary tools for working it on your web app or site
+categories:
+  - Maps & Geo
+  - Search
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://tech.yandex.com/maps/
+libraries:
+  - name: Yandex Go SDK by Javier162380
+    documentation_url: https://github.com/Javier162380/yandexapi
+    platform: Go
+    author: Javier162380
+    stargazers_count: 0
+  - name: Yandex PHP SDK by NIX Solutions
+    documentation_url: https://github.com/nixsolutions/yandex-php-library
+    platform: PHP
+    stargazers_count: 515
+  - name: " Geocoder PHP Library by William Durand"
+    documentation_url: https://github.com/geocoder-php/Geocoder
+    platform: PHP
+    stargazers_count: 3686

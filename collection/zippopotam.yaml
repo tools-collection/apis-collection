@@ -1,0 +1,10 @@
+name: Zippopotam
+slug: zippopotam
+description: Zippopotamus. Zippopotamus
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.zippopotam.us

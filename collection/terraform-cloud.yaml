@@ -1,0 +1,12 @@
+name: Terraform Cloud
+slug: terraform-cloud
+description: Terraform Cloud's API manages workspaces, runs, state versions, variables, and organizations. Automate infrastructure provisioning workflows and integrate IaC into CI/CD pipelines.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.hashicorp.com/terraform/cloud-docs/api-docs
+  - name: API Reference
+    url: https://developer.hashicorp.com/terraform/cloud-docs/api-docs

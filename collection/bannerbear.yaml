@@ -1,0 +1,13 @@
+name: Bannerbear
+slug: bannerbear
+description: Bannerbear API auto-generates social media images, banners, and PDFs from templates. Integrate dynamic image creation into workflows for marketing, e-commerce, and content automation.
+categories:
+  - Images & Photography
+  - Marketing & SEO
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.bannerbear.com
+  - name: API Reference
+    url: https://developers.bannerbear.com/#introduction

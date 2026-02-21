@@ -1,0 +1,52 @@
+name: Bitmex
+slug: bitmex
+description: BitMEX is the world's most advanced P2P crypto-products trading platform and API. Trade with up to 100x
+  leverage with only Bitcoin as collateral
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitmex/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.bitmex.com/app/apiOverview
+libraries:
+  - name: Store-json-in-Database Python SDK by Umar Mohamed
+    documentation_url: https://github.com/moroclash/Store-json-in-Database
+    platform: Python
+    author: moroclash
+    stargazers_count: 0
+  - name: ExchangeSharp .NET/C# by Jeff Johnson
+    documentation_url: https://github.com/jjxtra/ExchangeSharp
+    platform: .Net, C#
+    author: jjxtra
+    stargazers_count: 759
+  - name: Reactive Crypto Kotlin/Java SDK by namjug-kim
+    documentation_url: https://github.com/namjug-kim/reactive-crypto
+    platform: Java, Kotlin
+    author: namjug-kim
+    stargazers_count: 100
+  - name: GoEx Go SDK by nntaoli.com
+    documentation_url: https://github.com/nntaoli-project/GoEx
+    platform: Go
+    stargazers_count: 1976
+  - name: BitMEX Swagger Java SDK
+    documentation_url: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/java
+    platform: Java
+    stargazers_count: 912
+  - name: BitMEX Swagger Go SDK
+    documentation_url: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/go
+    platform: Go
+    stargazers_count: 912
+  - name: BitMEX Swagger C# SDK
+    documentation_url: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/csharp
+    platform: C#
+    stargazers_count: 912
+  - name: BitMEX Swagger Clojure SDK
+    documentation_url: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/clojure
+    platform: Clojure
+    stargazers_count: 912
+  - name: BitMEX Swagger Android SDK
+    documentation_url: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/android
+    platform: Java
+    stargazers_count: 912

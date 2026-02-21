@@ -1,0 +1,13 @@
+name: PlaceGoat
+slug: placegoat
+description: PlaceGOAT placeholder service.
+categories:
+  - Development
+  - Testing
+  - Fun
+  - Animals
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://placegoat.com/

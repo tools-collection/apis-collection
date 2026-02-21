@@ -1,0 +1,11 @@
+name: TasteDive
+slug: tastedive
+description: The TasteDive API can be used to integrate recommendations in other products.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tastedive/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://tastedive.com/read/api

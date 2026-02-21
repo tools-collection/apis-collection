@@ -1,0 +1,11 @@
+name: Game of Thrones Quotes
+slug: game-of-thrones-quotes
+description: A free API to retrieve some quotes of Game of Thrones!
+categories:
+  - Other
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/game-of-thrones-quotes/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://gameofthronesquotes.xyz

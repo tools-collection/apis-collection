@@ -1,0 +1,13 @@
+name: Smartsheet
+slug: smartsheet
+description: Smartsheet's API provides access to sheets, rows, columns, reports, and automations. Build integrations for project tracking, resource management, and workflow automation.
+categories:
+  - Project Management
+  - Documents & Productivity
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://smartsheet.redoc.ly
+  - name: API Reference
+    url: https://smartsheet.redoc.ly/tag/sheets

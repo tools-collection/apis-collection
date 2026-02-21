@@ -1,0 +1,10 @@
+name: Verizon Cloud
+slug: verizon-cloud
+description: API for accessing stored pictures and other files stored by users of Verizon Cloud app. 403 - Forbidden
+categories:
+  - Files & Storage
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.verizon.com/cloudstorageapi

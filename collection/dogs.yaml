@@ -1,0 +1,12 @@
+name: Dogs
+slug: dogs
+description: Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image supplied by the Stanford
+  Dogs Dataset. Dog CEO's Dog API. Dog CEO's Dog API
+categories:
+  - Animals
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dogs/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://dog.ceo/dog-api/

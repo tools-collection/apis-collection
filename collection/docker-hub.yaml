@@ -1,0 +1,12 @@
+name: Docker Hub
+slug: docker-hub
+description: Docker Hub's API provides access to repositories, images, tags, and organizations. Automate container image management, search public images, and integrate with CI/CD pipelines.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.docker.com/docker-hub/api/latest
+  - name: API Reference
+    url: https://docs.docker.com/docker-hub/api/latest

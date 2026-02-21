@@ -1,0 +1,11 @@
+name: Recipe Puppy
+slug: recipe-puppy
+description: Recipe Puppy API lets you search through recipe puppy database of over a million recipes by keyword and/or
+  by search query.
+categories:
+  - Food & Drinks
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.recipepuppy.com/about/api/

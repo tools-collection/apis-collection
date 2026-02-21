@@ -1,0 +1,10 @@
+name: Sentim-API
+slug: sentim-api
+description: A free API for sentiment analysis
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://sentim-api.herokuapp.com

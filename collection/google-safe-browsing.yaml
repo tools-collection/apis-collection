@@ -1,0 +1,56 @@
+name: Google Safe Browsing
+slug: google-safe-browsing
+description: APIs to access the Google Safe Browsing lists of unsafe web resources
+categories:
+  - Security
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-safe-browsing/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/safe-browsing/
+libraries:
+  - name: "Google Go SDK "
+    documentation_url: https://github.com/google/google-api-go-client/blob/master/GettingStarted.md
+    source_code_url: https://github.com/google/google-api-go-client
+    platform: Go
+    stargazers_count: 2553
+  - name: Google NodeJS SDK
+    documentation_url: https://github.com/google/google-api-nodejs-client/#google-apis-nodejs-client
+    source_code_url: https://github.com/google/google-api-nodejs-client/
+    platform: Node.js
+    stargazers_count: 9129
+  - name: "Google Ruby SDK "
+    documentation_url: https://developers.google.com/api-client-library/ruby/
+    source_code_url: https://github.com/google/google-api-ruby-client
+    platform: Ruby
+    stargazers_count: 2382
+  - name: Google Dart SDK
+    documentation_url: https://developers.google.com/api-client-library/
+    source_code_url: https://github.com/dart-lang/googleapis
+    platform: Dart
+    stargazers_count: 222
+  - name: "Google PHP SDK "
+    documentation_url: https://developers.google.com/api-client-library/php/
+    source_code_url: https://github.com/google/google-api-php-client
+    platform: PHP
+    stargazers_count: 7333
+  - name: Google Javascript SDK
+    documentation_url: https://developers.google.com/api-client-library/javascript/
+    source_code_url: https://github.com/google/google-api-javascript-client
+    platform: JavaScript
+    stargazers_count: 1727
+  - name: Google Python SDK
+    documentation_url: https://developers.google.com/api-client-library/python/
+    source_code_url: https://github.com/google/google-api-python-client/
+    platform: Python
+    stargazers_count: 4459
+  - name: Google .NET SDK
+    documentation_url: https://developers.google.com/api-client-library/dotnet/get_started
+    source_code_url: https://github.com/google/google-api-dotnet-client
+    platform: .Net
+    stargazers_count: 918
+  - name: Google Safe Browsing Go SDK by Google
+    documentation_url: https://github.com/google/safebrowsing
+    platform: Go
+    stargazers_count: 349

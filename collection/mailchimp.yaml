@@ -1,0 +1,13 @@
+name: Mailchimp
+slug: mailchimp
+description: Mailchimp's Marketing API manages email campaigns, audiences, automations, and reports. Build and send newsletters, segment subscribers, and track engagement metrics.
+categories:
+  - Email & SMS
+  - Marketing & SEO
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://mailchimp.com/developer
+  - name: API Reference
+    url: https://mailchimp.com/developer/marketing/api

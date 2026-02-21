@@ -1,0 +1,13 @@
+name: Storyblok
+slug: storyblok
+description: Storyblok's API is a headless CMS that provides content delivery and management APIs. Manage stories, components, assets, and spaces for omnichannel content distribution.
+categories:
+  - Development
+  - Documents & Productivity
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.storyblok.com/docs/api/content-delivery/v2
+  - name: Management API
+    url: https://www.storyblok.com/docs/api/management/v1

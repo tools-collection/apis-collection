@@ -1,0 +1,11 @@
+name: Musikki
+slug: musikki
+description: Music
+categories:
+  - Music & Audio
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musikki/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://music-api.musikki.com

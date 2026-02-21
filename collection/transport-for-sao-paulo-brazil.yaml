@@ -1,0 +1,10 @@
+name: Transportation in Sao Paulo, Brazil
+slug: transport-for-sao-paulo-brazil
+description: Bus lines in the city of São Paulo
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/

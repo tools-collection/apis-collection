@@ -1,0 +1,12 @@
+name: Loom
+slug: loom
+description: Loom's API provides access to recorded videos, transcripts, viewer analytics, and workspace data. Integrate async video messaging into apps and automate video workflows.
+categories:
+  - Video & Media
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://dev.loom.com/docs/reference/overview
+  - name: API Reference
+    url: https://dev.loom.com/docs/reference/overview

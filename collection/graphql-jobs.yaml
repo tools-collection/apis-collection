@@ -1,0 +1,10 @@
+name: GraphQL Jobs
+slug: graphql-jobs
+description: GET query missing
+categories:
+  - Jobs
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.graphql.jobs

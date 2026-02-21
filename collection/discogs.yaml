@@ -1,0 +1,133 @@
+name: Discogs
+slug: discogs
+description: Access database of artists, labels, releases, marketplace and more. Here’s your place to code all things
+  Discogs! The Discogs API lets developers build their own Discogs-powered applications for the web, desktop, and mobile
+  devices.
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.discogs.com/developers/
+libraries:
+  - name: MetaMusic .NET SDK by David Pires
+    documentation_url: https://github.com/Davidblkx/MetaMusic
+    platform: .Net
+    author: Davidblkx
+    stargazers_count: 1
+  - name: Discogs Loves Spotify PHP SDK by Lukas Juhas
+    documentation_url: https://github.com/lukasjuhas/discogs-loves-spotify
+    platform: PHP
+    author: lukasjuhas
+    stargazers_count: 0
+  - name: MusicApiCollection C# SDK by BigGranu
+    documentation_url: https://github.com/BigGranu/MusicApiCollection
+    platform: C#
+    author: BigGranu
+    stargazers_count: 28
+  - name: Media Now JavaScript SDK by internet4000
+    documentation_url: https://github.com/internet4000/media-now
+    platform: JavaScript, Node.js
+    stargazers_count: 15
+  - name: Discogs Python SDK by Joshua Sones
+    documentation_url: https://github.com/jhsones/Discogs-Search
+    platform: Python
+    author: jhsones
+    stargazers_count: 0
+  - name: Discogs Elixir SDK by Andrew Mager
+    documentation_url: https://github.com/mager/discogs_ex
+    platform: Elixir
+    author: mager
+    stargazers_count: 2
+  - name: Discogs EmberJS SDK by Isaac Ezer
+    documentation_url: https://github.com/iezer/ember-discogs
+    platform: JavaScript
+    author: iezer
+    stargazers_count: 0
+  - name: Discogs PHP SDK by Josh Friesen
+    documentation_url: https://github.com/josh-friesen/php-discogs-api
+    platform: PHP
+    author: josh-friesen
+    stargazers_count: 0
+  - name: Discogs Rust SDK by Simon Persson
+    documentation_url: https://github.com/SimonPersson/discogs-rs
+    platform: Unspecified
+    author: SimonTeixidor
+    stargazers_count: 0
+  - name: Discogs Python SDK by Jay H
+    documentation_url: https://github.com/mobeets/cover-art
+    platform: Python
+    author: mobeets
+    stargazers_count: 3
+  - name: Discogs Swift SDK by Jason R Tibbetts
+    documentation_url: https://github.com/jrtibbetts/SwiftDiscogs
+    platform: Swift
+    author: jrtibbetts
+    stargazers_count: 3
+  - name: Discogs PHP SDK by chillerlan
+    documentation_url: https://github.com/chillerlan/php-oauth-discogs
+    source_code_url: https://packagist.org/packages/chillerlan/php-oauth-discogs
+    platform: PHP
+  - name: Discogs C# SDK by Bart Wijnants
+    documentation_url: https://github.com/bartw/DiscogsRT
+    platform: C#
+    author: bartw
+    stargazers_count: 0
+  - name: Discogs Ruby SDK by Yuri Veremeyenko
+    documentation_url: https://github.com/yurivm/discogs2
+    platform: Ruby
+    author: yurivm
+    stargazers_count: 0
+  - name: Discogs PHP SDK by cecekpawon
+    documentation_url: https://github.com/cecekpawon/Discogs-PHP-API-interface
+    platform: PHP
+    author: cecekpawon
+    stargazers_count: 1
+  - name: Discogs Ruby SDK by Dejan Acimovic
+    documentation_url: https://github.com/DejanAcim/discogs-json-api
+    platform: Ruby
+    author: DejanAcim
+    stargazers_count: 0
+  - name: Discogs Python SDK by Boostfield
+    documentation_url: https://github.com/boostfield/discogs-fetcher
+    platform: Python
+  - name: Discogs Java SDK by Andrey Parkhomenko
+    documentation_url: https://github.com/team3/java-discogs-api-client
+    platform: Java
+    author: team3
+    stargazers_count: 1
+  - name: Discogs PHP SDK by Bruno Teixeira
+    documentation_url: https://github.com/BrunoTeixeira1996/API-PHP-Project
+    platform: PHP
+  - name: Discogs NodeJS SDK by Emanuel Schmitt
+    documentation_url: https://github.com/emanuelschmitt/discogs-data-fetcher
+    platform: Node.js
+  - name: Discogs C++ SDK by matttyson
+    documentation_url: https://github.com/matttyson/discogsapp
+    platform: C++
+    author: matttyson
+    stargazers_count: 0
+  - name: Discogs Android SDK by Carl Taylor
+    documentation_url: https://github.com/carltaylor43/discogs-collector-android
+    platform: Kotlin
+  - name: Discogs PHP SDK by Chris Chrisostomou
+    documentation_url: https://github.com/chrismou/php-discogs-wrapper
+    platform: PHP
+    author: chrismou
+    stargazers_count: 0
+  - name: Discogs Java SDK by Markus Fischböck
+    documentation_url: https://github.com/mfischbo/java-discogs-client
+    platform: Java
+    author: mfischbo
+    stargazers_count: 1
+  - name: Discogs PHP SDK by martin mauchauffée
+    documentation_url: https://github.com/moechofe/Discogs-client
+    platform: PHP
+    author: moechofe
+    stargazers_count: 2
+  - name: Discogs PHP Library by Richard van den Brand
+    documentation_url: https://github.com/ricbra/php-discogs-api
+    platform: PHP
+    author: ricbra
+    stargazers_count: 155

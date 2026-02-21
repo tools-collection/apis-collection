@@ -1,0 +1,29 @@
+name: Gravatar
+slug: gravatar
+description: Use the links below to find out more about constructing request URLs, different imp. Create profiles and
+  avatars using this web service. Developer Resources Gravatar 'APIs' require no authentication, and are all based
+  around simple HTTP GET requests
+categories:
+  - Social
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://en.gravatar.com/site/implement/
+libraries:
+  - name: Gravatar grav.client NodeJS SDK
+    documentation_url: https://github.com/mrtillman/grav.client
+    source_code_url: https://www.npmjs.com/package/grav.client
+    platform: Node.js
+    author: mrtillman
+    stargazers_count: 0
+  - name: Gravatar Node.js SDK by Emerson Macedo
+    documentation_url: https://github.com/emerleite/node-gravatar
+    platform: Node.js
+    author: emerleite
+    stargazers_count: 383
+  - name: Gravatar PHP SDK by Gravatar
+    documentation_url: https://en.gravatar.com/site/implement/
+    source_code_url: http://www.phpclasses.org/package/5700-PHP-Send-requests-to-the-Gravatar-API-about-images.html
+    platform: PHP

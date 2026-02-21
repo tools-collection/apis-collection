@@ -1,0 +1,12 @@
+name: Webcams.Travel
+slug: webcams-travel
+description: Webcams.Travel aggregates and distributes landscape webcams worldwide. Add webcams to your app or website —
+  Browse through the webcams. Wind map and weather forecast.
+categories:
+  - Travel
+  - Weather
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/webcams-travel/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.windy.com/webcams/

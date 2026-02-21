@@ -1,0 +1,12 @@
+name: Microsoft Cognitive Services
+slug: microsoft-cognitive-services
+description: A comprehensive family of AI services and cognitive APIs to help you build intelligent apps. Text
+  analytics, speech convertor, image & video AI services, anomaly detector etc
+categories:
+  - AI & ML
+  - Voice
+  - Recognition
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://azure.microsoft.com/en-us/services/cognitive-services/

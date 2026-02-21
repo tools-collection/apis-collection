@@ -1,0 +1,13 @@
+name: Algolia
+slug: algolia
+description: Algolia's Search API provides fast, typo-tolerant full-text search with faceting, filtering, and personalization. Index records and query them with millisecond response times at scale.
+categories:
+  - Search
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.algolia.com/doc
+  - name: API Reference
+    url: https://www.algolia.com/doc/api-reference/rest-api

@@ -1,0 +1,25 @@
+name: Freesound
+slug: freesound
+description: With the Freesound API you can browse, search, and retrieve information about Freesound users, packs, and
+  the sounds themselves.
+categories:
+  - Search
+  - Music & Audio
+is_free: false
+contact: developers@flat.io
+links:
+  - name: Docs / Website
+    url: https://freesound.org/docs/api/index.html
+libraries:
+  - name: Freesound c++ SDK by Roger Morton
+    documentation_url: http://www.freesound.org/docs/api/client_libs.html
+    source_code_url: https://github.com/ttguy/Qt_freesoundAPIv2
+    platform: C++
+    author: ttguy
+    stargazers_count: 5
+  - name: "Freesound iOS SDK by Freesound "
+    documentation_url: https://www.freesound.org/docs/api/client_libs.html
+    source_code_url: https://github.com/ffont/Freesound-iOS
+    platform: Objective-C
+    author: ffont
+    stargazers_count: 10

@@ -1,0 +1,11 @@
+name: EPA
+slug: epa
+description: United States Environmental Protection Agency API
+categories:
+  - Government
+  - Environment & Nature
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.epa.gov/category/apis/

@@ -1,0 +1,13 @@
+name: Checkout.com
+slug: checkout-com
+description: Checkout.com's Unified Payments API processes global card payments, digital wallets, and local payment methods with fraud detection, 3D Secure, and real-time reporting.
+categories:
+  - Payments
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.checkout.com/docs
+  - name: API Reference
+    url: https://api-reference.checkout.com

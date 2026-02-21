@@ -1,0 +1,22 @@
+name: Amadeus Travel Innovation Sandbox
+slug: amadeus-travel-innovation-sandbox
+description: Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination
+  content APIs that power the biggest names in travel.
+categories:
+  - Travel
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://sandbox.amadeus.com/
+libraries:
+  - name: Amadeus Python SDK
+    documentation_url: https://github.com/amadeus4dev/amadeus-python
+    source_code_url: https://pypi.org/project/amadeus/
+    platform: Python
+    stargazers_count: 75
+  - name: Amadeus Ruby SDK
+    documentation_url: https://github.com/amadeus4dev/amadeus-ruby
+    source_code_url: https://rubygems.org/gems/amadeus
+    platform: Ruby
+    stargazers_count: 15

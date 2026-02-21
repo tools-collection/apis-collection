@@ -1,0 +1,42 @@
+name: Face++
+slug: face
+description: Let’s you detect the information of a given photo (face location, age, race, gender etc.)
+categories:
+  - Recognition
+  - Security
+  - Images & Photography
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/face/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://www.faceplusplus.com
+libraries:
+  - name: Face++ MATLAB SDK by Face++
+    documentation_url: https://github.com/FacePlusPlus/facepp-matlab-sdk
+    source_code_url: https://github.com/FacePlusPlus/facepp-matlab-sdk
+    platform: Unspecified
+    stargazers_count: 34
+  - name: Face++ PHP SDK by Face++
+    documentation_url: https://github.com/FacePlusPlus/facepp-php-sdk
+    platform: PHP
+    stargazers_count: 115
+  - name: Face++ Ruby SDK by Face++
+    documentation_url: https://github.com/FacePlusPlus/facepp-ruby-sdk
+    platform: Ruby
+    stargazers_count: 16
+  - name: Face++ JavaScript SDK by Face++
+    documentation_url: https://github.com/FacePlusPlus/facepp-javascript-sdk
+    source_code_url: https://github.com/FacePlusPlus/facepp-javascript-sdk
+    platform: JavaScript
+    stargazers_count: 95
+  - name: Face++ Java SDK by Face++
+    documentation_url: https://github.com/FacePlusPlus/facepp-java-sdk
+    source_code_url: https://github.com/FacePlusPlus/facepp-java-sdk
+    platform: Java
+    stargazers_count: 179
+  - name: Face++ Python SDK by Face++
+    documentation_url: http://www.faceplusplus.com/dev-tools-sdks/
+    source_code_url: https://github.com/FacePlusPlus/facepp-python-sdk/tree/v2.0
+    platform: Python
+    stargazers_count: 338

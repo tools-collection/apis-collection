@@ -1,0 +1,12 @@
+name: The Report of the Week
+slug: the-report-of-the-week
+description: API of The Report Of The Week Reviews. Contribute to andyklimczak/TheReportOfTheWeek-API development by
+  creating an account on GitHub. API of The Report Of The Week Reviews
+categories:
+  - Food & Drinks
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-report-of-the-week/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/andyklimczak/TheReportOfTheWeek-API

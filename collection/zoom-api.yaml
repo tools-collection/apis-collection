@@ -1,0 +1,13 @@
+name: Zoom API
+slug: zoom-api
+description: Zoom's REST API manages meetings, webinars, users, recordings, and reports. Build scheduling integrations, automate meeting workflows, and access video conferencing data.
+categories:
+  - Video & Media
+  - Chats & Messaging
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.zoom.us/docs/api
+  - name: API Reference
+    url: https://developers.zoom.us/docs/api/rest/reference/zoom-api/methods

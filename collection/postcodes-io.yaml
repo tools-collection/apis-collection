@@ -1,0 +1,13 @@
+name: Postcodes.io
+slug: postcodes-io
+description: Search, validate and reverse geocode postcodes. An open sourced project by Ideal Postcodes. Free UK
+  postcode lookup API and datasets. An open sourced project by Ideal Postcodes
+categories:
+  - Post & Logistics
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postcodes-io/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://postcodes.io

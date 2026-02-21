@@ -1,0 +1,29 @@
+name: MySocialApp
+slug: mysocialapp
+description: Build scalable news feed for your app. MySocialApp is simple, powerful APIs are used by some of the largest
+  and most popular apps. Save months of development headache and focus on what makes your app unique. SDK available for
+  Android, iOS, Java, Swift, Kotlin, Javascript, Ruby, Go, Python, PHP. . Seamless Social Networking features, API, SDK
+  for any app
+categories:
+  - Chats & Messaging
+  - Development
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mysocialapp/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://mysocialapp.io
+libraries:
+  - name: MySocialApp Java SDK
+    documentation_url: https://docs.mysocialapp.io/docs/quick-start-java
+    platform: Java
+  - name: MySocialApp iOS SDK
+    documentation_url: https://github.com/MySocialApp/mysocialapp-swift-client
+    platform: Objective-C, Swift
+    stargazers_count: 5
+  - name: MySocialApp Android SDK
+    documentation_url: https://docs.mysocialapp.io/docs/quick-start-android
+    source_code_url: https://github.com/MySocialApp/mysocialapp-java-client
+    platform: Java, Kotlin
+    stargazers_count: 5

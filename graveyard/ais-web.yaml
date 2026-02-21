@@ -1,0 +1,10 @@
+name: Ais Web
+slug: ais-web
+description: Aeronautical information in digital media produced by the Department of Airspace Control (DECEA)
+categories:
+  - Transportation
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ais-web/logo_256x256.png
+links:
+  - name: Docs / Website

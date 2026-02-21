@@ -1,0 +1,22 @@
+name: Whitepages Pro
+slug: whitepages-pro
+description: Global Identity Verification API. Get a clearer picture of your customer. Instantly know if a name,
+  address, phone number, email, and IP all belong to the same person
+categories:
+  - Validation & Verification
+  - CRM
+  - Maps & Geo
+  - Business
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whitepages-pro/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://pro.whitepages.com/
+libraries:
+  - name: Whitepages Pro C# SDK by Whitepages
+    documentation_url: http://pro.whitepages.com/developer/libraries/c-sharp/
+    platform: C#
+  - name: WhitePages Pro Java SDK by WhitePages
+    documentation_url: http://pro.whitepages.com/developer/libraries/java/
+    platform: Java

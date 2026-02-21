@@ -1,0 +1,73 @@
+name: Traitify
+slug: traitify
+description: >-
+  A diverse set of fun visual assessments used to uncover personality types and traits. Your users simply select "Me" or
+  "Not Me" to a brief series of images and voila! Instant, actionable data.
+
+
+  With this psychology-backed data in hand, the possibilities are endless - any way that personalization can help you is
+  now within reach. Potential uses include:
+
+  - Applicant Fit Score
+
+  - Personalized Job Recommendations
+
+  - Personalized Interview Questions
+
+  - Personality Conflicts / Complements
+
+  - Communication Styles
+
+  - Ideal Work Environments
+
+  - Workplace Performance Predictions
+
+  - Career Growth Hacks
+
+  - Leadership Styles
+
+  - Team Building 
+
+  - Suggestions
+categories:
+  - Jobs
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://app.traitify.com/developer
+libraries:
+  - name: Traitify JavaScript SDK
+    documentation_url: https://github.com/traitify/traitify-js-client
+    platform: JavaScript
+    stargazers_count: 2
+  - name: Traitify PHP SDK
+    documentation_url: https://github.com/traitify/traitify-php
+    platform: PHP
+    stargazers_count: 4
+  - name: Traitify Python SDK
+    documentation_url: https://github.com/traitify/traitify-python2.x
+    platform: Python
+    stargazers_count: 7
+  - name: Traitify Java SDK
+    documentation_url: https://github.com/traitify/traitify-java
+    platform: Java
+    stargazers_count: 3
+  - name: Traitify .NET SDK
+    documentation_url: https://github.com/traitify/traitify.net
+    platform: .Net
+    stargazers_count: 2
+  - name: Traitify Node.js SDK
+    documentation_url: https://github.com/traitify/traitify-node
+    platform: Node.js
+    stargazers_count: 3
+  - name: Traitify Ruby SDK
+    documentation_url: https://github.com/traitify/traitify-ruby
+    platform: Ruby
+    stargazers_count: 3
+  - name: Traitify API Java Library
+    documentation_url: https://developer.traitify.com/documentation
+    source_code_url: https://github.com/traitify/traitify-java
+    platform: Java
+    stargazers_count: 3

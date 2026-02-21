@@ -1,0 +1,13 @@
+name: StackExchange
+slug: stackexchange
+description: The StackExchange API provides RESTful services to all the sites on the StackExchange domain. about blog
+  terms of use contact us feedback always welcome site design / logo © 2021 Stack Exchange, Inc; user contributions
+  licensed under cc by-sa
+categories:
+  - Other
+type: REST
+is_free: false
+contact: developers@squareup.com
+links:
+  - name: Docs / Website
+    url: https://api.stackexchange.com/

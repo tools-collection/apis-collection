@@ -1,0 +1,12 @@
+name: Google Cloud Natural
+slug: google-cloud-natural
+description: Enables easy integration of Google natural language understanding technologies into developer applications.
+categories:
+  - AI & ML
+  - Text Analysis & Tools
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-cloud-natural/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://cloud.google.com/natural-language/docs/

@@ -1,0 +1,13 @@
+name: Confluence
+slug: confluence
+description: Confluence's REST API provides access to spaces, pages, blog posts, and comments. Automate documentation workflows and integrate with Atlassian's team wiki platform.
+categories:
+  - Documents & Productivity
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.atlassian.com/cloud/confluence/rest/v2/intro
+  - name: API Reference
+    url: https://developer.atlassian.com/cloud/confluence/rest/v2/intro

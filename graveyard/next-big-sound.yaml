@@ -1,0 +1,12 @@
+name: Next Big Sound API
+slug: next-big-sound
+description: Next Big Sound helps artists and their teams use Pandora to understand performance, grow audiences, and fuel strategy.
+categories:
+  - Social
+  - Music & Audio
+type: REST
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://api3.nextbigsound.com/

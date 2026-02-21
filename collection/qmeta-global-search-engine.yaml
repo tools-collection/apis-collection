@@ -1,0 +1,12 @@
+name: Qmeta Global Search Engine
+slug: qmeta-global-search-engine
+description: RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden und Gefahrenstellen die so
+  gravierend sind, dass sie zu einem Unfall führen könnten. Anonymous and Secure Global Search Engine
+categories:
+  - Search
+  - Security
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/qmeta-global-search-engine/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.radsportradar.de/#qmeta

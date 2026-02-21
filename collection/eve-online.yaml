@@ -1,0 +1,33 @@
+name: Eve Online
+slug: eve-online
+description: An OpenAPI for EVE Online
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eve-online/logo_256x256.png
+contact: hello@edrv.io
+links:
+  - name: Docs / Website
+    url: https://esi.evetech.net/ui
+libraries:
+  - name: EVE Online CREST Carbon RESTful Python SDK by PyCrest
+    documentation_url: https://github.com/pycrest/PyCrest
+    platform: Python
+    stargazers_count: 35
+  - name: EveLink Python Library
+    documentation_url: https://pypi.python.org/pypi/EVELink/0.6.1
+    platform: Python
+  - name: Eve Online CREST Carbon RESTful API PHP Library
+    documentation_url: https://github.com/fuzzysteve/CrestLibrary
+    platform: PHP
+  - name: EVE Online CREST Carbon RESTful API Perry PHP Library
+    documentation_url: https://github.com/3rdpartyeve/perry
+    platform: PHP
+    stargazers_count: 9
+  - name: EVE Online CREST Carbon RESTful API Crespy Python Library
+    documentation_url: https://github.com/jgoldshlag/crespy
+    platform: Python
+    author: jgoldshlag
+    stargazers_count: 15

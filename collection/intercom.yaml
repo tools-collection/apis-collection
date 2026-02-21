@@ -1,0 +1,13 @@
+name: Intercom
+slug: intercom
+description: Intercom's API provides access to conversations, contacts, companies, and events. Build customer messaging integrations, automate support workflows, and sync customer data.
+categories:
+  - CRM
+  - Chats & Messaging
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.intercom.com
+  - name: API Reference
+    url: https://developers.intercom.com/docs/references/rest-api/errors

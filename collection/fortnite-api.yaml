@@ -1,0 +1,10 @@
+name: Fortnite Api
+slug: fortnite-api
+description: A fortnite tracker api that returns data about and account
+categories:
+  - Games
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://fortnitetracker.com/site-api

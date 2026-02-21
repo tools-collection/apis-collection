@@ -1,0 +1,11 @@
+name: The Google Fonts Developer API.
+slug: the-google-fonts-developer-api
+description: High-quality fonts to use on your web site
+categories:
+  - Art & Design
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-google-fonts-developer-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/fonts/?hl=en

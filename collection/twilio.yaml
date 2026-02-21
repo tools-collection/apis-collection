@@ -1,0 +1,173 @@
+name: Twilio
+slug: twilio
+description: APIs for SMS, Voice, Video and more. With Twilio, unite communications and strengthen customer
+  relationships across your business from marketing and sales to customer service and operations
+categories:
+  - Email & SMS
+  - Voice
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twilio/logo_256x256.png
+contact: support@transitfeeds.com
+links:
+  - name: Docs / Website
+    url: https://www.twilio.com/solutions
+libraries:
+  - name: Twilio .NET SDK
+    documentation_url: https://github.com/twilio/twilio-csharp
+    source_code_url: https://www.nuget.org/packages/Twilio
+    platform: .Net, C#
+    stargazers_count: 537
+  - name: Twilio Java SDK
+    documentation_url: https://github.com/twilio/twilio-java
+    source_code_url: https://mvnrepository.com/artifact/com.twilio.sdk/twilio
+    platform: Java
+    stargazers_count: 370
+  - name: CWilio-SMS PHP SDK by Joey Undis
+    documentation_url: https://github.com/jundis/CWilio-SMS
+    platform: PHP
+    author: jundis
+    stargazers_count: 2
+  - name: Twilio Python SDK by Lyft
+    documentation_url: https://github.com/lyft/twilio-python
+    platform: Python
+    stargazers_count: 1
+  - name: Twilio Perl SDK by Scott Wiersdorf
+    documentation_url: http://search.cpan.org/~scottw/WWW-Twilio-API-0.20/
+    platform: PERL
+  - name: Twilio JavaScript SDK
+    documentation_url: https://www.twilio.com/docs/voice/client/javascript
+    source_code_url: https://www.npmjs.com/package/twilio-client
+    platform: JavaScript
+  - name: Twilio C++ SDK by Laurent Luce
+    documentation_url: https://github.com/laurentluce/twilio-cplusplus
+    platform: C++
+    author: laurentluce
+    stargazers_count: 25
+  - name: Twilio Erlang Library by Ryan Huffman
+    documentation_url: https://github.com/huffman/twilio_erlang/blob/master/README.md
+    source_code_url: https://github.com/huffman/twilio_erlang
+    platform: Unspecified
+    author: huffman
+    stargazers_count: 36
+  - name: Twilio sms-rb Ruby Library by Pat Nakajima
+    documentation_url: https://github.com/nakajima/sms-rb/blob/master/README.md
+    source_code_url: https://github.com/nakajima/sms-rb
+    platform: Ruby
+    author: nakajima
+    stargazers_count: 33
+  - name: Twilio-Rails Ruby Library by Hemant Bhanoo
+    documentation_url: https://github.com/hbhanoo/Twilio-Rails/blob/master/README.txt
+    source_code_url: https://github.com/hbhanoo/Twilio-Rails
+    platform: Ruby
+    author: hbhanoo
+    stargazers_count: 58
+  - name: Twilio Ruby Wrapper by Webficient
+    documentation_url: http://www.webficient.com/
+    source_code_url: https://github.com/webficient/twilio
+    platform: Ruby
+    author: philm
+    stargazers_count: 124
+  - name: Fuel-Twilio PHP Library by Matthew McConnell
+    documentation_url: https://github.com/maca134/fuel-twilio/blob/master/README.md
+    source_code_url: https://github.com/maca134/fuel-twilio
+    platform: PHP
+    author: maca134
+    stargazers_count: 5
+  - name: Twilio Ruby Library by Philip Misiowiec
+    documentation_url: https://github.com/webficient/twilio
+    platform: Ruby
+    author: philm
+    stargazers_count: 124
+  - name: Drupal Twilio PHP Library by Arvin Singla
+    documentation_url: https://www.drupal.org/project/twilio
+    source_code_url: https://www.drupal.org/node/895232/
+    platform: PHP
+  - name: Twilio C# Library by Twilio
+    documentation_url: https://www.twilio.com/docs/csharp/install
+    source_code_url: https://github.com/twilio/twilio-csharp/tree/4.7.2
+    platform: C#
+    stargazers_count: 537
+  - name: Twilio Scala Library by Dag Liodden
+    documentation_url: https://github.com/daggerrz/Scwilio/blob/master/README.markdown
+    source_code_url: https://github.com/daggerrz/Scwilio
+    platform: Scala
+    author: daggerrz
+    stargazers_count: 37
+  - name: Twilio C++ Library by Laurent Luce
+    documentation_url: https://github.com/laurentluce/twilio-cplusplus/blob/master/README
+    source_code_url: https://github.com/laurentluce/twilio-cplusplus
+    platform: C++
+    author: laurentluce
+    stargazers_count: 25
+  - name: Twilio Google Apps Script Library by Samy Vacheresse
+    documentation_url: https://github.com/illiatdesdindes/twilio-gas/blob/master/README.md
+    source_code_url: https://github.com/illiatdesdindes/twilio-gas
+    platform: JavaScript
+    author: illiatdesdindes
+    stargazers_count: 20
+  - name: Twilio JavaScript Library by Alexandre Morgaut
+    documentation_url: https://github.com/AMorgaut/wakanda-twilio/blob/master/readme.md
+    source_code_url: https://github.com/AMorgaut/wakanda-twilio
+    platform: JavaScript
+    author: AMorgaut
+    stargazers_count: 5
+  - name: Twilio Java GWT Library by Alessio Harri
+    documentation_url: https://code.google.com/p/gwt-twilio/
+    source_code_url: https://code.google.com/p/gwt-twilio/downloads/detail?name=gwt-twilio-1.1.jar
+    platform: Java
+  - name: Twilio C# Library by Billy Coover
+    documentation_url: https://github.com/azcoov/twilio.sugar/blob/master/README.md
+    source_code_url: https://github.com/azcoov/twilio.sugar
+    platform: C#
+    author: azcoov
+    stargazers_count: 9
+  - name: Twilio Go Library by ckvist
+    documentation_url: https://bitbucket.org/ckvist/twilio
+    source_code_url: https://bitbucket.org/ckvist/twilio/downloads
+    platform: Go
+  - name: Twilio Go Library by Carlos Diaz-Padron
+    documentation_url: https://github.com/carlosdp/twiliogo/blob/master/README.md
+    source_code_url: https://github.com/carlosdp/twiliogo
+    platform: Go
+    author: carlosdp
+    stargazers_count: 72
+  - name: Twilio Salesforce Apex Helper Library
+    documentation_url: https://www.twilio.com/docs/salesforce/install
+    source_code_url: https://github.com/twilio/twilio-salesforce
+    platform: Unspecified
+    stargazers_count: 185
+  - name: Twilio C-Sharp Helper Library
+    documentation_url: http://www.twilio.com/docs/csharp/install
+    source_code_url: https://github.com/twilio/twilio-csharp
+    platform: C#
+    stargazers_count: 537
+  - name: Twilio Ruby Gem
+    documentation_url: https://github.com/webficient/twilio/tree/master
+    platform: Ruby
+    author: philm
+    stargazers_count: 124
+  - name: Twilio JavaScript Library
+    documentation_url: https://www.twilio.com/webrtc
+    source_code_url: https://www.twilio.com/docs/client/twilio-js
+    platform: JavaScript
+  - name: WWW-Twilio-TwiML
+    documentation_url: http://search.cpan.org/~scottw/WWW-Twilio-TwiML-1.05/lib/WWW/Twilio/TwiML.pm
+    platform: PERL
+  - name: WWW-Twilio-API
+    documentation_url: http://search.cpan.org/~scottw/WWW-Twilio-API-0.16/lib/WWW/Twilio/API.pm
+    platform: PERL
+  - name: TwilioFluent
+    documentation_url: https://bitbucket.org/kogir/twiliofluent/wiki/Home
+    platform: .Net
+  - name: TwilioSharp
+    documentation_url: https://github.com/jgable/TwilioSharp
+    platform: .Net, C#
+    author: jgable
+    stargazers_count: 9
+  - name: Django-Twilio
+    documentation_url: http://django-twilio.readthedocs.org/en/latest/
+    source_code_url: https://github.com/rdegges/django-twilio
+    platform: Python
+    author: rdegges
+    stargazers_count: 303

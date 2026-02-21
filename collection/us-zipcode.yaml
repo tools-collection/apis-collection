@@ -1,0 +1,12 @@
+name: US ZipCode
+slug: us-zipcode
+description: Easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets
+categories:
+  - Post & Logistics
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-zipcode/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://smartystreets.com/docs/cloud/us-zipcode-api

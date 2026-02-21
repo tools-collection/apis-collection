@@ -1,0 +1,28 @@
+name: Zoho Reports API
+slug: zoho-reports-api
+description: Zoho Analytics API Zoho Analytics API offers wide range of functions to help developers build & manage
+  powerful reporting and analytical capabilities for their business application needs
+categories:
+  - Analytics
+  - Business
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zoho-reports-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://zohoreportsapi.wiki.zoho.com/
+libraries:
+  - name: Zoho Reports Ruby SDK by Neil Giarratana
+    documentation_url: https://github.com/neilsmind/zoho_reports
+    platform: Ruby
+    author: neilsmind
+    stargazers_count: 2
+  - name: Zoho Python SDK by A2Z Cloud
+    documentation_url: https://github.com/A2Z-Cloud/Talk-Zoho
+    platform: Python
+    stargazers_count: 4
+  - name: Zoho PHP SDK by oprimus
+    documentation_url: https://github.com/oprimus/PHP-Zoho
+    platform: PHP
+    author: oprimus
+    stargazers_count: 0

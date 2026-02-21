@@ -1,0 +1,13 @@
+name: GamerPower
+slug: gamerpower
+description: The GamerPower API (Aka Game Giveaway Tracker API). Access programmatically the best giveaways in gaming,
+  from free games to beta keys to free in-game loot and more.
+categories:
+  - Commerce
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.gamerpower.com/api-read

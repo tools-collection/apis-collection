@@ -1,0 +1,11 @@
+name: Deutsche Bahn Open Data Portal
+slug: transport-for-germany
+description: API provides the timetable data
+categories:
+  - Transportation
+type: REST
+is_free: false
+logo: https://data.deutschebahn.com/images/logo.png
+links:
+  - name: Docs / Website
+    url: http://data.deutschebahn.com/dataset/api-fahrplan

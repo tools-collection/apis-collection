@@ -1,0 +1,11 @@
+name: The Sports Db
+slug: the-sports-db
+description: With the Sports DB API you can query teams, players in teams, player details, player contract details, and
+  just about any player or team data from a broad range of sports (from soccer/football to handball).
+categories:
+  - Sport & Fitness
+  - Open Source
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.thesportsdb.com/api.php

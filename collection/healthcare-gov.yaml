@@ -1,0 +1,13 @@
+name: Healthcare.gov
+slug: healthcare-gov
+description: HealthCare. gov for Developers We’re making our source code freely available on GitHub. All of our
+  educational content about the Health Insurance Marketplace® is available in machine-readable format
+categories:
+  - Health
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/healthcare-gov/logo_256x256.png
+contact: contact@handwrytten.com
+links:
+  - name: Docs / Website
+    url: https://www.healthcare.gov/developers/

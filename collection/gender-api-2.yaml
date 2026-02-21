@@ -1,0 +1,11 @@
+name: Gender API
+slug: gender-api-2
+description: Determine gender of first name
+categories:
+  - Other
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://genderapi.io
+  - name: Documentation
+    url: https://genderapi.io/api-documentation

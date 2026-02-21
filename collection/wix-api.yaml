@@ -1,0 +1,13 @@
+name: Wix REST API
+slug: wix-api
+description: Wix's REST API provides access to site data, members, contacts, orders, bookings, and blog posts. Build integrations and extend Wix-powered websites programmatically.
+categories:
+  - Development
+  - Commerce
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://dev.wix.com/docs/rest
+  - name: API Reference
+    url: https://dev.wix.com/docs/rest/api-reference/wix-data/items/introduction

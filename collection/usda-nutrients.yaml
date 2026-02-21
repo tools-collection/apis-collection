@@ -1,0 +1,12 @@
+name: USDA Nutrients
+slug: usda-nutrients
+description: FoodData Central is an integrated data system that provides expanded nutrient profile data and links to
+  related agricultural and experimental research.
+categories:
+  - Health
+  - Food & Drinks
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://fdc.nal.usda.gov/

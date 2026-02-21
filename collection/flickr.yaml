@@ -1,0 +1,197 @@
+name: Flickr
+slug: flickr
+description: Search through user Flickr content, contacts, upload or replace photos. Flickr is almost certainly the best
+  online photo management and sharing application in the world. Show off your favorite photos and videos to the world,
+  securely and privately show content to your friends and family, or blog the photos and videos you take with a
+  cameraphone
+categories:
+  - Images & Photography
+  - Video & Media
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/flickr/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.flickr.com/services/api/
+libraries:
+  - name: Flickr iOS SDK by Dennis Zelada
+    documentation_url: https://github.com/denniszelada/flickrfinder
+    platform: Swift
+    author: denniszelada
+    stargazers_count: 0
+  - name: Flickr Objective-C SDK by Lukhnos Liu
+    documentation_url: https://github.com/lukhnos/objectiveflickr
+    platform: Objective-C
+    author: lukhnos
+    stargazers_count: 792
+  - name: Flickr Node.js SDK by sujal
+    documentation_url: https://github.com/sujal/node-flickr
+    platform: Node.js
+    author: sujal
+    stargazers_count: 24
+  - name: Flickr PHP SDK by iPublikuj
+    documentation_url: https://github.com/iPublikuj/flickr
+    platform: PHP
+    stargazers_count: 2
+  - name: Flickr PHP SDK by VeryLastRoom
+    documentation_url: https://github.com/rezzza/FlickrBundle
+    platform: PHP
+    stargazers_count: 4
+  - name: Flickr Node.js SDK by Carlos Andres Lopez
+    documentation_url: https://github.com/calopez/hapi-js-fliquer
+    platform: Node.js
+    author: calopez
+    stargazers_count: 0
+  - name: Flickr Java SDK by sanghoon
+    documentation_url: https://github.com/code-it-like-beckham/flickr-api-wrapper
+    platform: Java
+    author: search-king
+    stargazers_count: 1
+  - name: Flickr Python SDK by MintedMayes
+    documentation_url: https://github.com/MintedMayes/python-flickr-api
+    platform: Python
+    author: MintedMayes
+    stargazers_count: 0
+  - name: Flickr Ruby SDK by Tomasz Wegrzanowski
+    documentation_url: https://github.com/taw/objectiveflickr
+    platform: Ruby
+    author: taw
+    stargazers_count: 0
+  - name: Flickr Go SDK by Azer Koçulu
+    documentation_url: https://github.com/azer/go-flickr
+    platform: Go
+    author: azer
+    stargazers_count: 5
+  - name: Flickr R SDK by Jim Hester
+    documentation_url: https://github.com/jimhester/flickrr
+    platform: R
+    author: jimhester
+    stargazers_count: 2
+  - name: Flickr Ruby SDK by Janko Marohnić
+    documentation_url: https://github.com/janko-m/flickr-objects
+    platform: Ruby
+    author: janko
+    stargazers_count: 28
+  - name: Flickr Node.js SDK by cooleo
+    documentation_url: https://github.com/cooleo/FlickrJS
+    platform: Node.js
+    stargazers_count: 0
+  - name: Flickr Perl SDK by Toby Corkindale
+    documentation_url: https://github.com/TJC/Flickr-API2
+    platform: PERL
+    author: TJC
+    stargazers_count: 18
+  - name: Flickr C SDK by Dave Beckett
+    documentation_url: http://librdf.org/flickcurl/
+    source_code_url: https://github.com/dajobe/flickcurl
+    platform: C
+    author: dajobe
+    stargazers_count: 58
+  - name: Flickr Swift SDK by Chris Schwartz
+    documentation_url: https://github.com/chris-schwartz/ios-swift-flickr-client
+    platform: Swift
+  - name: Flickr JavaScript SDK by Andrey Voropaev
+    documentation_url: https://github.com/thisavoropaev/flickrest
+    platform: JavaScript
+  - name: Flickr Go SDK by Nolan Caudill
+    documentation_url: https://github.com/mncaudill/go-flickr
+    platform: Go
+    author: mncaudill
+    stargazers_count: 60
+  - name: Flickr PHP SDK by JeroenG
+    documentation_url: https://github.com/Jeroen-G/Flickr
+    platform: PHP
+    author: Jeroen-G
+    stargazers_count: 25
+  - name: Flickr Node.js SDK by Mike Kamermans
+    documentation_url: https://github.com/Pomax/node-flickrapi
+    platform: Node.js
+    author: Pomax
+    stargazers_count: 176
+  - name: Flickr PHP SDK by Dan Coulter
+    documentation_url: https://github.com/dan-coulter/phpflickr
+    platform: PHP
+    author: dan-coulter
+    stargazers_count: 208
+  - name: Flickr Elixir SDK by Chuhei Ishigaki
+    documentation_url: https://github.com/chuhey/flickr_uploader
+    platform: Elixir
+    author: chuhey
+    stargazers_count: 0
+  - name: Flickr PHP SDK by Alary Franck
+    documentation_url: https://github.com/DantSu/PHPFlickr-Oauth
+    platform: PHP
+    author: DantSu
+    stargazers_count: 2
+  - name: Flickr R SDK by Francesca Mancini
+    documentation_url: https://github.com/FrancescaMancini/Flickr-API
+    platform: R
+    author: FrancescaMancini
+    stargazers_count: 10
+  - name: Flickr JavaScript SDK by Fernando Palacios Landi
+    documentation_url: https://github.com/fernandoPalaciosGit/flickr-photos-fetcher
+    platform: JavaScript
+    author: fernandoPalaciosGit
+    stargazers_count: 0
+  - name: Flickr Perl Library by Flickr
+    documentation_url: https://github.com/iamcal/perl-Flickr-API
+    platform: PERL
+    author: iamcal
+    stargazers_count: 8
+  - name: Flickr iOS Library by David Gileadi
+    documentation_url: https://github.com/dgileadi/OnlineImagePicker
+    platform: Objective-C
+    author: dgileadi
+    stargazers_count: 11
+  - name: Flickr PHP Library by Phan Thanh Cong
+    documentation_url: https://github.com/ptcong/php-remote-image-uploader
+    platform: PHP
+  - name: Flickr Java Library by Paul Bourke
+    documentation_url: https://github.com/yuyang226/FlickrjApi4Android
+    platform: Java
+    author: yuyang226
+    stargazers_count: 43
+  - name: Flickr Ruby Library by Maël Clérambault
+    documentation_url: https://github.com/hanklords/flickraw
+    platform: Ruby
+    author: hanklords
+    stargazers_count: 505
+  - name: Flickr C# Library by Sam Hudson
+    documentation_url: https://github.com/samjudson/flickr-net
+    platform: C#
+    author: samjudson
+    stargazers_count: 93
+  - name: Flickr Python Library python-flickr-api
+    documentation_url: https://github.com/alexis-mignon/python-flickr-api
+    platform: Python
+    author: alexis-mignon
+    stargazers_count: 372
+  - name: node-flickrapi
+    documentation_url: https://www.npmjs.org/package/flickrapi
+    source_code_url: https://github.com/Pomax/node-flickrapi
+    platform: Node.js
+    author: Pomax
+    stargazers_count: 176
+  - name: flickrj-android
+    documentation_url: https://code.google.com/p/flickrj-android/
+    platform: Java
+  - name: FlickrNet
+    documentation_url: http://flickrnet.codeplex.com/
+    platform: .Net
+  - name: PHP Wrapper for Flickr API
+    documentation_url: http://sourceforge.net/projects/phlickr/
+    platform: PHP
+  - name: .NET Wrapper for Flickr API
+  - name: ActionScript Library for Flickr
+    documentation_url: http://code.google.com/p/as3flickrlib/
+  - name: MediaWiki Widgets Library
+    documentation_url: http://www.mediawikiwidgets.org/
+  - name: rFlickr Ruby Library
+    documentation_url: http://www.maxdunn.com/RoR+and+Flickr
+    platform: Ruby
+  - name: flickrj
+    documentation_url: http://sourceforge.net/projects/flickrj/
+    platform: Java
+  - name: .NET Wrapper for Flickr API
+  - name: .NET Wrapper for Flickr API

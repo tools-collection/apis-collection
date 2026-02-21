@@ -1,0 +1,12 @@
+name: OpenCorporates
+slug: opencorporates
+description: World's largest open database of companies
+categories:
+  - Business
+  - Statistics & Data
+  - Finance & Economics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://api.opencorporates.com/documentation/API-Reference

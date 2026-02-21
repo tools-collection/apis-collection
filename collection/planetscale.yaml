@@ -1,0 +1,13 @@
+name: PlanetScale
+slug: planetscale
+description: PlanetScale's API provides programmatic access to manage MySQL-compatible databases, branches, deploy requests, and organizations on the PlanetScale platform.
+categories:
+  - Development
+  - Databases
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://planetscale.com/docs
+  - name: API Reference
+    url: https://api-docs.planetscale.com

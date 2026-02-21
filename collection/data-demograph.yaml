@@ -1,0 +1,11 @@
+name: Data Demograph
+slug: data-demograph
+description: Enrich your contact lists with intelligent demographics. Add gender age, income, education, ancestry,
+  crime, and political leaning to your customer insights.
+categories:
+  - Statistics & Data
+  - CRM
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://datademograph.com

@@ -1,0 +1,9 @@
+name: Libraries.Io
+slug: libraries-io
+description: Discover open source libraries, modules and frameworks you can use in your code. Open source software libraries
+categories:
+  - Open Source
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://libraries.io/api

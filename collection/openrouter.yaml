@@ -1,0 +1,12 @@
+name: OpenRouter
+slug: openrouter
+description: OpenRouter provides a unified API to access 100+ AI models from OpenAI, Anthropic, Google, Meta, and more. Route requests to the best model for your use case with a single endpoint.
+categories:
+  - AI & ML
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://openrouter.ai/docs
+  - name: API Reference
+    url: https://openrouter.ai/docs/api-reference

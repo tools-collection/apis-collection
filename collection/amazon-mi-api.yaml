@@ -1,0 +1,12 @@
+name: Amazon MI API
+slug: amazon-mi-api
+description: Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise
+  around model building, data cleansing and statistical analysis. Definition of the public APIs exposed by Amazon
+  Machine Learning
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html

@@ -1,0 +1,11 @@
+name: Transportation in Vancouver, Canada
+slug: transport-for-vancouver-canada
+description: The TransLink Open API provides access to data associated with the regional bus network, bus service
+  operations, and major road network
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.translink.ca/

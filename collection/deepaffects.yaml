@@ -1,0 +1,26 @@
+name: Deepaffects
+slug: deepaffects
+description: "DeepAffects enables developers to analyze conversational audio by applying powerful machine learning
+  models offered as a set of easy to use REST APIs. Supports apis like: Interaction Analytics, Speaker Diarization,
+  Emotion Recognition, Speech to Text etc. DeepAffects speech analysis platform supports automated multi-speaker
+  recognition, voiceprints, emotions & intents from natural conversations"
+categories:
+  - Recognition
+  - Text Analysis & Tools
+  - AI & ML
+  - Voice
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.deepaffects.com
+libraries:
+  - name: DeepAffects Python SDK
+    documentation_url: https://github.com/SEERNET/deepaffects-python
+    source_code_url: https://pypi.org/project/deepaffects/1.1.1/
+    platform: Python
+    stargazers_count: 8
+  - name: DeepAffects Node.js SDK
+    documentation_url: https://github.com/SEERNET/deepaffects-node
+    source_code_url: https://www.npmjs.com/package/deep-affects
+    platform: JavaScript, Node.js
+    stargazers_count: 4

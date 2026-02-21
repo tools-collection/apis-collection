@@ -1,0 +1,10 @@
+name: Trefle
+slug: trefle
+description: Trefle is a botanical API and data source
+categories:
+  - Environment & Nature
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://trefle.io/

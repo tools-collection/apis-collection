@@ -1,0 +1,36 @@
+name: SparkPost
+slug: sparkpost
+description: SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails. Emails
+  are delivered to the inbox quickly via a RESTful API or SMTP.
+categories:
+  - Email & SMS
+  - Analytics
+  - Chats & Messaging
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sparkpost/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.sparkpost.com
+libraries:
+  - name: Sparkpost Elixir SDK
+    documentation_url: https://github.com/SparkPost/elixir-sparkpost
+    platform: Elixir
+    stargazers_count: 43
+  - name: SparkPost Java SDK by SparkPost
+    documentation_url: https://developers.sparkpost.com/
+    source_code_url: https://github.com/sparkpost/java-sparkpost
+    platform: Java
+    stargazers_count: 40
+  - name: SparkPost Go SDK by SparkPost
+    documentation_url: https://github.com/SparkPost/gosparkpost
+    platform: Go
+    stargazers_count: 60
+  - name: SparkPost Ruby SDK by SparkPost
+    documentation_url: https://github.com/SparkPost/ruby-sparkpost
+    platform: Ruby
+    stargazers_count: 28
+  - name: SparkPost C# SDK by SparkPost
+    documentation_url: https://github.com/SparkPost/csharp-sparkpost
+    platform: C#
+    author: darrencauthon
+    stargazers_count: 53

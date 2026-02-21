@@ -1,0 +1,14 @@
+name: AssemblyAI
+slug: assemblyai
+description: AssemblyAI's API provides speech-to-text transcription, speaker diarization, sentiment analysis, topic detection, and summarization from audio and video files.
+categories:
+  - AI & ML
+  - Voice
+  - Music & Audio
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.assemblyai.com/docs
+  - name: API Reference
+    url: https://www.assemblyai.com/docs/api-reference

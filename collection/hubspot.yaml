@@ -1,0 +1,13 @@
+name: HubSpot
+slug: hubspot
+description: HubSpot's API provides access to CRM contacts, companies, deals, tickets, marketing emails, and automation workflows. Build integrations with HubSpot's all-in-one CRM platform.
+categories:
+  - CRM
+  - Marketing & SEO
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.hubspot.com
+  - name: API Reference
+    url: https://developers.hubspot.com/docs/api/overview

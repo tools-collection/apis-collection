@@ -1,0 +1,24 @@
+name: Upwork
+slug: upwork
+description: |-
+  Upwork Developers Site offers you access to Upwork's web services
+  to build your own applications and to integrate it's features and workflow
+  to your dashboards, websites and management systems.
+categories:
+  - Search
+  - Jobs
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.upwork.com/
+libraries:
+  - name: Upwork PERL SDK by Upwork
+    documentation_url: https://metacpan.org/release/Net-Upwork-API
+    platform: PERL
+  - name: Upwork JavaScript SDK by Upwork
+    documentation_url: https://developers.upwork.com/?lang=python#getting-started_libraries-and-tools
+    source_code_url: https://github.com/upwork/node-upwork
+    platform: JavaScript
+    stargazers_count: 57

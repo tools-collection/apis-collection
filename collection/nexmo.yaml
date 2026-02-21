@@ -1,0 +1,91 @@
+name: Nexmo
+slug: nexmo
+description: Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET &
+  Python. Get guides and code snippets, browse reference documentation, and more to develop connected applications with
+  Vonage APIs and SDKs
+categories:
+  - Email & SMS
+  - Voice
+  - Chats & Messaging
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nexmo/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.nexmo.com
+libraries:
+  - name: Vonage PHP SDK by Connect Corp
+    documentation_url: https://github.com/ConnectCorp/nexmo-client
+    platform: PHP
+    stargazers_count: 16
+  - name: Vonage SMS PHP SDK by Darren Whitlen
+    documentation_url: https://github.com/prawnsalad/Nexmo-PHP-lib
+    platform: PHP
+    author: prawnsalad
+    stargazers_count: 122
+  - name: Vonage SMS CodeIgniter PHP SDK by Bo-Yi Wu
+    documentation_url: https://github.com/appleboy/CodeIgniter-Nexmo-Message
+    platform: PHP
+    author: appleboy
+    stargazers_count: 49
+  - name: Vonage Ruby SDK
+    documentation_url: https://github.com/Nexmo/nexmo-ruby
+    source_code_url: https://rubygems.org/gems/nexmo
+    platform: Ruby
+    stargazers_count: 0
+  - name: Vonage NodeJS SDK
+    documentation_url: https://github.com/Nexmo/nexmo-node
+    source_code_url: https://www.npmjs.com/package/nexmo
+    platform: JavaScript, Node.js
+    stargazers_count: 1
+  - name: Vonage SMS NodeJS SDK by Aaron Blakely
+    documentation_url: https://github.com/ablakely/node-nexmo
+    platform: JavaScript, Node.js
+    author: ablakely
+    stargazers_count: 24
+  - name: Vonage SMS Python SDK by Marco Londero
+    documentation_url: https://github.com/marcuz/libpynexmo
+    platform: Python
+    author: marcuz
+    stargazers_count: 65
+  - name: Vonage SMS Perl SDK by Renee Baecker
+    documentation_url: https://github.com/reneeb/perl-Nexmo-SMS
+    platform: PERL
+    author: reneeb
+    stargazers_count: 5
+  - name: Nexmo C# Library by Jan Welker
+    platform: C#
+  - name: Nexmo Perl Library by Renee Backer
+    platform: PERL
+  - name: Nexmo Python Library by Marco Londero
+    platform: Python
+  - name: Nexmo Node.js Library by Aaron Blakely
+    platform: Node.js
+  - name: Nexmo Node.js Library by Prabhu Velayutham
+    platform: Node.js
+  - name: Nexmo Ruby Library by Tim Craft
+    platform: Ruby
+  - name: Nexmo PHP Library by Bo-Yi Wu
+    platform: PHP
+  - name: Nexmo PHP Library by Darren
+    platform: PHP
+  - name: Nexmo PHP Library by Connect Corp
+    platform: PHP
+  - name: Nexmo C# Library by Jan Welker
+    platform: C#
+  - name: Nexmo Perl Library by Renee Backer
+    platform: PERL
+  - name: Nexmo Python Library by Marco Londero
+    platform: Python
+  - name: Nexmo Node.js Library by Aaron Blakely
+    platform: Node.js
+  - name: Nexmo Node.js Library by Prabhu Velayutham
+    platform: Node.js
+  - name: Nexmo Ruby Library by Tim Craft
+    platform: Ruby
+  - name: Nexmo PHP Library by Bo-Yi Wu
+    platform: PHP
+  - name: Nexmo PHP Library by Darren
+    platform: PHP
+  - name: Nexmo PHP Library by Connect Corp
+    platform: PHP

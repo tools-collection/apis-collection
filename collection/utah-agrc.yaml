@@ -1,0 +1,12 @@
+name: Utah AGRC
+slug: utah-agrc
+description: 'Geocoding API Methods API methods for finding a geolocation (x,y) for addresses. Important Note:
+  matchAddress returns the name of the address grid system for the address. For example, "matchAddress'
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/utah-agrc/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://api.mapserv.utah.gov

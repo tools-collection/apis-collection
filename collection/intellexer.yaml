@@ -1,0 +1,21 @@
+name: Intellexer
+slug: intellexer
+description: Processing (NLP) Service including sentiment analysis, content extraction, and language detection. The
+  Intellexer API enables developers to embed text analysis solutions in consumer or enterprise applications, or
+  web-services. You can use Intellexer API with any software component that issue an HTTPS requests
+categories:
+  - Scrapers & Data Mining
+  - Development
+  - AI & ML
+  - Search
+  - Documents & Productivity
+  - Text Analysis & Tools
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://esapi.intellexer.com/
+libraries:
+  - name: Intellexer C# SDK by Intellexer
+    documentation_url: http://www.intellexer.com/
+    source_code_url: http://www.intellexer.com/sdk_overview.html
+    platform: C, C#, C++

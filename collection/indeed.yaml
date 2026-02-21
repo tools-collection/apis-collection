@@ -1,0 +1,151 @@
+name: Indeed
+slug: indeed
+description: "Post your jobs on Indeed, the #1 job site worldwide."
+categories:
+  - Jobs
+  - Search
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/indeed/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.indeed.com/publisher
+libraries:
+  - name: Job Search Web Scraper NodeJS SDK by Christian Sakai
+    documentation_url: https://github.com/christiansakai/job-search
+    platform: JavaScript, Node.js
+    author: swissarmybox
+    stargazers_count: 5
+  - name: jobs-engine C# SDK by Ahmed Farahat
+    documentation_url: https://github.com/farahat80/jobs-engine
+    platform: C#
+    author: farahat80
+    stargazers_count: 0
+  - name: Jobseekr Ruby on Rails SDK by andrew cabrera
+    documentation_url: https://github.com/n-drw/jobseekr
+    platform: Ruby
+  - name: Jobo Node.js SDK by g-gar
+    documentation_url: https://github.com/g-gar/jobo
+    platform: JavaScript, Node.js
+    author: g-gar
+    stargazers_count: 0
+  - name: Indeed Python SDK by Nick
+    documentation_url: https://github.com/nfmcclure/Job_Prevalence
+    platform: Python
+    author: nfmcclure
+    stargazers_count: 0
+  - name: Indeed Python SDK by Avram Dames
+    documentation_url: https://github.com/aviDms/indeed_api
+    platform: Python
+    author: aviDms
+    stargazers_count: 0
+  - name: Indeed Node.js SDK by Drew Frisk
+    documentation_url: https://github.com/keannan5390/Node-Indeed-API
+    platform: Node.js
+    author: MysterDru
+    stargazers_count: 5
+  - name: Indeed Ruby SDK by Indeed Labs
+    documentation_url: https://github.com/indeedlabs/indeed-ruby
+    platform: Ruby
+    stargazers_count: 18
+  - name: Indeed Angular SDK by kbrushaber
+    documentation_url: https://github.com/kbrushaber/indeed-api
+    platform: JavaScript
+    author: kbrushaber
+    stargazers_count: 0
+  - name: Indeed Python SDK by Indeed Labs
+    documentation_url: https://github.com/indeedlabs/indeed-python
+    platform: Python
+    stargazers_count: 123
+  - name: Indeed Python SDK by Tim
+    documentation_url: https://github.com/timsternation/Indeed_Job_Analysis
+    platform: Python
+    author: timsternation
+    stargazers_count: 0
+  - name: Indeed Python SDK by baramuyu
+    documentation_url: https://github.com/baramuyu/indeed_api_crawler
+    platform: Python
+    author: baramuyu
+    stargazers_count: 0
+  - name: Indeed Python SDK by Grigoriy Melnichenko
+    documentation_url: https://github.com/GriMel/indeed-python-api
+    platform: Python
+    author: GriMel
+    stargazers_count: 2
+  - name: Indeed R SDK by Geofry Lawton
+    documentation_url: https://github.com/TheGeoLawton/IndeedR
+    platform: R
+    author: TheGeoLawton
+    stargazers_count: 0
+  - name: Indeed PHP SDK by Danny
+    documentation_url: https://github.com/dfan001/Job-Skill-Search
+    platform: PHP
+  - name: Indeed Python SDK by Gary Heath
+    documentation_url: https://github.com/GaryHeath/indeed-jobs
+    platform: Python
+  - name: Indeed Python SDK by theolg
+    documentation_url: https://github.com/theolg/indeed_api
+    platform: Python
+    author: theolg
+    stargazers_count: 0
+  - name: Indeed R SDK by Sam Kleiner
+    documentation_url: https://github.com/StoicPerlman/GigMapr-R
+    platform: R
+    author: StoicPerlman
+    stargazers_count: 1
+  - name: Indeed Java SDK by Steve Soltys
+    documentation_url: https://github.com/stevesoltys/indeed
+    platform: Java
+    author: stevesoltys
+    stargazers_count: 1
+  - name: Indeed Ruby SDK by Corey
+    documentation_url: https://github.com/c1505/indeed-api
+    platform: Ruby
+    author: c1505
+    stargazers_count: 0
+  - name: Indeed Python SDK by vardhmanrp
+    documentation_url: https://github.com/vardhmanrp/Indeed-Xml-Web-API
+    platform: Python
+    author: vardhmanrp
+    stargazers_count: 0
+  - name: Indeed Python SDK by fission6
+    documentation_url: https://github.com/fission6/python-indeed
+    platform: Python
+    author: fission6
+    stargazers_count: 17
+  - name: Indeed Node.js SDK by paulrays
+    documentation_url: https://github.com/paulrays/indeed-jobs-api
+    platform: Node.js
+    author: paulrays
+    stargazers_count: 0
+  - name: Indeed PHP SDK by Lancaster Vermon
+    documentation_url: https://github.com/lanceveru/indeed-api
+    platform: PHP
+    author: lanceveru
+    stargazers_count: 0
+  - name: Indeed Node.js SDK by Murali Sangubhatla
+    documentation_url: https://github.com/muralisa/indeed-jobs
+    platform: Node.js
+    author: muralisa
+    stargazers_count: 1
+  - name: Indeed JavaScript Library by Joe Boutros
+    documentation_url: https://github.com/indeedlabs/indeed-js
+    platform: JavaScript
+    stargazers_count: 12
+  - name: " Indeed PHP Library by Karl Hughes"
+    documentation_url: https://github.com/JobBrander/jobs-indeed
+    platform: PHP
+    stargazers_count: 18
+  - name: Indeed PHP Library by Fubra Limited
+    documentation_url: https://github.com/fubralimited/indeed-api
+    source_code_url: https://github.com/fubralimited/indeed-api/blob/master/indeed-api.php
+    platform: PHP
+    stargazers_count: 3
+  - name: Indeed PHP Library by indeedlabs
+    documentation_url: https://github.com/indeedlabs/indeed-php/blob/master/README.md
+    source_code_url: https://github.com/indeedlabs/indeed-php
+    platform: PHP
+    stargazers_count: 29
+  - name: Indeed Job Search API Library
+    documentation_url: https://indeed.codeplex.com/
+    platform: .Net

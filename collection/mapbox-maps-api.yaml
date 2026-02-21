@@ -1,0 +1,10 @@
+name: Mapbox Maps API
+slug: mapbox-maps-api
+description: The Mapbox Maps API reads and renders raster map tilesets and vector map tilesets. Tilesets can be
+  retrieved as images, TileJSON, or HTML slippy maps for embedding
+categories:
+  - Maps & Geo
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.mapbox.com/api/

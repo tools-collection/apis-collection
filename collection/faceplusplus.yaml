@@ -1,0 +1,10 @@
+name: Faceplusplus
+slug: faceplusplus
+description: Meta description. A tool to detect face
+categories:
+  - Development
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/faceplusplus/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.faceplusplus.com/

@@ -1,0 +1,13 @@
+name: Uebermaps
+slug: uebermaps
+description: uebermaps are interactive maps that enable people to. Hello developer. This is the uebermaps JSON REST API
+  v2. uebermaps is a platform for everyone to create and share maps with your favorite spots
+categories:
+  - Social
+  - Maps & Geo
+type: REST
+is_free: false
+contact: support@twitter.com
+links:
+  - name: Docs / Website
+    url: https://uebermaps.com/api/v2

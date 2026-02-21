@@ -1,0 +1,10 @@
+name: Church Calendar
+slug: church-calendar
+description: Liturgical Calendar API. Browse the calendar on-line. The API provides access to Roman Catholic liturgical calendar.
+categories:
+  - Calendar & Time
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://calapi.inadiutorium.cz/

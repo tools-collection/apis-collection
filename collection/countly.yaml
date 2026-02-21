@@ -1,0 +1,50 @@
+name: Countly
+slug: countly
+description: Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and
+  mobile applications. Countly securely processes billions of data points every day in the cloud and on-premises in
+  order to help companies across the globe grow their business.
+categories:
+  - Development
+  - Open Source
+  - Analytics
+  - Marketing & SEO
+  - Authentication & User Management
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.count.ly/reference
+libraries:
+  - name: Count.ly Unity3D SDK Countly
+    documentation_url: https://github.com/Countly/countly-sdk-unity
+    platform: Unity
+    stargazers_count: 43
+  - name: Count.ly Python IoT SDK by Countly
+    documentation_url: https://github.com/Countly/countly-sdk-iot-python
+    platform: Python
+    stargazers_count: 11
+  - name: Count.ly C++ IoT SDK by Countly
+    documentation_url: https://github.com/Countly/countly-sdk-iot-cpp
+    platform: C++
+    stargazers_count: 7
+  - name: Count.ly Node.js SDK by Countly
+    documentation_url: https://github.com/Countly/countly-sdk-nodejs
+    platform: Node.js
+    stargazers_count: 22
+  - name: Count.ly Windows SDK by Countly
+    documentation_url: https://github.com/Countly/countly-sdk-windows
+    platform: C#
+    stargazers_count: 26
+  - name: Count.ly C++ SDK by GithSystems
+    documentation_url: https://github.com/GithSystems/CountlyCpp
+    platform: C++
+  - name: Count.ly iOS SDK by Countly
+    documentation_url: https://github.com/Countly/countly-sdk-ios
+    source_code_url: http://resources.count.ly/v1.0/docs/countly-sdk-for-ios-and-os-x
+    platform: Objective-C
+    stargazers_count: 584
+  - name: Count.ly Android SDK by Countly
+    documentation_url: https://github.com/Countly/countly-sdk-android
+    source_code_url: http://resources.count.ly/v1.0/docs/countly-sdk-for-android
+    platform: Java
+    stargazers_count: 623

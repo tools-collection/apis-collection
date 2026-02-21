@@ -1,0 +1,53 @@
+name: Pinterest
+slug: pinterest
+description: Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
+  Discover recipes, home ideas, style inspiration and other ideas to try
+categories:
+  - Images & Photography
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pinterest/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F
+libraries:
+  - name: Social API JS JavaScript SDK by Joris Daniel
+    documentation_url: https://github.com/yoriiis/social-api.js
+    platform: JavaScript
+    author: yoriiis
+    stargazers_count: 5
+  - name: SocialSharesCount Go SDK by Sumesh Suvarna
+    documentation_url: https://github.com/gssumesh/socialsharescount
+    platform: Go
+    author: gssumesh
+    stargazers_count: 9
+  - name: Pinterest PHP SDK by Hans Ott
+    documentation_url: https://github.com/hansott/pinterest-php
+    platform: PHP
+    author: hansott
+    stargazers_count: 47
+  - name: Pinterest PHP SDK by Dirk Groenen
+    documentation_url: https://github.com/dirkgroenen/Pinterest-API-PHP
+    platform: PHP
+    author: dirkgroenen
+    stargazers_count: 150
+  - name: Pinterest Go SDK by Carrot Creative
+    documentation_url: https://github.com/carrot/go-pinterest
+    platform: Go
+    stargazers_count: 22
+  - name: Pinterest JavaScript SDK by Pinterest
+    documentation_url: https://developers.pinterest.com/docs/sdks/js/
+    platform: JavaScript
+  - name: Pinterest Android SDK by Pinterest
+    documentation_url: https://developers.pinterest.com/docs/sdks/android/
+    platform: Java
+  - name: Pinterest iOS SDK by Pinterest
+    documentation_url: https://developers.pinterest.com/docs/sdks/ios/
+    platform: Objective-C
+  - name: Pinterest Layout Android Library by Rahul Jiresal
+    documentation_url: http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/
+    source_code_url: https://github.com/rahuljiresal/Pinterest-Layout-Android-Demo
+    platform: Java
+    author: rahuljiresal
+    stargazers_count: 28

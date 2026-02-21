@@ -1,0 +1,9 @@
+name: Furniture Store Data Api
+slug: furniture-store-data-api
+description: The aim is to provide every bit of information which is felt required for a user to know about a furniture store
+categories:
+  - Business
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://getrit.com

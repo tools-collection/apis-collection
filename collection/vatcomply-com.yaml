@@ -1,0 +1,11 @@
+name: VATComply.com
+slug: vatcomply-com
+description: VAT Number Validation API, Geolocation API, Exchange rates API
+categories:
+  - Finance & Economics
+  - Validation & Verification
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.vatcomply.com/documentation

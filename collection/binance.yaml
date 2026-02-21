@@ -1,0 +1,133 @@
+name: Binance
+slug: binance
+description: Binance cryptocurrency exchange official API
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/binance/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/binance/binance-spot-api-docs
+libraries:
+  - name: haxchange Haskell SDK by Sean McGroarty
+    documentation_url: https://github.com/mcgizzle/haxchange
+    platform: Haskell
+    author: mcgizzle
+    stargazers_count: 13
+  - name: Cryptocurrency exchanges connector PHP SDK by WALL
+    documentation_url: https://github.com/wall-one/exchange-connector
+    platform: PHP
+    stargazers_count: 5
+  - name: binancer R SDK by Gergely Daróczi
+    documentation_url: https://github.com/daroczig/binancer
+    platform: R
+    author: daroczig
+    stargazers_count: 54
+  - name: Binance REST .NET SDK by CodeTao
+    documentation_url: https://github.com/CodeTao/Binance.Api
+    platform: .Net, C#
+  - name: Binance REST Haskell SDK by Kelecorix
+    documentation_url: https://github.com/kelecorix/api-binance
+    platform: Haskell
+    stargazers_count: 0
+  - name: Binance NodeJS SDK by Marcius Capital
+    documentation_url: https://github.com/marcius-capital/binance-api
+    platform: JavaScript, Node.js
+    stargazers_count: 6
+  - name: Binance NodeJS SDK by Sonia John
+    documentation_url: https://github.com/realChainLife/Binance-API
+    platform: JavaScript, Node.js
+    author: realChainLife
+    stargazers_count: 0
+  - name: Binance REST Python SDK by Dave Standish
+    documentation_url: https://github.com/machine-uprising/api-Binance
+    platform: Python
+  - name: Binance .NET SDK by Robert Massa
+    documentation_url: https://github.com/Grepsy/BinanceService
+    source_code_url: https://www.nuget.org/packages/BinanceService
+    platform: .Net, C#
+    author: Grepsy
+    stargazers_count: 1
+  - name: Binance REST Dart SDK by Ravi Teja Gudapati
+    documentation_url: https://github.com/tejainece/binance_api.dart
+    platform: Dart
+    author: tejainece
+    stargazers_count: 1
+  - name: Binance REST Python SDK by Huy Tran
+    documentation_url: https://github.com/mrhuytran/bnb-api-wrapper
+    platform: Python
+    author: nartyuh
+    stargazers_count: 1
+  - name: Binance REST Google Apps Script SDK by AubakirovArman
+    documentation_url: https://github.com/AubakirovArman/Binance_api_gas
+    platform: Unspecified
+    author: AubakirovArman
+    stargazers_count: 4
+  - name: Binance REST Java SDK by Leo Ertuna
+    documentation_url: https://github.com/JPLeoRX/binance4j
+    platform: Java
+    author: JPLeoRX
+    stargazers_count: 2
+  - name: Binance REST Python SDK by ape364
+    documentation_url: https://github.com/ape364/aiobinance
+    source_code_url: https://pypi.org/project/aiobinance/
+    platform: Python
+    author: ape364
+    stargazers_count: 0
+  - name: Binance REST Java SDK by Marco
+    documentation_url: https://github.com/VaultDeveloper/binance-java-client
+    platform: Java
+    author: VaultDeveloper
+    stargazers_count: 0
+  - name: Binance REST Python SDK by Zac Shaiken
+    documentation_url: https://github.com/shaikezr/binance-bot
+    platform: Python
+    author: shaikezr
+    stargazers_count: 0
+  - name: Binance REST .NET SDK by WarFollowsMe
+    documentation_url: https://github.com/WarFollowsMe/NetBinance
+    platform: .Net, C#
+    author: warfollowsme
+    stargazers_count: 0
+  - name: Binance REST Python SDK by Hive Solutions
+    documentation_url: https://github.com/hivesolutions/binance_api
+    source_code_url: https://pypi.org/project/binance_api/
+    platform: Python
+    stargazers_count: 0
+  - name: Binance REST Swift SDK by Ali Ravanchi
+    documentation_url: https://github.com/ravanchi/BinanceSwift
+    platform: Swift
+    author: ravanchi
+    stargazers_count: 2
+  - name: Binance REST Kotlin SDK by Fabian Loewe
+    documentation_url: https://github.com/hyronx/binance-api-kotlin
+    platform: Kotlin
+    author: fabianloewe
+    stargazers_count: 2
+  - name: Binance REST Objective-C SDK by pclion
+    documentation_url: https://github.com/pclion/BinanceAPIForOC
+    platform: Objective-C
+    author: pclion
+    stargazers_count: 0
+  - name: Binance NodeJS SDK by tdeineka
+    documentation_url: https://github.com/tdeineka/node-binance-us-api
+    source_code_url: https://www.npmjs.com/package/node-binance-api
+    platform: JavaScript, Node.js
+    author: tdeineka
+    stargazers_count: 0
+  - name: Binance REST Java SDK by Richard He
+    documentation_url: https://github.com/richardyc/Binance-API-Challenge
+    platform: Java
+    author: richardyc
+    stargazers_count: 2
+  - name: Binance REST C# SDK by JasperDrost4
+    documentation_url: https://github.com/JasperDrost4/BinanceApiDataRetriever
+    platform: C#
+    author: JasperDrost4
+    stargazers_count: 0
+  - name: Binance REST C# SDK by Shamim Keshani
+    documentation_url: https://github.com/jeot/BinanceApi_CSharp
+    platform: C#
+    author: jeot
+    stargazers_count: 1

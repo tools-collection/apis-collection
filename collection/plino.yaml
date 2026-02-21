@@ -1,0 +1,11 @@
+name: Plino
+slug: plino
+description: Plino - A responsive spam filtering system
+categories:
+  - Security
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://plino.herokuapp.com/

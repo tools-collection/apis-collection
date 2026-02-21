@@ -1,0 +1,13 @@
+name: Stability AI
+slug: stability-ai
+description: Stability AI's API provides access to Stable Diffusion and SDXL models for image generation, editing, and upscaling. Supports text-to-image, image-to-image, and inpainting.
+categories:
+  - AI & ML
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://platform.stability.ai/docs/api-reference
+  - name: API Reference
+    url: https://platform.stability.ai/docs/api-reference

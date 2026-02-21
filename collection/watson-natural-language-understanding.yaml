@@ -1,0 +1,13 @@
+name: Watson Natural Language Understanding
+slug: watson-natural-language-understanding
+description: Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understanding will give you results
+  for the features you request. The service cleans HTML content before analysis by default, so the results can ignore
+  most advertisements and other unwanted content. Analyze various features of text content at scale
+categories:
+  - AI & ML
+  - Text Analysis & Tools
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding

@@ -1,0 +1,13 @@
+name: Bybit
+slug: bybit
+description: Bybit's API provides spot, derivatives, and options trading, market data, and account management for one of the largest crypto derivatives exchanges globally.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://bybit-exchange.github.io/docs/v5/intro
+  - name: API Reference
+    url: https://bybit-exchange.github.io/docs/v5/market/time

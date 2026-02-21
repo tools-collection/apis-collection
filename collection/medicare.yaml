@@ -1,0 +1,10 @@
+name: Medicare
+slug: medicare
+description: gov. Access to the data from the CMS - medicare
+categories:
+  - Health
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://data.medicare.gov/developers

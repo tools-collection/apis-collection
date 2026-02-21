@@ -1,0 +1,11 @@
+name: Fhir
+slug: fhir
+description: Fast Healthcare Interoperability Resources test data
+categories:
+  - Testing
+  - Health
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fhir/logo_256x256.png
+links:
+  - name: Docs / Website

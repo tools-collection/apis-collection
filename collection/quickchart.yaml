@@ -1,0 +1,11 @@
+name: QuickChart
+slug: quickchart
+description: Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
+categories:
+  - Visualizations
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://quickchart.io

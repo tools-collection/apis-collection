@@ -1,0 +1,9 @@
+name: "@Font-Face Generation Api"
+slug: atfont-face-generation-api
+description: Generate font-face using REST API. Fonts API - Subscription
+categories:
+  - Art & Design
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://everythingfonts.com/api/ffgen

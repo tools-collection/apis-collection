@@ -1,0 +1,13 @@
+name: Razorpay
+slug: razorpay
+description: Razorpay's Payment APIs support UPI, cards, net banking, and wallets for the Indian market. Features include payment links, subscriptions, payouts, and route-based split payments.
+categories:
+  - Payments
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://razorpay.com/docs/api
+  - name: API Reference
+    url: https://razorpay.com/docs/api

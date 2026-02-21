@@ -1,0 +1,26 @@
+name: Currencystack
+slug: currencystack
+description: Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment.
+categories:
+  - Finance & Economics
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencystack/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://currencystack.io
+libraries:
+  - name: CurrencyStack NodeJS SDK
+    documentation_url: https://github.com/currencystack/currencystack-node
+    platform: Node.js
+    stargazers_count: 1
+  - name: CurrencyStack PHP SDK
+    documentation_url: https://github.com/currencystack/currencystack-php
+    platform: PHP
+    stargazers_count: 0
+  - name: CurrencyStack Go SDK
+    documentation_url: https://github.com/currencystack/currencystack-go
+    platform: Go
+    stargazers_count: 2
+  - name: CurrencyStack Python SDK
+    documentation_url: https://bitbucket.org/hd1/currencystack/src/master/main.py
+    platform: Python

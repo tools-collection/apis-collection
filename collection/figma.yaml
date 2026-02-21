@@ -1,0 +1,13 @@
+name: Figma
+slug: figma
+description: Figma's API provides access to files, components, styles, comments, and team projects. Extract design tokens, automate design-to-code workflows, and build design system tooling.
+categories:
+  - Art & Design
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.figma.com/developers/api
+  - name: API Reference
+    url: https://www.figma.com/developers/api#intro

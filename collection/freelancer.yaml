@@ -1,0 +1,28 @@
+name: Freelancer
+slug: freelancer
+description: Hire in any profession you can think of using our API, on demand–developers, designers, photographers,
+  copywriters, delivery people, manufacturers and more. Task humans from software. Task humans from software
+categories:
+  - Commerce
+  - Business
+  - Jobs
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/freelancer/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.freelancer.com
+libraries:
+  - name: Freelancer Android SDK
+    documentation_url: https://github.com/freelancer/freelancer-sdk-android
+    platform: Kotlin
+    stargazers_count: 24
+  - name: "Freelancer Python SDK "
+    documentation_url: https://github.com/freelancer/freelancer-sdk-python
+    platform: Python
+    stargazers_count: 79
+  - name: JSON Placeholder Node.js Library by typicode
+    documentation_url: https://github.com/typicode/json-server
+    platform: JavaScript, Node.js
+    author: typicode
+    stargazers_count: 75642

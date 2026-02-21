@@ -1,0 +1,11 @@
+name: D3 Visualization
+slug: d3-visualization
+description: D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
+categories:
+  - Visualizations
+  - Maps & Geo
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/d3-visualization/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://d3js.org

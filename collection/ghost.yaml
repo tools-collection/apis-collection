@@ -1,0 +1,13 @@
+name: Ghost
+slug: ghost
+description: Ghost's Content and Admin APIs provide access to posts, pages, authors, tags, and settings. Build headless blogs, automate publishing, and integrate with the Ghost publishing platform.
+categories:
+  - Development
+  - Documents & Productivity
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://ghost.org/docs/content-api
+  - name: Admin API
+    url: https://ghost.org/docs/admin-api

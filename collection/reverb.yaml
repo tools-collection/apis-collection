@@ -1,0 +1,13 @@
+name: Reverb
+slug: reverb
+description: Sell and buy music related merchandise. Join the millions of music lovers who use Reverb to find everything
+  they need to make music
+categories:
+  - Music & Audio
+  - Commerce
+type: REST
+is_free: false
+contact: integrations@reverb.com
+links:
+  - name: Docs / Website
+    url: https://www.reverb-api.com/

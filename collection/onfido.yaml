@@ -1,0 +1,64 @@
+name: Onfido
+slug: onfido
+description: "Our document verification and facial biometrics technology lets your users verify themselves anywhere,
+  anytime. Document report: Object Results The result field indicates the overall report result. Possible values for
+  Document reports are clear and consider: Report resultclearIf all underlying verifications. Identity verification at
+  the speed of life. It’s as simple as an ID and a selfie"
+categories:
+  - Security
+  - Validation & Verification
+  - Authentication & User Management
+  - AI & ML
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/onfido/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://documentation.onfido.com
+libraries:
+  - name: Onfido Background Checks Android SDK
+    documentation_url: https://github.com/onfido/onfido-android-sdk
+    platform: Java
+    stargazers_count: 85
+  - name: Onfido Background Checks .Net SDK
+    documentation_url: https://github.com/onfido/onfido.net
+    source_code_url: https://www.nuget.org/packages/Onfido.NET
+    platform: .Net
+    stargazers_count: 3
+  - name: Onfido Background Checks Java SDK
+    documentation_url: https://github.com/onfido/api-java-client
+    platform: Java
+    stargazers_count: 4
+  - name: Onfido Background Checks JavaScript SDK
+    documentation_url: https://github.com/onfido/api-javascript-client
+    platform: JavaScript
+    stargazers_count: 3
+  - name: Onfido Background Checks C# SDK
+    documentation_url: https://github.com/onfido/api-csharp-client
+    platform: C#
+  - name: Onfido Background Checks iOS SDK
+    documentation_url: https://github.com/onfido/onfido-ios-sdk
+    platform: Swift
+    stargazers_count: 63
+  - name: " Onfido Background Checks Go SDK by Outdoorsy"
+    documentation_url: https://onfido.com/documentation#client-libraries
+    source_code_url: https://github.com/outdoorsy/onfido
+    platform: Go
+  - name: Onfido Background Checks Go SDK
+    documentation_url: https://onfido.com/documentation#go
+    source_code_url: https://github.com/outdoorsy/onfido
+    platform: Go
+  - name: Onfido Background Checks PHP SDK
+    documentation_url: https://onfido.com/documentation#php
+    source_code_url: https://github.com/onfido/php-onfido
+    platform: PHP
+    stargazers_count: 3
+  - name: " Onfido Background Checks Python SDK"
+    documentation_url: https://onfido.com/documentation#python
+    source_code_url: https://github.com/onfido/pyonfido
+    platform: Python
+    stargazers_count: 11
+  - name: Onfido Background Checks Ruby SDK by Hassle
+    documentation_url: https://onfido.com/documentation#ruby
+    source_code_url: https://github.com/hvssle/onfido
+    platform: Ruby
+    stargazers_count: 23

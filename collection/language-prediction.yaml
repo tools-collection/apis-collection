@@ -1,0 +1,10 @@
+name: Language Prediction
+slug: language-prediction
+description: The API returns maximum 3 detected languages and a numeric confidences between 0 and 1
+categories:
+  - AI & ML
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/language-prediction/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://rapidapi.com/BigLobster/api/language-identification-prediction

@@ -1,0 +1,13 @@
+name: Grafana
+slug: grafana
+description: Grafana's HTTP API enables management of dashboards, datasources, alerts, users, and organizations programmatically. Integrate with CI/CD pipelines and automate observability workflows.
+categories:
+  - Analytics
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://grafana.com/docs/grafana/latest/developers/http_api
+  - name: API Reference
+    url: https://grafana.com/docs/grafana/latest/developers/http_api

@@ -1,0 +1,68 @@
+name: Braintree
+slug: braintree
+description: Specializes in mobile and web payment systems for ecommerce companies. Braintree resources and tools for
+  developers to integrate Braintree's global payments platform
+categories:
+  - Business
+  - Commerce
+  - Payments
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.braintreepayments.com
+libraries:
+  - name: BrainTree Drop-In Android SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-client/android/v3#present-drop-in-ui
+    source_code_url: https://github.com/braintree/braintree-android-drop-in
+    platform: Java
+    stargazers_count: 125
+  - name: BrainTree Python SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-server/python
+    source_code_url: https://github.com/braintree/braintree_python
+    platform: Python
+    stargazers_count: 246
+  - name: BrainTree Perl SDK
+    documentation_url: https://github.com/braintree/braintree_perl
+    source_code_url: https://github.com/singingfish/braintree_perl
+    platform: PERL
+    author: dr-kd
+    stargazers_count: 3
+  - name: BrainTree .NET SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-server/dotnet
+    source_code_url: https://github.com/braintree/braintree_dotnet
+    platform: .Net
+    stargazers_count: 143
+  - name: BrainTree Java SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-server/java
+    source_code_url: https://github.com/braintree/braintree_java
+    platform: Java
+    stargazers_count: 163
+  - name: BrainTree NodeJS SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-server/node
+    source_code_url: https://github.com/braintree/braintree_node
+    platform: Node.js
+    stargazers_count: 333
+  - name: BrainTree PHP SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-server/php
+    source_code_url: https://github.com/braintree/braintree_php
+    platform: PHP
+    stargazers_count: 555
+  - name: BrainTree Client Android SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-client/android/v3
+    source_code_url: https://github.com/braintree/braintree_android
+    platform: Java
+    stargazers_count: 419
+  - name: "Braintree Client JavaScript SDK "
+    documentation_url: https://developers.braintreepayments.com/start/hello-client/javascript/v3
+    platform: JavaScript
+  - name: BrainTree Client iOS SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-client/ios/v4
+    source_code_url: https://github.com/braintree/braintree_ios
+    platform: Objective-C
+    stargazers_count: 578
+  - name: Braintree Ruby SDK
+    documentation_url: https://developers.braintreepayments.com/start/hello-server/ruby
+    source_code_url: https://github.com/braintree/braintree_ruby
+    platform: Ruby
+    stargazers_count: 446

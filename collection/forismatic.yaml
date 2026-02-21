@@ -1,0 +1,12 @@
+name: Forismatic
+slug: forismatic
+description: Gives you a random quote per click.
+categories:
+  - Fun
+  - Content & Dictionaries
+  - Random
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://forismatic.com/en/api/

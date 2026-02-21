@@ -1,0 +1,10 @@
+name: Stock News API
+slug: stock-news-api
+description: Get the latest stock news from the best news sources. Use this API to get relevant video and article
+  content from companies in the stock market.
+categories:
+  - Finance & Economics
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://stocknewsapi.com/

@@ -1,0 +1,11 @@
+name: USGS Earthquake Hazards Program
+slug: usgs-earthquake-hazards-program
+description: USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and
+  earthquake hazards
+categories:
+  - Environment & Nature
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://earthquake.usgs.gov/fdsnws/event/1/

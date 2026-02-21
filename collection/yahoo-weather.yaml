@@ -1,0 +1,25 @@
+name: Yahoo Weather
+slug: yahoo-weather
+description: Yahoo Weather API for your apps Get up-to-date weather information for any location, including 10-day
+  forecast, wind, atmosphere, astronomy conditions, and more. You can lookup weather by location
+categories:
+  - Weather
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.yahoo.com/weather/
+libraries:
+  - name: Yahoo Weather Python SDK by Anthony Bloomer
+    documentation_url: https://github.com/AnthonyBloomer/weather-api
+    source_code_url: https://pypi.python.org/pypi/weather-api/0.0.5
+    platform: Python
+  - name: "Yahoo Weather PHP SDK by Jason Leung "
+    documentation_url: https://github.com/Th3Mouk/YahooWeatherAPI
+    source_code_url: https://github.com/Th3Mouk/YahooWeatherAPI
+    platform: PHP
+    author: Th3Mouk
+    stargazers_count: 3
+  - name: Python Weather Library python-weather-api
+    documentation_url: https://code.google.com/p/python-weather-api/
+    platform: Python

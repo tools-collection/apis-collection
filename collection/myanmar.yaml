@@ -1,0 +1,10 @@
+name: Myanmar
+slug: myanmar
+description: Central bank of New Myanmar
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://forex.cbm.gov.mm/api/

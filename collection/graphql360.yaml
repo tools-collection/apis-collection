@@ -1,0 +1,14 @@
+name: Graphql360
+slug: graphql360
+description: Create and consume 360 degree panoramic tours using a GraphQL API. GraphQL 360 empowers flexible native
+  integrations for 360 degree tours. 360 Degree Tour API, powered by GraphQL
+categories:
+  - Games
+  - Images & Photography
+  - Real Estate
+  - Content & Dictionaries
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/graphql360/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://graphql360.com

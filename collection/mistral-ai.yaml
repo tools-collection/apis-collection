@@ -1,0 +1,12 @@
+name: Mistral AI
+slug: mistral-ai
+description: Mistral AI provides access to open and proprietary language models including Mistral Large, Mistral Small, and Codestral for text generation, coding, and embeddings.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.mistral.ai
+  - name: API Reference
+    url: https://docs.mistral.ai/api

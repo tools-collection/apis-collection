@@ -1,0 +1,33 @@
+name: HyperTrack
+slug: hypertrack
+description: Build applications that track the movement of your business. HyperTrack is the API for anything that moves
+  with commercial value. From startups to enterprises worldwide, product development teams build live location use cases
+  with HyperTrack to power business efficiency and product experience.
+categories:
+  - Vehicles
+  - Maps & Geo
+  - Post & Logistics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.hypertrack.com
+libraries:
+  - name: HyperTrack Python SDK by HyperTrack
+    documentation_url: https://github.com/hypertrack/hypertrack-python
+    platform: Python
+    stargazers_count: 2
+  - name: HyperTrack iOS Consumer Objective-C SDK by HyperTrack
+    documentation_url: https://docs.hypertrack.com/v3/sdks/ios/installing.html
+    platform: Objective-C
+  - name: HyperTrack iOS Driver Objective-C SDK by HyperTrack
+    documentation_url: http://docs.hypertrack.io/docs/getting-started-ios-driver
+    platform: Objective-C
+  - name: HyperTrack Android Consumer Java SDK by HyperTrack
+    documentation_url: http://docs.hypertrack.io/docs/getting-started-android-consumer
+    source_code_url: http://docs.hypertrack.io/docs/getting-started-android-consumer
+    platform: Java
+  - name: HyperTrack Android Driver Java SDK by HyperTrack
+    documentation_url: http://docs.hypertrack.io/docs/getting-started-android-driver
+    source_code_url: http://docs.hypertrack.io/docs/getting-started-android-driver
+    platform: Java

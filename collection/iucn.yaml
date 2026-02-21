@@ -1,0 +1,11 @@
+name: IUCN
+slug: iucn
+description: List of more than 35,500 species that are threatened with extinction
+categories:
+  - Animals
+  - Environment & Nature
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://apiv3.iucnredlist.org/api/v3/docs

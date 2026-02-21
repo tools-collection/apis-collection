@@ -1,0 +1,11 @@
+name: Scrapeboss
+slug: scrapeboss
+description: Return developer friendly JSON data for almost any article
+categories:
+  - Scrapers & Data Mining
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapeboss/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://scrapeboss.com/

@@ -1,0 +1,28 @@
+name: DeviantArt
+slug: deviantart
+description: The largest social networking website for artists and art enthusiasts. Find out how applications and
+  websites integrate with DeviantArt and get started with oAuth 2. 0
+categories:
+  - Files & Storage
+  - Social
+  - Art & Design
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deviantart/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.deviantart.com/developers/
+libraries:
+  - name: DeviantART Java SDK by Karson Kimbrel
+    documentation_url: https://github.com/KarsonKimbrel/DeviantArt-OAuth2-Java
+    platform: Java
+  - name: DeviantART RSS PHP SDK by James Alexander Lee
+    documentation_url: https://github.com/jamesl1001/deviantART-API
+    platform: PHP
+    author: jamesl1001
+    stargazers_count: 34
+  - name: uploaderNet .NET SDK by mOrfiUs
+    documentation_url: https://github.com/mOrfiUs/uploaderNet
+    platform: .Net, C#
+    author: mOrfiUs
+    stargazers_count: 4

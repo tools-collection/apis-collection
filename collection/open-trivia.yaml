@@ -1,0 +1,10 @@
+name: Open Trivia
+slug: open-trivia
+description: Free to use, user-contributed trivia questions!
+categories:
+  - Games
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://opentdb.com/api_config.php

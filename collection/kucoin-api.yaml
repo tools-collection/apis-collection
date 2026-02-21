@@ -1,0 +1,13 @@
+name: KuCoin
+slug: kucoin-api
+description: KuCoin's API supports spot, margin, and futures trading with market data, order management, and account endpoints. One of the largest crypto exchanges with 700+ listed assets.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.kucoin.com/docs/beginners/introduction
+  - name: API Reference
+    url: https://www.kucoin.com/docs/rest/account-info/get-apikey-info

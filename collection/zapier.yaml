@@ -1,0 +1,13 @@
+name: Zapier
+slug: zapier
+description: Zapier's API enables creating and managing Zaps (automated workflows), accessing connected app data, and triggering automations programmatically across 6,000+ integrated apps.
+categories:
+  - Development
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.zapier.com/apis/zapier-apis
+  - name: API Reference
+    url: https://docs.zapier.com/apis/zapier-apis/rest

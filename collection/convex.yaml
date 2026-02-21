@@ -1,0 +1,13 @@
+name: Convex
+slug: convex
+description: Convex is a backend-as-a-service platform offering a reactive database, serverless functions, file storage, and real-time subscriptions accessible via TypeScript SDK and HTTP actions.
+categories:
+  - Development
+  - Databases
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.convex.dev
+  - name: HTTP Actions
+    url: https://docs.convex.dev/functions/http-actions

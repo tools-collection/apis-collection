@@ -1,0 +1,46 @@
+name: Microsoft Graph
+slug: microsoft-graph
+description: Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail,
+  calendar, contacts, documents, directory, devices, and more. API for accessing stored files and photos for personal
+  and enterprise users with high resolution thumbnails and Microsoft Office APIs
+categories:
+  - Email & SMS
+  - Collaboration
+  - Files & Storage
+  - Calendar & Time
+  - CRM
+  - Documents & Productivity
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive
+libraries:
+  - name: Microsoft Graph JavaScript SDK by Microsoft
+    documentation_url: https://github.com/microsoftgraph/msgraph-sdk-javascript
+    platform: JavaScript
+    stargazers_count: 412
+  - name: Microsoft Graph PHP SDK by Microsoft
+    documentation_url: https://github.com/microsoftgraph/msgraph-sdk-php
+    platform: PHP
+    stargazers_count: 288
+  - name: Microsoft Graph Objective-C SDK by Microsoft
+    documentation_url: https://github.com/microsoftgraph/msgraph-sdk-ios
+    platform: Objective-C
+    stargazers_count: 24
+  - name: Microsoft Graph Java SDK by Microsoft
+    documentation_url: https://github.com/microsoftgraph/msgraph-sdk-android
+    platform: Java
+    stargazers_count: 52
+  - name: Microsoft Graph Ruby SDK by Microsoft
+    documentation_url: https://github.com/microsoftgraph/msgraph-sdk-ruby
+    platform: Ruby
+    stargazers_count: 65
+  - name: Microsoft Graph Python SDK by Microsoft
+    documentation_url: https://github.com/microsoftgraph/msgraph-sdk-python
+    platform: Python
+    stargazers_count: 40
+  - name: Microsoft Graph .Net SDK by Microsoft
+    documentation_url: https://github.com/microsoftgraph/msgraph-sdk-dotnet
+    platform: .Net
+    stargazers_count: 374

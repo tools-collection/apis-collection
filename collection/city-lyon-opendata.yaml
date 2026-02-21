@@ -1,0 +1,11 @@
+name: City, Lyon Opendata
+slug: city-lyon-opendata
+description: Les données des acteurs du territoire de la Métropole de Lyon
+categories:
+  - Government
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/city-lyon-opendata/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://data.beta.grandlyon.com/fr/accueil

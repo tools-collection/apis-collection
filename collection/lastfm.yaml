@@ -1,0 +1,124 @@
+name: LastFm
+slug: lastfm
+description: fm. Allows anyone to build their own programs using Last. fm data, whether they're on the web, the desktop
+  or mobile devices. The world's largest online music service. Listen online, find out more about your favourite
+  artists, and get music recommendations, only at Last
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lastfm/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.last.fm/api
+libraries:
+  - name: MetaMusic .NET SDK by David Pires
+    documentation_url: https://github.com/Davidblkx/MetaMusic
+    platform: .Net
+    author: Davidblkx
+    stargazers_count: 1
+  - name: Last.fm PHP SDK by Matt Oakes
+    documentation_url: https://packagist.org/packages/matto1990/lastfm-api
+    source_code_url: https://github.com/matto1990/PHP-Last.fm-API
+    platform: PHP
+    author: matt-oakes
+    stargazers_count: 106
+  - name: Last.fm PHP SDK by Pierre Quillery
+    documentation_url: https://packagist.org/packages/dandelionmood/lastfm
+    source_code_url: https://github.com/dandelionmood/php-lastfm
+    platform: PHP
+    author: dandelionmood
+    stargazers_count: 26
+  - name: Last.fm Symfony SDK by Karol Sójko
+    documentation_url: https://packagist.org/packages/binarythinking/lastfm-bundle
+    source_code_url: https://github.com/karolsojko/BinaryThinkingLastfmBundle
+    platform: PHP
+    author: karolsojko
+    stargazers_count: 15
+  - name: Last.fm Node.js SDK by Max Kueng
+    documentation_url: https://github.com/maxkueng/node-lastfmapi
+    platform: Node.js
+    author: maxkueng
+    stargazers_count: 49
+  - name: Last.fm PHP SDK by Witold Wasiczko
+    documentation_url: https://github.com/snapshotpl/LastFmClient
+    platform: PHP
+    author: snapshotpl
+    stargazers_count: 1
+  - name: Last.fm Java SDK by Johann Kovacs
+    documentation_url: https://github.com/jkovacs/lastfm-java
+    platform: Java
+    author: jkovacs
+    stargazers_count: 59
+  - name: Last.fm JavaScript SDK by Felix Bruns
+    documentation_url: https://github.com/fxb/javascript-last.fm-api
+    platform: JavaScript
+    author: fxb
+    stargazers_count: 279
+  - name: Last.fm .Net SDK by Inflatable Friends
+    documentation_url: https://github.com/inflatablefriends/lastfm
+    platform: .Net
+    stargazers_count: 75
+  - name: Last.fm iOS and Mac OS X SDK by Kevin Renskers
+    documentation_url: https://github.com/gangverk/LastFm
+    platform: Objective-C
+    stargazers_count: 82
+  - name: Last.fm C++ Library by Last.fm
+    documentation_url: https://github.com/lastfm/libmoost
+    platform: C++
+    stargazers_count: 160
+  - name: Last.fm Python Library by Adrian Sampson
+    documentation_url: https://github.com/sampsyo/pylastfp
+    platform: Backbone.js, Python
+    stargazers_count: 28
+  - name: Last.fm C# Library by Vyacheslav Lisnevskyi
+    documentation_url: https://github.com/VLisnevskiy/Last.fm.API/blob/master/README.md
+    source_code_url: https://github.com/VLisnevskiy/Last.fm.API
+    platform: C#
+    author: VLisnevskiy
+    stargazers_count: 3
+  - name: Last.fm PHP Library by Felix Bruns
+    documentation_url: http://lastfm.felixbruns.de/php-last.fm-api/
+    source_code_url: https://github.com/fxb/php-last.fm-api
+    platform: PHP
+    author: fxb
+    stargazers_count: 84
+  - name: Last.fm C++ Library by Javier Santacruz López-Cepero
+    documentation_url: https://www.openhub.net/p/liblfm
+    source_code_url: http://sourceforge.net/projects/liblfm/
+    platform: C++
+  - name: Last.fm Java Library lastfm-java
+    documentation_url: https://code.google.com/p/lastfm-java/
+    platform: Java
+  - name: Last.fm ActionScript Library lastfm-as3
+    documentation_url: https://code.google.com/p/lastfm-as3/
+    platform: ActionScript
+  - name: JavaScript last.fm API
+    documentation_url: http://lastfm.felixbruns.de/javascript-last.fm-api/
+    source_code_url: https://github.com/fxb/javascript-last.fm-api
+    platform: JavaScript
+    author: fxb
+    stargazers_count: 279
+  - name: scrobbler2
+    documentation_url: https://github.com/gingerhendrix/scrobbler2/tree/master
+    platform: Ruby
+    author: gingerhendrix
+    stargazers_count: 42
+  - name: Last.fm Lib .Net
+    documentation_url: http://lastfmlibnet.sourceforge.net/
+    platform: .Net
+  - name: PHP last.fm API
+    documentation_url: https://github.com/fxb/php-last.fm-api
+    platform: PHP
+    author: fxb
+    stargazers_count: 84
+  - name: LPFM Last.fm Scrobbler
+    documentation_url: http://lpfm.codeplex.com/
+    platform: .Net
+  - name: pyLast
+    documentation_url: https://code.google.com/p/pylast/
+    platform: Python
+  - name: Perl Library for Last.fm
+    documentation_url: http://search.cpan.org/~nilsonsfj/WebService-Audioscrobbler-0.07/lib/WebService/Audioscrobbler.pm
+  - name: "LastFmLib.Net: Last.fm API .NET Library "
+    documentation_url: http://lastfmlibnet.de.vu/

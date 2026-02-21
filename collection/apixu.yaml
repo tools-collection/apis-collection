@@ -1,0 +1,52 @@
+name: APIXU
+slug: apixu
+description: Get current weather information, historical data and forecasts using weatherstack - a free world weather
+  REST API supporting millions of global locations
+categories:
+  - Weather
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.apixu.com/doc/request.aspx
+libraries:
+  - name: "Apixu Python SDK "
+    documentation_url: https://github.com/apixu/apixu-python
+    platform: Python
+    author: apixu
+    stargazers_count: 30
+  - name: "Apixu Node.js SDK "
+    documentation_url: https://github.com/apixu/apixu-nodejs
+    platform: Node.js
+    author: apixu
+    stargazers_count: 22
+  - name: Apixu Java SDK
+    documentation_url: https://github.com/apixu/apixu-java
+    platform: Java
+    author: apixu
+    stargazers_count: 9
+  - name: Apixu Ruby SDK
+    documentation_url: https://github.com/apixu/apixu-ruby
+    platform: Ruby
+    author: apixu
+    stargazers_count: 2
+  - name: Apixu Android SDK
+    documentation_url: https://github.com/apixu/apixu-android
+    platform: Java
+    author: apixu
+    stargazers_count: 2
+  - name: Apixu PHP SDK
+    documentation_url: https://github.com/apixu/apixu-php
+    platform: PHP
+    author: apixu
+    stargazers_count: 22
+  - name: Apixu C# SDK
+    documentation_url: https://github.com/apixu/apixu-csharp
+    platform: C#
+    author: apixu
+    stargazers_count: 17
+  - name: Apixu Perl SDK
+    documentation_url: https://github.com/apixu/apixu-perl
+    platform: PERL
+    author: apixu
+    stargazers_count: 1

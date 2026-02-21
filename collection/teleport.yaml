@@ -1,0 +1,19 @@
+name: Teleport
+slug: teleport
+description: Welcome to Teleport for Developers! Largest and most up-to-date quality of life database for Planet Earth
+  using 300+ different data dimensions from 70+ different sources
+categories:
+  - News & Feeds
+  - Images & Photography
+  - Video & Media
+  - Environment & Nature
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/teleport/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.teleport.org/
+libraries:
+  - name: Teleport .NET SDK by Mark Embling
+    documentation_url: https://github.com/markembling/MarkEmbling.Teleport
+    platform: .Net

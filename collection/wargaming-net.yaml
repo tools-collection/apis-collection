@@ -1,0 +1,11 @@
+name: Wargaming.net
+slug: wargaming-net
+description: Wargaming Games API. Stats, Matches, Data
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.wargaming.net/

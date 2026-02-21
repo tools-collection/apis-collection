@@ -1,0 +1,13 @@
+name: OKX
+slug: okx-api
+description: OKX's API provides spot, futures, options, and DeFi trading with real-time market data and account management. One of the world's largest crypto exchanges with extensive financial products.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.okx.com/docs-v5/en
+  - name: API Reference
+    url: https://www.okx.com/docs-v5/en/#order-book-trading-market-data

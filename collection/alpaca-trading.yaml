@@ -1,0 +1,12 @@
+name: Alpaca Trading
+slug: alpaca-trading
+description: Alpaca's Trading API provides commission-free stock and crypto trading, market data, and portfolio management. Build algorithmic trading bots and fintech apps with broker-dealer infrastructure.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.alpaca.markets
+  - name: API Reference
+    url: https://docs.alpaca.markets/reference/getallassets

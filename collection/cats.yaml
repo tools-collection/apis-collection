@@ -1,0 +1,10 @@
+name: Cats
+slug: cats
+description: A public service API all about Cats, free to use when making your fancy new App, Website or Service.
+categories:
+  - Animals
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.thecatapi.com/

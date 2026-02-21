@@ -1,0 +1,14 @@
+name: Supabase
+slug: supabase
+description: Supabase is an open-source Firebase alternative offering a RESTful API over PostgreSQL, real-time subscriptions, authentication, file storage, and Edge Functions.
+categories:
+  - Development
+  - Databases
+  - Authentication & User Management
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://supabase.com/docs
+  - name: API Reference
+    url: https://supabase.com/docs/guides/api

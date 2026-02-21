@@ -1,0 +1,10 @@
+name: Shakespeare Translation Api
+slug: shakespeare-translation-api
+description: Translate from English to Shakespeare English
+categories:
+  - Translation
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shakespeare-translation-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://funtranslations.com/api/shakespeare

@@ -1,0 +1,18 @@
+name: Acoustid
+slug: acoustid
+description: Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint
+  database and submitting new fingerprints into the database. Usage Guidelines Remember that
+categories:
+  - Music & Audio
+  - Video & Media
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://acoustid.org/webservice
+libraries:
+  - name: MusicApiCollection C# SDK by BigGranu
+    documentation_url: https://github.com/BigGranu/MusicApiCollection
+    platform: C#
+    author: BigGranu
+    stargazers_count: 28

@@ -1,0 +1,13 @@
+name: n8n
+slug: n8n
+description: n8n's REST API manages workflows, executions, credentials, and users on the open-source workflow automation platform. Self-host or use n8n Cloud for fair-code automation.
+categories:
+  - Development
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.n8n.io/api
+  - name: API Reference
+    url: https://docs.n8n.io/api/api-reference

@@ -1,0 +1,10 @@
+name: Switzerland
+slug: switzerland
+description: Swiss National Bank
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://data.snb.ch/en

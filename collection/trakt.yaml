@@ -1,0 +1,11 @@
+name: Trakt
+slug: trakt
+description: Trakt collect lots of information about what tv shows and movies everyone is watching. A place where APIs are kept
+categories:
+  - Entertainment
+  - Video & Media
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://trakt.docs.apiary.io/

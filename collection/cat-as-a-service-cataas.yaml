@@ -1,0 +1,12 @@
+name: Cat as a Service (CATAAS)
+slug: cat-as-a-service-cataas
+description: Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks to cats.
+categories:
+  - Animals
+  - Fun
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cat-as-a-service-cataas/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://cataas.com/#/

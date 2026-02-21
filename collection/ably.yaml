@@ -1,0 +1,65 @@
+name: Ably
+slug: ably
+description: API for making cross-protocol realtime communication between devices easy. Ably documentation for 40+ web,
+  mobile, and IoT SDKs, quickstart guides and tutorials, and realtime concepts and design patterns
+categories:
+  - IoT & Home Automation
+  - Chats & Messaging
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ably/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.ably.com/documentation
+libraries:
+  - name: Ably Xamarin SDK
+    documentation_url: https://github.com/ably/ably-dotnet
+    platform: .Net
+    stargazers_count: 50
+  - name: Ably Scala SDK
+    documentation_url: https://github.com/ably/ably-java
+    platform: Scala
+    stargazers_count: 95
+  - name: Ably Cordova SDK
+    documentation_url: https://github.com/ably/ably-js
+    platform: JavaScript
+    stargazers_count: 356
+  - name: Ably Ruby SDK by Ably
+    documentation_url: https://rubygems.org/gems/ably
+    source_code_url: https://github.com/ably/ably-ruby
+    platform: Ruby
+    stargazers_count: 42
+  - name: Ably React Native JavaScript SDK by Ably
+    documentation_url: https://github.com/ably/ably-js-react-native
+    platform: JavaScript
+    stargazers_count: 8
+  - name: Ably Python SDK by Ably
+    documentation_url: https://pypi.python.org/pypi/ably
+    source_code_url: https://github.com/ably/ably-python
+    platform: Python
+    stargazers_count: 56
+  - name: Ably PHP SDK by Ably
+    documentation_url: https://github.com/ably/ably-php
+    platform: PHP
+    stargazers_count: 58
+  - name: Ably NativeScript SDK by Ably
+    documentation_url: https://github.com/ably/ably-js-nativescript
+    platform: JavaScript
+    stargazers_count: 8
+  - name: Ably .NET SDK by Ably
+    documentation_url: https://www.nuget.org/packages/ably.io/
+    source_code_url: https://github.com/ably/ably-dotnet
+    platform: .Net
+    stargazers_count: 50
+  - name: Ably Swift SDK by Ably
+    documentation_url: https://github.com/ably/ably-ios
+    platform: Swift
+    stargazers_count: 53
+  - name: "Ably Go SDK by Ably "
+    documentation_url: https://github.com/ably/ably-go
+    platform: Go
+    stargazers_count: 92
+  - name: Ably PHP Library for Laravel Framework
+    documentation_url: https://github.com/ably/ably-php-laravel
+    platform: PHP
+    stargazers_count: 29

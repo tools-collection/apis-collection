@@ -1,0 +1,11 @@
+name: Czech Television
+slug: czech-television
+description: Czech Television TV Program
+categories:
+  - Video & Media
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/czech-television/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://www.ceskatelevize.cz/xml/tv-program/

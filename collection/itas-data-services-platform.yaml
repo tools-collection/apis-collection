@@ -1,0 +1,12 @@
+name: ITA's Data Services Platform
+slug: itas-data-services-platform
+description: The Data Services Platform from the International Trade Administration (ITA) provides direct access to
+  authoritative information on U.S. exporting and international trade via standard APIs. ITA has built the platform to
+  be the central source for exporting data important to small and medium sized U.S. businesses.
+categories:
+  - Government
+  - Business
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://api.trade.gov/apps/store/ita

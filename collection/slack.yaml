@@ -1,0 +1,93 @@
+name: Slack
+slug: slack
+description: Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide
+  out of the box.
+categories:
+  - Social
+  - Chats & Messaging
+  - Collaboration
+  - Documents & Productivity
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/slack/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://api.slack.com/
+libraries:
+  - name: Slack Python SDK by Slack
+    documentation_url: http://slackapi.github.io/python-slackclient/
+    source_code_url: https://github.com/slackapi/python-slackclient
+    platform: Python
+    stargazers_count: 3065
+  - name: Slack Events PHP SDK by Jarrad Littleford
+    documentation_url: https://packagist.org/packages/suspectdoubloon/slack-api
+    source_code_url: https://github.com/suspectdoubloon/slack-api
+    platform: PHP
+    author: suspectdoubloon
+    stargazers_count: 0
+  - name: Slack Ruby SDK by Akiteru Maeda
+    documentation_url: https://github.com/aki017/slack-ruby-gem
+    platform: Ruby
+    author: aki017
+    stargazers_count: 245
+  - name: Slack Ruby SDK by SoundCloud
+    documentation_url: https://github.com/soundcloud/slack-ruby-gem
+    platform: Ruby
+  - name: Slack Ruby SDK by Daniel Doubrovkine
+    documentation_url: https://github.com/dblock/slack-ruby-client
+    platform: Ruby
+    author: dblock
+    stargazers_count: 16
+  - name: Slack Node.js SDK by Slack
+    documentation_url: https://slackapi.github.io/node-slack-sdk/
+    source_code_url: https://github.com/slackapi/node-slack-sdk
+    platform: Node.js
+    stargazers_count: 2849
+  - name: Slack PHP SDK by Morning Train
+    documentation_url: https://packagist.org/packages/morningtrain/slack-api
+    source_code_url: https://github.com/Morning-Train/slack-api
+    platform: PHP
+    stargazers_count: 4
+  - name: SlackAPI .Net SDK by Inumedia
+    documentation_url: https://github.com/Inumedia/SlackAPI/blob/master/README.md
+    source_code_url: https://github.com/Inumedia/SlackAPI
+    platform: .Net
+    author: Inumedia
+    stargazers_count: 385
+  - name: Slack MargieBot .Net SDK by Jammerware
+    documentation_url: https://github.com/jammerware/margiebot/blob/master/README.md
+    source_code_url: https://github.com/jammerware/margiebot
+    platform: .Net
+    author: jammerware
+    stargazers_count: 117
+  - name: Slack .NET SDK by WooCode
+    documentation_url: https://github.com/WooCode/WooCode.Slack
+    platform: .Net
+    stargazers_count: 23
+  - name: Slack Go SDK by Norberto Lopes
+    documentation_url: https://github.com/nlopes/slack
+    platform: Go
+    author: nlopes
+    stargazers_count: 8
+  - name: Slack JavaScript SDK
+    documentation_url: https://www.npmjs.com/package/slack-api
+    platform: JavaScript
+  - name: Slack Laravel Library by Vagner Luz do Carmo
+    documentation_url: https://github.com/vluzrmos/laravel-slack-api
+    platform: PHP
+    author: vluzrmos
+    stargazers_count: 90
+  - name: Slack Node.js Library by Tom Eklof
+    documentation_url: https://www.npmjs.com/package/hubot-slack-api
+    source_code_url: https://github.com/ORBAT/hubot-slack-api
+    platform: Node.js
+    author: ORBAT
+    stargazers_count: 10
+  - name: Slack API Haskell Library
+    documentation_url: https://api.slack.com/web
+    source_code_url: https://hackage.haskell.org/package/slack-api-0.1
+    platform: Haskell
+  - name: "Slack API Haskell Library "
+    documentation_url: https://hackage.haskell.org/package/slack
+    source_code_url: https://hackage.haskell.org/package/slack
+    platform: Haskell

@@ -1,0 +1,70 @@
+name: Comic Vine
+slug: comic-vine
+description: An extremely mature, well organized and continuely updated resource of comic information. The largest comic
+  database online, Comic Vine features Comic Reviews, News, Videos, and Forums for the latest in and more!
+categories:
+  - Entertainment
+  - Comics & Anime
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/comic-vine/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://comicvine.gamespot.com/api/
+libraries:
+  - name: Comic Vine C# SDK by sorrentmutie
+    documentation_url: https://github.com/sorrentmutie/SharpComicVine
+    platform: C#
+    author: sorrentmutie
+    stargazers_count: 2
+  - name: Comic Vine Elixir SDK by comics-apps
+    documentation_url: https://github.com/comics-apps/ex_comic_vine_api
+    platform: Elixir
+    stargazers_count: 0
+  - name: Comic Vine Ruby SDK by comics-apps
+    documentation_url: https://github.com/comics-apps/comic_vine-api
+    platform: Ruby
+    stargazers_count: 0
+  - name: Comic Vine PHP SDK by Outlaw Designs
+    documentation_url: https://github.com/outlawdesigns-io/ComicVine
+    platform: PHP
+    stargazers_count: 0
+  - name: Comic Vine .NET SDK by Matthew Leibowitz
+    documentation_url: https://github.com/mattleibow/ComicVineApi
+    platform: .Net, C#
+    author: mattleibow
+    stargazers_count: 7
+  - name: Comic Vine Python SDK by swc
+    documentation_url: https://github.com/swc/comicvine_api
+    platform: Python
+    author: swc
+    stargazers_count: 8
+  - name: Comic Vine Ruby SDK by Patrick Sharp
+    documentation_url: https://github.com/Jakanapes/ComicVine
+    platform: Ruby
+    author: Jakanapes
+    stargazers_count: 9
+  - name: Comic Vine Objective-C SDK by Bryan ClarkDeprecated
+    platform: Objective-C
+  - name: Comic Vine .NET SDK by Olivier Beaudoin
+    documentation_url: https://github.com/Thoorium/comicvine-api-net
+    platform: .Net, C#
+    author: Thoorium
+    stargazers_count: 1
+  - name: Comic Vine JavaScript SDK by foysal
+    documentation_url: https://github.com/foysalit/mean-comics
+    platform: JavaScript
+    author: foysalit
+    stargazers_count: 0
+  - name: Comic Vine Java SDK by Kyle Harrison
+    documentation_url: https://github.com/apoclyps/Comicvine-GrapeJuice
+    platform: Java
+    author: apoclyps
+    stargazers_count: 2
+  - name: Comic Vine Python SDK by Martine Lenders
+    documentation_url: https://github.com/miri64/pycomicvine
+    platform: Python
+    author: miri64
+    stargazers_count: 21
+  - name: Comic Vine Objective-C SDK by Bryan ClarkDeprecated
+    platform: Objective-C

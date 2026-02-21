@@ -1,0 +1,12 @@
+name: Finnhub
+slug: finnhub
+description: Finnhub's API provides real-time stock prices, company fundamentals, earnings estimates, news sentiment, and alternative data for 60+ global exchanges and crypto markets.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://finnhub.io/docs/api
+  - name: API Reference
+    url: https://finnhub.io/docs/api/introduction

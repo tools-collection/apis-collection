@@ -1,0 +1,10 @@
+name: Penguin Publishing
+slug: penguin-publishing
+description: Sample XML response Sample JSON response
+categories:
+  - Books
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.penguinrandomhouse.biz/webservices/rest/

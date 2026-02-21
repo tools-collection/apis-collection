@@ -1,0 +1,17 @@
+name: AniList
+slug: anilist
+description: The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including
+  character, staff, and live airing data
+categories:
+  - Comics & Anime
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anilist/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/AniList/ApiV2-GraphQL-Docs
+libraries:
+  - name: Minoshiro Python SDK by Minoshiro
+    documentation_url: https://github.com/Mino-shiro/Minoshiro
+    platform: Python
+    stargazers_count: 21

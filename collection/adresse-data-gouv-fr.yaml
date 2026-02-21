@@ -1,0 +1,12 @@
+name: adresse.data.gouv.fr
+slug: adresse-data-gouv-fr
+description: |-
+  The national address site of France.
+  List all the addresses in the country and make them usable by everyone.
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://adresse.data.gouv.fr

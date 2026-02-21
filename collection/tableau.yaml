@@ -1,0 +1,13 @@
+name: Tableau REST API
+slug: tableau
+description: Tableau's REST API manages workbooks, views, data sources, projects, and users on Tableau Server and Tableau Cloud. Automate publishing, permissions, and data refresh workflows.
+categories:
+  - Analytics
+  - Statistics & Data
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api.htm
+  - name: API Reference
+    url: https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref.htm

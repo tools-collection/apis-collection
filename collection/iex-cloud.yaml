@@ -1,0 +1,61 @@
+name: IEX Cloud
+slug: iex-cloud
+description: IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
+categories:
+  - Finance & Economics
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/iex-cloud/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://iexcloud.io/
+libraries:
+  - name: IEX Cloud Node.js SDK by Bruce Curtis Schardt
+    documentation_url: https://github.com/schardtbc/iexcloud_api_wrapper
+    platform: Node.js
+    author: schardtbc
+    stargazers_count: 76
+  - name: IEX Cloud Go SDK by Matthew Rankin
+    documentation_url: https://github.com/goinvest/iexcloud
+    platform: Go
+    stargazers_count: 81
+  - name: " IEX Cloud .NET SDK by Cody Rocheleau"
+    documentation_url: https://www.nuget.org/packages/IEXCloudDotNet/
+    platform: .Net
+  - name: IEX R SDK by Imanuel Costigan
+    documentation_url: https://github.com/imanuelcostigan/iex
+    platform: R
+    author: imanuelcostigan
+    stargazers_count: 7
+  - name: IEX PHP SDK by Michael Drennen
+    documentation_url: https://packagist.org/packages/dprmc/iex-trading
+    platform: PHP
+  - name: IEX Node.js SDK by David Lau and Bilal Quadri
+    documentation_url: https://github.com/bilalq/iex-api
+    platform: Node.js
+    author: bilalq
+    stargazers_count: 44
+  - name: IEX .NET SDK by Simone Giuliani and Antonio Papa
+    documentation_url: https://www.nuget.org/packages/IEXTradingApi
+    platform: .Net
+  - name: "IEX Finance Python SDK by Addison Lynch "
+    documentation_url: https://pypi.org/project/iexfinance/
+    platform: Python
+  - name: "IEX Finance Quote Perl SDK by Jeffrey T. Palmer "
+    documentation_url: https://github.com/jtpalmer/Finance-Quote-IEX
+    platform: PERL
+    author: jtpalmer
+    stargazers_count: 4
+  - name: "IEX Trading Java SDK by Wojciech Zankowski "
+    documentation_url: https://github.com/WojciechZankowski/iextrading4j
+    platform: Java
+    author: WojciechZankowski
+    stargazers_count: 109
+  - name: IEX Stocks Haskell SDK by David Bouchare and Kristian Sällberg
+    documentation_url: https://hackage.haskell.org/package/stocks
+    platform: Haskell
+  - name: IEX Go SDK by Timothy Palpant
+    documentation_url: https://github.com/timpalpant/go-iex
+    platform: Go
+    author: timpalpant
+    stargazers_count: 87

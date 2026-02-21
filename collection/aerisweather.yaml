@@ -1,0 +1,48 @@
+name: AerisWeather
+slug: aerisweather
+description: AerisWeather provides a powerful weather API, mapping platform, and developer toolkits that allow
+  weather-sensitive businesses worldwide to operate more efficiently, safely, and profitably. Global weather data and
+  imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries,
+  free SDKs and a Map Builder to get you up and running faster
+categories:
+  - Weather
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.aerisweather.com
+libraries:
+  - name: "Aeris Weather Python SDK "
+    documentation_url: https://www.aerisweather.com/support/docs/toolkits/aeris-python-sdk/
+    platform: Python
+  - name: AerisWeather iOS SDK
+    documentation_url: https://www.aerisweather.com/support/docs/toolkits/aeris-ios-sdk/
+    source_code_url: https://github.com/aerisweather/Aeris-iOS-Library
+    platform: Objective-C, Swift
+    stargazers_count: 22
+  - name: AerisWeather Interactive Maps JavaScript SDK by AerisWeather
+    documentation_url: http://www.aerisweather.com/support/docs/toolkits/aeris-interactive-maps/
+    platform: JavaScript, xml
+  - name: AerisWeather Android SDK by AerisWeather
+    documentation_url: https://github.com/aerisweather/AerisAndroidSDK
+    platform: Java
+    stargazers_count: 12
+  - name: AerisWeather iOS SDK by AerisWeather
+    documentation_url: https://github.com/aerisweather/Aeris-iOS-Library
+    platform: Objective-C
+    stargazers_count: 22
+  - name: AerisWeather JavaScript SDK by AerisWeather
+    documentation_url: http://www.aerisweather.com/support/docs/toolkits/aeris-js-sdk/
+    source_code_url: https://github.com/aerisweather/aerisjs
+    platform: JavaScript
+    stargazers_count: 57
+  - name: AerisWeather Objective-C SDK by AerisWeather
+    documentation_url: http://www.aerisweather.com/support/docs/toolkits/
+    source_code_url: https://github.com/aerisweather/Aeris-iOS-Library
+    platform: Objective-C
+    stargazers_count: 22
+  - name: AerisWeather Java SDK by AerisWeather
+    documentation_url: http://www.aerisweather.com/support/docs/toolkits/aeris-android-sdk/
+    source_code_url: https://github.com/aerisweather/AerisAndroidLibrary
+    platform: Java
+    stargazers_count: 12

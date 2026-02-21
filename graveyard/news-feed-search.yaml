@@ -1,0 +1,11 @@
+name: News Feed Search
+slug: news-feed-search
+description: Free news search API. Easily search and filter news feeds to integrate them into your application. Add your
+  own RSS feed and the application automatically downloads articles daily.
+categories:
+  - News & Feeds
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://imbrikapi.com

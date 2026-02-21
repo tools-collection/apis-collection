@@ -1,0 +1,34 @@
+name: VK
+slug: vk
+description: Additionally, you may use the VK API to control much of the functionality on the website (for example,
+  adjusting shop inventory in your VK community's market section). Access to VKontakte's API. This has a variety of
+  features such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK
+categories:
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vk/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://vk.com/dev
+libraries:
+  - name: VK Node.js SDK by VK
+    documentation_url: https://github.com/VKCOM/node-vk-call
+    platform: Node.js
+    stargazers_count: 31
+  - name: VK Android SDK by VK
+    documentation_url: https://github.com/VKCOM/vk-android-sdk
+    platform: Java
+    stargazers_count: 388
+  - name: VK Windows Phone SDK by VK
+    documentation_url: https://github.com/VKCOM/vk-windowsphone-sdk
+    platform: C#
+    stargazers_count: 21
+  - name: VK Java SDK by VK
+    documentation_url: https://github.com/VKCOM/vk-java-sdk
+    platform: Java
+    stargazers_count: 250
+  - name: VK iOS SDK by VK
+    documentation_url: https://github.com/VKCOM/vk-ios-sdk
+    platform: Objective-C
+    stargazers_count: 285

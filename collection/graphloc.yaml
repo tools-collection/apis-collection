@@ -1,0 +1,10 @@
+name: Graphloc
+slug: graphloc
+description: Free GraphQL IP Geolocation API
+categories:
+  - Maps & Geo
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/graphloc/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://graphloc.com/

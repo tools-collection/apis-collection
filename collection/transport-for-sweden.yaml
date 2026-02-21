@@ -1,0 +1,10 @@
+name: Transportation in Sweden
+slug: transport-for-sweden
+description: Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.trafiklab.se/api

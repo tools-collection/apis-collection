@@ -1,0 +1,11 @@
+name: Diabetes
+slug: diabetes
+description: Welcome to the PredictBGL API The PredictBGL API allows you to build the power of PredictBGL's diabetes
+  management, coaching and analysis dire. For general information on PredictBGL. com, click here
+categories:
+  - Health
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://predictbgl.com/api/

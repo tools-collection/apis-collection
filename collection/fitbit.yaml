@@ -1,0 +1,136 @@
+name: FitBit
+slug: fitbit
+description: You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, easy way to build apps and
+  clock faces for Fitbit OS. Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered
+  logs
+categories:
+  - Sport & Fitness
+  - Health
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fitbit/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://dev.fitbit.com/build/reference/
+libraries:
+  - name: Fitbit Unity SDK by Travis Evashkevich
+    documentation_url: https://github.com/TravisEvashkevich/UnityFitbit/blob/master/README.md
+    source_code_url: https://github.com/TravisEvashkevich/UnityFitbit
+    platform: C#
+    author: TravisEvashkevich
+    stargazers_count: 15
+  - name: Fitbit JavaScript SDK
+    documentation_url: https://dev.fitbit.com/getting-started
+    source_code_url: https://dev.fitbit.com/build/guides/application
+    platform: JavaScript
+  - name: strava-to-fitbit-api Azure JavaScript SDK by Matt Magurany
+    documentation_url: https://github.com/heymagurany/strava-to-fitbit-api
+    platform: JavaScript
+    author: heymagurany
+    stargazers_count: 0
+  - name: meteor-fit-api MeteorJS SDK by Stavros Elaias
+    documentation_url: https://github.com/selaias/meteor-fit-api
+    platform: JavaScript, Node.js
+    author: selaias
+    stargazers_count: 3
+  - name: Fitbit Python SDK by OpenYou
+    documentation_url: https://github.com/openyou/libfitbit
+    platform: Python
+    stargazers_count: 428
+  - name: Fitbit R SDK by Nagi Teramo
+    documentation_url: https://github.com/teramonagi/fitbitr
+    platform: R
+    author: teramonagi
+    stargazers_count: 51
+  - name: Fitbit Python SDK by Jacco
+    documentation_url: https://github.com/magnific0/FitBit.py
+    platform: Python
+    author: magnific0
+    stargazers_count: 14
+  - name: Fitbit Node.js SDK by The Game Of Code
+    documentation_url: https://github.com/thegameofcode/passport-fitbit-oauth2
+    platform: Node.js
+    stargazers_count: 30
+  - name: Fitbit JavaScript SDK by The Game Of Code
+    documentation_url: https://github.com/thegameofcode/fitbit-client-oauth2
+    platform: JavaScript
+    stargazers_count: 20
+  - name: Fitbit Ruby SDK by Zachery Moneypenny
+    documentation_url: https://github.com/whazzmaster/fitgem
+    platform: Ruby
+    author: whazzmaster
+    stargazers_count: 181
+  - name: Fitbit Python SDK by Joost Plattel
+    documentation_url: https://github.com/jplattel/FitBit.py
+    platform: Python
+    author: jplattel
+    stargazers_count: 28
+  - name: Fitbit Java SDK by aam4510
+    documentation_url: https://github.com/aam4510/fitbit4j
+    platform: Java
+    author: aam4510
+    stargazers_count: 9
+  - name: Fitbit Node.js SDK by Phil Parsons
+    documentation_url: https://github.com/p-m-p/node-fitbit
+    platform: Node.js
+    author: p-m-p
+    stargazers_count: 37
+  - name: Fitbit Node.js SDK by Lukas Olson
+    documentation_url: https://github.com/lukasolson/fitbit-node
+    platform: Node.js
+    author: lukasolson
+    stargazers_count: 107
+  - name: Fitbit PHP SDK by Michal Ozogan
+    documentation_url: https://github.com/fabulator/Fitbit
+    platform: PHP
+  - name: Fitbit Ruby SDK by Tzvetelin Gospodinov
+    documentation_url: https://github.com/tkgospodinov/omniauth-fitbit
+    platform: Ruby
+    author: tkgospodinov
+    stargazers_count: 44
+  - name: Fitbit Node.js SDK by Simon Murtha Smith
+    documentation_url: https://github.com/smurthas/fitbit-js
+    platform: Node.js
+    author: smurthas
+    stargazers_count: 82
+  - name: Fitbit .Net SDK by Aaron Coleman
+    documentation_url: https://github.com/aarondcoleman/Fitbit.NET
+    platform: .Net
+    author: aarondcoleman
+    stargazers_count: 196
+  - name: Fitbit Django SDK by ORCAS
+    documentation_url: https://github.com/orcasgit/django-fitbit
+    platform: Python
+    stargazers_count: 32
+  - name: Fitbit Python SDK by ORCAS
+    documentation_url: https://github.com/orcasgit/python-fitbit
+    platform: Python
+    stargazers_count: 637
+  - name: Fitbit PHP SDK by Pavel Risenberg
+    documentation_url: https://github.com/pavelrisenberg/fitbitphp
+    platform: PHP
+    author: pavelrisenberg
+    stargazers_count: 143
+  - name: Fitbit Ruby SDK by Kaoru Mori
+    documentation_url: https://github.com/kaorumori/fitbit-api-ruby-client
+    platform: Ruby
+  - name: Fitbit Node.js Library by Guo Yu
+    documentation_url: https://www.npmjs.com/package/fitbit-sdk
+    source_code_url: https://github.com/turingou/fitbit-sdk
+    platform: Node.js
+    author: guo-yu
+    stargazers_count: 7
+  - name: Python Fitbit
+    documentation_url: https://wiki.fitbit.com/display/API/API+Client+Libraries#APIClientLibraries-Python
+    source_code_url: https://pypi.python.org/pypi/fitbit/0.1.0
+    platform: Python
+  - name: FItbit PHP Library
+    documentation_url: https://wiki.fitbit.com/display/API/API+Client+Libraries#APIClientLibraries-PHP
+    source_code_url: https://github.com/heyitspavel/fitbitphp
+    platform: PHP
+    author: pavelrisenberg
+    stargazers_count: 143
+  - name: Fitgem
+    documentation_url: https://wiki.fitbit.com/display/API/API+Client+Libraries
+    source_code_url: http://rubygems.org/gems/fitbit
+    platform: Ruby

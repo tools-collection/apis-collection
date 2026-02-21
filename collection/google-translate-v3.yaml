@@ -1,0 +1,13 @@
+name: Google Cloud Translation API
+slug: google-translate-v3
+description: Google Cloud Translation API v3 provides neural machine translation for 100+ languages with AutoML support, glossaries, batch translation, and document translation capabilities.
+categories:
+  - Translation
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://cloud.google.com/translate/docs
+  - name: API Reference
+    url: https://cloud.google.com/translate/docs/reference/rest

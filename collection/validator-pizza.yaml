@@ -1,0 +1,12 @@
+name: Validator.Pizza
+slug: validator-pizza
+description: pizza is made to prevent users to register to websites with a disposable email address. It checks in the
+  same time if the domain or email is valid. Free API to block throwaway emails. It also validates the email format,
+  checks for MX records, aliases and more. Validator
+categories:
+  - Validation & Verification
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/validator-pizza/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.validator.pizza

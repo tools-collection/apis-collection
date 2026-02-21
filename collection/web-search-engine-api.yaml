@@ -1,0 +1,10 @@
+name: Web Search Engine Api
+slug: web-search-engine-api
+description: QMeta offers a free, uncensored and unlimited web search engine API
+categories:
+  - Search
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/web-search-engine-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.qmeta.net/api.html

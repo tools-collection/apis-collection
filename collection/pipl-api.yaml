@@ -1,0 +1,11 @@
+name: PIPL API
+slug: pipl-api
+description: Free and public API that generates random and fake people's data in JSON.
+categories:
+  - Random
+  - Testing
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://pipl.ir

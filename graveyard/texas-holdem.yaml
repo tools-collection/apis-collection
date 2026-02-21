@@ -1,0 +1,12 @@
+name: Texas Holdem
+slug: texas-holdem
+description: With this API you can easily create a full Texas Holdem game, just create the graphic and associate it with the results
+categories:
+  - Casino & Gambling
+  - Games
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/texas-holdem/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.mashape.com/neurone/Texas-Holdem

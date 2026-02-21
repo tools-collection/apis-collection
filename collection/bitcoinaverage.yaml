@@ -1,0 +1,19 @@
+name: BitcoinAverage
+slug: bitcoinaverage
+description: The world's best and longest running Cryptocurrency price API provider. These APIs can be used to gather
+  real-time, OHLC, volume and historical price
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://apiv2.bitcoinaverage.com/
+libraries:
+  - name: BitcoinAverage NodeJS SDK
+    documentation_url: https://www.npmjs.com/package/bitcoinaverage
+    platform: Node.js
+  - name: BitcoinAverage Python PIP SDK
+    documentation_url: https://github.com/bitcoinaverage/api-integration-examples/
+    platform: Python
+    stargazers_count: 63

@@ -1,0 +1,10 @@
+name: Marijuana Strains
+slug: marijuana-strains
+description: The Strain API
+categories:
+  - Health
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: http://strains.evanbusse.com/

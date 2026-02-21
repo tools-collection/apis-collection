@@ -1,0 +1,13 @@
+name: Make (Integromat)
+slug: make
+description: Make's API manages scenarios, modules, connections, and executions on the visual automation platform. Build and trigger automated workflows connecting 1,000+ apps and services.
+categories:
+  - Development
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.make.com/en/api-documentation
+  - name: API Reference
+    url: https://www.make.com/en/api-documentation/reference

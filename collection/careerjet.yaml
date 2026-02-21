@@ -1,0 +1,16 @@
+name: Careerjet
+slug: careerjet
+description: Careerjet public search API
+categories:
+  - Jobs
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.careerjet.com/partners/api/
+libraries:
+  - name: jobs-engine C# SDK by Ahmed Farahat
+    documentation_url: https://github.com/farahat80/jobs-engine
+    platform: C#
+    author: farahat80
+    stargazers_count: 1

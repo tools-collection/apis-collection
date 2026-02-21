@@ -1,0 +1,10 @@
+name: JSON Pretty Print
+slug: json-pretty-print
+description: JSON Pretty Print with modern user interface and ssl.
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://jsonprettyprint.org/api

@@ -1,0 +1,13 @@
+name: Kraken
+slug: kraken-api
+description: Kraken's REST and WebSocket APIs provide cryptocurrency trading, market data, order management, and account information. One of the most trusted crypto exchanges with institutional-grade APIs.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.kraken.com/api
+  - name: REST API Reference
+    url: https://docs.kraken.com/api/docs/rest-api/get-server-time

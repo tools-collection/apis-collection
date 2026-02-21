@@ -1,0 +1,10 @@
+name: What's on the menu?
+slug: whats-on-the-menu
+description: Historical menu data
+categories:
+  - Food & Drinks
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: http://nypl.github.io/menus-api/

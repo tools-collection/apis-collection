@@ -1,0 +1,10 @@
+name: VOCAPIA
+slug: vocapia
+description: Speech Recognition, Broadcast Monitoring, Lecture and Seminar Transcription, Video Subtitling, Conference
+  Call and Voicemail Transcription, Speech Analytics
+categories:
+  - AI & ML
+logo: https://www.vocapia.com/logos/vocapialogo_blue5x2.png
+links:
+  - name: Docs / Website
+    url: https://www.vocapia.com/

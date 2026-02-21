@@ -1,0 +1,11 @@
+name: Postmates
+slug: postmates
+description: Build on-demand delivery into your app or website.
+categories:
+  - Post & Logistics
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://postmates.com/developer/docs

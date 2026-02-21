@@ -1,0 +1,12 @@
+name: Numbers
+slug: numbers
+description: An API for interesting facts about numbers. An API for interesting facts about numbers
+categories:
+  - Random
+  - Fun
+  - Science & Math
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://numbersapi.com

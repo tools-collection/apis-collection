@@ -1,0 +1,12 @@
+name: Fireworks AI
+slug: fireworks-ai
+description: Fireworks AI offers fast, cost-efficient inference for open-source language and image models. Supports Llama, Mistral, Stable Diffusion, and fine-tuned custom models.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.fireworks.ai
+  - name: API Reference
+    url: https://docs.fireworks.ai/api-reference/introduction

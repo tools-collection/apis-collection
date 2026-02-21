@@ -1,0 +1,13 @@
+name: Turso
+slug: turso
+description: Turso provides edge SQLite databases powered by libSQL. API manages databases, groups, and organizations with support for embedded replicas and multi-tenant architectures.
+categories:
+  - Development
+  - Databases
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.turso.tech
+  - name: Platform API
+    url: https://docs.turso.tech/api-reference

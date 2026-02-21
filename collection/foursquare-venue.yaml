@@ -1,0 +1,10 @@
+name: Foursquare Venue
+slug: foursquare-venue
+description: Providing a places search that can be searched by hierarchical list of categories, longitude/latitude etc
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.foursquare.com/overview/venues

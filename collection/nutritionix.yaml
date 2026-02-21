@@ -1,0 +1,41 @@
+name: Nutritionix
+slug: nutritionix
+description: Add robust nutrition tracking capability to any health app.
+categories:
+  - Sport & Fitness
+  - Health
+  - Food & Drinks
+  - Bar & QR Codes
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.nutritionix.com/
+libraries:
+  - name: Nutritionix Python SDK by Lee Trout
+    documentation_url: https://github.com/leetrout/python-nutritionix
+    platform: Python
+    author: leetrout
+    stargazers_count: 29
+  - name: Nutritionix PHP SDK by Leejay Gajitos
+    documentation_url: https://github.com/nutritionix/api-library-php
+    platform: PHP
+    stargazers_count: 6
+  - name: Nutritionix Node.js SDK by James R. Qualls
+    documentation_url: https://www.npmjs.com/package/nutritionix
+    platform: Node.js
+  - name: Nutritionix iOS SDK by Peter Kasson
+    documentation_url: https://github.com/pkasson/nutritionix_iOS_lib
+    platform: Objective-C
+    author: pkasson
+    stargazers_count: 11
+  - name: Nutritionix .NET SDK by Carolyn Van Slyck
+    documentation_url: https://github.com/carolynvs/nutritionix
+    platform: .Net
+    author: carolynvs
+    stargazers_count: 8
+  - name: Nutritionix Ruby SDK by JigneshGohel
+    documentation_url: https://github.com/JigneshGohel-BoTreeConsulting/nutritionix-api-ruby-library/tree/api_v_1_1
+    platform: Ruby
+    author: JigneshGohel-BoTreeConsulting
+    stargazers_count: 1

@@ -1,0 +1,12 @@
+name: Halo
+slug: halo
+description: Halo Public API. With this API you’ll be able to craft your own experiences using the same APIs Halo's team
+  uses to build the game.
+categories:
+  - Games
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.haloapi.com/

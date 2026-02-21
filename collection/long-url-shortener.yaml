@@ -1,0 +1,9 @@
+name: Long Url Shortener
+slug: long-url-shortener
+description: Given a long URL, returns a short link
+categories:
+  - URLs
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://cleanuri.com/

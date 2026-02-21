@@ -1,0 +1,11 @@
+name: Footystats Api - Soccer Stats & Data
+slug: footystats-api-soccer-stats-and-data
+description: "Affordable Soccer Stats API for making football predictions. Includes stats such as: Over and Unders,
+  BTTS, Corners, Cards, Goals and so much more. Over 300 leagues bursting with data. 522 Origin Connection Time-out
+  cloudflare-nginx"
+categories:
+  - Sport & Fitness
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://football-data-api.com

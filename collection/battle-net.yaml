@@ -1,0 +1,9 @@
+name: Battle.Net
+slug: battle-net
+description: Blizzard Entertainment
+categories:
+  - Games
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://develop.battle.net

@@ -1,0 +1,151 @@
+name: Telegram Bot
+slug: telegram-bot
+description: The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
+categories:
+  - Bots
+  - AI & ML
+  - Chats & Messaging
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://core.telegram.org/bots/api
+libraries:
+  - name: Telegram Bot PHP SDK by Danilo Spinella
+    documentation_url: https://github.com/DanySpin97/PhpBotFramework
+    source_code_url: https://packagist.org/packages/danyspin97/php-bot-framework
+    platform: PHP
+    author: DanySpin97
+    stargazers_count: 56
+  - name: Telegram Bot .NET SDK by Mohammadreza
+    documentation_url: https://github.com/mrtaikandi/Telebot
+    source_code_url: https://www.nuget.org/packages/Telebot/
+    platform: .Net, C#
+    author: mrtaikandi
+    stargazers_count: 18
+  - name: Telegram Bot Go SDK by Oleg Lebedev
+    documentation_url: https://github.com/olebedev/go-tgbot
+    platform: Go
+    author: olebedev
+    stargazers_count: 102
+  - name: Telegram Bot Ruby SDK by Sergey Potapov
+    documentation_url: https://github.com/greyblake/telebot
+    platform: Ruby
+    author: greyblake
+    stargazers_count: 29
+  - name: Telegram Bot Nim SDK by Huy Doan
+    documentation_url: https://github.com/ba0f3/telebot.nim
+    platform: Unspecified
+    author: ba0f3
+    stargazers_count: 91
+  - name: Telegram Bot JavaScript SDK by Pavel Tereschenko
+    documentation_url: https://github.com/bigslycat/tgapi
+    platform: JavaScript
+    author: bigslycat
+    stargazers_count: 33
+  - name: Telegram Bot Java SDK by rainu
+    documentation_url: https://github.com/rainu/telegram-bot-api
+    platform: Java
+    author: rainu
+    stargazers_count: 16
+  - name: Telegram Bot C++ SDK by slowriot
+    documentation_url: https://github.com/slowriot/libtelegram
+    platform: C++
+    author: slowriot
+    stargazers_count: 85
+  - name: Telegram Bot Scala SDK by Hüseyin ZENGİN
+    documentation_url: https://github.com/hzengin/telegrambot
+    platform: Scala
+    author: hzengin
+    stargazers_count: 38
+  - name: Telegram Bot Go SDK by Sungjin Han
+    documentation_url: https://github.com/meinside/telegram-bot-go
+    platform: Go
+    author: meinside
+    stargazers_count: 18
+  - name: Telegram Bot .NET SDK by Mehrdad Youssefi
+    documentation_url: https://github.com/themehrdad/NetTelebot
+    source_code_url: https://www.nuget.org/packages/nettelebot
+    platform: .Net, C#
+    author: themehrdad
+    stargazers_count: 10
+  - name: Telegram Bot Rust SDK by Wesley A. Gahr
+    documentation_url: https://github.com/voider1/teleborg
+    platform: Unspecified
+    author: voider1
+    stargazers_count: 24
+  - name: Telegram Bot Yii PHP SDK by Mirocow
+    documentation_url: https://github.com/Mirocow/yii2-telegram-api
+    platform: PHP
+    author: Mirocow
+    stargazers_count: 7
+  - name: Telegram Bot Java SDK by Fouad Almalki
+    documentation_url: https://github.com/Eng-Fouad/JTelegramBot
+    platform: Java
+    author: Eng-Fouad
+    stargazers_count: 67
+  - name: Telegram Bot Yii PHP SDK by SonkoDmitry
+    documentation_url: https://github.com/SonkoDmitry/yii2-telegram-bot-api
+    source_code_url: https://packagist.org/packages/sonko-dmitry/yii2-telegram-bot-api
+    platform: PHP
+    author: SonkoDmitry
+    stargazers_count: 19
+  - name: Telegram Bot NodeJS SDK by bounty0x
+    documentation_url: https://github.com/bounty0x/TelegramBots
+    platform: JavaScript, Node.js
+    stargazers_count: 10
+  - name: Telegram Bot NodeJS SDK by Frederik Ring
+    documentation_url: https://github.com/m90/telegram-bot-client
+    platform: JavaScript, Node.js
+    author: m90
+    stargazers_count: 24
+  - name: Telegram Bot Python SDK by banteg
+    documentation_url: https://github.com/banteg/telegram
+    platform: Python
+    author: banteg
+    stargazers_count: 16
+  - name: Telegram Bot Go SDK by Rock Neurotiko
+    documentation_url: https://github.com/rockneurotiko/go-tgbot
+    platform: Go
+    author: rockneurotiko
+    stargazers_count: 80
+  - name: Telegram Bot Python SDK by aiogram projects group
+    documentation_url: https://github.com/aiogram/aiogram
+    platform: Python
+    stargazers_count: 1392
+  - name: Telegram Bot PHP SDK by Saeed Moqadam
+    documentation_url: https://github.com/smoqadam/php-telegram-bot
+    platform: PHP
+    author: smoqadam
+    stargazers_count: 23
+  - name: Telegram Bot Symfony PHP SDK by Borsaco Software Group
+    documentation_url: https://github.com/borsaco/TelegramBotApiBundle
+    platform: PHP
+    stargazers_count: 18
+  - name: Telegram Bot Go SDK by Paul Larsen
+    documentation_url: https://github.com/PaulSonOfLars/gotgbot
+    platform: Go
+    author: PaulSonOfLars
+    stargazers_count: 52
+  - name: Telegram Bot TypeScript SDK by Sergey Sova
+    documentation_url: https://github.com/sergeysova/telegram-typings/tree/master/javascript
+    platform: JavaScript
+    author: sergeysova
+    stargazers_count: 38
+  - name: Telegram Bot Rust SDK by Sergey Sova
+    documentation_url: https://github.com/sergeysova/telegram-typings/tree/master/rust
+    source_code_url: https://crates.io/crates/telegram-typings
+    platform: Unspecified
+    author: sergeysova
+    stargazers_count: 38
+  - name: Telegram Bot Ruby SDK by SuHun Han
+    documentation_url: https://github.com/ssut/telegram-rb/blob/master/README.md
+    source_code_url: https://github.com/ssut/telegram-rb
+    platform: Ruby
+    author: ssut
+    stargazers_count: 78
+  - name: Telegram Bot Node.js Library by Yago
+    documentation_url: https://github.com/yagop/node-telegram-bot-api
+    platform: Node.js
+    author: yagop
+    stargazers_count: 4945

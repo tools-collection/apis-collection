@@ -1,0 +1,13 @@
+name: Clerk
+slug: clerk
+description: Clerk's API handles authentication and user management including sign-up, sign-in, MFA, SSO, and user profiles. Provides embeddable UI components and backend SDKs.
+categories:
+  - Authentication & User Management
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://clerk.com/docs
+  - name: API Reference
+    url: https://clerk.com/docs/reference/backend-api

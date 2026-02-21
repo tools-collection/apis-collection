@@ -1,0 +1,11 @@
+name: Vedic Society API
+slug: vedic-society-api
+description: A description of all of the nouns in vedic literature, including the flora, fauna, geography, food,
+  relationships, and objects (personal nouns not included, though).
+categories:
+  - Other
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://aninditabasu.github.io/indica/html/vs.html

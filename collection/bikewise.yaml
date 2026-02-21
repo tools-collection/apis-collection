@@ -1,0 +1,10 @@
+name: BikeWise
+slug: bikewise
+description: Bicycle registration service.
+categories:
+  - Sport & Fitness
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.bikewise.org/documentation/api_v2

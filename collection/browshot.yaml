@@ -1,0 +1,31 @@
+name: Browshot
+slug: browshot
+description: Full API to take screenshots of any website.
+categories:
+  - Scrapers & Data Mining
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://browshot.com/api/documentation
+libraries:
+  - name: Browshot CSharp SDK by Browshot
+    documentation_url: https://browshot.com/api/libraries/csharp
+    platform: C#
+  - name: Browshot Ruby SDK by Browshot
+    documentation_url: https://rubygems.org/gems/browshot
+    platform: Ruby
+  - name: Browshot Python SDK by Browshot
+    documentation_url: https://github.com/juliensobrier/browshot-python
+    platform: Python
+    author: juliensobrier
+    stargazers_count: 2
+  - name: Browshot PHP SDK by Browshot
+    documentation_url: https://browshot.com/api/libraries/php
+    platform: PHP
+  - name: Browshot Perl SDK by Browshot
+    documentation_url: https://github.com/juliensobrier/browshot-perl
+    platform: PERL
+    author: juliensobrier
+    stargazers_count: 1

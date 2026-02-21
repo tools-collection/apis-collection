@@ -1,0 +1,59 @@
+name: Pocket
+slug: pocket
+description: When you find something you want to view later, put it in Pocket
+categories:
+  - Bookmarks
+  - Documents & Productivity
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://getpocket.com/developer/
+libraries:
+  - name: "Pocket Objective-C SDK "
+    documentation_url: https://getpocket.com/developer/docs/sdk/objective-c
+    platform: Objective-C
+  - name: Pocket Node.js SDK by Peter deHaan
+    documentation_url: https://www.npmjs.com/package/pocket-promise
+    source_code_url: https://github.com/pdehaan/pocket-promise
+    platform: Node.js
+    author: pdehaan
+    stargazers_count: 9
+  - name: Pocket .Net SDK by Tobias Klika
+    documentation_url: https://github.com/ceee/PocketSharp
+    platform: .Net, C#
+    author: ceee
+    stargazers_count: 104
+  - name: Pocket PHP SDK by Abhijeet Mohan
+    documentation_url: https://github.com/voidabhi/Pocket
+    platform: PHP
+    author: voidabhi
+    stargazers_count: 1
+  - name: Pocket Python SDK by Tapan Pandita
+    documentation_url: https://github.com/tapanpandita/pocket
+    platform: Python
+    author: tapanpandita
+    stargazers_count: 297
+  - name: Pocket Node.js SDK by Gary Gale
+    documentation_url: https://github.com/vicchi/node-getpocket
+    platform: Node.js
+    author: vicchi
+    stargazers_count: 48
+  - name: Pocket Go SDK by Hironao OTSUBO
+    documentation_url: https://github.com/motemen/go-pocket
+    platform: Go
+    author: motemen
+    stargazers_count: 39
+  - name: Pocket PHP SDK by Dan Chen
+    documentation_url: https://github.com/djchen/pocket-api-php
+    platform: PHP
+    author: djchen
+    stargazers_count: 35
+  - name: Pocket Go SDK by Shu Yang Quek
+    documentation_url: https://github.com/quekshuy/pocket-golang-sdk
+    platform: Go
+    author: quekshuy
+    stargazers_count: 1
+  - name: Pocket Android SDK by Pocket
+    documentation_url: https://github.com/Pocket/Pocket-AndroidWear-SDK
+    platform: Java

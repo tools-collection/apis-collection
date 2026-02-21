@@ -1,0 +1,13 @@
+name: Time Door
+slug: time-door
+description: A time series analysis API. Time Door is an API for statistical insights into time series data. It is easy
+  to integrate and handles fast and messy real-world data.
+categories:
+  - Databases
+  - Development
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/time-door/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://timedoor.io

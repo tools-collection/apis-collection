@@ -1,0 +1,10 @@
+name: Dronestream
+slug: dronestream
+description: Tracks United States drone strikes. Real-time and historical data about every reported covert US drone strike
+categories:
+  - Other
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dronestream/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://dronestre.am/

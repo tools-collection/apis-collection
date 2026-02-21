@@ -1,0 +1,13 @@
+name: MailboxValidator
+slug: mailboxvalidator
+description: MailboxValidator provides single email validation API that checks if an email address is valid and exists.
+  Email validation service to check for invalid email addresses. It connects to the mail server and checks whether the
+  mailbox exists or not
+categories:
+  - Business
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mailboxvalidator/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.mailboxvalidator.com/api-single-validation

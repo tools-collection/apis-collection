@@ -1,0 +1,36 @@
+name: Kitsu
+slug: kitsu
+description: Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new
+  anime and socialize with other fans.
+categories:
+  - Entertainment
+  - Comics & Anime
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://kitsu.docs.apiary.io/
+libraries:
+  - name: Minoshiro Python SDK by Minoshiro
+    documentation_url: https://github.com/Mino-shiro/Minoshiro
+    platform: Python
+    stargazers_count: 13
+  - name: Hakuchou iOS SDK by MAL Updater OS X
+    documentation_url: https://github.com/Atelier-Shiori/Hakuchou
+    platform: Objective-C
+    stargazers_count: 2
+  - name: AniRat Java SDK by acofmelt
+    documentation_url: https://github.com/acofmelt/AniRat
+    platform: Java
+    author: acofmelt
+    stargazers_count: 0
+  - name: "Kitsu NodeJS SDK by Hieu Nguyen "
+    documentation_url: https://www.npmjs.com/package/kitsu-api
+    source_code_url: https://github.com/hieunhit/kitsu-api
+    platform: Node.js
+    author: hieunhit
+    stargazers_count: 0
+  - name: Kitsu JavaScript SDK
+    documentation_url: https://github.com/hummingbird-me/hummingbird-client
+    platform: JavaScript
+    stargazers_count: 156

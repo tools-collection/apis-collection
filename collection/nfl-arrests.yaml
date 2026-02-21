@@ -1,0 +1,9 @@
+name: Nfl Arrests
+slug: nfl-arrests
+description: NFL Arrest provides an interactive visualized database of National Football League player Arrests & Charges.
+categories:
+  - Sport & Fitness
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.nflarrest.com/

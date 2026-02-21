@@ -1,0 +1,13 @@
+name: Notion API
+slug: notion
+description: Notion's API provides access to pages, databases, blocks, users, and comments in Notion workspaces. Read and write structured data from Notion databases programmatically.
+categories:
+  - Documents & Productivity
+  - Databases
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.notion.com
+  - name: API Reference
+    url: https://developers.notion.com/reference/intro

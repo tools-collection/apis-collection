@@ -1,0 +1,13 @@
+name: RoboHash
+slug: robohash
+description: Generate Unique images from any text. Robohash is a easy web service that makes it easy to provide unique,
+  robot/alien/monster/whatever images for any text. Put in any text, such as IP address, email etc
+categories:
+  - Testing
+  - Random
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/robohash/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://robohash.org/

@@ -1,0 +1,50 @@
+name: Dribbble
+slug: dribbble
+description: Build and integrate tools and applications to help members publish their design work on Dribbble.
+categories:
+  - Art & Design
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dribbble/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://developer.dribbble.com/
+libraries:
+  - name: Dribbble Node.js SDK by Tim Marshall
+    documentation_url: https://www.npmjs.com/package/dribbble-api
+    source_code_url: https://github.com/tmarshall/Dribbble-API
+    platform: Node.js
+    author: tmarshall
+    stargazers_count: 5
+  - name: Dribbble Ruby SDK by Charley David
+    documentation_url: https://github.com/Calyhre/dribbble
+    platform: Ruby
+    author: Calyhre
+    stargazers_count: 31
+  - name: Dribbble Objective-C SDK by Lex Tang
+    documentation_url: https://github.com/lexrus/LTDribbbleAPI
+    platform: Objective-C
+    author: lexrus
+    stargazers_count: 12
+  - name: Dribbble PHP SDK by Martin Bean
+    documentation_url: https://github.com/martinbean/dribbble-php
+    platform: PHP
+    author: martinbean
+    stargazers_count: 81
+  - name: Dribbble iOS SDK by Agilie Team
+    documentation_url: https://github.com/agilie/dribbble-ios-sdk
+    platform: Objective-C
+    stargazers_count: 73
+  - name: Dribbble Android SDK by Agilie Team
+    documentation_url: https://github.com/agilie/dribbble-android-sdk
+    platform: Java
+    stargazers_count: 31
+  - name: Dribbble PHP SDK by Nahid Bin Azhar
+    documentation_url: https://github.com/nahid/dribbble-php-client
+    platform: PHP
+    author: nahid
+    stargazers_count: 2
+  - name: Dribbble client library for ActionScript
+    documentation_url: http://www.sangupta.com/projects/as3dribbble
+  - name: dribbble-java-client
+    documentation_url: http://www.sangupta.com/projects/dribbble-java-client.html

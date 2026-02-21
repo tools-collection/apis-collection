@@ -1,0 +1,34 @@
+name: 500px
+slug: 500px
+description: Viewing feature streams, photo information and comments, as well as user profiles. This is the 500px API
+  documentation. Contribute to 500px/legacy-api-documentation development by creating an account on GitHub
+categories:
+  - Social
+  - Images & Photography
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/500px/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/500px/legacy-api-documentation
+libraries:
+  - name: 500px iOS SDK by minube
+    documentation_url: https://github.com/minube/500px-iOS-api
+    platform: Objective-C
+    stargazers_count: 0
+  - name: 500px JavaScript SDK by Tye Shavik
+    documentation_url: https://github.com/500px/500px-js-sdk
+    platform: JavaScript
+    stargazers_count: 70
+  - name: 500px iOS SDK
+    documentation_url: https://github.com/500px/500px-iOS-api
+    source_code_url: https://github.com/500px/500px-iOS-api
+    platform: Objective-C
+    stargazers_count: 112
+  - name: 500px Android SDK
+    documentation_url: https://github.com/500px/500px-android-sdk
+    source_code_url: https://github.com/500px/500px-android-sdk
+    platform: Java
+  - name: 500px Ruby Wrapper by Chris Micacchi
+    documentation_url: https://github.com/500px/pooled_curb
+    platform: Ruby
+    stargazers_count: 2

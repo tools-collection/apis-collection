@@ -1,0 +1,13 @@
+name: Hunter.io
+slug: hunter-io
+description: Hunter.io API finds and verifies professional email addresses. Search by domain to find contacts, verify email deliverability, and enrich leads for sales and outreach campaigns.
+categories:
+  - Email & SMS
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://hunter.io/api-documentation
+  - name: API Reference
+    url: https://hunter.io/api-documentation/v2

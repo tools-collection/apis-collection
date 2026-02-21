@@ -1,0 +1,12 @@
+name: NewsCatcherAPI
+slug: newscatcherapi
+description: Search news articles from all over the world in real-time with News API. News API to find news articles by
+  any topic, country, language, website or keyword
+categories:
+  - News & Feeds
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newscatcherapi/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://newscatcherapi.com/news-api

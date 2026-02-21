@@ -1,0 +1,31 @@
+name: Pokémon TCG
+slug: pokemon-tcg
+description: The Pokémon TCG API allows developers to easily consume Pokémon card and set data in JSON format
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pokemon-tcg/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://pokemontcg.io
+libraries:
+  - name: Pokemon TCG JavaScript SDK by Pokemon TCG
+    documentation_url: https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript
+    source_code_url: https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript
+    platform: JavaScript
+    stargazers_count: 41
+  - name: Pokemon TCG Python SDK by Pokemon TCG
+    documentation_url: https://github.com/PokemonTCG/pokemon-tcg-sdk-python
+    platform: Python
+    stargazers_count: 25
+  - name: Pokemon TCG Ruby SDK by Pokemon TCG
+    documentation_url: https://github.com/PokemonTCG/pokemon-tcg-sdk-ruby
+    platform: Ruby
+    stargazers_count: 13
+  - name: Pokemon TCG Python SDK by Joshua Hull
+    documentation_url: https://github.com/joshua-hull/pokemon-tcg-sdk-python
+    platform: Python
+    author: joshua-hull
+    stargazers_count: 7

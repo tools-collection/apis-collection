@@ -1,0 +1,24 @@
+name: GoodReads
+slug: goodreads
+description: The Goodreads API allows developers access to Goodreads data in order to help websites or applications that
+  deal with books be more personalized, social.
+categories:
+  - Social
+  - Books
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.goodreads.com/api
+libraries:
+  - name: Goodreads Python SDK by Michelle D Zhang
+    documentation_url: https://pypi.python.org/pypi/goodreads-api-client/0.1.0.dev2
+    source_code_url: https://github.com/mdzhang/goodreads-api-client-python
+    platform: Python
+    author: mdzhang
+    stargazers_count: 51
+  - name: Goodreads C# Library by Jason Kulatunga
+    documentation_url: https://github.com/AnalogJ/GoodReadsSharp
+    platform: C#
+    author: AnalogJ
+    stargazers_count: 4

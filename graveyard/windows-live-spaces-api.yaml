@@ -1,0 +1,12 @@
+name: Windows Live Spaces API
+slug: windows-live-spaces-api
+description: Included a blogging system, photo gallery, lists, friends, a guestbook, and a social profile. A Spaces page
+  can be personalized with "gadgets", modules that can be placed to enable further customization, HTML code, and media
+  playlists
+categories:
+  - Social
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/windows-live-spaces-api/logo_256x256.png
+links:
+  - name: Docs / Website

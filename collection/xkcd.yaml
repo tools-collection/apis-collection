@@ -1,0 +1,33 @@
+name: xkcd
+slug: xkcd
+description: xkcd API
+categories:
+  - Comics & Anime
+  - Fun
+  - Entertainment
+type: REST
+is_free: false
+contact: contact@wordassociations.net
+links:
+  - name: Docs / Website
+    url: https://xkcd.com/json.html
+libraries:
+  - name: xkcd Elixir SDK by Devin Clark
+    documentation_url: https://libraries.io/hex/xkcd
+    source_code_url: https://github.com/notdevinclark/xkcd
+    platform: Elixir
+    author: notdevinclark
+    stargazers_count: 0
+  - name: xkcd Python SDK by Ben Rosser
+    documentation_url: https://pypi.python.org/pypi/xkcd/
+    platform: Python
+  - name: xkcd Python SDK by JacobLandau
+    documentation_url: https://github.com/JacobLandau/pykcd
+    platform: Python
+    author: JacobLandau
+    stargazers_count: 33
+  - name: xkcd Go SDK by nishanths
+    documentation_url: https://github.com/nishanths/go-xkcd
+    platform: Go
+    author: nishanths
+    stargazers_count: 43

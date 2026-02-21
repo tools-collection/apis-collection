@@ -1,0 +1,12 @@
+name: Spreaker
+slug: spreaker
+description: Enables developers to read and write data to Spreaker. Get started with one of our guides, or jump straight
+  into the API documentation
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spreaker/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.spreaker.com/

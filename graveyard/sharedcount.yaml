@@ -1,0 +1,21 @@
+name: Sharedcount
+slug: sharedcount
+description: Social media like and share data for any URL.
+categories:
+  - Social
+  - Analytics
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: http://docs.sharedcount.com/
+libraries:
+  - name: SharedCount Ruby SDK by Cristian Rasch
+    documentation_url: https://github.com/wecodeio/shared_count_api
+    platform: Ruby
+    stargazers_count: 4
+  - name: SharedCount Python SDK by Benjamin Estes
+    documentation_url: https://github.com/benjaminestes/countgrab-client
+    platform: Python
+    author: benjaminestes
+    stargazers_count: 1

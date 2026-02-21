@@ -1,0 +1,11 @@
+name: icanhazdadjoke
+slug: icanhazdadjoke
+description: The largest collection of dad jokes on the internet.
+categories:
+  - Fun
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/icanhazdadjoke/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://icanhazdadjoke.com/api

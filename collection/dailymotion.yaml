@@ -1,0 +1,84 @@
+name: Dailymotion
+slug: dailymotion
+description: Build applications centered around DailyMotion. Explore Dailymotion API documentation to create your video
+  apps and websites
+categories:
+  - Video & Media
+  - Social
+  - Entertainment
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dailymotion/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.dailymotion.com/
+libraries:
+  - name: Dailymotion PHP SDK by bSushil
+    documentation_url: https://github.com/bSushil/dailymotion
+    platform: PHP
+    author: bSushil
+    stargazers_count: 1
+  - name: Dailymotion Node.js SDK by Mathieu Amiot
+    documentation_url: https://github.com/OtaK/dailymotion-sdk-node
+    platform: Node.js
+    author: OtaK
+    stargazers_count: 10
+  - name: Dailymotion Xamarin Android SDK by Alejandro Ruiz Varela
+    documentation_url: https://github.com/AlejandroRuiz/Xamarin-Dailymotion-Android
+    platform: C#
+    author: AlejandroRuiz
+    stargazers_count: 1
+  - name: Dailymotion C++ SDK by Stuart Howarth
+    documentation_url: http://marxoft.co.uk/doc/qdailymotion/index.html
+    source_code_url: https://github.com/marxoft/qdailymotion
+    platform: C++
+    author: marxoft
+    stargazers_count: 3
+  - name: Dailymotion iOS Swift SDK by Dailymotion
+    documentation_url: https://github.com/dailymotion/dailymotion-swift-player-sdk-ios
+    platform: Swift
+    stargazers_count: 34
+  - name: Dailymotion IOS SDK by Dailymotion
+    documentation_url: https://developer.dailymotion.com/tools/sdks#sdk-objective-c
+    source_code_url: https://github.com/dailymotion/dailymotion-player-sdk-ios
+    platform: Objective-C
+    stargazers_count: 59
+  - name: Dailymotion PHP SDK by Dailymotion
+    documentation_url: https://developer.dailymotion.com/tools/sdks#sdk-php
+    source_code_url: https://github.com/dailymotion/dailymotion-sdk-php
+    platform: PHP
+    stargazers_count: 65
+  - name: Dailymotion Python SDK by Dailymotion
+    documentation_url: https://developer.dailymotion.com/tools/sdks#sdk-python
+    source_code_url: https://github.com/dailymotion/dailymotion-sdk-python
+    platform: Python
+    stargazers_count: 34
+  - name: Dailymotion Ruby SDK by Guilherme Garnier
+    documentation_url: https://github.com/ggarnier/dailymotion-api-client
+    platform: Ruby
+    author: ggarnier
+    stargazers_count: 2
+  - name: Dailymotion Android SDK by Dailymotion
+    documentation_url: https://developer.dailymotion.com/tools/sdks#sdk-android
+    source_code_url: https://developer.dailymotion.com/tools/sdks#sdk-android
+    platform: C, Java
+  - name: Dailymotion JavaScript SDK
+    documentation_url: http://developer.dailymotion.com/documentation#sdk-javascript
+    source_code_url: https://github.com/dailymotion/dailymotion-sdk-js
+    platform: .Net, JavaScript
+    stargazers_count: 34
+  - name: Dailymotion Python SDK
+    documentation_url: http://developer.dailymotion.com/documentation#sdk-python
+    source_code_url: https://github.com/dailymotion/dailymotion-sdk-python
+    platform: Python
+    stargazers_count: 34
+  - name: Dailymotion Objective-C SDK
+    documentation_url: http://dailymotion.github.io/dailymotion-sdk-objc/html/index.html
+    source_code_url: https://github.com/dailymotion/dailymotion-sdk-objc
+    platform: Objective-C
+    stargazers_count: 59
+  - name: Dailymotion PHP SDK
+    documentation_url: http://developer.dailymotion.com/documentation#sdk-php
+    source_code_url: https://github.com/dailymotion/dailymotion-sdk-php
+    platform: PHP
+    stargazers_count: 65

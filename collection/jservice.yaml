@@ -1,0 +1,21 @@
+name: Jservice
+slug: jservice
+description: Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes
+categories:
+  - Games
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://jservice.io
+libraries:
+  - name: jService JavaScript SDK by Keith Pops
+    documentation_url: https://github.com/keithpops/jeoparty
+    platform: JavaScript
+    author: keithpops
+    stargazers_count: 104
+  - name: jService Ruby SDK by Dean Silfen
+    documentation_url: https://github.com/djds23/jApi
+    platform: Ruby
+    author: djds23
+    stargazers_count: 8

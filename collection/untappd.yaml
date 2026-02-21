@@ -1,0 +1,33 @@
+name: Untappd
+slug: untappd
+description: Access the Untappd API documentation to power your app or project. . Untappd is a mobile web app that
+  allows you to socially share beers that you're enjoying
+categories:
+  - Social
+  - Food & Drinks
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/untappd/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://untappd.com/api/docs
+libraries:
+  - name: Untappd PHP SDK by Jason Austin
+    documentation_url: https://github.com/PintLabs/Pintlabs_Service_Untappd
+    platform: PHP
+    stargazers_count: 30
+  - name: Untappd Go SDK by Matt Layher
+    documentation_url: https://github.com/mdlayher/untappd
+    platform: Go
+    author: mdlayher
+    stargazers_count: 20
+  - name: Untappd Node.js SDK by Glen R. Goodwin
+    documentation_url: https://github.com/arei/node-untappd
+    platform: Node.js
+    author: arei
+    stargazers_count: 62
+  - name: Untappd Ruby SDK by Chris Mar
+    documentation_url: https://github.com/cmar/untappd
+    platform: Ruby
+    author: cmar
+    stargazers_count: 45

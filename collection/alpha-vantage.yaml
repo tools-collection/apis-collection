@@ -1,0 +1,23 @@
+name: Alpha Vantage
+slug: alpha-vantage
+description: Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series.
+  Alpha Vantage offers free stock APIs in JSON and CSV formats for realtime and historical equity, forex, cryptocurrency
+  data and over 50 technical indicators
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.alphavantage.co/
+libraries:
+  - name: Alpha Vantage Java SDK by Patrik Nygren
+    documentation_url: https://github.com/patriques82/alphavantage4j
+    platform: Java
+    author: patriques82
+    stargazers_count: 126
+  - name: Alpha Vantage Python SDK by Romel Torres
+    documentation_url: https://github.com/RomelTorres/alpha_vantage
+    platform: Python
+    author: RomelTorres
+    stargazers_count: 4733

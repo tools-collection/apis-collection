@@ -1,0 +1,12 @@
+name: Amplitude
+slug: amplitude
+description: Amplitude's API enables sending events, managing user properties, and querying behavioral analytics. Build product analytics integrations and automate data pipelines.
+categories:
+  - Analytics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.docs.developers.amplitude.com
+  - name: API Reference
+    url: https://www.docs.developers.amplitude.com/analytics/apis/http-v2-api

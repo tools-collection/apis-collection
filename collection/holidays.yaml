@@ -1,0 +1,11 @@
+name: Holidays
+slug: holidays
+description: Don't let sourcing and maintaining holiday information get in the way of building your product
+categories:
+  - Calendar & Time
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/holidays/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://holidayapi.com/

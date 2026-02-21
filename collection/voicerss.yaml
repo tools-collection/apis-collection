@@ -1,0 +1,11 @@
+name: VoiceRSS
+slug: voicerss
+description: An API to convert Text to Speech, supporting 15+ major languages. Voice RSS provides text-to-speech (TTS)
+  online service and TTS API with very fast and simple integration
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.voicerss.org/

@@ -1,0 +1,13 @@
+name: Cal.com
+slug: cal-com
+description: Cal.com's API manages bookings, event types, availability, users, and webhooks for the open-source scheduling platform. Build calendar and scheduling integrations programmatically.
+categories:
+  - Calendar & Time
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://cal.com/docs/enterprise-features/api
+  - name: API Reference
+    url: https://api.cal.com/v2/docs

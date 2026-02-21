@@ -1,0 +1,56 @@
+name: Imgur
+slug: imgur
+description: "Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastructure via a standardized
+  programmatic interface"
+categories:
+  - Social
+  - Images & Photography
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imgur/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://api.imgur.com/
+libraries:
+  - name: Imgur Perl SDK by Michael Hollenbeck
+    documentation_url: http://search.cpan.org/~mlhollen/Imgur-API-0.1.0/
+    platform: PERL
+  - name: Imgur Node.js SDK by James Sigurðarson
+    documentation_url: https://www.npmjs.com/package/imgur-node-api
+    source_code_url: https://github.com/jamiees2/imgur-node-api
+    platform: Node.js
+    author: jamiees2
+    stargazers_count: 23
+  - name: Imgur JavaScript SDK by Imgur
+    documentation_url: https://github.com/Imgur/imgur.js
+    platform: JavaScript
+  - name: Imgur Python SDK by Imgur
+    documentation_url: https://github.com/Imgur/imgurpython
+    platform: Python
+    stargazers_count: 498
+  - name: Imgur PHP SDK by Jeremy Benoist
+    documentation_url: https://packagist.org/packages/j0k3r/php-imgur-api-client
+    source_code_url: https://github.com/j0k3r/php-imgur-api-client
+    platform: PHP
+    author: j0k3r
+    stargazers_count: 70
+  - name: Imgur .Net SDK by Damien Dennehy
+    documentation_url: https://github.com/DamienDennehy/Imgur.API
+    platform: .Net
+    author: DamienDennehy
+    stargazers_count: 35
+  - name: uploaderNet .NET SDK by mOrfiUs
+    documentation_url: https://github.com/mOrfiUs/uploaderNet
+    platform: .Net, C#
+    author: mOrfiUs
+    stargazers_count: 4
+  - name: Imgur Python Library by Imgur
+    documentation_url: https://api.imgur.com/#example_code
+    source_code_url: https://github.com/Imgur/imgurpython
+    platform: Python
+    stargazers_count: 498
+  - name: Imgur PHP Library by Adrian Ghiuta
+    documentation_url: https://github.com/Adyg/php-imgur-api-client
+    platform: PHP
+    author: j0k3r
+    stargazers_count: 70

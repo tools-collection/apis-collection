@@ -1,0 +1,12 @@
+name: Solana RPC API
+slug: solana-rpc
+description: Solana's JSON-RPC API provides access to account data, transaction history, block info, and program interactions on the high-performance Solana blockchain network.
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://solana.com/docs/rpc
+  - name: API Reference
+    url: https://solana.com/docs/rpc/http

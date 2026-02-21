@@ -1,0 +1,21 @@
+name: LiveChat
+slug: livechat
+description: Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics
+  tools. APIs include webhooks support, SDKs and open-source libraries to build on. Messaging APIs, chat widgets and
+  other building blocks of remarkable customer service experience
+categories:
+  - Business
+  - Chats & Messaging
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/livechat/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.livechatinc.com/
+libraries:
+  - name: " LiveChat Ruby Library by LiveChat"
+    documentation_url: https://developers.livechatinc.com/rest-api/#libraries
+    source_code_url: https://github.com/cxz/livechat_client
+    platform: Ruby
+    author: cxz
+    stargazers_count: 11

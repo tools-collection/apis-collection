@@ -1,0 +1,11 @@
+name: WatchMouse API
+slug: watchmouse-api
+description: Offers self-service website and application performance monitoring solutions
+categories:
+  - Development
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/watchmouse-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://apidoc.watchmouse.com

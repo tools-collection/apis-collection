@@ -1,0 +1,12 @@
+name: Anthropic Claude
+slug: anthropic
+description: Anthropic's API provides access to the Claude 4 family of AI models (Claude Opus 4, Sonnet 4, Haiku 4) for text generation, analysis, coding assistance, vision tasks, and extended 1M-token context windows.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.anthropic.com
+  - name: API Reference
+    url: https://docs.anthropic.com/en/api/getting-started

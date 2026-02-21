@@ -1,0 +1,12 @@
+name: Shopify API
+slug: shopify-api
+description: Shopify's Admin API provides programmatic access to store data including products, orders, customers, inventory, and fulfillments. Build custom storefronts and commerce integrations.
+categories:
+  - Commerce
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://shopify.dev/docs/api
+  - name: Admin API Reference
+    url: https://shopify.dev/docs/api/admin-rest

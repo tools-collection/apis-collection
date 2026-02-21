@@ -1,0 +1,17 @@
+name: Bacon Ipsum
+slug: bacon-ipsum
+description: JSON API for returning meaty lorem ipsum filler text.
+categories:
+  - Development
+  - Testing
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://baconipsum.com/json-api/
+libraries:
+  - name: Bacon Ipsum PHP SDK
+    documentation_url: https://github.com/petenelson/wp-any-ipsum/tree/master/lib
+    platform: PHP
+    author: petenelson
+    stargazers_count: 104

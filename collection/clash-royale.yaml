@@ -1,0 +1,12 @@
+name: Clash Royale
+slug: clash-royale
+description: API that provides informations about Clash Royale game
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clash-royale/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/martincarrera/clash-royale-api

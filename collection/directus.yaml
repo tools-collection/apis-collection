@@ -1,0 +1,13 @@
+name: Directus
+slug: directus
+description: Directus is an open-source headless CMS with a dynamic REST and GraphQL API automatically generated from any SQL database schema. Self-host or use Directus Cloud.
+categories:
+  - Development
+  - Databases
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.directus.io/reference/introduction.html
+  - name: API Reference
+    url: https://docs.directus.io/reference/items.html

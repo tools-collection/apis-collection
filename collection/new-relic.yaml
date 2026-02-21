@@ -1,0 +1,13 @@
+name: New Relic
+slug: new-relic
+description: New Relic's API provides access to application performance metrics, errors, infrastructure health, alerts, and dashboards. Automate observability and integrate monitoring workflows.
+categories:
+  - Analytics
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.newrelic.com/docs/apis/intro-apis/introduction-new-relic-apis
+  - name: NerdGraph (GraphQL)
+    url: https://docs.newrelic.com/docs/apis/nerdgraph/get-started/introduction-new-relic-nerdgraph

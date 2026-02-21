@@ -1,0 +1,12 @@
+name: imgix
+slug: imgix
+description: imgix's Image Processing API transforms, optimizes, and delivers images on-the-fly via URL parameters. Resize, crop, format-convert, and apply filters to images globally via CDN.
+categories:
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.imgix.com
+  - name: API Reference
+    url: https://docs.imgix.com/apis/rendering

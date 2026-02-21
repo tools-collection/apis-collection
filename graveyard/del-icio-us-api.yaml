@@ -1,0 +1,12 @@
+name: Del.Icio.Us API
+slug: del-icio-us-api
+description: Keep, share, and discover the best of the Web using Delicious, the world's leading social bookmarking service
+categories:
+  - Bookmarks
+  - Social
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/del-icio-us-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://delicious.com/developers#title1

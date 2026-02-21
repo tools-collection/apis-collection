@@ -1,0 +1,13 @@
+name: Pipedrive
+slug: pipedrive
+description: Pipedrive's API provides access to deals, contacts, organizations, pipelines, and activities. Build CRM integrations and automate sales workflow management on the Pipedrive platform.
+categories:
+  - CRM
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.pipedrive.com/docs/api/v1
+  - name: API Reference
+    url: https://developers.pipedrive.com/docs/api/v1

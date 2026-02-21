@@ -1,0 +1,12 @@
+name: Wegmans
+slug: wegmans
+description: APIs for products and store information
+categories:
+  - Commerce
+  - Food & Drinks
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wegmans/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://dev.wegmans.io

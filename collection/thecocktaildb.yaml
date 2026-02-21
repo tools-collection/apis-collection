@@ -1,0 +1,14 @@
+name: TheCocktailDB
+slug: thecocktaildb
+description: An open, crowd-sourced database of drinks and cocktails from around the world. A fee API to query a db of
+  1000s of cocktails, you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non
+  alcoholic and more with the Cocktails DB
+categories:
+  - Open Source
+  - Food & Drinks
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.thecocktaildb.com/api.php

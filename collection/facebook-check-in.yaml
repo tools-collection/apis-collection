@@ -1,0 +1,10 @@
+name: Facebook Check-In
+slug: facebook-check-in
+description: A check-in made to a location-based Page
+categories:
+  - Point of Interest
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin

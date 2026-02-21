@@ -1,0 +1,11 @@
+name: Monapi - Ip Address & Domain Api
+slug: monapi-ip-address-and-domain-api
+description: Our Anomaly API gives you IP & Domain Data for your Business. Lookup threat intelligence score. Prevend bad
+  signups, enrich your SIEM & secure your Application. . Data Intelligence for your Application - API Applications to
+  protect your Service - Easy integration for developers and companies - start today with the free application
+categories:
+  - Security
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.monapi.io

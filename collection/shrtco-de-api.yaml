@@ -1,0 +1,10 @@
+name: Shrtco.De Api
+slug: shrtco-de-api
+description: Secure and reliable Online Tools. Free URL Shortener API without limits
+categories:
+  - URLs
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shrtco-de-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://app.shrtco.de/docs

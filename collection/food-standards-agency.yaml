@@ -1,0 +1,11 @@
+name: Food Standards Agency
+slug: food-standards-agency
+description: Find out if a restaurant, takeaway or food shop you want to visit has good food hygiene standards. Eating
+  out? Getting food in? Check the food hygiene rating
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://ratings.food.gov.uk/open-data/en-GB

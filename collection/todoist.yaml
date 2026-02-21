@@ -1,0 +1,11 @@
+name: Todoist
+slug: todoist
+description: Todo Lists
+categories:
+  - Project Management
+  - Documents & Productivity
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.todoist.com

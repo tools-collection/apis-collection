@@ -1,0 +1,11 @@
+name: Movebank
+slug: movebank
+description: Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data
+categories:
+  - Animals
+type: REST
+is_free: true
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/movebank/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/movebank/movebank-api-doc

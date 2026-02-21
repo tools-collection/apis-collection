@@ -1,0 +1,11 @@
+name: Lottery Number Generation
+slug: lottery-number-generation
+description: Hundereds of lottery games from various countries are supported. Generate lottery numbers
+categories:
+  - Random
+  - Casino & Gambling
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://fungenerators.com/api/lottery/

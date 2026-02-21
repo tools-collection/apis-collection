@@ -1,0 +1,13 @@
+name: Cloudflare AI
+slug: cloudflare-ai
+description: Cloudflare Workers AI provides serverless inference for LLMs, text embedding, image classification, speech recognition, and translation models running on Cloudflare's global edge network.
+categories:
+  - AI & ML
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.cloudflare.com/workers-ai
+  - name: API Reference
+    url: https://developers.cloudflare.com/workers-ai/get-started/rest-api

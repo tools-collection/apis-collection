@@ -1,0 +1,13 @@
+name: fal.ai
+slug: fal-ai
+description: fal.ai provides fast inference for generative media models including FLUX, Stable Diffusion, Kling, and others. Optimized for real-time image and video generation use cases.
+categories:
+  - AI & ML
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://fal.ai/docs
+  - name: API Reference
+    url: https://fal.ai/docs/rest-api

@@ -1,0 +1,12 @@
+name: Azure Functions
+slug: azure-functions
+description: Azure Functions management API enables deploying and managing serverless functions, triggers, bindings, and app settings on Microsoft Azure's event-driven compute platform.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://learn.microsoft.com/en-us/azure/azure-functions
+  - name: API Reference
+    url: https://learn.microsoft.com/en-us/rest/api/appservice/functions

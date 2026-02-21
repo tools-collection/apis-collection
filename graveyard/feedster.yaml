@@ -1,0 +1,11 @@
+name: Feedster
+slug: feedster
+description: Searchable and categorized collections of RSS feeds
+categories:
+  - News & Feeds
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/feedster/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://api.feedster.me/v1/docs

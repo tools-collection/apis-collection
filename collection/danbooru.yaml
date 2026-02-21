@@ -1,0 +1,12 @@
+name: Danbooru
+slug: danbooru
+description: Danbooru Imageboard API. Get images cartegorized by tags.
+categories:
+  - Comics & Anime
+  - Social
+  - Adult
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://danbooru.donmai.us/posts?tags=help%3Aapi

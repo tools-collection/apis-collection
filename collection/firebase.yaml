@@ -1,0 +1,78 @@
+name: Firebase
+slug: firebase
+description: Authentication, analytics, cloud messaging, crash reporting, ads and more
+categories:
+  - Security
+  - Databases
+  - Development
+  - Authentication & User Management
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/firebase/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://firebase.google.com/docs/reference/
+libraries:
+  - name: Google Firebase Cloud Storage iOS SDK
+    documentation_url: https://firebase.google.com/docs/storage/ios/start
+    source_code_url: https://github.com/firebase/firebase-ios-sdk/tree/master/Firebase/Storage
+    platform: Objective-C, Swift
+    stargazers_count: 6527
+  - name: Firebase PHP SDK by kreait
+    documentation_url: https://github.com/kreait/firebase-php
+    platform: PHP
+    stargazers_count: 2420
+  - name: Delphi Data Access Components [for SQLite] SDK by Devart
+    documentation_url: https://www.devart.com/litedac/
+    platform: C++, SQL
+  - name: Delphi Data Access Components [for Firebird\Interbase] SDK by Devart
+    documentation_url: https://www.devart.com/ibdac/
+    platform: C++, SQL
+  - name: Delphi Data Access Components [for PostgreSQL] SDK by Devart
+    documentation_url: https://www.devart.com/pgdac/
+    platform: C++, SQL
+  - name: MySQL Data Access Components [for Delphi] SDK by Devart
+    documentation_url: https://www.devart.com/mydac/
+    source_code_url: https://www.devart.com/mydac/docs/?overview.htm
+    platform: C++, SQL
+  - name: Oracle Data Access Components SDK by Devart
+    documentation_url: https://www.devart.com/odac/
+    source_code_url: https://www.devart.com/odac/docs/?overview.htm
+    platform: C++, SQL
+  - name: SQL Server Data Access Components SDK by Devart
+    documentation_url: https://www.devart.com/sdac/
+    source_code_url: https://www.devart.com/sdac/docs/?overview.htm
+    platform: C++, SQL
+  - name: Universal Data Access Components SDK by Devart
+    documentation_url: https://www.devart.com/unidac/
+    source_code_url: https://www.devart.com/unidac/docs/?overview.htm
+    platform: C++, SQL
+  - name: Firebase SDK
+    documentation_url: https://www.firebase.com/docs/ios/quickstart.html
+    platform: Objective-C
+  - name: Firebase C# Library FireSharp
+    documentation_url: https://github.com/ziyasal/FireSharp
+    platform: C#
+    author: bugthesystem
+    stargazers_count: 698
+  - name: "Firebase Perl Library "
+    documentation_url: https://metacpan.org/pod/Firebase
+    source_code_url: https://github.com/rizen/Firebase
+    platform: PERL
+    author: rizen
+    stargazers_count: 7
+  - name: Firebase Ruby Library firebase-ruby
+    documentation_url: https://github.com/oscardelben/firebase-ruby
+    platform: Ruby
+    author: oscardelben
+    stargazers_count: 684
+  - name: Firebase PHP Library firebase-php
+    documentation_url: https://github.com/ktamas77/firebase-php
+    platform: PHP
+    author: ktamas77
+    stargazers_count: 788
+  - name: Firebase Python Library python-firebase
+    documentation_url: https://github.com/ozgur/python-firebase
+    platform: Python
+    author: ozgur
+    stargazers_count: 595

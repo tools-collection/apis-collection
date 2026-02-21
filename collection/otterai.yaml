@@ -1,0 +1,10 @@
+name: Otter.ai
+slug: otterai
+description: Generates rich notes for meetings, interviews, lectures, and other important voice conversations
+categories:
+  - AI & ML
+  - Voice
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://otter.ai

@@ -1,0 +1,10 @@
+name: Oddsapi
+slug: oddsapi
+description: Sports data API provides live and historical sports data from all around the world. Data sets are updated in realtime.
+categories:
+  - Casino & Gambling
+  - Sport & Fitness
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://sportdataapi.com

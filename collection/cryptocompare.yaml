@@ -1,0 +1,137 @@
+name: CryptoCompare
+slug: cryptocompare
+description: Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality historical & real-time trade,
+  order book and volume data through market-leading REST & WebSocket APIs
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptocompare/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.cryptocompare.com/api
+libraries:
+  - name: Cryptocurrencies API Laravel Manager PHP SDK by Mattia Clementi
+    documentation_url: https://github.com/ilCleme/cryptocurrencies-laravel
+    source_code_url: https://packagist.org/packages/ilcleme/cryptocurrencies-laravel
+    platform: PHP
+    author: ilCleme
+    stargazers_count: 3
+  - name: CryptoCompare C SDK by Elijah T Davis
+    documentation_url: https://github.com/Eliiijaaaaah/CryptoArbitrage
+    platform: C
+    author: Eliiijaaaaah
+    stargazers_count: 1
+  - name: CryptoCompare Go SDK by canonical-ledgers
+    documentation_url: https://github.com/canonical-ledgers/cryptoprice
+    platform: Go
+    stargazers_count: 0
+  - name: CryptoCompare Python SDK by Dalton
+    documentation_url: https://github.com/daltonherriman76/Current-Crypto-Pricing
+    platform: Python
+    author: daltonherriman76
+    stargazers_count: 0
+  - name: CryptoCompare C# SDK by Rui Costa
+    documentation_url: https://github.com/ruidacosta/CryptoDataMarket
+    platform: C#
+    author: ruidacosta
+    stargazers_count: 0
+  - name: CryptoCompare NodeJS SDK by nlawcryptocompare
+    documentation_url: https://github.com/nlawcryptocompare/ccc-write-trades
+    platform: Node.js
+    author: nlawcryptocompare
+    stargazers_count: 0
+  - name: CryptoCompare Ruby SDK by Filipe Custódio
+    documentation_url: https://github.com/fcustodio90/crypto_compare_api
+    platform: Ruby
+    author: fcustodio90
+    stargazers_count: 0
+  - name: CryptoCompare Python CLI SDK by Gavin Goodship
+    documentation_url: https://github.com/goodship1/CoinCommand
+    platform: Python
+    author: goodship1
+    stargazers_count: 2
+  - name: CryptoCompare Swift SDK by andyhutch345
+    documentation_url: https://github.com/andyhutch345/coinDataRetrieval
+    platform: Swift
+    author: andyhutch345
+    stargazers_count: 0
+  - name: CryptoCompare Python SDK by Ilyas Ibragimov
+    documentation_url: https://github.com/IlyasI/CryptoDataToCSV
+    platform: Python
+    author: IlyasI
+    stargazers_count: 0
+  - name: CryptoCompare Python SDK by MaverickLLC
+    documentation_url: https://github.com/MaverickLLC/cryptocompareapi_python_MavericLLC
+    platform: Python
+    author: MaverickLLC
+    stargazers_count: 1
+  - name: CryptoCompare Python SDK by Ivan Bogush
+    documentation_url: https://github.com/OkThought/cryptocmp
+    source_code_url: https://pypi.org/project/cryptocmp/
+    platform: Python
+    author: OkThought
+    stargazers_count: 0
+  - name: CryptoCompare Python SDK by mondeja
+    documentation_url: https://github.com/mondeja/pycryptocompare
+    platform: Python
+    author: mondeja
+    stargazers_count: 3
+  - name: CryptoCompare Java SDK by Kehinde Azeez
+    documentation_url: https://github.com/africaken/Crypto-Currency-Project
+    platform: Java
+    author: africaken
+    stargazers_count: 0
+  - name: CryptoCompare Go SDK by cstuntz
+    documentation_url: https://github.com/cstuntz/cryptocompare-scrape
+    platform: Go
+    author: cstuntz
+    stargazers_count: 1
+  - name: CryptoCompare Python SDK by Ryan
+    documentation_url: https://github.com/Ryan3435/CryptoCompare-Python
+    platform: Python
+    author: Ryan3435
+    stargazers_count: 0
+  - name: CryptoCompare Python SDK by Ronald Rounsifer
+    documentation_url: https://github.com/iJEEBUS/CryptoComparePython
+    platform: Python
+    author: rounsifer
+    stargazers_count: 0
+  - name: CryptoCompare PHP SDK by imanseau
+    documentation_url: https://github.com/imanseau/CryptoCompare-PHP
+    platform: PHP
+    author: imanseau
+    stargazers_count: 0
+  - name: CryptoCompare PHP SDK by cointokenhub
+    documentation_url: https://github.com/cointokenhub/cryptocompare-php-api
+    platform: PHP
+    stargazers_count: 1
+  - name: CryptoCompare C# SDK by Alex Gorevski
+    documentation_url: https://github.com/agorevski/CryptoPrices
+    platform: C#
+    author: agorevski
+    stargazers_count: 0
+  - name: CryptoCompare R SDK by adrian
+    documentation_url: https://github.com/ilyein/crypto-prices-api
+    platform: R
+    author: ilyein
+    stargazers_count: 0
+  - name: CryptoCompare Elixir SDK by Metachaos Systems
+    documentation_url: https://github.com/metachaos-systems/cryptocomparex
+    source_code_url: https://hexdocs.pm/cryptocomparex/api-reference.html
+    platform: Elixir
+    stargazers_count: 0
+  - name: CryptoCompare Java SDK by CryptoDashboard201
+    documentation_url: https://github.com/CryptoDashboard201/DataFromAPI
+    platform: Java
+    stargazers_count: 0
+  - name: CryptoCompare Java SDK by Matt McFadden
+    documentation_url: https://github.com/mcfadd/Cryptos4J
+    platform: Java
+    author: mcfadd
+    stargazers_count: 3
+  - name: CryptoCompare Java SDK by mistyhippo
+    documentation_url: https://github.com/mistyhippo/cryptocompare_api
+    platform: Java
+    author: mistyhippo
+    stargazers_count: 0

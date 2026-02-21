@@ -1,0 +1,13 @@
+name: Wrike
+slug: wrike
+description: Wrike's API provides access to tasks, folders, projects, timesheets, and workflows. Automate project management and build integrations with Wrike's collaborative work platform.
+categories:
+  - Project Management
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.wrike.com
+  - name: API Reference
+    url: https://developers.wrike.com/api/v4/tasks

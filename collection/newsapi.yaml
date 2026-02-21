@@ -1,0 +1,35 @@
+name: NewsAPI
+slug: newsapi
+description: Search worldwide news articles and headlines from all over the web in real-time with our free News API. 70+
+  news sources and their headlines, one API
+categories:
+  - Search
+  - News & Feeds
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newsapi/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://newsapi.org/
+libraries:
+  - name: "News CSharp SDK "
+    documentation_url: https://newsapi.org/docs/client-libraries/csharp
+    source_code_url: https://github.com/News-API-gh/News-API-csharp
+    platform: C#
+    author: News-API-gh
+    stargazers_count: 32
+  - name: News Python SDK by mattlisiv
+    documentation_url: https://newsapi.org/docs/client-libraries/python
+    source_code_url: https://github.com/mattlisiv/newsapi-python
+    platform: Python
+    author: mattlisiv
+    stargazers_count: 195
+  - name: "News Ruby SDK "
+    documentation_url: https://newsapi.org/docs/client-libraries/ruby
+    source_code_url: https://github.com/olegmikhnovich/News-API-ruby
+    platform: Ruby
+    author: olegmikhnovich
+    stargazers_count: 19
+  - name: News Node.js SDK by bzarras
+    documentation_url: https://newsapi.org/docs/client-libraries/node-js
+    platform: Node.js

@@ -1,0 +1,10 @@
+name: Namedays Calendar
+slug: namedays-calendar
+description: API returns namedays for various countries
+categories:
+  - Calendar & Time
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.abalin.net/

@@ -1,0 +1,20 @@
+name: Clicky
+slug: clicky
+description: Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site's
+  traffic in real time. Allows you to extract your web site's traffic data into several formats, making it easy to
+  integrate, analyze, or store your data within your own application
+categories:
+  - Analytics
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clicky/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://clicky.com/help/api
+libraries:
+  - name: Clicky C# SDK by Clicky
+    documentation_url: https://clicky.com/help/apps-plugins#csharp
+    platform: C#
+  - name: Clicky PHP SDK by Clicky
+    documentation_url: https://clicky.com/help/apps-plugins#php
+    platform: PHP

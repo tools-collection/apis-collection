@@ -1,0 +1,10 @@
+name: Transportation in New York City, USA
+slug: transport-for-new-york-city-us
+description: MTA
+categories:
+  - Transportation
+is_free: true
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-new-york-city-us/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://api.mta.info/

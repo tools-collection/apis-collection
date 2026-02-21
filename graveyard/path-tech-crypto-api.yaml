@@ -1,0 +1,11 @@
+name: Path Tech Crypto API
+slug: path-tech-crypto-api
+description: Single interface to retrieve transactions across crypto exchanges and wallets
+categories:
+  - Blockchain & Cryptocurrencies
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/path-tech-crypto-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://path.tech

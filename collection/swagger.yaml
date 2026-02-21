@@ -1,0 +1,11 @@
+name: Swagger
+slug: swagger
+description: Find out how Swagger can help you and get started today. Simplify API development for users, teams, and
+  enterprises with our open source and professional toolset
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://swagger.io/

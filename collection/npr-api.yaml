@@ -1,0 +1,13 @@
+name: NPR API
+slug: npr-api
+description: "NPR's API is a content API, which essentially provides a structured way for other computer applications to
+  get NPR stories in a predictable, flexible and powerful way. NPR One is 21st-century radio: apersonalized news
+  listening experience that gets better everyday"
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/npr-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://dev.npr.org/

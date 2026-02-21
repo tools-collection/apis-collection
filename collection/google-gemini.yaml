@@ -1,0 +1,12 @@
+name: Google Gemini API
+slug: google-gemini
+description: Google's Gemini API provides access to Gemini 2.5 Pro, Gemini 2.5 Flash, and Gemini 3 series multimodal models for text, image, video, and audio understanding, generation, and agentic tasks.
+categories:
+  - AI & ML
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://ai.google.dev/gemini-api/docs
+  - name: API Reference
+    url: https://ai.google.dev/api/rest

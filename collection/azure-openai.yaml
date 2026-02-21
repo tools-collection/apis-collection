@@ -1,0 +1,12 @@
+name: Azure OpenAI Service
+slug: azure-openai
+description: Azure OpenAI Service provides REST API access to OpenAI's GPT-4, DALL-E, and Whisper models with enterprise-grade security, compliance, and regional availability through Microsoft Azure.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://learn.microsoft.com/en-us/azure/ai-services/openai
+  - name: API Reference
+    url: https://learn.microsoft.com/en-us/azure/ai-services/openai/reference

@@ -1,0 +1,10 @@
+name: Transportation in Ottawa, Canada
+slug: transport-for-ottawa-canada
+description: OC Transpo next bus arrival API
+categories:
+  - Transportation
+is_free: true
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-ottawa-canada/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.octranspo.com/developers

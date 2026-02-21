@@ -1,0 +1,13 @@
+name: Scrape Website Email
+slug: scrape-website-email
+description: Grabs email addresses from a URL
+categories:
+  - Email & SMS
+  - Development
+  - Scrapers & Data Mining
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrape-website-email/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://market.mashape.com/tommytcchan/scrape-website-email

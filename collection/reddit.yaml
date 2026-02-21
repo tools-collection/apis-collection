@@ -1,0 +1,131 @@
+name: Reddit
+slug: reddit
+description: Contribute to reddit-archive/reddit development by creating an account on GitHub. historical code from
+  reddit. historical code from reddit. com
+categories:
+  - Social
+  - News & Feeds
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/reddit/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/reddit/reddit/wiki/API
+libraries:
+  - name: graw Reddit Go SDK by Payton Turnage
+    documentation_url: https://github.com/turnage/graw
+    platform: Go
+    author: turnage
+    stargazers_count: 247
+  - name: Reddit .NET SDK by Kris Craig
+    documentation_url: https://github.com/sirkris/Reddit.NET
+    platform: .Net
+    author: sirkris
+    stargazers_count: 384
+  - name: SocialSharesCount Go SDK by Sumesh Suvarna
+    documentation_url: https://github.com/gssumesh/socialsharescount
+    platform: Go
+    author: gssumesh
+    stargazers_count: 9
+  - name: Reddit Python SDK by PRAW Development
+    documentation_url: https://github.com/praw-dev/praw
+    platform: Python
+    stargazers_count: 2390
+  - name: Reddit Laravel PHP SDK by CodeWizz
+    documentation_url: https://github.com/codewizz/laravel-reddit-api
+    platform: PHP
+    stargazers_count: 16
+  - name: Reddit Java SDK by euparkeria
+    documentation_url: https://github.com/euparkeria/RedditJerk
+    platform: Java
+    author: euparkeria
+    stargazers_count: 36
+  - name: Reddit PowerShell SDK by davotronic5000
+    documentation_url: https://github.com/davotronic5000/PoSh_Reddit
+    platform: Unspecified
+    author: davotronic5000
+    stargazers_count: 10
+  - name: Reddit PERL SDK by three18ti
+    documentation_url: https://github.com/three18ti/Reddit.pm
+    platform: PERL
+    author: three18ti
+    stargazers_count: 6
+  - name: Reddit PERL SDK by Jeff Ober
+    documentation_url: https://github.com/jsober/Reddit-API
+    platform: PERL
+    author: sysread
+    stargazers_count: 21
+  - name: Reddit JavaScript SDK by Mads Cordes
+    documentation_url: https://github.com/Mobilpadde/NRAW.js
+    platform: JavaScript
+    author: Mobilpadde
+    stargazers_count: 10
+  - name: Reddit Node.js SDK by go1dfish
+    documentation_url: https://github.com/go1dfish/nodewhal
+    platform: Node.js
+    author: go1dfish
+    stargazers_count: 8
+  - name: Reddit Java SDK by Cory Dissinger
+    documentation_url: https://github.com/corydissinger/raw4j
+    platform: Java
+    author: corydissinger
+    stargazers_count: 49
+  - name: Reddit Lisp SDK by jperson
+    documentation_url: https://github.com/jperson/cl-reddit
+    platform: Lisp
+    author: jperson
+    stargazers_count: 16
+  - name: Reddit Swift SDK by sonson
+    documentation_url: https://github.com/sonsongithub/reddift
+    platform: Swift
+    author: sonsongithub
+    stargazers_count: 215
+  - name: Reddit Ruby SDK by Avinash Dwarapu
+    documentation_url: https://github.com/avidw/redd
+    platform: Ruby
+    author: avinashbot
+    stargazers_count: 177
+  - name: Reddit Perl SDK by Curtis Brandt
+    documentation_url: https://github.com/aggrolite/Mojo-Snoo
+    platform: PERL
+    author: aggrolite
+    stargazers_count: 4
+  - name: Reddit JavaScript SDK by Trevor Senior
+    documentation_url: https://github.com/trevorsenior/snoocore
+    platform: JavaScript
+  - name: Reddit Dart SDK by Steven Roose
+    documentation_url: https://github.com/stevenroose/dart-reddit
+    platform: Dart
+    author: stevenroose
+    stargazers_count: 24
+  - name: Reddit C# SDK by Drew DeVault
+    documentation_url: https://github.com/SirCmpwn/RedditSharp
+    platform: .Net, C#
+    author: ddevault
+    stargazers_count: 282
+  - name: Greddit Reddit API Groovy Wrapper
+    documentation_url: http://www.reddit.com/dev/api
+    source_code_url: https://github.com/Steveice10/Greddit
+    platform: Unspecified
+  - name: RedditKit Reddit API Objective-C Wrapper
+    documentation_url: http://redditkit.com/
+    source_code_url: https://github.com/samsymons/RedditKit
+    platform: Objective-C
+    author: samsymons
+    stargazers_count: 299
+  - name: Raw.js Reddit API Node.js Wrapper
+    documentation_url: https://bitbucket.org/Doctor_McKay/raw.js
+    source_code_url: http://www.reddit.com/r/rawjs/wiki/documentation
+    platform: Node.js
+  - name: Reddit API Java Wrapper
+    documentation_url: https://thatjavanerd.github.io/JRAW/
+    source_code_url: https://github.com/thatJavaNerd/JRAW
+    platform: Java
+    author: mattbdean
+    stargazers_count: 319
+  - name: Reddit Ruby Gem RedditKit.rb
+    documentation_url: http://rdoc.info/gems/redditkit/
+    source_code_url: https://github.com/samsymons/RedditKit.rb
+    platform: Ruby
+    author: samsymons
+    stargazers_count: 157

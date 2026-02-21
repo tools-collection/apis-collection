@@ -1,0 +1,32 @@
+name: Tinypng
+slug: tinypng
+description: TinyPNG API will help you compress and reduce the size of your JPEF and PNG files. The first 500 API
+  requests are free. Automate your JPEG and PNG compression workflow
+categories:
+  - Images & Photography
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tinypng/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://tinypng.com/developers
+libraries:
+  - name: TinyPNG Java SDK by TinyPNG
+    documentation_url: https://tinypng.com/developers/reference/java
+    source_code_url: https://github.com/tinify/tinify-java
+    platform: Java
+    stargazers_count: 105
+  - name: TinyPNG Node.js SDK by TinyPNG
+    documentation_url: https://tinypng.com/developers/reference/nodejs
+    source_code_url: https://github.com/tinify/tinify-nodejs
+    platform: Node.js
+    stargazers_count: 299
+  - name: TinyPNG PHP SDK by TinyPNG
+    documentation_url: https://tinypng.com/developers/reference/php
+    source_code_url: https://github.com/tinify/tinify-php
+    platform: PHP
+    stargazers_count: 202
+  - name: TinyPNG Ruby SDK by TinyPNG
+    documentation_url: https://tinypng.com/developers/reference/ruby
+    source_code_url: https://github.com/tinify/tinify-ruby
+    platform: Ruby
+    stargazers_count: 35

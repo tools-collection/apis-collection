@@ -1,0 +1,16 @@
+name: Indian Railways
+slug: indian-railways
+description: Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport Germany Transport India
+  Transport Australia Transport Argentina Transport Brazil Transport France Transport China Transport
+categories:
+  - Transportation
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://api.erail.in/
+libraries:
+  - name: PNRAPI Ruby
+    documentation_url: https://github.com/alagu/pnrapi-ruby
+    platform: Ruby
+    author: alagu
+    stargazers_count: 6

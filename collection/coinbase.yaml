@@ -1,0 +1,44 @@
+name: Coinbase
+slug: coinbase
+description: >-
+  Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing
+  applications. 
+
+  Coinbase’s APIs enable a variety of capabilities; from simply gathering read-only data, to building something that’s
+  never been done before
+categories:
+  - Payments
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.coinbase.com/
+libraries:
+  - name: ccex-api TypeScript SDK by Dang Thanh Tung
+    documentation_url: https://github.com/dang1412/ccex-api
+    platform: JavaScript, Node.js
+    author: dang1412
+    stargazers_count: 30
+  - name: ExchangeSharp .NET/C# by Jeff Johnson
+    documentation_url: https://github.com/jjxtra/ExchangeSharp
+    platform: .Net, C#
+    author: jjxtra
+    stargazers_count: 759
+  - name: Coinbase .Net SDK by Youssef Boukenken
+    documentation_url: https://github.com/sefbkn/Coinbase.NET/blob/master/README.md
+    source_code_url: https://github.com/sefbkn/Coinbase.NET
+    platform: .Net, C#
+    author: sefbkn
+    stargazers_count: 4
+  - name: Coinbase .Net SDK by Brian Chavez
+    documentation_url: https://developers.coinbase.com/docs/wallet/client-libraries
+    source_code_url: https://github.com/bchavez/Coinbase
+    platform: .Net, C#
+    author: bchavez
+    stargazers_count: 184
+  - name: Coinbase Python SDK by Coinbase
+    documentation_url: https://developers.coinbase.com/api/v2#official-client-libraries
+    source_code_url: https://github.com/coinbase/coinbase-python
+    platform: Python
+    stargazers_count: 542

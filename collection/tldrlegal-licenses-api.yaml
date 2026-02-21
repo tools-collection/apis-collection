@@ -1,0 +1,10 @@
+name: TLDRLegal Licenses API
+slug: tldrlegal-licenses-api
+description: Software Licenses in Plain English. Lookup popular software licenses summarized at-a-glance.
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://tldrlegal.com/api/license

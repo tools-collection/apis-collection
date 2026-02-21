@@ -1,0 +1,12 @@
+name: ReqRes
+slug: reqres
+description: A hosted REST-API ready to respond to AJAX requests
+categories:
+  - Development
+  - Authentication & User Management
+  - Testing
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://reqres.in/

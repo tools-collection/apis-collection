@@ -1,0 +1,11 @@
+name: US Extract
+slug: us-extract
+description: Extract USPS addresses from any text with our easy-to-use API
+categories:
+  - Post & Logistics
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-extract/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://smartystreets.com/products/apis/us-extract-api

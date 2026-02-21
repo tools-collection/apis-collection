@@ -1,0 +1,98 @@
+name: Shutterstock
+slug: shutterstock
+description: Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and
+  more. Get started with a free image API today. The Shutterstock API provides access to Shutterstock's library of
+  media, as well as information about customers' accounts and the contributors that provide the media. It allows
+  customer platforms to search for media, view information and previews for the media, and license and download media
+categories:
+  - Images & Photography
+  - Search
+  - Music & Audio
+  - Video & Media
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shutterstock/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.shutterstock.com/developers/
+libraries:
+  - name: Shutterstock CodeIgniter PHP SDK by Raditya Adi Baskara
+    documentation_url: https://github.com/raditya-ab/CI-Shutterstock-library
+    platform: PHP
+    author: raditya-ab
+    stargazers_count: 0
+  - name: Shutterstock iOS SDK by Ruslan M.
+    documentation_url: https://github.com/ruslanmusagitov/shutterstock-ios
+    platform: Swift
+    author: ruslanmusagitov
+    stargazers_count: 0
+  - name: Shutterstock Python SDK by Lumen5
+    documentation_url: https://github.com/Lumen5/shutterstock-api
+    platform: Python
+    stargazers_count: 0
+  - name: Shutterstock Python SDK by Matt
+    documentation_url: https://github.com/malero/python-shutterstock-api
+    platform: Python
+    author: malero
+    stargazers_count: 0
+  - name: Shutterstock TypeScript SDK by Ga
+    documentation_url: https://github.com/shvendala/shutterstock
+    platform: Unspecified
+    author: egagarin
+    stargazers_count: 5
+  - name: Shutterstock R SDK by Metin Yazici
+    documentation_url: https://github.com/strboul/shutterstock-r
+    source_code_url: https://cran.r-project.org/web/packages/shutterstock/index.html
+    platform: R
+    author: strboul
+    stargazers_count: 4
+  - name: Shutterstock PHP SDK by Jacob Emerick
+    documentation_url: https://github.com/jacobemerick/php-shutterstock-api
+    platform: PHP
+    author: jacobemerick
+    stargazers_count: 3
+  - name: Shutterstock Ruby SDK by Erick Schmitt
+    documentation_url: https://github.com/ejschmitt/shutterstock
+    platform: Ruby
+    author: ejschmitt
+    stargazers_count: 5
+  - name: Shutterstock JavaScript SDK
+    documentation_url: https://developers.shutterstock.com/documentation/javascript-sdk
+    source_code_url: https://github.com/shutterstock/public-api-javascript-sdk
+    platform: JavaScript, Node.js
+    stargazers_count: 11
+  - name: Shutterstock Node.js SDK by Jorma16
+    documentation_url: https://github.com/jorma16/shutter-api-client
+    platform: Node.js
+  - name: Shutterstock Java SDK by Yuri Pourre
+    documentation_url: https://github.com/yuripourre/shutterstock-java
+    platform: Java
+    author: yuripourre
+    stargazers_count: 1
+  - name: Shutterstock Ruby SDK by David Peterson
+    documentation_url: https://github.com/dippysan/shutterstock
+    platform: Ruby
+    author: dippysan
+    stargazers_count: 1
+  - name: Shutterstock Ruby SDK by Tailor
+    documentation_url: https://github.com/TailorBrands/shutterstock-ruby
+    platform: Ruby
+    stargazers_count: 3
+  - name: Shutterstock Node.js SDK
+    documentation_url: https://github.com/shutterstock/node-shutterstock-api
+    platform: Node.js
+    stargazers_count: 9
+  - name: Shutterstock Ruby SDK
+    documentation_url: https://github.com/shutterstock/ruby-shutterstock-api
+    platform: Ruby
+    stargazers_count: 7
+  - name: Shutterstock Perl SDK by Brian Phillips
+    documentation_url: http://search.cpan.org/~bphillips/WebService-Shutterstock/
+    platform: PERL
+  - name: Shutterstock Node.Js SDK by Silas Sewell
+    documentation_url: https://www.npmjs.com/package/shutterstock
+    platform: Node.js
+  - name: Shutterstock PHP SDK by Shutterstock
+    documentation_url: https://packagist.org/packages/shutterstock/api
+    source_code_url: https://github.com/shutterstock/php-shutterstock-api
+    platform: PHP
+    stargazers_count: 7

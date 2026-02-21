@@ -1,0 +1,12 @@
+name: SendGrid
+slug: sendgrid
+description: SendGrid's Email API enables sending transactional and marketing emails at scale. Features include email templates, analytics, bounced email tracking, and inbound email parsing.
+categories:
+  - Email & SMS
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.sendgrid.com
+  - name: API Reference
+    url: https://docs.sendgrid.com/api-reference

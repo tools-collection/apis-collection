@@ -1,0 +1,13 @@
+name: IGDB.com
+slug: igdb-com
+description: Video Game database on demand! Images, info video and other data you can retrieve trough the rest API.
+  Access the International Games Database and get information about videogames, characters, companies, genres and many
+  more. Commercial usage is allowed
+categories:
+  - Games
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.igdb.com/

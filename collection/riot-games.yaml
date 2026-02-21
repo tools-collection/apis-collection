@@ -1,0 +1,74 @@
+name: Riot Games
+slug: riot-games
+description: Provide the League of Legends developer community with access to game data in a secure and reliable way.
+categories:
+  - Analytics
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.riotgames.com/
+libraries:
+  - name: Riot PHP SDK by Daniel Dolejška
+    documentation_url: https://github.com/dolejska-daniel/riot-api
+    source_code_url: https://github.com/dolejska-daniel/riot-api/tree/master/src
+    platform: PHP
+    author: dolejska-daniel
+    stargazers_count: 102
+  - name: Riot Games PHP SDK by DNW Network
+    documentation_url: https://packagist.org/packages/dnwnetwork/php-riot-api
+    source_code_url: https://github.com/DNWNetwork/php-riot-api
+    platform: PHP
+  - name: Riot Games Node.js SDK by NahisWayard
+    documentation_url: https://github.com/NahisWayard/wrapper-node-riot-api
+    platform: Node.js
+  - name: League of Legends PHP SDK by Lam Phuong Phan
+    documentation_url: https://packagist.org/packages/lpphan/riot-api
+    source_code_url: https://github.com/lamphuong223/riot-api-php
+    platform: PHP
+    author: lamphuong223
+    stargazers_count: 1
+  - name: Riot Games Ruby SDK by Blanchard François
+    documentation_url: https://github.com/francois-blanchard/riot_lol_api
+    platform: Ruby
+    author: francois-blanchard
+    stargazers_count: 8
+  - name: Riot Games LoL PHP SDK by Kevin Ran
+    documentation_url: https://github.com/chr0n1x/league-of-legends-api-core
+    platform: PHP
+    author: chr0n1x
+    stargazers_count: 2
+  - name: Riot Games LoL Ruby SDK by Pat George
+    documentation_url: https://github.com/petems/riot_api
+    platform: Ruby
+    author: petems
+    stargazers_count: 12
+  - name: Riot Games LoL Python SDK by Patrick O'Brien
+    documentation_url: https://github.com/p-ob/lolPy
+    platform: Python
+    author: p-ob
+    stargazers_count: 5
+  - name: Riot Games Node.js Library by Robert Manolea
+    documentation_url: https://www.npmjs.com/package/lol-riot-api
+    source_code_url: https://github.com/Pupix/lol-riot-api
+    platform: Node.js
+    author: Pupix
+    stargazers_count: 21
+  - name: Riot Games PHP Library by Kevin Ohashi
+    documentation_url: https://github.com/kevinohashi/php-riot-api
+    platform: PHP
+    author: kevinohashi
+    stargazers_count: 77
+  - name: Riot Games Java Library riot-api-java
+    documentation_url: https://github.com/rithms/riot-api-java
+    platform: Java
+    author: taycaldwell
+    stargazers_count: 182
+  - name: Riot Games API Node.js Library
+    documentation_url: https://developer.riotgames.com/api/methods
+    source_code_url: https://github.com/HardTacos/riot-games-api-nodejs
+    platform: Node.js
+    author: HardTacos
+    stargazers_count: 8

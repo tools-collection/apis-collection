@@ -1,0 +1,14 @@
+name: TMDb
+slug: tmdb
+description: TMDb provides powerful searches as well as powerful movie discovery. The Movie Database (TMDb) is a
+  popular, user editable database for movies and TV shows
+categories:
+  - Video & Media
+  - Search
+  - Entertainment
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tmdb/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.themoviedb.org/documentation/api

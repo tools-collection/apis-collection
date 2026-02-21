@@ -1,0 +1,145 @@
+name: Bittrex
+slug: bittrex
+description: Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a
+  complementary Websocket service providing streaming market and user data updates
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://bittrex.github.io/api/v3
+libraries:
+  - name: haxchange Haskell SDK by Sean McGroarty
+    documentation_url: https://github.com/mcgizzle/haxchange
+    platform: Haskell
+    author: mcgizzle
+    stargazers_count: 13
+  - name: Cryptocurrency exchanges connector PHP SDK by WALL
+    documentation_url: https://github.com/wall-one/exchange-connector
+    platform: PHP
+    stargazers_count: 5
+  - name: ExchangeSharp .NET/C# by Jeff Johnson
+    documentation_url: https://github.com/jjxtra/ExchangeSharp
+    platform: .Net, C#
+    author: jjxtra
+    stargazers_count: 759
+  - name: Bittrex Go SDK by frcr
+    documentation_url: https://github.com/frcr/gotrex
+    platform: Go
+    author: frcr
+    stargazers_count: 0
+  - name: Bittrex C# SDK by raghupallavi
+    documentation_url: https://github.com/raghupallavi/Bittrex-CSharp-Api
+    platform: C#
+  - name: Bittrex PowerShell SDK by byterogues
+    documentation_url: https://github.com/byterogues/powershell-bittrex-api
+    platform: .Net
+    author: byterogues
+    stargazers_count: 5
+  - name: Bittrex PHP SDK by Brian Faust
+    documentation_url: https://github.com/faustbrian/Bittrex-PHP-Client
+    platform: PHP
+    author: faustbrian
+    stargazers_count: 2
+  - name: Bittrex Python SDK by Luc
+    documentation_url: https://github.com/dude24760/bittrex-public-unofficial-api
+    platform: Python
+    author: dude24760
+    stargazers_count: 0
+  - name: Bittrex Ruby SDK by Vizakenjack
+    documentation_url: https://github.com/Vizakenjack/ruby-bittrex-api
+    platform: Ruby
+    author: vizakenjack
+    stargazers_count: 4
+  - name: Bittrex Java SDK by NinjaNed
+    documentation_url: https://github.com/NinjaNed/BittrexJavaWrapper
+    platform: Java
+    author: NinjaNed
+    stargazers_count: 5
+  - name: Bittrex .NET SDK by swtrse
+    documentation_url: https://github.com/swtrse/BittrexClient.net
+    platform: .Net
+    author: swtrse
+    stargazers_count: 0
+  - name: Bittrex PHP SDK by fransyozef
+    documentation_url: https://github.com/fransyozef/php-bittrex
+    platform: PHP
+  - name: Bittrex Laravel PHP SDK by Pepijn Olivier
+    documentation_url: https://github.com/pepijnolivier/laravel-bittrex
+    platform: PHP
+    author: pepijnolivier
+    stargazers_count: 23
+  - name: Bittrex PHP SDK by Roman
+    documentation_url: https://github.com/KielD-01/Bittrex-Reader
+    platform: PHP
+    author: KielD-01
+    stargazers_count: 0
+  - name: Bittrex Node.js SDK by Coinsop
+    documentation_url: https://github.com/coinsop/bittrex-wrapper
+    platform: Node.js
+    stargazers_count: 8
+  - name: Bittrex Python SDK by Nate George
+    documentation_url: https://github.com/nateGeorge/bittrex_tools
+    platform: Python
+    author: nateGeorge
+    stargazers_count: 12
+  - name: Bittrex Node.js SDK by jpstratmanuno
+    documentation_url: https://github.com/jpstratmanuno/bittrex-orderbook
+    platform: Node.js
+    author: jpstratman
+    stargazers_count: 0
+  - name: Bittrex Elixir SDK by Andrey Parubets
+    documentation_url: https://github.com/parubets/bittrex_elixir
+    platform: Elixir
+    author: parubets
+    stargazers_count: 0
+  - name: Bittrex Ruby SDK by Aaron Binford
+    documentation_url: https://github.com/MisterToolbox/bittrex-api
+    platform: Ruby
+    author: MisterToolbox
+    stargazers_count: 0
+  - name: Bittrex Elixir SDK by cyberpunk-ventures
+    documentation_url: https://github.com/cyberpunk-ventures/bittrex_ex
+    platform: Elixir
+    stargazers_count: 0
+  - name: Bittrex Node.js SDK by Tommy Bergeron
+    documentation_url: https://github.com/tbergeron/bittrex-notifier
+    platform: Node.js
+    author: tbergeron
+    stargazers_count: 2
+  - name: Bittrex Go SDK by Justin
+    documentation_url: https://github.com/Just1B/Bittrex_ticker
+    platform: Go
+  - name: Bittrex v2 Java SDK by Giorgio Momigliano
+    documentation_url: https://github.com/platelminto/java-bittrex-2
+    platform: Java
+    author: platelminto
+    stargazers_count: 17
+  - name: Bittrex PHP SDK by guxal
+    documentation_url: https://github.com/guxal/BittrexAPIClient
+    platform: PHP
+    author: guxal
+    stargazers_count: 5
+  - name: Bittrex Python SDK by ppm0
+    documentation_url: https://github.com/ppm0/bittrex3
+    platform: Python
+    author: ppm0
+    stargazers_count: 0
+  - name: Python-Bittrex
+    documentation_url: https://github.com/ericsomdahl/python-bittrex
+    platform: Python
+    author: ericsomdahl
+    stargazers_count: 580
+  - name: Ruby Gem for Bittrex
+    documentation_url: https://github.com/mwerner/bittrex
+    source_code_url: https://github.com/mwerner/bittrex
+    platform: Ruby
+    author: mwerner
+    stargazers_count: 51
+  - name: Node Bittrex API
+    documentation_url: https://www.npmjs.org/package/node.bittrex.api
+    source_code_url: https://github.com/n0mad01/node.bittrex.api
+    platform: Node.js
+    author: n0mad01
+    stargazers_count: 180

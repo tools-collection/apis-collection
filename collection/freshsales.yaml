@@ -1,0 +1,13 @@
+name: Freshsales
+slug: freshsales
+description: Freshsales CRM API provides access to contacts, accounts, deals, tasks, and sales sequences. Build sales automation integrations and sync data with Freshsales' AI-powered CRM platform.
+categories:
+  - CRM
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.freshsales.io/api
+  - name: API Reference
+    url: https://developer.freshsales.io/api/#introduction

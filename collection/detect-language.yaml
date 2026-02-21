@@ -1,0 +1,13 @@
+name: Detect Language
+slug: detect-language
+description: Detects 164 languages. Supports short texts, batch requests, JavaScript, Python, C#, Java, PHP, Go, Ruby
+  and more. Fast, reliable text language identification API.
+categories:
+  - Text Analysis & Tools
+  - AI & ML
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/detect-language/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://detectlanguage.com/

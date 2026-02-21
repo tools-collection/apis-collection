@@ -1,0 +1,19 @@
+name: Noun Project
+slug: noun-project
+description: Grab a hold of the World’s Visual Language! Use it in your service or application.
+categories:
+  - Images & Photography
+  - Art & Design
+  - Visualizations
+type: REST
+is_free: false
+contact: support@telnyx.com
+links:
+  - name: Docs / Website
+    url: http://api.thenounproject.com/index.html
+libraries:
+  - name: Noun Project Ruby Gem noun-project-api
+    documentation_url: https://github.com/TailorBrands/noun-project-api
+    source_code_url: http://rubygems.org/gems/noun-project-api/versions/0.0.5
+    platform: Ruby
+    stargazers_count: 21

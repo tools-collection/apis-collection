@@ -1,0 +1,39 @@
+name: CartoDB
+slug: cartodb
+description: Allows you to generate maps based on data hosted in your CartoDB account.
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://carto.com/developers/#apis
+libraries:
+  - name: CartoDB Python SDK by CartoDB
+    documentation_url: https://github.com/CartoDB/carto-python
+    platform: Python
+    stargazers_count: 154
+  - name: CartoDB R SDK by CartoDB
+    documentation_url: https://github.com/CartoDB/cartodb-r
+    platform: R
+    stargazers_count: 59
+  - name: CartoDB Node.js SDK by CartoDB
+    documentation_url: https://github.com/CartoDB/cartodb-nodejs
+    platform: Node.js
+    stargazers_count: 46
+  - name: CartoDB Java Library by CartoDB
+    documentation_url: https://github.com/CartoDB/cartodb-java-client
+    platform: Java
+    stargazers_count: 10
+  - name: CartoDB Python Library by CartoDB
+    documentation_url: https://github.com/CartoDB/cartodb-python
+    platform: Python
+    stargazers_count: 154
+  - name: CartoDB JavaScript Library by CartoDB
+    documentation_url: https://github.com/CartoDB/cartodb.js
+    platform: JavaScript
+    stargazers_count: 430
+  - name: CartoDB SQL Library by CartoDB
+    documentation_url: https://github.com/CartoDB/CartoDB-SQL-API
+    platform: SQL
+    stargazers_count: 64

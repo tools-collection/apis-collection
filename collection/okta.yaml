@@ -1,0 +1,13 @@
+name: Okta
+slug: okta
+description: Okta's API manages users, groups, applications, and authentication policies for enterprise identity. Build SSO, MFA, and lifecycle management integrations with the Okta Identity Platform.
+categories:
+  - Authentication & User Management
+  - Security
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.okta.com/docs/reference
+  - name: API Reference
+    url: https://developer.okta.com/docs/reference/core-okta-api

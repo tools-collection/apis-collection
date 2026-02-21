@@ -1,0 +1,11 @@
+name: Mapbox Geocoding API
+slug: mapbox-geocoding-api
+description: The Mapbox Geocoding API does forward geocoding (search place names and return coordinates) and reverse
+  geocoding (search coordinates and return place names)
+categories:
+  - Search
+  - Maps & Geo
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.mapbox.com/api/

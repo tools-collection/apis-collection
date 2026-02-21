@@ -1,0 +1,13 @@
+name: FoodData Central
+slug: food-data-central
+description: USDA FoodData Central API provides detailed nutritional information for branded foods, standard references, and experimental data. Access nutrient profiles for thousands of food items.
+categories:
+  - Food & Drinks
+  - Health
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://fdc.nal.usda.gov/api-guide.html
+  - name: API Reference
+    url: https://app.swaggerhub.com/apis/fdcnal/food-data_central_api/1.0.1

@@ -1,0 +1,28 @@
+name: WorkOS
+slug: workos
+description: Easily integrate Okta SAML, Google OAuth, and more. Support Single Sign-On for common Enterprise Identity
+  Providers (Okta, Azure, OneLogin). Documentation on integrating WorkOS API for Single Sign-On (SSO), Directory Sync
+  (SCIM), Audit Trail (SIEM), and more
+categories:
+  - Security
+  - Business
+  - Authentication & User Management
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/workos/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://workos.com/docs
+libraries:
+  - name: WorkOS Python SDK
+    documentation_url: https://docs.workos.com/sdk/python
+    platform: Python
+  - name: WorkOS Go SDK
+    documentation_url: https://docs.workos.com/sdk/go
+    platform: Go
+  - name: WorkOS Ruby SDK
+    documentation_url: https://docs.workos.com/sdk/ruby
+    platform: Ruby
+  - name: WorkOS NodeJS SDK
+    documentation_url: https://docs.workos.com/sdk/node
+    platform: Node.js

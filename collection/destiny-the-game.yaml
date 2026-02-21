@@ -1,0 +1,13 @@
+name: Destiny The Game
+slug: destiny-the-game
+description: These endpoints constitute the functionality exposed by Bungie.net both for more traditional website
+  functionality and for connectivity to Bungie video games and their related functionality.
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/destiny-the-game/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/Bungie-net/api

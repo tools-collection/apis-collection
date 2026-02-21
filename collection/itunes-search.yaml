@@ -1,0 +1,12 @@
+name: iTunes Search
+slug: itunes-search
+description: Describes the iTunes Search API used to place search fields in a website. The Search API allows you to
+  place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App
+  Store
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1

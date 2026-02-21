@@ -1,0 +1,20 @@
+name: Matlab
+slug: matlab
+description: MATLAB is a high-level language and interactive environment for numerical computation, visualization, and
+  programming. The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON
+  representation of MATLAB data types.
+categories:
+  - Science & Math
+  - Development
+  - Visualizations
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/matlab/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.programmableweb.com/api/matlab
+libraries:
+  - name: MATLAB Python SDK by Mathworks
+    documentation_url: https://www.mathworks.com/help/mps/client-programming.html
+    source_code_url: https://www.mathworks.com/help/mps/python-client-programming.html
+    platform: Python

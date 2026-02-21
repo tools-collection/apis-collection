@@ -1,0 +1,10 @@
+name: Chuck Norris Database
+slug: chuck-norris-database
+description: API for online Chuck Norris jokes database
+categories:
+  - Fun
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.icndb.com/api/

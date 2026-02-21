@@ -1,0 +1,13 @@
+name: Sanity
+slug: sanity
+description: Sanity's Content Lake API provides real-time headless CMS access via GROQ queries and REST. Manage structured content, assets, and schemas for Sanity-powered applications.
+categories:
+  - Development
+  - Documents & Productivity
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.sanity.io/docs/http-api
+  - name: API Reference
+    url: https://www.sanity.io/docs/http-api

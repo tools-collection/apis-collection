@@ -1,0 +1,10 @@
+name: Reed
+slug: reed
+description: Official API for reed.co.uk jobs website
+categories:
+  - Jobs
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.reed.co.uk/developers

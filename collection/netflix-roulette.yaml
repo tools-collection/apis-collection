@@ -1,0 +1,49 @@
+name: Netflix Roulette
+slug: netflix-roulette
+description: Wondering what to watch? Let Netflix Roulette pick a movie or TV show randomly from the Netflix catalog,
+  filter IMDB score, and watch instantly. Will let you access Netflix database (which is not open anymore)
+categories:
+  - Entertainment
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://reelgood.com/roulette/netflix
+libraries:
+  - name: Netflix Roulette Nim SDK by Adam Chesak
+    documentation_url: https://github.com/achesak/nim-netflixroulette
+    platform: Unspecified
+    author: achesak
+    stargazers_count: 0
+  - name: Netflix Roulette Go SDK by Julián Reyes
+    documentation_url: https://github.com/jreyeshdez/goroulette
+    platform: Go
+    author: jreyeshdez
+    stargazers_count: 1
+  - name: Netflix Roulette PHP SDK by Luis Filipe Lima dos Santos Sousa
+    documentation_url: https://github.com/lionphilips/netflix-client
+    platform: PHP
+  - name: Netflix Roulette PHP SDK by Gabriel de Tassigny
+    documentation_url: https://github.com/gabriel-detassigny/netflix-roulette
+    platform: PHP
+    author: gabriel-detassigny
+    stargazers_count: 1
+  - name: Netflix Roulette Go SDK by Elijah Wilson
+    documentation_url: https://github.com/tizz98/go-netflix-roulette
+    platform: Go
+    author: tizz98
+    stargazers_count: 2
+  - name: Netflix Roulette Ruby SDK by doesterr
+    documentation_url: https://github.com/doesterr/netflix_roulette
+    platform: Ruby
+    author: doesterr
+    stargazers_count: 2
+  - name: Netflix Roulette Node.js SDK by Enzo Toshio
+    documentation_url: https://github.com/enzotoshio/netflixSearch
+    platform: Node.js
+    author: enzotoshio
+    stargazers_count: 4
+  - name: Netflix Roulette Python SDK by Elijah Wilson
+    documentation_url: https://github.com/tizz98/netflix_roulette
+    platform: Python
+    author: tizz98
+    stargazers_count: 9

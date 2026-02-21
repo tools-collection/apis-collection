@@ -1,0 +1,12 @@
+name: JCDecaux Bike
+slug: jcdecaux-bike
+description: From the location of the bike stations to the availability of bikes and parking spaces in real time, use
+  our data to experiment new representations or to provide innovative and useful services to users. You can access this
+  data through a simple download or an advanced web API.
+categories:
+  - Sport & Fitness
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.jcdecaux.com/

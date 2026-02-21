@@ -1,0 +1,80 @@
+name: OpenWeatherMap
+slug: openweathermap
+description: Simple and fast and free weather API from OpenWeatherMap. With it you have access to current weather data,
+  hourly, 5- and 16-day forecasts. Historical weather data for 40 years back for any coordinate. Weather maps, UV Index,
+  air pollution and historical data
+categories:
+  - Maps & Geo
+  - Weather
+  - Environment & Nature
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://openweathermap.org/api
+libraries:
+  - name: OpenWeatherMap Android SDK by Slobodan Antonijević
+    documentation_url: https://jitpack.io/#slobodanantonijevic/OpenWeatherMap-SDK
+    source_code_url: https://github.com/slobodanantonijevic/OpenWeatherMap-SDK
+    platform: Java
+    author: slobodanantonijevic
+    stargazers_count: 1
+  - name: TYPO3 Weather Extension PHP SDK by jweiland
+    documentation_url: https://github.com/jweiland-net/weather2
+    platform: PHP
+    stargazers_count: 5
+  - name: OpenWeatherMap PHP SDK by MonkeyPHP
+    documentation_url: https://packagist.org/packages/monkeyphp/open-weather-map
+    source_code_url: https://github.com/monkeyphp/open-weather-map
+    platform: PHP
+    author: monkeyphp
+    stargazers_count: 0
+  - name: OpenWeatherMap Scala SDK by Snowplow
+    documentation_url: http://snowplowanalytics.com/blog/2015/12/13/scala-weather-0.1.0-released/
+    source_code_url: https://github.com/snowplow/scala-weather
+    platform: Scala
+    stargazers_count: 42
+  - name: OpenWeatherMap Node-RED SDK by dceejay and Nick O'Leary
+    documentation_url: http://flows.nodered.org/node/node-red-node-openweathermap
+    source_code_url: https://github.com/node-red/node-red-web-nodes/tree/master/openweathermap
+    platform: Node.js
+    stargazers_count: 182
+  - name: OpenWeatherMap AngularJS SDK by Jonathan Hornung
+    documentation_url: https://libraries.io/bower/angular-openweathermap-api-factory
+    source_code_url: https://github.com/JohnnyTheTank/angular-openweathermap-api-factory
+    platform: JavaScript
+    author: JohnnyTheTank
+    stargazers_count: 10
+  - name: OpenWeatherMap Go SDK by Brian Downs
+    documentation_url: http://briandowns.github.io/openweathermap/
+    source_code_url: https://github.com/briandowns/openweathermap
+    platform: Go
+    author: briandowns
+    stargazers_count: 159
+  - name: OpenWeatherMap Python SDK by Claudio Sparpaglione
+    documentation_url: https://github.com/csparpa/pyowm
+    platform: Python
+    author: csparpa
+    stargazers_count: 637
+  - name: OpenWeatherMap PHP SDK by Christian Flach
+    documentation_url: https://github.com/cmfcmf/OpenWeatherMap-PHP-Api
+    platform: PHP
+    author: cmfcmf
+    stargazers_count: 293
+  - name: OpenWeatherMap C SDK by Pebble Hacks
+    documentation_url: https://github.com/pebble-hacks/owm-weather
+    platform: C
+    stargazers_count: 19
+  - name: Open Weather Map .NET Library by Joan Caron
+    documentation_url: https://github.com/joancaron/OpenWeatherMap-Api-Net
+    platform: .Net
+    author: joancaron
+    stargazers_count: 35
+  - name: OpenWeatherMap JavaScript Library
+    documentation_url: http://weatherjs.com/
+    platform: JavaScript
+  - name: OpenWeatherMap Java Library
+    documentation_url: https://github.com/migtavares/owmClient
+    platform: Java
+    author: migtavares
+    stargazers_count: 79

@@ -1,0 +1,19 @@
+name: Google Charts
+slug: google-charts
+description: Free tool with a wide range of capabilities for visualizing data from a website. Google Charts provides a
+  perfect way to visualize data on your website. From simple line charts to complex hierarchical tree maps, the chart
+  gallery provides a large number of ready-to-use chart ty
+categories:
+  - Bar & QR Codes
+  - Analytics
+  - Visualizations
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-charts/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/chart/interactive/docs/
+libraries:
+  - name: Table2Charts
+    documentation_url: http://labs.umaniac.com/projects/table2charts/
+    platform: JavaScript

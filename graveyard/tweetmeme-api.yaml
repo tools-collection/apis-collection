@@ -1,0 +1,10 @@
+name: Tweetmeme API
+slug: tweetmeme-api
+description: Provides third-party integration with the TweetMeme web service, used to track popular links on Twitter
+categories:
+  - Social
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tweetmeme-api/logo_256x256.png
+links:
+  - name: Docs / Website

@@ -1,0 +1,13 @@
+name: PostHog
+slug: posthog
+description: PostHog's API provides product analytics, feature flags, session recording, A/B testing, and user management. Open-source and self-hostable, with cloud and on-premise options.
+categories:
+  - Analytics
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://posthog.com/docs
+  - name: API Reference
+    url: https://posthog.com/docs/api

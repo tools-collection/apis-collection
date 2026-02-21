@@ -1,0 +1,12 @@
+name: xAI Grok
+slug: xai-grok
+description: xAI's API provides access to the Grok family of language models for text generation and reasoning. Grok has real-time access to X (Twitter) data and is optimized for conversational tasks.
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.x.ai
+  - name: API Reference
+    url: https://docs.x.ai/api

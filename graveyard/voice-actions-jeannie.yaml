@@ -1,0 +1,14 @@
+name: Voice Actions Jeannie
+slug: voice-actions-jeannie
+description: Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, now also available via API.
+  The objective of this service is to provide you and your robot with the smartest answer to any natural language
+  question, just like Siri
+categories:
+  - AI & ML
+  - Voice
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/voice-actions-jeannie/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://pannous-jeannie.p.mashape.com/

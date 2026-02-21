@@ -1,0 +1,10 @@
+name: AnimeNewsNetwork
+slug: animenewsnetwork
+description: ANN provides a direct feed to the Encyclopedia data in XML format
+categories:
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.animenewsnetwork.com/encyclopedia/api.php

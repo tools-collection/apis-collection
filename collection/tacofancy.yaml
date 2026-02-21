@@ -1,0 +1,13 @@
+name: TacoFancy API
+slug: tacofancy
+description: API for community-driven, object-oriented taco recipe repo - https://github.com/sinker/tacofancy. Please
+  fork and submit your own recipes, because the more there are, the more delicious it gets.
+categories:
+  - Food & Drinks
+  - Fun
+type: REST
+is_free: true
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tacofancy/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/evz/tacofancy

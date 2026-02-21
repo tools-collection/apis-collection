@@ -1,0 +1,14 @@
+name: Izi
+slug: izi
+description: izi.TRAVEL is ready to spread all local stories globally. Every day numerous content providers publish
+  their audio guides on izi.TRAVEL platform. More than 1750 museums and 1750 cities all of the world are covered with
+  interesting stories in different languages. New stories appear every moment.
+categories:
+  - Travel
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/izi/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://api-docs.izi.travel/

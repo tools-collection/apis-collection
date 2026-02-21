@@ -1,0 +1,11 @@
+name: Shopping.Com API
+slug: shopping-com-api
+description: Makes it easy to search for things on eBay
+categories:
+  - Commerce
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shopping-com-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://publishers.ebaycommercenetwork.com/home.action

@@ -1,0 +1,61 @@
+name: SoundCloud
+slug: soundcloud
+description: Using the SoundCloud API, you can build applications that take sound on the web to the next level. Latest
+  Updates Twitter Build applications that allow users to upload and share sounds across the web. The SDKs will make it
+  easier to access the SoundCloud API on your framework of choice. Learn ho
+categories:
+  - Music & Audio
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.soundcloud.com
+libraries:
+  - name: lizz C++ SDK by bx5a
+    documentation_url: https://github.com/bx5a/lizz
+    platform: C++
+    author: bx5a
+    stargazers_count: 0
+  - name: SoundCloud Node.js SDK by Jake Marsh
+    documentation_url: https://www.npmjs.com/package/node-soundcloud
+    source_code_url: https://github.com/jakemmarsh/node-soundcloud
+    platform: Node.js
+    author: jakemmarsh
+    stargazers_count: 32
+  - name: SoundCloud .Net SDK by Kirill Ivanov
+    documentation_url: https://github.com/kipwoker/SoundCloud.API.Client
+    platform: .Net
+    author: kipwoker
+    stargazers_count: 46
+  - name: SoundCloud JavaScript SDK by SoundCloud
+    documentation_url: https://github.com/soundcloud/soundcloud-javascript
+    platform: JavaScript
+    stargazers_count: 364
+  - name: SoundCloud Python SDK by SoundCloud
+    documentation_url: https://github.com/soundcloud/soundcloud-python
+    platform: Python
+    stargazers_count: 47
+  - name: SoundCloud Python SDK by Alexander Skiridomov
+    documentation_url: https://github.com/n1nj4z33/soundcloud-python
+    platform: Python
+    author: n1nj4z33
+    stargazers_count: 1
+  - name: SoundCloud PHP SDK by Nelson J Morais
+    documentation_url: https://github.com/njasm/soundcloud
+    platform: PHP
+    author: njasm
+    stargazers_count: 94
+  - name: SoundCloud Ruby SDK by SoundCloud
+    documentation_url: https://github.com/soundcloud/soundcloud-ruby
+    platform: Ruby
+    stargazers_count: 0
+  - name: SoundCloud SDK
+    documentation_url: https://developers.soundcloud.com/
+    source_code_url: https://developers.soundcloud.com/docs/api/ios-quickstart
+    platform: Objective-C
+  - name: " SoundCloud Java Library by Darius Morawiec"
+    documentation_url: https://github.com/nok/soundcloud-java-library
+    platform: Java
+    author: nok
+    stargazers_count: 56

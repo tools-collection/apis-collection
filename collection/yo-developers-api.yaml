@@ -1,0 +1,11 @@
+name: Yo Developers API
+slug: yo-developers-api
+description: Yo API Documentation. Programmatically send Yos (contextual messages) through API
+categories:
+  - Marketing & SEO
+  - Chats & Messaging
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yo-developers-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://docs.justyo.co/

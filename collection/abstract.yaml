@@ -1,0 +1,23 @@
+name: Abstract
+slug: abstract
+description: Suite of utility API's (validate emails, create user avatars, calculate VAT, and more). Abstract provides
+  powerful APIs to help you enrich any user experience or automate any workflow.
+categories:
+  - Development
+  - Art & Design
+  - Collaboration
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/abstract/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.abstractapi.com
+libraries:
+  - name: Abstract Link loader JavaScript SDK
+    documentation_url: https://github.com/goabstract/abstract-link-loader
+    platform: JavaScript
+    stargazers_count: 1
+  - name: Abstract JavaScript SDK
+    documentation_url: https://github.com/goabstract/abstract-sdk
+    platform: JavaScript
+    stargazers_count: 62

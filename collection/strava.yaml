@@ -1,0 +1,135 @@
+name: Strava
+slug: strava
+description: API for accessing and managing data about athletes, activities and segments. Strava API usage is limited on
+  a per-application basis using a short term, 15 minute, limit and a long term, daily, limit. The default rate limit
+  allows 600 requests every 15 minutes, with up to 30
+categories:
+  - Maps & Geo
+  - Sport & Fitness
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://strava.github.io/api/
+libraries:
+  - name: strava-to-fitbit-api Azure JavaScript SDK by Matt Magurany
+    documentation_url: https://github.com/heymagurany/strava-to-fitbit-api
+    platform: JavaScript
+    author: heymagurany
+    stargazers_count: 0
+  - name: meteor-fit-api MeteorJS SDK by Stavros Elaias
+    documentation_url: https://github.com/selaias/meteor-fit-api
+    platform: JavaScript, Node.js
+    author: selaias
+    stargazers_count: 3
+  - name: Strava Python SDK by jhavens12
+    documentation_url: https://github.com/jhavens12/Running_Graphs
+    platform: Python
+    author: jhavens12
+    stargazers_count: 0
+  - name: Strava JavaScript SDK by harryphelps
+    documentation_url: https://github.com/harryphelps/SportsDataVisualisation
+    platform: JavaScript
+    author: harryphelps2
+    stargazers_count: 1
+  - name: Strava JavaScript SDK by Maxime
+    documentation_url: https://github.com/maximemhd/Maaxstats
+    platform: JavaScript
+    author: maximemhd
+    stargazers_count: 0
+  - name: Strava Python SDK by Dan McCombs
+    documentation_url: https://github.com/dmccombs/everest_climbing
+    platform: Python
+    author: dmccombs
+    stargazers_count: 0
+  - name: Strava JavaScript SDK by Jake Wiesler
+    documentation_url: https://github.com/jakewies/just-chart-it
+    platform: JavaScript
+  - name: Strava JavaScript SDK by Peter Strumolo
+    documentation_url: https://github.com/pstrum/athletes-dashboard
+    platform: JavaScript
+    author: pstrum
+    stargazers_count: 0
+  - name: Strava AKKA Scala SDK by Blair Garrett
+    documentation_url: https://github.com/blairg/comparemyrace-backend
+    platform: Scala
+    author: blairg
+    stargazers_count: 0
+  - name: Strava PHP SDK by Colin Busby
+    documentation_url: https://github.com/cdbusby/activity-tracker
+    platform: PHP
+    author: cdbusby
+    stargazers_count: 0
+  - name: Strava KoaJS SDK by Lee Powell
+    documentation_url: https://github.com/leepowellcouk/koa-strava-api
+    platform: JavaScript, Node.js
+    author: leepowelldev
+    stargazers_count: 0
+  - name: Strava Python SDK by Daniel Clewley
+    documentation_url: https://github.com/danclewley/get_pcr_tt_results
+    platform: Python
+    author: danclewley
+    stargazers_count: 0
+  - name: Strava R SDK by Michael Pearmain
+    documentation_url: https://github.com/mpearmain/StravR
+    platform: R
+    author: mpearmain
+    stargazers_count: 0
+  - name: Strava Ruby on Rails SDK by julianGallegos
+    documentation_url: https://github.com/julianGallegos/strava_rails_api
+    platform: Ruby
+    author: julianGallegos
+    stargazers_count: 0
+  - name: Strava PHP SDK by Eric Todd
+    documentation_url: https://github.com/dRockolla/GearSpy
+    platform: PHP
+    author: dRockolla
+    stargazers_count: 1
+  - name: Strava PHP SDK by RapidAPI
+    documentation_url: https://github.com/RapidSoftwareSolutions/Marketplace-Strava-Package
+    platform: PHP
+    stargazers_count: 0
+  - name: Strava Flask Python SDK by stolmen
+    documentation_url: https://github.com/stolmen/strava_flask_derp
+    platform: Python
+    author: stolmen
+    stargazers_count: 0
+  - name: Strava JavaScript SDK by Isabel Sharp
+    documentation_url: https://github.com/iss7/StravaWaxTracker
+    platform: JavaScript
+    author: iss7
+    stargazers_count: 0
+  - name: Strava Python SDK by Sergei Shevlyagin
+    documentation_url: https://github.com/sshevlyagin/strava-api-v3.1
+    platform: Python
+    author: sshevlyagin
+    stargazers_count: 5
+  - name: Strava Java SDK by Vlad Berezan
+    documentation_url: https://github.com/vberezan/st.utils-strava-api-wrapper
+    platform: Java
+  - name: Strava Objective-C SDK by martinalex
+    documentation_url: https://github.com/martinalex/WebServiceCall
+    platform: Objective-C
+    author: martinalex
+    stargazers_count: 0
+  - name: Strava Scala SDK by Geraint Jones
+    documentation_url: https://github.com/city81/strava-service
+    platform: Scala
+    author: city81
+    stargazers_count: 0
+  - name: Strava NodeJS SDK by Richard Bradley
+    documentation_url: https://github.com/chudley/node-strava
+    platform: Node.js
+    author: chudley
+    stargazers_count: 0
+  - name: Strava NodeJS SDK by bjackson1
+    documentation_url: https://github.com/bjackson1/strava_updater
+    platform: JavaScript, Node.js
+    author: bjackson1
+    stargazers_count: 0
+  - name: Strava Python SDK by Shaun Cloherty
+    documentation_url: https://github.com/cnuahs/strava-tools
+    platform: Python
+    author: cnuahs
+    stargazers_count: 0

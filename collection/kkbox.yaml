@@ -1,0 +1,11 @@
+name: KKBOX
+slug: kkbox
+description: Get ready to unbox the joy of music!
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kkbox/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.kkbox.com

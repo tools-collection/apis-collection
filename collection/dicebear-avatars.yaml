@@ -1,0 +1,13 @@
+name: Dicebear Avatars
+slug: dicebear-avatars
+description: "Avatars is an avatar placeholder library for designers and developers. You can choose between simple
+  identicons and lovely designed characters. And best of all: provides a simple and free HTTP API"
+categories:
+  - Testing
+  - Images & Photography
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://avatars.dicebear.com/

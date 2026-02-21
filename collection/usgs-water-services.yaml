@@ -1,0 +1,11 @@
+name: USGS Water Services
+slug: usgs-water-services
+description: Home page for water resources information from the US Geological Survey.
+categories:
+  - Environment & Nature
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/usgs-water-services/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://waterservices.usgs.gov/

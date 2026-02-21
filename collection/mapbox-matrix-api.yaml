@@ -1,0 +1,10 @@
+name: Mapbox Matrix API
+slug: mapbox-matrix-api
+description: The Mapbox Matrix API returns travel times between many points
+categories:
+  - Maps & Geo
+  - Post & Logistics
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.mapbox.com/api/

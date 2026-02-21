@@ -1,0 +1,13 @@
+name: Apify
+slug: apify
+description: Apify's API lets you run web scraping and automation actors, manage datasets, key-value stores, and proxies. Access thousands of pre-built scrapers or deploy your own.
+categories:
+  - Scrapers & Data Mining
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.apify.com/api/v2
+  - name: API Reference
+    url: https://docs.apify.com/api/v2

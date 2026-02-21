@@ -1,0 +1,14 @@
+name: Airports Web
+slug: airports-web
+description: Covered Airports mostly Germany. Request Airport name and website URL for airports
+categories:
+  - Other
+is_free: false
+contact: support@adyen.com
+specification:
+  type: swagger
+  url: https://airport-web.appspot.com/api/docs/swagger.json
+  version: https://airport-web.appspot.com/api/docs/swagger.json
+links:
+  - name: Docs / Website
+    url: https://airport-web.appspot.com/api/docs/

@@ -1,0 +1,12 @@
+name: Vercel
+slug: vercel
+description: Vercel's API lets you manage deployments, domains, environment variables, projects, and teams programmatically. Integrates with Git to automate frontend deployment workflows.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://vercel.com/docs/rest-api
+  - name: API Reference
+    url: https://vercel.com/docs/rest-api/endpoints

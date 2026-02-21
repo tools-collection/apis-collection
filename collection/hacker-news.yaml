@@ -1,0 +1,149 @@
+name: Hacker News
+slug: hacker-news
+description: Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an
+  account on GitHub. Anything that good hackers would find interesting
+categories:
+  - News & Feeds
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hacker-news/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/HackerNews/API
+libraries:
+  - name: Hacker News Javascript SDK by Stepan Samko
+    documentation_url: https://moondef.github.io/hacker-news-api/
+    source_code_url: https://github.com/moondef/hacker-news-api
+    platform: JavaScript
+    author: moondef
+    stargazers_count: 17
+  - name: Hacker News React JavaScript SDK by David
+    documentation_url: https://github.com/blankmaker/hackernews-react-client
+    platform: JavaScript
+    author: blankmaker
+    stargazers_count: 1
+  - name: Hacker News React JavaScript SDK by Gopal Venkatesan
+    documentation_url: https://github.com/g13n/ycnews
+    platform: JavaScript
+    author: g13n
+    stargazers_count: 1
+  - name: Hacker News Node.js SDK by Shadowfacts
+    documentation_url: https://github.com/shadowfacts/hn-promise
+    platform: Node.js
+    author: shadowfacts
+    stargazers_count: 0
+  - name: Hacker News JavaScript SDK by gagginaspinnata
+    documentation_url: https://github.com/gagginaspinnata/yc-api
+    platform: JavaScript
+    author: gagginaspinnata
+    stargazers_count: 0
+  - name: Hacker News Go SDK by Sylvain Kerkour
+    documentation_url: https://github.com/z0mbie42/go-hn-api
+    platform: Go
+  - name: Hacker News Python SDK by Kyle Hubbard
+    documentation_url: https://github.com/kahubbard/hnapi-wrapper
+    platform: Python
+    author: kahubbard
+    stargazers_count: 0
+  - name: Hacker News Rust SDK by Trevor Bentley
+    documentation_url: https://github.com/mrmekon/hn-rs
+    platform: Unspecified
+    author: mrmekon
+    stargazers_count: 2
+  - name: Hacker News Crystal SDK by Dan
+    documentation_url: https://github.com/Gangwolf/hncr
+    platform: Unspecified
+    author: Gangwolf
+    stargazers_count: 3
+  - name: Hacker News Python SDK by Arindam Pradhan
+    documentation_url: https://github.com/arindampradhan/yaaHN
+    platform: Python
+    author: arindampradhan
+    stargazers_count: 0
+  - name: Hacker News React JavaScript SDK by Robert Yarborough
+    documentation_url: https://github.com/robert-yarborough/hackernews-reactJS
+    platform: JavaScript
+    author: robert-yarborough
+    stargazers_count: 0
+  - name: Hacker News Electron JavaScript SDK by Gokul
+    documentation_url: https://github.com/gokulchandra/menubar-HackerNews-client
+    platform: JavaScript
+    author: gokulchandra
+    stargazers_count: 0
+  - name: Hacker News .NET SDK by Matthew O'Neill
+    documentation_url: https://github.com/Matthew14/HackerNews-.NET-Wrapper
+    platform: .Net, C#
+    author: Matthew14
+    stargazers_count: 1
+  - name: Hacker News iOS SDK by Skye Freeman
+    documentation_url: https://github.com/skyefreeman/HackerNewsKit
+    platform: Objective-C
+    author: skyefreeman
+    stargazers_count: 0
+  - name: Hacker News React JavaScript SDK by Hugo Pineda
+    documentation_url: https://github.com/hugotox/hacker-news-client
+    platform: JavaScript
+    author: hugotox
+    stargazers_count: 0
+  - name: Hacker News Go SDK by Joe Berria
+    documentation_url: https://github.com/nexes/hackernews
+    platform: Go
+    author: nexes
+    stargazers_count: 0
+  - name: Hacker News Go SDK by Kent English
+    documentation_url: https://github.com/zeroviscosity/go-hn
+    platform: Go
+    author: zeroviscosity
+    stargazers_count: 0
+  - name: Hacker News Go SDK by Mircea Mironenco
+    documentation_url: https://github.com/mirceamironenco/go-hackernews
+    platform: Go
+  - name: Hacker News Go SDK by Zach Munro-Cape
+    documentation_url: https://github.com/munrocape/hn
+    platform: Go
+    author: munrocape
+    stargazers_count: 3
+  - name: Hacker News Node.js SDK by Philip Moniaga
+    documentation_url: https://github.com/philipmoniaga/hackernewsapinode
+    platform: Node.js
+    author: philipmoniaga
+    stargazers_count: 0
+  - name: Hacker News Python SDK by Rupak Chakraborty
+    documentation_url: https://github.com/rupakc/HackerNews-API
+    platform: Python
+    author: rupakc
+    stargazers_count: 0
+  - name: Hacker News Python SDK by Anirudh Bhat
+    documentation_url: https://github.com/AnirudhBhat/HackerNewsAPI
+    platform: Python
+    author: AnirudhBhat
+    stargazers_count: 1
+  - name: Hacker News Ruby SDK by Alireza
+    documentation_url: https://github.com/alibabajan/hackernews
+    platform: Ruby
+    author: alibabajan
+    stargazers_count: 0
+  - name: Hacker News PHP SDK by Mark Gerarts
+    documentation_url: https://github.com/mark-gerarts/hn-api-php
+    platform: PHP
+    author: mark-gerarts
+    stargazers_count: 1
+  - name: Hacker News Ruby SDK by Jingwen
+    documentation_url: https://github.com/jin/hnrb
+    platform: Ruby
+    author: jin
+    stargazers_count: 2
+  - name: Hacker News Node.js and JavaScript Library by wcember
+    documentation_url: https://github.com/wcember/HackerNews-API
+    platform: JavaScript, Node.js
+    author: wcember
+    stargazers_count: 44
+  - name: Hacker News REST API Libraries by Docmato
+    documentation_url: http://restunited.com/releases/436485910940354377/wrappers
+    platform: ActionScript, C#, Java, Objective-C, PHP, Python, Ruby, Scala
+  - name: HackernewsRuby
+    documentation_url: https://github.com/allcentury/hackernews_ruby
+    platform: Ruby
+    author: allcentury
+    stargazers_count: 14

@@ -1,0 +1,51 @@
+name: AfterShip
+slug: aftership
+description: Provides multi-carrier shipment tracking APIs.
+categories:
+  - Post & Logistics
+  - Commerce
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/aftership/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.aftership.com/docs/api/4/overview
+libraries:
+  - name: AfterShip PHP SDK by Abishek R Srikaanth
+    documentation_url: https://www.aftership.com/
+    source_code_url: https://github.com/abishekrsrikaanth/aftership-php-sdk
+    platform: PHP
+    author: abishekrsrikaanth
+    stargazers_count: 6
+  - name: AfterShip PHP SDK
+    documentation_url: https://github.com/AfterShip/aftership-php
+    platform: PHP
+    stargazers_count: 63
+  - name: AfterShip Ruby SDK
+    documentation_url: https://github.com/AfterShip/aftership-ruby
+    platform: Ruby
+    stargazers_count: 32
+  - name: AfterShip Python SDK
+    documentation_url: https://github.com/AfterShip/aftership-python
+    platform: Python
+    stargazers_count: 53
+  - name: AfterShip .NET SDK
+    documentation_url: https://github.com/AfterShip/aftership-net
+    platform: .Net
+    stargazers_count: 14
+  - name: AfterShip NodeJS SDK
+    documentation_url: https://github.com/AfterShip/aftership-nodejs
+    platform: Node.js
+    stargazers_count: 61
+  - name: AfterShip Java SDK
+    documentation_url: https://github.com/AfterShip/aftership-java
+    platform: Java
+    stargazers_count: 15
+  - name: AfterShip iOS SDK
+    documentation_url: https://github.com/AfterShip/aftership-ios
+    platform: Objective-C
+    stargazers_count: 10
+  - name: AfterShip Android SDK
+    documentation_url: https://github.com/AfterShip/aftership-android
+    platform: Java
+    stargazers_count: 7

@@ -1,0 +1,13 @@
+name: Bitbucket
+slug: bitbucket
+description: Code against the Bitbucket API to automate simple tasks, embed Bitbucket data into your own site, build
+  mobile or desktop apps, or even add custom UI add-ons into Bitbucket itself using the Connect framework.
+categories:
+  - Development
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitbucket/logo_256x256.png
+contact: support@bitbucket.org
+links:
+  - name: Docs / Website
+    url: https://developer.atlassian.com/bitbucket/api/2/reference/

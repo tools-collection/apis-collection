@@ -1,0 +1,13 @@
+name: Stellar
+slug: stellar
+description: Stellar's Horizon API provides access to accounts, transactions, payments, offers, and assets on the Stellar blockchain network. Build cross-border payment and token issuance applications.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.stellar.org/api
+  - name: API Reference
+    url: https://developers.stellar.org/api/horizon

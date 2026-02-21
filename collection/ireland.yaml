@@ -1,0 +1,10 @@
+name: Ireland
+slug: ireland
+description: Central bank of Ireland
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://data.gov.ie/data/search?publisher=central-bank-of-ireland

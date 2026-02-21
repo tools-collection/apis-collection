@@ -1,0 +1,11 @@
+name: Mercedes-Benz
+slug: mercedes-benz
+description: Mercedes-Benz's live API products
+categories:
+  - Vehicles
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mercedes-benz/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.mercedes-benz.com/apis

@@ -1,0 +1,77 @@
+name: Clarifai
+slug: clarifai
+description: Whether you have one input or billions, you are only steps away from using AI to power your business
+  applications. AI API that analyzes images and videos and returns probability scores on the likelihood that the image
+  contains pornography. Clarifai provides a complete platform to deploy, maintain, and manage your AI models
+categories:
+  - Images & Photography
+  - AI & ML
+  - Video & Media
+  - Validation & Verification
+  - Recognition
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clarifai/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.clarifai.com/docs/
+libraries:
+  - name: " Clarifai Android SDK"
+    documentation_url: https://clarifai.com/developer/guide/android-sdk#android-sdk
+    platform: Java
+  - name: " Clarifai Apple SDK"
+    documentation_url: https://clarifai.com/developer/guide/apple-sdk#apple-sdk
+    platform: Objective-C
+  - name: Clarifai Ruby SDK by Charlyn G
+    documentation_url: https://github.com/chardane/ClarifaiRuby/wiki
+    source_code_url: https://github.com/chardane/ClarifaiRuby
+    platform: Ruby
+    author: chardane
+    stargazers_count: 12
+  - name: Clarifai R SDK by soodoku
+    documentation_url: http://soodoku.github.io/clarifai/
+    source_code_url: https://github.com/soodoku/clarifai
+    platform: R
+    author: soodoku
+    stargazers_count: 13
+  - name: Clarifai Haskell SDK by Joe Canero
+    documentation_url: https://developer.clarifai.com/guide-v1/#api-clients
+    source_code_url: https://github.com/caneroj1/clarifai-hs
+    platform: Haskell
+    author: caneroj1
+    stargazers_count: 8
+  - name: Clarifai Go SDK by Clarifai
+    documentation_url: https://github.com/Clarifai/clarifai-go
+    source_code_url: https://github.com/Clarifai/clarifai-go
+    platform: Go
+    stargazers_count: 55
+  - name: Clarifai Python SDK by Clarifai
+    documentation_url: https://github.com/Clarifai/clarifai-python
+    source_code_url: https://github.com/Clarifai/clarifai-python
+    platform: Python
+    stargazers_count: 40
+  - name: Clarifai iOS SDK by Clarifai
+    documentation_url: https://github.com/Clarifai/clarifai-ios
+    source_code_url: https://github.com/Clarifai/clarifai-ios
+    platform: Objective-C, Swift
+    stargazers_count: 52
+  - name: Clarifai Java SDK by Clarifai
+    documentation_url: https://github.com/Clarifai/clarifai-java
+    source_code_url: https://github.com/Clarifai/clarifai-java
+    platform: Java
+    stargazers_count: 86
+  - name: Clarifai JavaScript SDK by Clarifai
+    documentation_url: https://github.com/Clarifai/clarifai-javascript
+    source_code_url: https://github.com/Clarifai/clarifai-javascript
+    platform: JavaScript, Node.js
+    stargazers_count: 351
+  - name: Clarifai Node.js Library by Clarifai
+  - name: Clarifai Python Library by Clarifai
+    documentation_url: https://github.com/Clarifai/Clarifai_py
+    platform: Python
+    stargazers_count: 40
+  - name: Clarifai Java Library by Clarifai
+    documentation_url: https://github.com/Clarifai/clarifai-api-java
+    platform: Java
+    stargazers_count: 86
+  - name: Clarifai Node.js Library by Clarifai

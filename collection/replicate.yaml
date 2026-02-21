@@ -1,0 +1,13 @@
+name: Replicate
+slug: replicate
+description: Replicate lets you run machine learning models via API. Access thousands of community models for image generation, language, audio, and video, or deploy your own custom models.
+categories:
+  - AI & ML
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://replicate.com/docs
+  - name: API Reference
+    url: https://replicate.com/docs/reference/http

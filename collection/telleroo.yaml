@@ -1,0 +1,11 @@
+name: Telleroo
+slug: telleroo
+description: Instant Bulk Payments for your Finance Team. Finance teams use Telleroo’s Bulk Payments Service and APIs to
+  make multiple bank payments to employees, suppliers, customers and partners
+categories:
+  - Payments
+  - Business
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.telleroo.com/

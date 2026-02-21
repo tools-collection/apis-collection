@@ -1,0 +1,13 @@
+name: Upstash
+slug: upstash
+description: Upstash provides serverless Redis and Kafka with a REST API. Designed for edge and serverless environments with per-request pricing and global low-latency replication.
+categories:
+  - Development
+  - Databases
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://upstash.com/docs
+  - name: Redis REST API
+    url: https://upstash.com/docs/redis/features/restapi

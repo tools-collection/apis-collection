@@ -1,0 +1,11 @@
+name: Football-Data.org
+slug: football-data-org
+description: A restful API for football data. A restful API for football data
+categories:
+  - Sport & Fitness
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/football-data-org/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://api.football-data.org/index

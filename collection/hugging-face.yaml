@@ -1,0 +1,12 @@
+name: Hugging Face Inference API
+slug: hugging-face
+description: Hugging Face Inference API gives access to thousands of open-source ML models hosted on the Hub. Run NLP, computer vision, audio, and multimodal models via a simple REST API.
+categories:
+  - AI & ML
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://huggingface.co/docs/api-inference
+  - name: Models Hub
+    url: https://huggingface.co/models

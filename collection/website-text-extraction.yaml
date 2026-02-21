@@ -1,0 +1,10 @@
+name: Website Text Extraction
+slug: website-text-extraction
+description: Scrape websites and get their content as plaintext
+categories:
+  - Other
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://websitetextextraction.apifex.com/

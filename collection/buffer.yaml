@@ -1,0 +1,38 @@
+name: Buffer
+slug: buffer
+description: Buffer makes it super easy to share any page you're reading. Keep your Buffer topped up and it will
+  automagically share them for you through the day
+categories:
+  - Documents & Productivity
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/buffer/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://buffer.com/developers/api
+libraries:
+  - name: Buffer Ruby SDK
+    documentation_url: https://buffer.com/developers/libraries/ruby
+    source_code_url: https://github.com/bufferapp/buffer-ruby
+    platform: Ruby
+    stargazers_count: 56
+  - name: SocialSharesCount Go SDK by Sumesh Suvarna
+    documentation_url: https://github.com/gssumesh/socialsharescount
+    platform: Go
+    author: gssumesh
+    stargazers_count: 11
+  - name: Buffer Python SDK by alex tsai
+    documentation_url: https://github.com/caffodian/mezzanine-buffer
+    platform: Python
+    author: caffodian
+    stargazers_count: 0
+  - name: " Buffer Node.js SDK by Joe McKie"
+    documentation_url: https://github.com/joemckie/buffer-node
+    platform: Node.js
+    author: joemckie
+    stargazers_count: 1
+  - name: Buffer Ruby Library
+    documentation_url: https://github.com/bufferapp/buffer-ruby
+    platform: Ruby
+    stargazers_count: 56

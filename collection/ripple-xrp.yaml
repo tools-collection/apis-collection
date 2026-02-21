@@ -1,0 +1,13 @@
+name: Ripple XRP Ledger
+slug: ripple-xrp
+description: The XRP Ledger's rippled API provides access to accounts, transactions, order books, and payment channels on the XRP Ledger. Build fast, low-cost cross-border payment applications.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://xrpl.org/docs/references/http-websocket-apis
+  - name: API Reference
+    url: https://xrpl.org/docs/references/http-websocket-apis/api-conventions/request-formatting

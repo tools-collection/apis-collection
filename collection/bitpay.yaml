@@ -1,0 +1,49 @@
+name: bitpay
+slug: bitpay
+description: A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. Start accepting bitcoin,
+  store and spend bitcoin securely, or get the BitPay Card
+categories:
+  - Payments
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitpay/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://bitpay.com/developers
+libraries:
+  - name: BitPay Cordova SDK
+    documentation_url: https://github.com/bitpay/cordova-sdk
+    platform: JavaScript
+    stargazers_count: 11
+  - name: BitPay Android SDK
+    documentation_url: https://github.com/bitpay/android-sdk
+    platform: Java
+    stargazers_count: 18
+  - name: BitPay Ruby Client Library
+    documentation_url: https://github.com/bitpay/ruby-client
+    platform: Ruby
+    stargazers_count: 78
+  - name: BitPay C# Client Library
+    documentation_url: https://github.com/bitpay/csharp-bitpay-client
+    platform: C#
+    stargazers_count: 30
+  - name: BitPay Perl Client Library
+    documentation_url: https://github.com/bitpay/perl-client
+    platform: PERL
+    stargazers_count: 7
+  - name: BitPay Java Client Library
+    documentation_url: https://github.com/bitpay/java-bitpay-client
+    platform: Java
+    stargazers_count: 44
+  - name: BitPay PHP Client Library
+    documentation_url: https://github.com/bitpay/php-bitpay-client
+    platform: PHP
+    stargazers_count: 166
+  - name: BitPay Python Client Library
+    documentation_url: https://github.com/bitpay/python-client
+    platform: Python
+  - name: BitPay Node.js Client Library
+    documentation_url: https://github.com/bitpay/node-bitpay-client
+    platform: Node.js
+    stargazers_count: 104

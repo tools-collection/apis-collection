@@ -1,0 +1,13 @@
+name: Hasura
+slug: hasura
+description: Hasura auto-generates a real-time GraphQL and REST API from your PostgreSQL, MySQL, or other databases. Manage permissions, actions, events, and remote schema integrations.
+categories:
+  - Databases
+  - Development
+type: GraphQL
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://hasura.io/docs/latest/api-reference/overview
+  - name: API Reference
+    url: https://hasura.io/docs/latest/api-reference/graphql-api/query

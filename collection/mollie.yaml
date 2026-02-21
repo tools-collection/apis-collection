@@ -1,0 +1,13 @@
+name: Mollie
+slug: mollie
+description: Mollie's Payments API supports iDEAL, credit cards, SEPA, PayPal, and 30+ other payment methods. Designed for European businesses with easy integration and transparent pricing.
+categories:
+  - Payments
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.mollie.com
+  - name: API Reference
+    url: https://docs.mollie.com/reference/introduction

@@ -1,0 +1,13 @@
+name: DeepL
+slug: deepl
+description: DeepL API provides high-quality machine translation for 30+ languages. Known for producing more natural translations than competitors, with support for documents and glossaries.
+categories:
+  - AI & ML
+  - Translation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.deepl.com/docs
+  - name: API Reference
+    url: https://developers.deepl.com/docs/api-reference

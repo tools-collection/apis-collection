@@ -1,0 +1,13 @@
+name: WakaTime
+slug: wakatime
+description: "Dashboards for developers. WakaTime is committed to making time tracking fully automatic for every
+  programmer. By creating open source plugins for IDEs and text editors, we give powerful insights about how you code,
+  and let you get back to what matters most: creating amazing software."
+categories:
+  - Documents & Productivity
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wakatime/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://wakatime.com/developers

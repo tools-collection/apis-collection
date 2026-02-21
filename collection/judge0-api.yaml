@@ -1,0 +1,11 @@
+name: Judge0 API
+slug: judge0-api
+description: Judge0 is a robust, scalable, and open-source online code execution system that can be used to build a wide
+  range of applications that need online code execution features
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.judge0.com/

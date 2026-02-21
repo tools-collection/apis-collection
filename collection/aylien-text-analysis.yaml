@@ -1,0 +1,31 @@
+name: Aylien Text Analysis
+slug: aylien-text-analysis
+description: Explore AYLIEN’s advanced NLP APIs. Explore AYLIEN’s advanced NLP APIs
+categories:
+  - News & Feeds
+  - AI & ML
+  - Text Analysis & Tools
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://docs.aylien.com/
+libraries:
+  - name: AYLIEN Text Analysis Ruby SDK
+    documentation_url: https://developer.aylien.com/getting-started/ruby
+    platform: Ruby
+  - name: AYLIEN Text Analysis Python SDK
+    documentation_url: https://developer.aylien.com/getting-started/python
+    platform: Python
+  - name: AYLIEN Text Analysis PHP SDK
+    documentation_url: https://developer.aylien.com/getting-started/php
+    platform: PHP
+  - name: AYLIEN Text Analysis Node.js SDK
+    documentation_url: https://developer.aylien.com/getting-started/node
+    platform: Node.js
+  - name: AYLIEN Text Analysis Java SDK
+    documentation_url: https://developer.aylien.com/getting-started/java
+    platform: Java
+  - name: AYLIEN Text Analysis C# SDK
+    documentation_url: https://developer.aylien.com/getting-started/cs
+    platform: C#

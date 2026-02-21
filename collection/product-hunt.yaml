@@ -1,0 +1,54 @@
+name: Product Hunt
+slug: product-hunt
+description: The best new products, every day. Product Hunt is a curation of the best new products, every day. Discover
+  the latest mobile apps, websites, and technology products that everyone's talking about
+categories:
+  - Commerce
+  - Jobs
+  - Marketing & SEO
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/product-hunt/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://api.producthunt.com/v2/docs
+libraries:
+  - name: Product Hunt Alfred SDK by Loris Guignard
+    documentation_url: https://github.com/loris/alfred-producthunt-workflow
+    platform: Python
+    author: loris
+    stargazers_count: 62
+  - name: Product Hunt Android SDK by Jasper van Riet
+    documentation_url: https://github.com/JaspervanRiet/Jager
+    platform: Java
+    author: JaspervanRiet
+    stargazers_count: 73
+  - name: Product Hunt Android SDK by Prashan Dharmasena
+    documentation_url: https://github.com/qrazhan/hunter2
+    platform: Java
+    author: qrazhan
+    stargazers_count: 7
+  - name: Product Hunt NodeJS SDK by Shubham Naik
+    documentation_url: http://huntlytics.shub.club
+    source_code_url: https://github.com/4shub/huntlytics
+    platform: Node.js
+    author: 4shub
+    stargazers_count: 11
+  - name: Product Hunt JavaScript SDK by Pusher
+    documentation_url: https://github.com/pusher-community/pusher-realtime-producthunt
+    platform: JavaScript
+    stargazers_count: 22
+  - name: Product Hunt Swift SDK by Raul Riera
+    documentation_url: https://github.com/raulriera/HuntingKit
+    platform: Swift
+    author: raulriera
+    stargazers_count: 42
+  - name: Product Hunt Swift SDK by Tosin Afolabi
+    documentation_url: https://github.com/TosinAF/thenews
+    platform: Swift
+    author: TosinAF
+    stargazers_count: 8
+  - name: Product Hunt JavaScript SDK
+    documentation_url: https://github.com/producthunt/producthunt-api
+    platform: JavaScript
+    stargazers_count: 221

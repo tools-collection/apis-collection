@@ -1,0 +1,138 @@
+name: GeoNames
+slug: geonames
+description: The GeoNames geographical database covers all countries and contains over eleven million placenames that
+  are available for download free of charge.
+categories:
+  - Maps & Geo
+  - Post & Logistics
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geonames/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://www.geonames.org/export/web-services.html
+libraries:
+  - name: Escape JavaScript SDK by Jason Zheng
+    documentation_url: https://github.com/JasonZheng20/Escape
+    platform: JavaScript
+    author: JasonZheng20
+    stargazers_count: 0
+  - name: NGeo .NET SDK by Dan Ludwig
+    documentation_url: https://github.com/danludwig/NGeo
+    platform: .Net, C#
+    author: danludwig
+    stargazers_count: 32
+  - name: GeoNames Node.js SDK by Stephan Georg
+    documentation_url: https://github.com/StephanGeorg/geocoder-geonames
+    platform: Node.js
+    author: StephanGeorg
+    stargazers_count: 9
+  - name: GeoNames jQuery SDK by Thomas Haukland
+    documentation_url: http://tompi.github.io/jeoquery/
+    source_code_url: https://github.com/tompi/jeoquery
+    platform: jQuery
+    author: tompi
+    stargazers_count: 74
+  - name: GeoNames .NET SDK by Benjamin Schroeter
+    documentation_url: http://geonamesdotorgdotnet.codeplex.com/
+    platform: .Net
+  - name: GeoNames .NET SDK by baretta2
+    documentation_url: https://www.codeproject.com/Articles/30627/GeoNames-NET-WCF-Client
+    platform: .Net, C#
+  - name: GeoNames R SDK by Edzer Pebesma and Barry Rowlingson
+    documentation_url: http://geonames.r-forge.r-project.org/
+    platform: R
+  - name: GeoNames Laravel PHP SDK by Michael Drennen
+    documentation_url: https://packagist.org/packages/michaeldrennen/geonames
+    source_code_url: https://github.com/michaeldrennen/geonames
+    platform: PHP
+    author: michaeldrennen
+    stargazers_count: 94
+  - name: GeoNames Yii PHP SDK by Antonio Ramirez
+    documentation_url: http://www.yiiframework.com/extension/egeonameservice/
+    platform: PHP
+  - name: GeoNames Leaflet JavaScript SDK by Conservation Biology Institute
+    documentation_url: https://github.com/consbio/Leaflet.Geonames
+    platform: JavaScript
+    stargazers_count: 34
+  - name: GeoNames PHP SDK by David Jean Louis
+    documentation_url: http://pear.php.net/package/Services_GeoNames
+    platform: PHP
+  - name: GeoNames Elixir SDK by pareeohnos
+    documentation_url: https://github.com/pareeohnos/geonames-elixir
+    platform: Elixir
+    author: pareeohnos
+    stargazers_count: 24
+  - name: GeoNames Common Lisp SDK by Google
+    documentation_url: https://code.google.com/archive/p/cl-geonames/
+    platform: Lisp
+  - name: GeoNames Perl SDK by Per Henrik Johansen
+    documentation_url: http://search.cpan.org/~nicomen/Geo-GeoNames/lib/Geo/GeoNames.pm
+    platform: PERL
+  - name: GeoNames Python SDK by Denis Carriere
+    documentation_url: http://geocoder.readthedocs.io/providers/GeoNames.html
+    source_code_url: https://github.com/DenisCarriere/geocoder
+    platform: Python
+    author: DenisCarriere
+    stargazers_count: 1652
+  - name: GeoNames Drupal SDK by lyricnz
+    documentation_url: https://www.drupal.org/project/geonames
+    platform: Unspecified
+  - name: GeoNames Ruby SDK by Nicolas Marchildon
+    documentation_url: https://github.com/elecnix/ruby-geonames
+    platform: Ruby
+    author: elecnix
+    stargazers_count: 120
+  - name: GeoNames Logstash SDK by Luis Pallares
+    documentation_url: https://github.com/panchicore/es-geonames/tree/master/logstash
+    platform: Unspecified
+    author: panchicore
+    stargazers_count: 0
+  - name: GeoNames Ubuntu C SDK by Ubuntu Desktop Team
+    documentation_url: https://packages.ubuntu.com/bionic/geoclue-geonames
+    platform: C
+  - name: GeoNames Java SDK
+    documentation_url: http://www.geonames.org/source-code/
+    platform: Java
+  - name: GeoNames Python Library by Ramiro Gómez
+    documentation_url: https://github.com/yaph/geonamescache
+    platform: Python
+    author: yaph
+    stargazers_count: 120
+  - name: GeoNames Python Library by Dennis Carriere
+    documentation_url: https://pypi.python.org/pypi/geonames
+    source_code_url: https://pypi.python.org/pypi/geonames/0.1.2
+    platform: Python
+  - name: GeoNames .Net Library NGeoNames
+    documentation_url: https://github.com/RobThree/NGeoNames
+    source_code_url: https://www.nuget.org/packages/NGeoNames/
+    platform: .Net
+    author: RobThree
+    stargazers_count: 69
+  - name: GeoNames Node.js Library node-geonames-client
+    documentation_url: https://www.npmjs.com/package/node-geonames-client
+    platform: Node.js
+  - name: GeoNames Node.js Library geonames-stream
+    documentation_url: https://github.com/geopipes/geonames-stream
+    source_code_url: https://www.npmjs.com/package/geonames-stream
+    platform: Node.js
+    stargazers_count: 36
+  - name: GeoNames .NET WCF Client
+    documentation_url: http://www.codeproject.com/Articles/30627/GeoNames-NET-WCF-Client
+    platform: .Net, C#
+  - name: GeoNames PERL Client Geo::GeoNames
+    documentation_url: http://search.cpan.org/~perhenrik/Geo-GeoNames/lib/Geo/GeoNames.pm
+    platform: PERL
+  - name: Python Library Geopy
+    documentation_url: https://github.com/geopy/geopy
+    platform: Python
+    stargazers_count: 4770
+  - name: GeoNames Ruby Client geonames_api
+    documentation_url: https://github.com/buytruckload/geonames_api
+    platform: Ruby
+  - name: GeoNames Objective-C Library by Infinite Loop
+    documentation_url: http://www.infinite-loop.dk/developer/ilgeonames/
+    platform: Objective-C
+  - name: Ruby Library for Geonames
+    documentation_url: http://www.tbcn.ca/ruby_geonames
+    platform: Ruby

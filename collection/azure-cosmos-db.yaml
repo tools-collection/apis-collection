@@ -1,0 +1,13 @@
+name: Azure Cosmos DB
+slug: azure-cosmos-db
+description: Azure Cosmos DB REST API provides globally distributed NoSQL database access with SQL, MongoDB, Cassandra, Gremlin, and Table APIs. Manage databases, containers, and documents at any scale.
+categories:
+  - Databases
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://learn.microsoft.com/en-us/rest/api/cosmos-db
+  - name: API Reference
+    url: https://learn.microsoft.com/en-us/rest/api/cosmos-db/common-tasks-using-the-cosmosdb-rest-api

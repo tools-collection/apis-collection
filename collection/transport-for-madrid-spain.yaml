@@ -1,0 +1,9 @@
+name: Transportation in Madrid, Spain
+slug: transport-for-madrid-spain
+description: Madrid BUS transport API
+categories:
+  - Transportation
+is_free: true
+links:
+  - name: Docs / Website
+    url: http://opendata.emtmadrid.es/Servicios-web/BUS

@@ -1,0 +1,11 @@
+name: Icons8
+slug: icons8
+description: Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons
+categories:
+  - Images & Photography
+  - Art & Design
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://icons8.github.io/icons8-docs/

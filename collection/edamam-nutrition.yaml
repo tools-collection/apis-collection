@@ -1,0 +1,11 @@
+name: Edamam nutrition & recipes
+slug: edamam-nutrition
+description: API for Nutrition Analysis, Food Database Lookup, Recipe Search and other.
+categories:
+  - Health
+  - Food & Drinks
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.edamam.com

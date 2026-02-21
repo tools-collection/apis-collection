@@ -1,0 +1,11 @@
+name: OpenAPI
+slug: openapi
+description: "The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs."
+categories:
+  - Development
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/openapi/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.openapis.org

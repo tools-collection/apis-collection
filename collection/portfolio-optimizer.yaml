@@ -1,0 +1,13 @@
+name: Portfolio Optimizer
+slug: portfolio-optimizer
+description: API for investment portfolio optimization. The science of portfolio optimization, available as a Web API
+categories:
+  - Science & Math
+  - Finance & Economics
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/portfolio-optimizer/logo_256x256.png
+contact: contact@portfoliooptimizer.io
+links:
+  - name: Docs / Website
+    url: https://portfoliooptimizer.io/

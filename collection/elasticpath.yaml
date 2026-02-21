@@ -1,0 +1,42 @@
+name: Elasticpath
+slug: elasticpath
+description: Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast. It's
+  called Composable Commerce-as-a-Service
+categories:
+  - Payments
+  - Content & Dictionaries
+  - Business
+  - Maps & Geo
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.elasticpath.com/
+libraries:
+  - name: Moltin Android SDK by Moltin
+    documentation_url: https://github.com/moltin/android-sdk
+    platform: Java
+    stargazers_count: 6
+  - name: Moltin Python SDK by Moltin
+    documentation_url: https://github.com/moltin/python-sdk
+    platform: Python
+    stargazers_count: 6
+  - name: Moltin Ruby SDK by Moltin
+    documentation_url: https://github.com/moltin/ruby-sdk
+    platform: Ruby
+    stargazers_count: 16
+  - name: Moltin C# SDK by Moltin
+    documentation_url: https://github.com/moltin/csharp-sdk
+    platform: C#
+    stargazers_count: 2
+  - name: Moltin PHP SDK by Moltin
+    documentation_url: https://github.com/moltin/php-sdk
+    platform: PHP
+    stargazers_count: 46
+  - name: Moltin iOS eCommerce SDK by Moltin
+    documentation_url: https://moltin.com/ios-ecommerce-sdk
+    platform: Objective-C
+  - name: Moltin JavaScript SDK by Moltin
+    documentation_url: https://moltin.com/getting-started/js
+    platform: JavaScript

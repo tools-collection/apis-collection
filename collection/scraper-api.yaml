@@ -1,0 +1,11 @@
+name: Scraper API
+slug: scraper-api
+description: Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can
+  scrape any page with a single API call
+categories:
+  - Scrapers & Data Mining
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.scraperapi.com

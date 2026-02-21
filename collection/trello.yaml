@@ -1,0 +1,129 @@
+name: Trello
+slug: trello
+description: Trello is a web-based, Kanban-style, list-making application
+categories:
+  - Project Management
+  - Documents & Productivity
+  - Collaboration
+type: REST
+is_free: false
+contact: support@transitfeeds.com
+links:
+  - name: Docs / Website
+    url: https://developers.trello.com/
+libraries:
+  - name: data_integ_api Laravel PHP SDK by Theodor Georgopoulos
+    documentation_url: https://github.com/TheodorGeo/data_integ_api
+    platform: PHP
+    author: TheodorGeo
+    stargazers_count: 1
+  - name: Bitbucket Commit To Trello Cards JavaScript SDK by Norimitsu Yamashita
+    documentation_url: https://github.com/nori3tsu/bitbucket-commit-to-trello-card
+    platform: JavaScript
+    author: nori3tsu
+    stargazers_count: 0
+  - name: magento_trello_laravel Laravel PHP SDK by ksly
+    documentation_url: https://github.com/donksly/magento_trello_laravel
+    platform: PHP
+    author: donksly
+    stargazers_count: 1
+  - name: trello2kanboard Ruby SDK by Psy-Q
+    documentation_url: https://gitlab.com/psy-q/trello2kanboard
+    platform: Ruby
+  - name: Treller C# SDK by Kontur
+    documentation_url: https://github.com/skbkontur/Treller
+    platform: C#
+  - name: Trello Python SDK by Jean Jordaan
+    documentation_url: https://github.com/jean/trollop
+    platform: Python
+    author: jean
+    stargazers_count: 0
+  - name: Trello MeteorJS SDK by Warehouseman
+    documentation_url: https://github.com/warehouseman/meteor-node-trello
+    platform: JavaScript, Node.js
+    stargazers_count: 1
+  - name: Trello Ruby SDK by Chase Southard
+    documentation_url: https://github.com/chaserx/trellist
+    platform: Ruby
+    author: chaserx
+    stargazers_count: 1
+  - name: Trello Python SDK by Jeremy Dean Lakey
+    documentation_url: https://github.com/jeremydeanlakey/jello
+    platform: Python
+    author: jeremydeanlakey
+    stargazers_count: 0
+  - name: Trello Python SDK by Dustin Wyatt
+    documentation_url: https://github.com/dmwyatt/rose_trellis
+    platform: Python
+    author: dmwyatt
+    stargazers_count: 0
+  - name: Trello C# SDK by Bruno Fernando Corrêa de Abreu
+    documentation_url: https://github.com/sathoril/Dashboards
+    platform: C#
+    author: sathoril
+    stargazers_count: 0
+  - name: Trello Ruby SDK by Mike Beasley
+    documentation_url: https://github.com/mbeasley/ctrl
+    platform: Ruby
+  - name: Trello Laravel PHP SDK by Manu Pijierro
+    documentation_url: https://github.com/mpijierro/laratrell
+    platform: PHP
+    author: mpijierro
+    stargazers_count: 0
+  - name: Trello NodeJS SDK by Huanhuan Huang
+    documentation_url: https://github.com/jchappypig/trello-manager-node
+    platform: Node.js
+    author: jchappypig
+    stargazers_count: 1
+  - name: Trello NodeJS SDK by Jasmine Hegman
+    documentation_url: https://github.com/r4j4h/trello-card-lister
+    platform: Node.js
+    author: r4j4h
+    stargazers_count: 0
+  - name: Trello NodeJS SDK by Léa
+    documentation_url: https://github.com/LeaBrb/appli-trello-nodejs
+    platform: Node.js
+    author: LeaBrb
+    stargazers_count: 0
+  - name: Trello Python SDK by mxmader
+    documentation_url: https://github.com/mxmader/trello-reporting
+    platform: Python
+    author: mxmader
+    stargazers_count: 2
+  - name: Trello Perl SDK by lth2h
+    documentation_url: https://github.com/lth2h/perl-trello
+    platform: PERL
+    author: lth2h
+    stargazers_count: 0
+  - name: Trello Python SDK by Saar Wasserman
+    documentation_url: https://github.com/saar-wasserman-bv/trellomanager_project
+    platform: Python
+    author: saar-wasserman-bv
+    stargazers_count: 0
+  - name: Trello Laravel PHP SDK by fsbdev
+    documentation_url: https://github.com/fsbdev/trello-client
+    platform: PHP
+    stargazers_count: 0
+  - name: Trello Go SDK by Matt Dietz
+    documentation_url: https://github.com/Cerberus98/trello_go
+    platform: Go
+    author: MattDietz
+    stargazers_count: 0
+  - name: Trello JavaScript SDK by Johannes Brodwall
+    documentation_url: https://github.com/jhannes/wassup-trello
+    platform: JavaScript
+    author: jhannes
+    stargazers_count: 0
+  - name: Trello NodeJS SDK by Kévin Letupe
+    documentation_url: https://github.com/KevinL59/trello-export
+    platform: Node.js
+  - name: Trello JavaScript SDK by Andrew Dunn
+    documentation_url: https://github.com/Andrew-Dunn/trello-burndown
+    platform: JavaScript
+    author: Andrew-Dunn
+    stargazers_count: 0
+  - name: Trello Shell SDK by erjenkins29
+    documentation_url: https://github.com/erjenkins29/trello-reports
+    platform: Unspecified
+    author: erjenkins29
+    stargazers_count: 0

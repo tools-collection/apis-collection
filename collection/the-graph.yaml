@@ -1,0 +1,13 @@
+name: The Graph
+slug: the-graph
+description: The Graph is an indexing protocol for querying blockchain data via GraphQL. Access indexed data from Ethereum, Polygon, and other networks through community-built subgraphs.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Development
+type: GraphQL
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://thegraph.com/docs/en/querying/introduction
+  - name: API Reference
+    url: https://thegraph.com/docs/en/querying/graphql-api

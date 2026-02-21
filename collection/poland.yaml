@@ -1,0 +1,12 @@
+name: Poland
+slug: poland
+description: |-
+  Central bank of Poland.
+  Currency exchange rates and gold prices in the XML and JSON formats.
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.nbp.pl

@@ -1,0 +1,12 @@
+name: CurrencyAPI
+slug: currencyapi
+description: CurrencyAPI provides real-time and historical foreign exchange rates for 170+ currencies. Features include currency conversion, historical rates, and fluctuation data with high update frequency.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://currencyapi.com/docs
+  - name: API Reference
+    url: https://currencyapi.com/docs/latest-endpoint

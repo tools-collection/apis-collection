@@ -1,0 +1,10 @@
+name: Sunrise and Sunset
+slug: sunrise-and-sunset
+description: Sunset and sunrise times API. Free API that provides sunset and sunrise times for a given latitude and longitude.
+categories:
+  - Science & Math
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://sunrise-sunset.org/api

@@ -1,0 +1,12 @@
+name: WeatherAPI
+slug: weatherapi
+description: WeatherAPI provides real-time, forecast, and historical weather data, plus astronomy, time zone, and geolocation information. Simple REST API with global coverage and JSON/XML responses.
+categories:
+  - Weather
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.weatherapi.com/docs
+  - name: API Reference
+    url: https://www.weatherapi.com/api-explorer.aspx

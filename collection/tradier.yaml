@@ -1,0 +1,17 @@
+name: Tradier
+slug: tradier
+description: Set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
+categories:
+  - Finance & Economics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.tradier.com
+libraries:
+  - name: Tradier Android SDK by Tradier
+    documentation_url: https://developer.tradier.com/documentation/overview/libraries
+    source_code_url: https://github.com/Utsav2/AndroidTradier
+    platform: Java
+    author: Utsav2
+    stargazers_count: 7

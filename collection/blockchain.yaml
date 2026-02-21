@@ -1,0 +1,11 @@
+name: Blockchain
+slug: blockchain
+description: The easiest and most trusted transaction search engine and block explorer.
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/blockchain/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.blockchain.info/api

@@ -1,0 +1,12 @@
+name: PlayerUnknown's Battlegrounds
+slug: playerunknowns-battlegrounds
+description: Start building your own website today using official PUBG data
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/playerunknowns-battlegrounds/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://pubgtracker.com/site-api

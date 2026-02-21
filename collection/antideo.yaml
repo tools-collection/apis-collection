@@ -1,0 +1,24 @@
+name: Antideo
+slug: antideo
+description: API for IP and Email Intelligence & Phone Number Validation. API for email validation & IP reputation check
+  for better email list hygiene. Antideo maintains large database with spam and scam records, IP locations and infected
+  ranges, proxy records and many more. They are keeping their database updated regularly from various sources, as well
+  as collecting some of the data themselves
+categories:
+  - Email & SMS
+  - Validation & Verification
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/antideo/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.antideo.com
+libraries:
+  - name: Antideo Objective-C SDK by Antideo
+    documentation_url: https://github.com/antideo/xcode
+    platform: Objective-C
+    stargazers_count: 2
+  - name: Antideo PHP Library by Antideo
+    documentation_url: https://www.antideo.com
+    source_code_url: https://github.com/antideo/PHP
+    platform: PHP
+    stargazers_count: 4

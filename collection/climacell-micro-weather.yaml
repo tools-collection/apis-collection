@@ -1,0 +1,10 @@
+name: Climacell Micro Weather
+slug: climacell-micro-weather
+description: Historical, real-time and nowcast weather data.
+categories:
+  - Weather
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/climacell-micro-weather/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.climacell.co

@@ -1,0 +1,12 @@
+name: DialogFlow
+slug: dialogflow
+description: Natural Language Interactions for Bots, Applications, Services, and Devices. Virtual agents for bots,
+  applications, services, and devices
+categories:
+  - AI & ML
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dialogflow/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://dialogflow.com/

@@ -1,0 +1,11 @@
+name: Random Facts
+slug: random-facts
+description: Random Facts API
+categories:
+  - Fun
+  - Random
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://fungenerators.com/api/facts/

@@ -1,0 +1,13 @@
+name: Freshdesk
+slug: freshdesk
+description: Freshdesk's API manages support tickets, contacts, agents, groups, and canned responses. Build customer support integrations and automate helpdesk workflows on the Freshdesk platform.
+categories:
+  - CRM
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.freshdesk.com/api
+  - name: API Reference
+    url: https://developers.freshdesk.com/api/#introduction

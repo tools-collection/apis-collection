@@ -1,0 +1,11 @@
+name: Recreation Information Database
+slug: recreation-information-database
+description: Recreation.gov is your source for discovering and experiencing America's federal recreation activities and
+  outdoor adventures
+categories:
+  - Other
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://ridb.recreation.gov/

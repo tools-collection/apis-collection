@@ -1,0 +1,38 @@
+name: Marketcloud
+slug: marketcloud
+description: It covers inventory and database, carts and checkout, payments, user authentication, and more. You just
+  bring the frontend. eCommerce APIs for developers
+categories:
+  - Commerce
+  - Development
+  - Payments
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.marketcloud.it
+libraries:
+  - name: Marketcloud Android SDK by Marketcloud
+    documentation_url: https://github.com/Marketcloud/marketcloud-android-sdk
+    platform: Java
+    stargazers_count: 4
+  - name: Marketcloud iOS SDK by Marketcloud
+    documentation_url: https://github.com/Marketcloud/marketcloud-swift-sdk
+    platform: Swift
+    stargazers_count: 3
+  - name: Marketcloud Ruby SDK by Marketcloud
+    documentation_url: https://github.com/Marketcloud/marketcloud-ruby
+    platform: Ruby
+    stargazers_count: 1
+  - name: Marketcloud NodeJS SDK by Marketcloud
+    documentation_url: https://github.com/Marketcloud/marketcloud-node
+    platform: Node.js
+    stargazers_count: 21
+  - name: Marketcloud JavaScript SDK by Marketcloud
+    documentation_url: https://github.com/Marketcloud/marketcloud-js
+    platform: JavaScript
+    stargazers_count: 11
+  - name: Marketcloud PHP SDK by Marketcloud
+    documentation_url: https://github.com/Marketcloud/marketcloud-php
+    platform: PHP
+    stargazers_count: 2

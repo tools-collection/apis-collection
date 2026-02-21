@@ -1,0 +1,12 @@
+name: IPInfoDB
+slug: ipinfodb
+description: Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address. Supported
+  both IPv4 and IPv6 address
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipinfodb/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://ipinfodb.com/api

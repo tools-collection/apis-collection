@@ -1,0 +1,10 @@
+name: MercadoBitcoin
+slug: mercadobitcoin
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://www.mercadobitcoin.net/api-doc/

@@ -1,0 +1,18 @@
+name: RescueGroups
+slug: rescuegroups
+description: org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just
+  numbers. you also need to consider reliability, functio. Introduction to the RescueGroups. Introduction to the
+  RescueGroups
+categories:
+  - Animals
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+libraries:
+  - name: RescueGroups Ruby SDK by Harsha
+    documentation_url: https://github.com/bornfree/rescuegroups
+    platform: Ruby
+    author: bornfree
+    stargazers_count: 1

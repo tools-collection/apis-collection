@@ -1,0 +1,10 @@
+name: URLScan.io
+slug: urlscan-io
+description: urlscan. io - Website scanner for suspicious and malicious URLs. urlscan
+categories:
+  - Security
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://urlscan.io/about-api/

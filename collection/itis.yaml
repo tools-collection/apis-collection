@@ -1,0 +1,12 @@
+name: ITIS
+slug: itis
+description: "Hosted by the USGS Core Science Analytics and Synthesis. Page designed through the cooperative efforts of
+  interagency ITIS Teams. Point of Contact: itiswebmaster@itis. gov"
+categories:
+  - Science & Math
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/itis/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.itis.gov/ws_description.html

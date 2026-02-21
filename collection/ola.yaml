@@ -1,0 +1,15 @@
+name: Ola
+slug: ola
+description: |-
+  Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India. 
+  - RIDE AVAILABILITY
+  - RIDE ESTIMATE
+  - RIDE BOOKING
+  - RIDE TRACKING
+categories:
+  - Transportation
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.olacabs.com/

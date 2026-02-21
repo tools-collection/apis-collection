@@ -1,0 +1,11 @@
+name: Community Transit
+slug: community-transit
+description: Transitland's centralized web service API for both querying and editing aggregated transit data from around the world
+categories:
+  - Transportation
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/community-transit/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints

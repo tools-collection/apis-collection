@@ -1,0 +1,18 @@
+name: Hybrix
+slug: hybrix
+description: The API is an open source multi ledger API, that allows developers to build multi-blockchain and
+  multi-ledger solutions on 26+ blockchains. You can retrieve information, such as balances, transaction history,
+  address validation. Also, the library allows you to sign transactions client-side.
+categories:
+  - Blockchain & Cryptocurrencies
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.hybrix.io/
+libraries:
+  - name: hybrix cli-wallet NodeJS SDK
+    documentation_url: https://api.hybrix.io/api/help/cli
+    platform: Node.js
+  - name: hybrix JavaScript SDK
+    documentation_url: https://api.hybrix.io/help/hybrix-lib.js
+    platform: JavaScript

@@ -1,0 +1,11 @@
+name: Lorem Text
+slug: lorem-text
+description: Generates Lorem Ipsum text
+categories:
+  - Testing
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lorem-text/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://market.mashape.com/montanaflynn/lorem-text-generator

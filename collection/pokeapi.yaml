@@ -1,0 +1,32 @@
+name: Pokéapi
+slug: pokeapi
+description: This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game
+  series. We've covered everything from Pokémon to Berry Flavors
+categories:
+  - Entertainment
+  - Games
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pokeapi/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://pokeapi.co/
+libraries:
+  - name: Pokéapi Ruby Library Pokegem
+    documentation_url: https://github.com/baweaver/pokegem
+    platform: Ruby
+    author: baweaver
+    stargazers_count: 24
+  - name: Pokéapi Java Library PokeJava
+    documentation_url: https://github.com/mickeyjk/PokeJava
+    platform: Java
+    author: mickeyjk
+    stargazers_count: 23
+  - name: Pokéapi .NET Library PokeApi.NET
+    documentation_url: https://github.com/PoroCYon/PokeApi.NET
+    platform: .Net
+  - name: Pokéapi Python Library Pykemon
+    documentation_url: http://pykemon.readthedocs.org/en/latest/
+    source_code_url: https://github.com/phalt/pykemon
+    platform: Python
+    stargazers_count: 93

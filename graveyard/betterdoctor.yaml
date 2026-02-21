@@ -1,0 +1,13 @@
+name: BetterDoctor
+slug: betterdoctor
+description: BetterDoctor API is the most frequently updated and trusted source of doctor data. BetterDoctor delivers
+  accurate provider directory data to ensure health plans, health systems, provider groups, and doctors are
+  regulation-compliant and can provide patients with care they’re looking for.
+categories:
+  - Health
+type: REST
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://developer.betterdoctor.com/

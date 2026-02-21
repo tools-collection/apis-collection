@@ -1,0 +1,10 @@
+name: fonoApi
+slug: fonoapi
+description: Mobile Device Description Api
+categories:
+  - Hardware
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://fonoapi.freshpixl.com/

@@ -1,0 +1,11 @@
+name: Afex
+slug: afex
+description: Send payments to recipients all over the world 24/7 with secure and flexible online platform
+categories:
+  - Finance & Economics
+  - Payments
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/afex/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://doc.api.afex.com/?version=latest

@@ -1,0 +1,12 @@
+name: GoCardless Bank Account Data (Nordigen)
+slug: nordigen
+description: GoCardless Bank Account Data API (formerly Nordigen) provides free open banking access to transaction data and account information from 2,500+ European banks via PSD2.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.gocardless.com/bank-account-data/overview
+  - name: API Reference
+    url: https://developer.gocardless.com/bank-account-data/api-reference

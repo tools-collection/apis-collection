@@ -1,0 +1,91 @@
+name: GitLab
+slug: gitlab
+description: Access to GitLab's API. Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus
+  GitLab, and GitLab Runner
+categories:
+  - Open Source
+  - Project Management
+  - Development
+  - Collaboration
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gitlab/logo_256x256.png
+contact: support@graphhopper.com
+links:
+  - name: Docs / Website
+    url: https://docs.gitlab.com/ce/api/README.html
+libraries:
+  - name: Gitlab Node.js SDK by jdalrymple
+    documentation_url: https://github.com/jdalrymple/node-gitlab-api
+    platform: Node.js
+    author: jdalrymple
+    stargazers_count: 740
+  - name: GitLab PHP SDK by neilime
+    documentation_url: https://github.com/neilime/php-gitlab-api
+    platform: PHP
+  - name: GitLab PHP SDK by benmag
+    documentation_url: https://packagist.org/packages/benmag/php-gitlab-api
+    source_code_url: https://github.com/benmag/php-gitlab-api
+    platform: PHP
+    author: benmag
+    stargazers_count: 0
+  - name: GitLab Java SDK by Tim Olshansky
+    documentation_url: https://github.com/timols/java-gitlab-api
+    platform: Java
+    author: timols
+    stargazers_count: 365
+  - name: GitLab Swift SDK by Orih
+    documentation_url: https://github.com/orih/GitLabKit
+    platform: Swift
+    author: toricls
+    stargazers_count: 56
+  - name: GitLab .Net SDK by Szymon Kulec
+    documentation_url: https://github.com/Scooletz/NGitLab
+    platform: .Net
+  - name: GitLab PHP SDK by Adam Engebretson
+    documentation_url: https://github.com/adamgoose/gitlab
+    platform: PHP
+    author: adamgoose
+    stargazers_count: 19
+  - name: GitLab JavaScript SDK by sahilsk
+    documentation_url: https://github.com/sahilsk/Gitlab-YAAC
+    platform: JavaScript
+    author: sahilsk
+    stargazers_count: 11
+  - name: GitLab Go SDK by Bugagazavr
+    documentation_url: https://github.com/Bugagazavr/go-gitlab-client
+    platform: Go
+    author: Bugagazavr
+    stargazers_count: 24
+  - name: GitLab PHP SDK by Matt Humphrey
+    documentation_url: https://github.com/m4tthumphrey/php-gitlab-api
+    platform: PHP
+    stargazers_count: 756
+  - name: GitLab Backbone.js SDK by O'Reilly Media
+    documentation_url: https://github.com/oreillymedia/backbone-gitlab/
+    platform: Backbone.js
+    stargazers_count: 28
+  - name: GitLab Node.js SDK by GitLab
+    documentation_url: https://www.npmjs.com/package/gitlab
+    source_code_url: https://github.com/node-gitlab/node-gitlab
+    platform: Node.js
+    author: jdalrymple
+    stargazers_count: 740
+  - name: GitLab Perl SDK by Aran Deltac
+    documentation_url: https://github.com/bluefeet/GitLab-API-v3
+    platform: PERL
+    author: bluefeet
+    stargazers_count: 12
+  - name: GitLab Ruby SDK by Nihad Abbasov
+    documentation_url: https://github.com/NARKOZ/gitlab
+    platform: Ruby
+    author: NARKOZ
+    stargazers_count: 934
+  - name: GitLab Python SDK by Itxaka
+    documentation_url: https://github.com/Itxaka/pyapi-gitlab
+    platform: Python
+    stargazers_count: 203
+  - name: GitLab Python SDK by Gauvain Pocentek
+    documentation_url: https://github.com/gpocentek/python-gitlab
+    platform: Python
+    stargazers_count: 1469

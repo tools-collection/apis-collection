@@ -1,0 +1,13 @@
+name: Power BI REST API
+slug: powerbi
+description: Power BI's REST API manages datasets, reports, dashboards, workspaces, and data refreshes. Embed Power BI analytics, automate report publishing, and manage BI infrastructure programmatically.
+categories:
+  - Analytics
+  - Statistics & Data
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://learn.microsoft.com/en-us/rest/api/power-bi
+  - name: API Reference
+    url: https://learn.microsoft.com/en-us/rest/api/power-bi/datasets

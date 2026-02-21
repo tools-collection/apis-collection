@@ -1,0 +1,13 @@
+name: Astronomy
+slug: astronomy
+description: Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun
+  altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or
+  an IPv4 or IPv6 address for a given date.
+categories:
+  - Science & Math
+  - Space
+  - Maps & Geo
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://ipgeolocation.io/astronomy-api.html

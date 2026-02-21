@@ -1,0 +1,13 @@
+name: SearchLy
+slug: searchly
+description: Contribute to AlbertSuarez/searchly development by creating an account on GitHub. 🎶 Song similarity search
+  API based on lyrics
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/searchly/logo_256x256.png
+contact: support@unicorn-solutions.com
+links:
+  - name: Docs / Website
+    url: https://github.com/AlbertSuarez/searchly

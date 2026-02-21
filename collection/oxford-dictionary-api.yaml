@@ -1,0 +1,12 @@
+name: Oxford Dictionary API
+slug: oxford-dictionary-api
+description: Access to Oxford Dictionary services with several different subscription options including a free tier. The
+  Oxford Dictionaries API gives you access to our world-renowned dictionary data, including definitions, translations,
+  synonyms, and audio pronunciations
+categories:
+  - Content & Dictionaries
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.oxforddictionaries.com/

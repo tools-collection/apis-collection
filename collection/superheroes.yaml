@@ -1,0 +1,11 @@
+name: SuperHeroes
+slug: superheroes
+description: From both the universe, and more. Biography. Powerstats. Connections. Images. Introduction What is this?
+  The superhero API, is a quantifi. API is for all the superhero data you've needed. Work. Appearance
+categories:
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://superheroapi.com

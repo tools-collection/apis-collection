@@ -1,0 +1,70 @@
+name: Giphy
+slug: giphy
+description: Worlds largest library of GIFs
+categories:
+  - Images & Photography
+  - Fun
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/giphy/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.giphy.com/docs/
+libraries:
+  - name: Giphy JavaScript SDK
+    documentation_url: https://github.com/Giphy/giphy-js-sdk-core
+    platform: JavaScript
+    stargazers_count: 89
+  - name: Giphy PHP SDK
+    documentation_url: https://github.com/Giphy/giphy-php-client
+    platform: PHP
+    stargazers_count: 11
+  - name: Giphy Python SDK
+    documentation_url: https://github.com/Giphy/giphy-python-client
+    platform: Python
+    stargazers_count: 50
+  - name: "Giphy Android SDK "
+    documentation_url: https://developers.giphy.com/docs/sdk/#android
+    source_code_url: https://github.com/Giphy/giphy-android-sdk-core
+    platform: Java
+  - name: "Giphy iOS SDK "
+    documentation_url: https://developers.giphy.com/docs/sdk#ios
+    source_code_url: https://github.com/Giphy/giphy-ios-sdk-core
+    platform: Swift
+  - name: Giphy JavaScript SDK by Austin Kelleher
+    documentation_url: https://libraries.io/npm/giphy-api
+    source_code_url: https://github.com/austinkelleher/giphy-api
+    platform: JavaScript
+    author: austinkelleher
+    stargazers_count: 84
+  - name: "Giphy Gifs Haskell SDK by Pascal Hartig "
+    documentation_url: https://www.stackage.org/nightly-2016-10-24/package/giphy-api-0.5.0.0
+    source_code_url: https://github.com/passy/giphy-api#readme
+    platform: Haskell
+    author: passy
+    stargazers_count: 27
+  - name: Giphy Java SDK by Mathias Markl
+    documentation_url: https://github.com/keshrath/Giphy4J
+    platform: Java
+    author: keshrath
+    stargazers_count: 29
+  - name: Giphy Haskell SDK by Pascal Hartig
+    documentation_url: https://github.com/passy/giphy-api
+    platform: Haskell
+    author: passy
+    stargazers_count: 27
+  - name: Giphy Node.js SDK by Austin Kelleher
+    documentation_url: https://www.npmjs.com/package/giphy-api
+    source_code_url: https://github.com/austinkelleher/giphy-api
+    platform: Node.js
+    author: austinkelleher
+    stargazers_count: 84
+  - name: Giphy Node.js Library
+    documentation_url: https://www.npmjs.com/package/apigiphy
+    platform: Node.js
+  - name: Giphy Ruby Gem
+    documentation_url: http://giphy.com/labs
+    source_code_url: https://github.com/sebasoga/giphy
+    platform: Ruby
+    author: sogamoso
+    stargazers_count: 82

@@ -1,0 +1,19 @@
+name: GrünstromIndex
+slug: grunstromindex
+description: The green electricity index shows when a lot of renewable electricity is in the grid and can be used in the
+  household. This means that everyone can support the energy transition in Germany and help ensure that green
+  electricity is expanded efficiently
+categories:
+  - Environment & Nature
+  - AI & ML
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/grunstromindex/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://gruenstromindex.de/
+libraries:
+  - name: Grünstromindex NodeJS SDK
+    documentation_url: https://www.corrently.de/hintergrund/gruenstromindex/index.html
+    source_code_url: https://app.swaggerhub.com/apis/corrently/Gruenstromindex/4.1.3
+    platform: Node.js

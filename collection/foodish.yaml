@@ -1,0 +1,11 @@
+name: Foodish
+slug: foodish
+description: "- surhud004/Foodish. A Node. A Node. js/Express. js REST API to GET a random picture of food dishes"
+categories:
+  - Food & Drinks
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/foodish/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/surhud004/Foodish#readme

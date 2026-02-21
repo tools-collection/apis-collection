@@ -1,0 +1,11 @@
+name: Google Speech-to-Text API
+slug: google-speech-to-text-api
+description: Accurately convert speech into text using an API powered by Google’s AI technologies.
+categories:
+  - AI & ML
+  - Voice
+type: REST, gRPC
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://cloud.google.com/speech-to-text

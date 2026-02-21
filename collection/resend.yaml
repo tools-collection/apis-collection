@@ -1,0 +1,13 @@
+name: Resend
+slug: resend
+description: Resend is an email API built for developers. Send transactional emails with React components, track deliverability, manage domains, and view analytics via a simple REST API.
+categories:
+  - Email & SMS
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://resend.com/docs
+  - name: API Reference
+    url: https://resend.com/docs/api-reference/introduction

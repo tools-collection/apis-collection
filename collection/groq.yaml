@@ -1,0 +1,12 @@
+name: Groq
+slug: groq
+description: Groq's API provides ultra-fast inference for open-source language models like Llama 3, Mixtral, and Gemma using custom LPU hardware. Optimized for low-latency applications.
+categories:
+  - AI & ML
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://console.groq.com/docs
+  - name: API Reference
+    url: https://console.groq.com/docs/openai

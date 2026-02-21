@@ -1,0 +1,11 @@
+name: Booknomads
+slug: booknomads
+description: 5 million), book covers and related data. Books published in the Netherlands and Flanders (about 2
+categories:
+  - Books
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/booknomads/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.booknomads.com

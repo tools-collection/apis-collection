@@ -1,0 +1,12 @@
+name: PyPI API
+slug: pypi-api
+description: PyPI's JSON API provides package metadata, release information, download statistics, and vulnerability data for Python packages hosted on the Python Package Index.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.pypi.org/api/json
+  - name: API Reference
+    url: https://warehouse.pypa.io/api-reference/json.html

@@ -1,0 +1,13 @@
+name: WhatsApp Business API
+slug: whatsapp-business
+description: WhatsApp Business Platform API enables sending and receiving WhatsApp messages, managing message templates, and handling webhooks for business-to-customer communications at scale.
+categories:
+  - Chats & Messaging
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.facebook.com/docs/whatsapp
+  - name: API Reference
+    url: https://developers.facebook.com/docs/whatsapp/cloud-api/reference

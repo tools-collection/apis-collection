@@ -1,0 +1,19 @@
+name: UK Police
+slug: uk-police
+description: "Police API Documentation The API provides a rich data source for information, including: Neighbourhood
+  team members Upcoming events Street-level crime and outcome data Nearest police stations The A. Police API
+  Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming
+  events Street-level crime and outcome data Nearest police stations The A"
+categories:
+  - Statistics & Data
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://data.police.uk/docs/
+libraries:
+  - name: UK Police Python SDK by Rock Kitchen Harris
+    documentation_url: https://github.com/rkhleics/police-api-client-python/
+    platform: Python
+    stargazers_count: 25

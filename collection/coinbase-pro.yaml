@@ -1,0 +1,11 @@
+name: Coinbase Pro
+slug: coinbase-pro
+description: "Trading APIs require authentication and provide access to placing orders and other account information.
+  Feed APIs provide market data and are public. . APIs are separated into two categories: trading and feed"
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.pro.coinbase.com/#api

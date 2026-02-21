@@ -1,0 +1,94 @@
+name: Dropbox
+slug: dropbox
+description: API for accessing stored files and pictures which is easy to use and free for small amounts of data. With
+  the DBX Platform, you can go from idea to implementation quickly and easily. You'll save time and write fewer lines of
+  code with SDKs, powerful core API, and thorough documentation
+categories:
+  - Files & Storage
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.dropbox.com/developers
+libraries:
+  - name: Dropbox Ruby SDK by Jesús Burgos Maciá
+    documentation_url: https://github.com/Jesus/dropbox_api
+    platform: Ruby
+    author: Jesus
+    stargazers_count: 173
+  - name: Dropbox Objective-C SDK by Dropbox
+    documentation_url: https://github.com/dropbox/dropbox-sdk-obj-c
+    platform: Objective-C
+    stargazers_count: 183
+  - name: Dropbox Java SDK by Gini
+    documentation_url: https://github.com/gini/dropbox-java-sdk
+    platform: Java
+    stargazers_count: 0
+  - name: Dropbox Python SDK for Flask applications by Igor Davydenko
+    documentation_url: https://github.com/playpauseandstop/Flask-Dropbox
+    platform: Python
+    author: playpauseandstop
+    stargazers_count: 66
+  - name: Dropbox Node.js SDK by Brock Whitten
+    documentation_url: https://github.com/sintaxi/dbox
+    platform: Node.js
+    author: sintaxi
+    stargazers_count: 514
+  - name: Dropbox iOS SDK Mirror by Dropbox SDK Mirror
+    documentation_url: https://github.com/dropbox-sdk-mirror/dropbox-sdk-ios
+    platform: Objective-C
+    author: dropbox-sdk-mirror
+    stargazers_count: 35
+  - name: Dropbox PHP SDK by Ben Tadiar
+    documentation_url: https://github.com/BenExile/Dropbox
+    platform: PHP
+    author: BenExile
+    stargazers_count: 516
+  - name: Dropbox iOS X SDK by Dropbox
+    documentation_url: https://www.dropbox.com/developers/core/sdks/osx
+    platform: Objective-C
+  - name: Dropbox iOS SDK by Dropbox
+    documentation_url: https://www.dropbox.com/developers/core/sdks/ios
+    platform: Objective-C
+  - name: Dropbox Android SDK by Dropbox
+    documentation_url: https://www.dropbox.com/developers/core/sdks/android
+    platform: Java
+  - name: Dropbox Java SDK by Dropbox
+    documentation_url: https://www.dropbox.com/developers/documentation/java
+    source_code_url: https://github.com/dropbox/dropbox-sdk-java
+    platform: Java
+    stargazers_count: 623
+  - name: Dropbox PHP SDK by Dropbox
+    documentation_url: https://www.dropbox.com/developers/core/sdks/php
+    platform: PHP
+  - name: Dropbox Ruby SDK by Dropbox
+    documentation_url: https://www.dropbox.com/developers/core/sdks/ruby
+    platform: Ruby
+  - name: Dropbox Python SDK by Dropbox
+    documentation_url: https://www.dropbox.com/developers/core/sdks/python
+    source_code_url: https://github.com/dropbox/dropbox-sdk-python
+    platform: Python
+    stargazers_count: 978
+  - name: Instagram JavaScript SDK by Shayne Sweeney
+    documentation_url: https://github.com/facebookarchive/instagram-javascript-sdk
+    platform: JavaScript
+    stargazers_count: 144
+  - name: Dropbox C++ Library by Daniel Eder
+    documentation_url: http://lycis.github.io/QtDropbox/
+    platform: C++
+  - name: Dropbox C Library by Adrien Python
+    documentation_url: https://github.com/Dwii/Dropbox-C
+    platform: C
+    author: Dwii
+    stargazers_count: 28
+  - name: Dropbox ActionScript Library by zeshuo
+    documentation_url: https://code.google.com/p/dropbox-as3/
+    platform: ActionScript
+  - name: " Dropbox Java Library by Kannan Goudan"
+    documentation_url: https://github.com/dropbox/dropbox-sdk-java
+    platform: Java
+    stargazers_count: 623
+  - name: Dropbox PHP Library by Kannan Goudan
+    documentation_url: https://github.com/dropbox/dropbox-sdk-php
+    platform: PHP

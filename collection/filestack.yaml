@@ -1,0 +1,58 @@
+name: Filestack
+slug: filestack
+description: API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+  Discover powerful tools that allow you to upload, transform and deliver any file in your application
+categories:
+  - Video & Media
+  - Files & Storage
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://filestack.com/docs/
+libraries:
+  - name: Filestack File Picker Android SDK
+    documentation_url: https://github.com/filestack/filestack-android/
+    platform: Java
+    stargazers_count: 166
+  - name: Filestack File Picker iOS SDK
+    documentation_url: https://www.filestack.com/docs/api/sdk/ios/
+    platform: Objective-C
+  - name: Filestack File Picker Web SDK
+    documentation_url: https://www.filestack.com/docs/concepts/pickers/web/
+    platform: JavaScript
+  - name: "Filestack Rails Ruby SDK "
+    documentation_url: https://www.filestack.com/docs/api/sdks
+    source_code_url: https://github.com/filestack/filestack-rails
+    platform: Ruby
+    stargazers_count: 222
+  - name: "Filestack Swift SDK "
+    documentation_url: https://www.filestack.com/docs/api/sdk/swift
+    source_code_url: https://github.com/filestack/filestack-swift
+    platform: Swift
+    stargazers_count: 17
+  - name: Filestack PHP SDK
+    documentation_url: https://github.com/filestack/filestack-php
+    platform: PHP
+    stargazers_count: 58
+  - name: Filestack Ruby SDK
+    documentation_url: https://github.com/filestack/filestack-ruby
+    platform: Ruby
+    stargazers_count: 38
+  - name: Filestack React JS SDK
+    documentation_url: https://github.com/filestack/filestack-react
+    platform: JavaScript
+    stargazers_count: 170
+  - name: Filestack Android SDK
+    documentation_url: https://github.com/filestack/filepicker-android
+    platform: Java
+    stargazers_count: 166
+  - name: Filestack iOS SDK
+    documentation_url: https://github.com/filestack/filestack-ios
+    platform: Objective-C
+    stargazers_count: 62
+  - name: Filestack Python SDK
+    documentation_url: https://github.com/filestack/filestack-python
+    platform: Python
+    stargazers_count: 51

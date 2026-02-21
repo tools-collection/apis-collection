@@ -1,0 +1,12 @@
+name: WebPurify
+slug: webpurify
+description: Provides live image moderation by humans or AI-based image moderation service.
+categories:
+  - Validation & Verification
+  - Security
+  - Images & Photography
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.webpurify.com/image-moderation/

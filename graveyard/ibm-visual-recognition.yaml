@@ -1,0 +1,64 @@
+name: IBM Visual Recognition
+slug: ibm-visual-recognition
+description: The IBM Watson Visual Recognition service uses deep learning algorithms to identify scenes and objects in
+  images that you upload to the service. You can create and train a custom classifier to identify subjects that suit
+  your needs. Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can't create
+  instances. Any instance that is provisioned on 1 December 2021 will be deleted. IBM Watso Visual Recognition is
+  discontinued
+categories:
+  - Text Analysis & Tools
+  - Recognition
+  - Images & Photography
+  - AI & ML
+type: REST
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3
+libraries:
+  - name: " IBM Watson Visual Recognition .NET SDK"
+    documentation_url: https://github.com/watson-developer-cloud/dotnet-standard-sdk
+    platform: .Net
+    stargazers_count: 146
+  - name: IBM Watson Visual Recognition Python SDK
+    documentation_url: https://github.com/watson-developer-cloud/python-sdk
+    platform: Python
+    stargazers_count: 1334
+  - name: IBM Watson Visual Recognition Swift SDK
+    documentation_url: https://github.com/watson-developer-cloud/swift-sdk
+    platform: Swift
+    stargazers_count: 876
+  - name: IBM Watson C# SDK by Denny Headrick
+    documentation_url: https://github.com/dennyboy/WatsonCSharp
+    platform: .Net, C#
+    author: dennyboy
+    stargazers_count: 2
+  - name: IBM Watson Visual Recognition PHP SDK by Paul Aan
+    documentation_url: https://github.com/weburnit/ibm-watson-visual-regconition
+    platform: PHP
+    author: weburnit
+    stargazers_count: 2
+  - name: IBM Watson Go SDK by Livio Soares
+    documentation_url: https://github.com/liviosoares/go-watson-sdk
+    platform: Go
+    author: liviosoares
+    stargazers_count: 86
+  - name: IBM Watson Android SDK by Watson Developer Cloud
+    documentation_url: https://github.com/watson-developer-cloud/android-sdk
+    platform: Java
+    stargazers_count: 137
+  - name: IBM Watson Ruby SDK by suchowan
+    documentation_url: https://github.com/suchowan/watson-api-client
+    platform: Ruby
+    author: suchowan
+    stargazers_count: 26
+  - name: IBM Watson Visual Recognition PHP SDK by Tom Robertshaw
+    documentation_url: https://github.com/bobbyshaw/ibm-watson-visual-recognition-php
+    platform: PHP
+    author: bobbyshaw
+    stargazers_count: 7
+  - name: IBM Watson Unity SDK by Watson Developer Cloud
+    documentation_url: https://github.com/watson-developer-cloud/unity-sdk
+    platform: C#
+    stargazers_count: 541

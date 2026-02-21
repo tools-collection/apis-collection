@@ -1,0 +1,54 @@
+name: Bitly
+slug: bitly
+description: Access to Bitly’s API. The Bitly API Bitly is the most widely trusted link management platform in the
+  world. By using the Bitly API, you will exercise the full power of your links through automated link customization, mo
+categories:
+  - URLs
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://dev.bitly.com/links.html
+libraries:
+  - name: Bitly PHP SDK by Kanan Langin-Hooper
+    documentation_url: https://packagist.org/packages/kananlanginhooper/bitly-api-php
+    source_code_url: https://github.com/kananlanginhooper/bitly-api-php
+    platform: PHP
+    author: kananlanginhooper
+    stargazers_count: 0
+  - name: Bit.ly Ruby Library by Louis Gillies
+    documentation_url: https://github.com/playgood/get_shorty
+    platform: Ruby
+    author: louisgillies
+    stargazers_count: 7
+  - name: Bit.ly Python Library by Yoav Aviram
+    documentation_url: https://code.google.com/p/python-bitly/
+    platform: Python
+  - name: Bit.ly PHP Library by Yii
+    documentation_url: http://www.yiiframework.com/extension/bitly-url-shortener
+    platform: PHP
+  - name: " Bit.ly Java Library by Finn Johnsen "
+    documentation_url: https://github.com/finnjohnsen/BitlyAndroid
+    platform: .Net, Java
+    author: finnjohnsen
+    stargazers_count: 19
+  - name: Bit.ly Python Library bitly-api-python
+    documentation_url: https://github.com/bitly/bitly-api-python
+    platform: Python
+    stargazers_count: 242
+  - name: Bitly .NET library BitlyDotNET
+    documentation_url: http://dev.bitly.com/code_libraries.html
+    source_code_url: https://code.google.com/p/bitly-dot-net/
+    platform: .Net
+  - name: url_shortener (Bitly Ruby Gem)
+    documentation_url: http://rdoc.info/github/nas/url_shortener
+    source_code_url: https://github.com/nas/url_shortener
+    platform: Ruby
+    author: nas
+    stargazers_count: 40
+  - name: node-bitlyapi
+    documentation_url: https://www.npmjs.org/package/node-bitlyapi
+    source_code_url: https://github.com/nkirby/node-bitlyapi
+    platform: Node.js
+    author: nkirby
+    stargazers_count: 33

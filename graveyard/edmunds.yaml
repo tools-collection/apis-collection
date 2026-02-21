@@ -1,0 +1,11 @@
+name: Edmunds
+slug: edmunds
+description: A dataset containing all the car makes. Edmunds has detailed specs, customer ratings, photos & videos, pricing, etc
+categories:
+  - Vehicles
+type: REST
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: http://developer.edmunds.com/

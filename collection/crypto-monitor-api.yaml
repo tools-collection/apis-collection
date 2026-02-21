@@ -1,0 +1,9 @@
+name: Crypto Monitor Api
+slug: crypto-monitor-api
+description: The Crypto monitor API provides bots that show savings in cryptocurrencies. Bad Gateway
+categories:
+  - Blockchain & Cryptocurrencies
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.crypto-savings.com/v1/

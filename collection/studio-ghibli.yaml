@@ -1,0 +1,17 @@
+name: Studio Ghibli
+slug: studio-ghibli
+description: Resources from Studio Ghibli films
+categories:
+  - Comics & Anime
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://ghibliapi.herokuapp.com/
+libraries:
+  - name: Studio Ghibli Go SDK by Ryan Christiani
+    documentation_url: https://github.com/Rchristiani/totoro
+    platform: Go
+    author: Rchristiani
+    stargazers_count: 4

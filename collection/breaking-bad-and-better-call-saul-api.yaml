@@ -1,0 +1,11 @@
+name: Breaking Bad & Better Call Saul API
+slug: breaking-bad-and-better-call-saul-api
+description: Get data about characters, episodes, quotes, and deaths
+categories:
+  - Video & Media
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://breakingbadapi.com/documentation

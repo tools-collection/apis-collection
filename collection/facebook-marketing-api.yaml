@@ -1,0 +1,12 @@
+name: Facebook Marketing API
+slug: facebook-marketing-api
+description: Marketing API Marketing APIs are a collection of Graph API endpoints that can be used to help you advertise
+  on Facebook. Manage ads and campaigns using the Facebook API
+categories:
+  - Marketing & SEO
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.facebook.com/docs/marketing-apis

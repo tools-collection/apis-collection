@@ -1,0 +1,85 @@
+name: Mailjet
+slug: mailjet
+description: |-
+  Reliable and scalable email delivery platform with SMTP and API. 
+  Real-time monitoring service for all your email traffic. 
+  Responsive email design with MJML and Passport
+categories:
+  - Email & SMS
+  - Marketing & SEO
+  - Analytics
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://dev.mailjet.com
+libraries:
+  - name: Mailjet Symfony PHP SDK by Marc Galoyer
+    documentation_url: https://github.com/uneak/MailjetBundle
+    platform: PHP
+    author: uneak
+    stargazers_count: 1
+  - name: Mailjet Node.js SDK by Clément Delafargue
+    documentation_url: https://github.com/divarvel/node-mailjet-v3
+    platform: Node.js
+    author: divarvel
+    stargazers_count: 0
+  - name: Mailjet Node.js SDK by psolbach
+    documentation_url: https://github.com/psolbach/node-mailjet
+    platform: Node.js
+    author: psolbach
+    stargazers_count: 0
+  - name: Mailjet Symfony PHP SDK by Mehdi ZOGHLAMI
+    documentation_url: https://github.com/Vooodoo/MailJetBundle
+    platform: PHP
+  - name: Mailjet Node.js SDK by panosru
+    documentation_url: https://github.com/panosru/node-mailjet
+    platform: Node.js
+    author: panosru
+    stargazers_count: 6
+  - name: Mailjet Symfony PHP SDK by KNP Labs
+    documentation_url: https://github.com/KnpLabs/KnpMailjetBundle
+    platform: PHP
+    stargazers_count: 10
+  - name: Mailjet Python SDK by Rick van Hattem
+    documentation_url: https://github.com/WoLpH/mailjet
+    platform: Python
+    author: WoLpH
+    stargazers_count: 18
+  - name: Mailjet PHP SDK by Arnaud Ligny
+    documentation_url: https://github.com/Narno/Mailjet-API
+    platform: PHP
+    stargazers_count: 1
+  - name: Mailjet Node.js SDK by Ryan Flanagan
+    documentation_url: https://github.com/Ranagan/node-mailjet-api
+    platform: Node.js
+    author: Ranagan
+    stargazers_count: 0
+  - name: Mailjet Elixir SDK by PiggyPot
+    documentation_url: https://github.com/PiggyPot/mailjex
+    platform: Elixir
+    stargazers_count: 7
+  - name: Mailjet Go SDK by Mailjet
+    documentation_url: https://github.com/mailjet/mailjet-apiv3-go
+    platform: Go
+    stargazers_count: 51
+  - name: Mailjet Python SDK by Mailjet
+    documentation_url: https://github.com/mailjet/mailjet-apiv3-python
+    platform: Python
+    stargazers_count: 70
+  - name: Mailjet Node.js SDK by Mailjet
+    documentation_url: https://github.com/mailjet/mailjet-apiv3-nodejs
+    source_code_url: https://github.com/mailjet/mailjet-apiv3-nodejs
+    platform: Node.js
+    stargazers_count: 134
+  - name: Mailjet Ruby SDK by Mailjet
+    documentation_url: https://github.com/mailjet/mailjet-gem
+    platform: Ruby
+    stargazers_count: 119
+  - name: Mailjet Java SDK by Mailjet
+    documentation_url: https://github.com/mailjet/mailjet-apiv3-java
+    platform: Java
+    stargazers_count: 51
+  - name: Mailjet PHP SDK by Mailjet
+    documentation_url: https://github.com/mailjet/mailjet-apiv3-php-simple
+    platform: PHP
+    stargazers_count: 56

@@ -1,0 +1,10 @@
+name: Consumer Financial Protection Bureau
+slug: consumer-financial-protection-bureau
+description: Financial services consumer complaint data
+categories:
+  - Finance & Economics
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/consumer-financial-protection-bureau/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://data.consumerfinance.gov/resource/jhzv-w97w.json

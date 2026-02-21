@@ -1,0 +1,12 @@
+name: Non-Working Days
+slug: non-working-days
+description: Open repository of non-working days ics files. Open repository of non-working days ics files. Contribute to
+  gadael/icsdb development by creating an account on GitHub
+categories:
+  - Calendar & Time
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/non-working-days/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/gadael/icsdb

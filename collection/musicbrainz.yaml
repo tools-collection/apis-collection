@@ -1,0 +1,53 @@
+name: MusicBrainz
+slug: musicbrainz
+description: The API discussed here is an interface to the MusicBrainz Database. It is aimed at developers of media
+  players, CD rippers, taggers, and other applications requiring music metadata. The API's archi
+categories:
+  - Music & Audio
+  - Text Analysis & Tools
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musicbrainz/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+libraries:
+  - name: MetaMusic .NET SDK by David Pires
+    documentation_url: https://github.com/Davidblkx/MetaMusic
+    platform: .Net
+    author: Davidblkx
+    stargazers_count: 1
+  - name: MusicApiCollection C# SDK by BigGranu
+    documentation_url: https://github.com/BigGranu/MusicApiCollection
+    platform: C#
+    author: BigGranu
+    stargazers_count: 15
+  - name: Festival Search Engine JavaScript SDK by Steven Liatti
+    documentation_url: https://github.com/steenput/FestivalSearchEngine
+    platform: JavaScript
+    author: stevenliatti
+    stargazers_count: 1
+  - name: Cover Art Archive Music Brainz JavaScript SDK by Cover Art Archive
+    documentation_url: https://github.com/lastfm/coverartarchive-api
+    platform: JavaScript
+    stargazers_count: 44
+  - name: Cover Art Archive Music Brainz C SDK by Cover Art Archive
+    documentation_url: https://github.com/metabrainz/libcoverart
+    platform: C
+    stargazers_count: 27
+  - name: MusicBrainz (gomusicbrainz) Golang SDK by Michael Wendland
+    documentation_url: https://github.com/michiwend/gomusicbrainz/blob/master/README.md
+    source_code_url: https://github.com/michiwend/gomusicbrainz
+    platform: Go
+    author: michiwend
+    stargazers_count: 42
+  - name: MusicBrainz (libmusicbrainz-objc) Objective-C Library by Joachim Brandon LeBlanc
+    documentation_url: https://github.com/demosdemon/libmusicbrainz-objc/blob/master/README.md
+    source_code_url: https://github.com/demosdemon/libmusicbrainz-objc
+    platform: Objective-C
+    author: demosdemon
+    stargazers_count: 12
+  - name: MusicBrainz Python Library by MusicBrainz
+    documentation_url: http://musicbrainz.org/
+    source_code_url: https://python-musicbrainzngs.readthedocs.org/en/latest/
+    platform: Python

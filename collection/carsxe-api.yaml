@@ -1,0 +1,11 @@
+name: CarsXE API
+slug: carsxe-api
+description: Get access to millions of vehicle records, specs, ownership costs and market values. CarsXE Vehicle Data API
+categories:
+  - Vehicles
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carsxe-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://api.carsxe.com/

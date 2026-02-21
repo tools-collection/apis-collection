@@ -1,0 +1,11 @@
+name: Datum Box
+slug: datum-box
+description: Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API of Datumbox
+categories:
+  - AI & ML
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/datum-box/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://www.datumbox.com/machine-learning-api/

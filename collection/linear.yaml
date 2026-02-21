@@ -1,0 +1,13 @@
+name: Linear
+slug: linear
+description: Linear's API enables programmatic access to issues, projects, cycles, teams, and workflows. Build integrations, automate issue tracking, and sync with external tools using GraphQL.
+categories:
+  - Project Management
+  - Development
+type: GraphQL
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.linear.app/docs
+  - name: API Reference
+    url: https://developers.linear.app/docs/graphql/working-with-the-graphql-api

@@ -1,0 +1,59 @@
+name: Bandsintown
+slug: bandsintown
+description: >-
+  The Bandsintown API is designed for artists and enterprises representing artists.
+
+  It offers read-only access to artist info and artist events:
+
+  artist info: returns the link to the Bandsintown artist page, the link to the artist photo, the current number of
+  trackers and more
+
+  artist events: returns the list of events including their date and time, venue name and location, ticket links,
+  lineup, description and the link to the Bandsintown event page
+categories:
+  - Events
+  - Music & Audio
+type: REST
+is_free: false
+specification:
+  type: swagger
+  url: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved=true&flatten=true&pretty=true
+  version: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved=true&flatten=true&pretty=true
+links:
+  - name: Docs / Website
+    url: https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0
+libraries:
+  - name: Festival Search Engine JavaScript SDK by Steven Liatti
+    documentation_url: https://github.com/steenput/FestivalSearchEngine
+    platform: JavaScript
+    author: stevenliatti
+    stargazers_count: 1
+  - name: Bandsintown Java 8 SDK by Julian Wrastil
+    documentation_url: https://github.com/JayJayBinks/Bandsintown-API
+    platform: Java
+    author: JayJayBinks
+    stargazers_count: 0
+  - name: Bandsintown Go SDK by Nathan Cooper
+    documentation_url: https://github.com/NathanLBCooper/bandsintown-api
+    platform: Go
+    author: NathanLBCooper
+    stargazers_count: 1
+  - name: Bandsintown .NET SDK by Damian Karzon
+    documentation_url: https://github.com/dkarzon/BitSharp
+    platform: .Net
+    author: dkarzon
+    stargazers_count: 3
+  - name: Bandsintown PHP SDK by dhavhid
+    documentation_url: https://github.com/dhavhid/php-bandsintown
+    platform: PHP
+    author: dhavhid
+    stargazers_count: 1
+  - name: Bandsintown Python SDK by Anthony Roscoe
+    documentation_url: https://github.com/WizKid/Bandsintown-API
+    platform: Python
+    author: WizKid
+    stargazers_count: 5
+  - name: Bandsintown Ruby SDK by Mike Constanza
+    documentation_url: https://github.com/bandsintown/api-gem
+    platform: Ruby
+    stargazers_count: 20

@@ -1,0 +1,39 @@
+name: Disqus
+slug: disqus
+description: Disqus is a global comment system that improves discussion on websites and connects conversations across the web.
+categories:
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://disqus.com/api/docs/auth/
+libraries:
+  - name: Disqus Objective-C SDK by Ikhsan Assaat
+    documentation_url: https://github.com/ikhsan/IADisquser
+    platform: Objective-C
+  - name: Disqus .NET SDK by Rustam Irzaev
+    documentation_url: https://github.com/Lenivetc/DisqusNET
+    platform: .Net
+    author: RustamIrzaev
+    stargazers_count: 2
+  - name: Disqus Java SDK by jjhesk
+    documentation_url: https://github.com/jjhesk/DisqusSDK-Android
+    platform: Java
+    author: jjhesk
+    stargazers_count: 28
+  - name: Disqus JavaScript SDK by Helder Ribeiro
+    documentation_url: https://github.com/obvio171/meteor-disqus
+    platform: JavaScript
+    author: hsribei
+    stargazers_count: 19
+  - name: Disqus Ruby SDK by Norman Clarke
+    documentation_url: https://github.com/norman/disqus
+    platform: Ruby
+    author: norman
+    stargazers_count: 249
+  - name: Disqus PHP SDK by Disqus
+    documentation_url: https://help.disqus.com/customer/portal/articles/472115-libraries
+    source_code_url: https://github.com/disqus/disqus-php
+    platform: PHP
+    stargazers_count: 149

@@ -1,0 +1,38 @@
+name: Figo
+slug: figo
+description: Banking API that allows you to extract financial data such as transaction history, account balance, account
+  owner name and others to extract from any financial account
+categories:
+  - Finance & Economics
+  - Payments
+  - Development
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/figo/logo_256x256.png
+links:
+  - name: Docs / Website
+libraries:
+  - name: Figo .NET SDK by Figo
+    documentation_url: https://github.com/figo-connect/net-figo
+    platform: .Net
+    stargazers_count: 3
+  - name: Figo Java SDK by Figo
+    documentation_url: https://github.com/figo-connect/java-figo
+    platform: Java
+    stargazers_count: 18
+  - name: Figo PHP SDK by Figo
+    documentation_url: https://github.com/figo-connect/php-figo
+    platform: PHP
+    stargazers_count: 38
+  - name: Figo Node.js SDK by Figo
+    documentation_url: https://github.com/figo-connect/node-figo
+    platform: Node.js
+    stargazers_count: 41
+  - name: Figo Ruby SDK by Figo
+    documentation_url: https://github.com/figo-connect/ruby-figo
+    platform: Ruby
+    stargazers_count: 8
+  - name: Figo Python SDK by Figo
+    documentation_url: https://github.com/figo-connect/python-figo
+    platform: Python
+    stargazers_count: 28

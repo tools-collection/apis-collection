@@ -1,0 +1,10 @@
+name: Dungeons and Dragons
+slug: dungeons-and-dragons
+description: D&D 5th Edition SRD API. D&D 5th Edition SRD API
+categories:
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://www.dnd5eapi.co/

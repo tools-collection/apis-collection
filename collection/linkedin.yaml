@@ -1,0 +1,111 @@
+name: LinkedIn
+slug: linkedin
+description: Make it convenient for your users to sign in with their professional identity. Learn how to leverage
+  LinkedIn's API to Sign In with LinkedIn
+categories:
+  - Authentication & User Management
+  - Social
+  - Business
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkedin/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.linkedin.com/docs/signin-with-linkedin
+libraries:
+  - name: SocialSharesCount Go SDK by Sumesh Suvarna
+    documentation_url: https://github.com/gssumesh/socialsharescount
+    platform: Go
+    author: gssumesh
+    stargazers_count: 9
+  - name: LinkedIn JavaScript SDK by LinkedIn
+    documentation_url: https://developer.linkedin.com/docs/getting-started-js-sdk
+    platform: JavaScript
+  - name: LinkedIn PHP SDK by Ashwin Surajbali
+    documentation_url: https://github.com/ashwinks/PHP-LinkedIn-SDK
+    platform: PHP
+    author: ashwinks
+    stargazers_count: 94
+  - name: Linkedin Android SDK
+    documentation_url: https://developer.linkedin.com/
+    source_code_url: https://developer.linkedin.com/docs/android-sdk
+    platform: Java
+  - name: LinkedIn JavaScript SDK
+    documentation_url: https://developer.linkedin.com/documents/libraries-and-tools
+    platform: JavaScript
+  - name: LinkedIn PHP Library by Tobias Nyholm
+    documentation_url: https://github.com/Happyr/LinkedIn-API-client
+    platform: PHP
+    stargazers_count: 186
+  - name: LinkedIn Java Library by 3Pillar Global Labs
+    documentation_url: https://github.com/3pillarlabs/socialauth
+    platform: Java
+    stargazers_count: 248
+  - name: LinkedIn iOS Library by Hisham Raslan
+    documentation_url: https://github.com/HishamRaslan/IOS-LinkedIn-Authentication-Library-
+    platform: Objective-C
+    author: HishamRaslan
+    stargazers_count: 0
+  - name: LinkedIn iOS Library by Jacob von Eyben
+    documentation_url: https://github.com/jeyben/IOSLinkedInAPI
+    platform: Objective-C
+    author: jeyben
+    stargazers_count: 222
+  - name: LinkedIn Node.js Library by Julien Valéry
+    documentation_url: https://github.com/darul75/node-linked-in
+    platform: Node.js
+    author: darul75
+    stargazers_count: 6
+  - name: " LinkedIn Java Library by Pablo Fernandez"
+    documentation_url: https://developer-programs.linkedin.com/documents/libraries-and-tools
+    source_code_url: https://github.com/fernandezpablo85/scribe-java/blob/master/src/test/java/org/scribe/examples/LinkedInExample.java
+    platform: Java
+    stargazers_count: 5136
+  - name: LinkedIn .Net Library by oldlamer
+    documentation_url: https://www.nuget.org/packages/LinkedIn.NET/
+    source_code_url: http://sourceforge.net/projects/linkedinnet/
+    platform: .Net
+  - name: LinkedIn .Net Library by Tanveer Yousuf
+    documentation_url: https://www.nuget.org/packages/LinkedIn/
+    source_code_url: https://github.com/tanveery/linkedin-net
+    platform: .Net
+  - name: LinkedIn Ruby Library by Matt Kirk
+    documentation_url: https://rubygems.org/gems/linkedin/versions/1.0.0
+    source_code_url: https://github.com/hexgnu/linkedin
+    platform: Ruby
+    author: hexgnu
+    stargazers_count: 754
+  - name: LinkedIn Objective-C Library by Jacob von Eyben
+    documentation_url: https://github.com/jeyben/IOSLinkedInAPI/blob/master/README.md
+    source_code_url: https://github.com/jeyben/IOSLinkedInAPI
+    platform: Objective-C
+    author: jeyben
+    stargazers_count: 222
+  - name: LinkedIn Ruby Wrapper LinkedIn Gem
+    documentation_url: https://github.com/hexgnu/linkedin
+    platform: Ruby
+    author: hexgnu
+    stargazers_count: 754
+  - name: LinkedIn-API-JSON-Client
+    documentation_url: https://github.com/mattsnider/LinkedIn-API-JSON-Client
+    platform: Python
+    author: mattsnider
+    stargazers_count: 5
+  - name: Happyr Developer LinkedIn PHP Client
+    documentation_url: http://developer.happyr.com/libraries/linkedin-php-client
+    platform: PHP
+  - name: Python LinkedIn
+    documentation_url: https://github.com/ozgur/python-linkedin
+    platform: Python
+    author: ozgur
+    stargazers_count: 754
+  - name: Simple LinkedIn PHP
+    documentation_url: https://code.google.com/p/simple-linkedinphp/
+    platform: PHP
+  - name: Scribe Java
+    documentation_url: https://github.com/fernandezpablo85/scribe-java
+    platform: Java
+    stargazers_count: 5136
+  - name: A Java wrapper for LinkedIn APIs
+    documentation_url: http://code.google.com/p/linkedin-j/
+    platform: Java

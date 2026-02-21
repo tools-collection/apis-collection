@@ -1,0 +1,11 @@
+name: Meteorologisk Institutt
+slug: meteorologisk-institutt
+description: "A. Q. Available products: LegendMeani. Introduction This is version 3 of the MET Weather API. For
+  additional information, please read our Getting Started tutorial, Usage guide, Terms of Service and F"
+categories:
+  - Weather
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.met.no/weatherapi/documentation

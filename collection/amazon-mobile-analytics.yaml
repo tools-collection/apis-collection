@@ -1,0 +1,14 @@
+name: Amazon Mobile Analytics
+slug: amazon-mobile-analytics
+description: Service for collecting, visualizing, and understanding app usage data at scale
+categories:
+  - Analytics
+type: REST
+is_free: false
+contact: mike.ralphson@gmail.com
+specification:
+  url: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json
+  version: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json
+links:
+  - name: Docs / Website
+    url: https://aws.amazon.com/documentation/mobileanalytics/

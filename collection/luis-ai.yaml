@@ -1,0 +1,11 @@
+name: LUIS AI
+slug: luis-ai
+description: Language Understanding Intelligent Service offers a fast and effective way of adding language understanding
+  to applications
+categories:
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.luis.ai/

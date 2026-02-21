@@ -1,0 +1,11 @@
+name: AbuseIPDB
+slug: abuseipdb
+description: This is most commonly done through Fail2Ban, which comes prepackaged with an AbuseIPDB configuration.
+  Introduction The AbuseIPDB API allows you to utilize our database programmatically
+categories:
+  - Security
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.abuseipdb.com/

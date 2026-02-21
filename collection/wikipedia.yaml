@@ -1,0 +1,50 @@
+name: Wikipedia
+slug: wikipedia
+description: Free multilingual Encyclopedia.
+categories:
+  - Content & Dictionaries
+  - Wiki
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikipedia/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://en.wikipedia.org/w/api.php
+libraries:
+  - name: Wikipedia Python SDK by Martin Majlis
+    documentation_url: https://pypi.python.org/pypi/Wikipedia-API/0.3.5
+    source_code_url: https://github.com/martin-majlis/Wikipedia-API/
+    platform: Python
+    author: martin-majlis
+    stargazers_count: 217
+  - name: "Wikipedia Javascript SDK by Open Knowledge International "
+    documentation_url: http://okfnlabs.org/wikipediajs/
+    source_code_url: https://github.com/okfn/wikipediajs
+    platform: JavaScript
+    stargazers_count: 75
+  - name: Python Wikitools
+    documentation_url: https://github.com/alexz-enwp/wikitools
+    platform: Python
+    author: alexz-enwp
+    stargazers_count: 100
+  - name: Wikipedia Java Library java-mwapi
+    documentation_url: https://github.com/wikimedia/java-mwapi
+    source_code_url: https://github.com/wikimedia/java-mwapi
+    platform: Java
+    stargazers_count: 1
+  - name: Wikipedia Go Library go-mwclient
+    documentation_url: https://github.com/cgt/go-mwclient
+    source_code_url: https://github.com/cgt/go-mwclient
+    platform: Go
+    author: cgt
+    stargazers_count: 23
+  - name: Wikipedia Haskell Library mediawiki package
+    documentation_url: http://hackage.haskell.org/package/mediawiki
+    source_code_url: http://hackage.haskell.org/package/mediawiki
+    platform: Haskell
+  - name: Wikipedia by Goldsmith
+    documentation_url: https://pypi.python.org/pypi/wikipedia
+    source_code_url: https://github.com/goldsmith/Wikipedia
+    platform: Python
+    author: goldsmith
+    stargazers_count: 2196

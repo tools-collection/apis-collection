@@ -1,0 +1,12 @@
+name: CoinRanking
+slug: coinranking
+description: Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides. They
+  provides data about coins, exchanges, markets & more
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinranking/logo.png
+links:
+  - name: Docs / Website
+    url: https://docs.coinranking.com/

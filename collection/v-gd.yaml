@@ -1,0 +1,10 @@
+name: V.gd
+slug: v-gd
+description: Simple URL shortener. Supports custom short link ending. Our main portal for developer documentation
+categories:
+  - URLs
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://v.gd/developers.php

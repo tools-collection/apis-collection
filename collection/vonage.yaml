@@ -1,0 +1,14 @@
+name: Vonage (Nexmo)
+slug: vonage
+description: Vonage's Communications APIs provide SMS, voice calls, video, WhatsApp, and verification services. Build global messaging and telephony features into applications.
+categories:
+  - Email & SMS
+  - Voice
+  - Chats & Messaging
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.vonage.com
+  - name: API Reference
+    url: https://developer.vonage.com/en/api

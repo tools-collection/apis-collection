@@ -1,0 +1,20 @@
+name: rev.ai
+slug: revai
+description: Accurate Speech-to-Text APIs for all of your speech recognition needs
+categories:
+  - AI & ML
+  - Voice
+is_free: false
+logo: https://www.rev.ai/Content/curve/img/revai/logo/logo-blue.svg
+links:
+  - name: Docs / Website
+    url: https://www.rev.ai/
+libraries:
+  - name: Rev.ai Python SDK
+    platform: Python
+    source_code_url: https://github.com/revdotcom/revai-python-sdk
+    documentation_url: https://pypi.org/project/rev-ai/
+  - name: Rev.ai Node SDK
+    platform: Node
+    source_code_url: https://github.com/revdotcom/revai-node-sdk
+    documentation_url: https://www.npmjs.com/package/revai-node-sdk

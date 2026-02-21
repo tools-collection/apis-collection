@@ -1,0 +1,10 @@
+name: Battuta
+slug: battuta
+description: Country Region City. Country Region City
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://battuta.medunes.net

@@ -1,0 +1,14 @@
+name: BlockScore
+slug: blockscore
+description: A real-time API for verifying an identity by name, address, date of birth, and social security number
+categories:
+  - Authentication & User Management
+  - Payments
+  - Commerce
+  - Validation & Verification
+  - Security
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.blockscore.com/

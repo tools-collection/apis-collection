@@ -1,0 +1,58 @@
+name: Gracenote
+slug: gracenote
+description: Largest source of music and video metadata on the planet. Gracenote is the leader in entertainment
+  metadata, helping people connect to the music, TV shows, movies and sports they love across the world’s most popular
+  entertainment platforms and devices, from Apple to Amazon to Comcast and Ford
+categories:
+  - Images & Photography
+  - Music & Audio
+  - Video & Media
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gracenote/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.gracenote.com/
+libraries:
+  - name: MusicApiCollection C# SDK by BigGranu
+    documentation_url: https://github.com/BigGranu/MusicApiCollection
+    platform: C#
+    author: BigGranu
+    stargazers_count: 15
+  - name: Gracenote Android Mobile Client SDK by Gracenote
+    documentation_url: https://developer.gracenote.com/mobile-client
+    source_code_url: https://developer.gracenote.com/mobile-client-barebones-android-intro
+    platform: Java
+  - name: Gracenote Python SDK by Leaf Music
+    documentation_url: https://developer.gracenote.com/web-api#wrappers
+    source_code_url: https://github.com/leaffm/pygn-appengine
+    platform: Python
+    stargazers_count: 7
+  - name: Gracenote PHP SDK by Rich Adams
+    documentation_url: https://github.com/richadams/php-gracenote
+    platform: PHP
+    author: richadams
+    stargazers_count: 39
+  - name: Gracenote Java SDK by Rich Adams
+    documentation_url: https://github.com/richadams/java-gracenote
+    platform: Java
+    author: richadams
+    stargazers_count: 29
+  - name: Gracenote Ruby SDK by Vignesh
+    documentation_url: https://github.com/nobelium/gracenote
+    platform: Ruby
+    author: nobelium
+    stargazers_count: 17
+  - name: Gracenote ColdFusion SDK by Matthew Abbott
+    documentation_url: https://github.com/abbottmw/GracenoteAPI
+    platform: ColdFusion
+    author: abbottmw
+    stargazers_count: 2
+  - name: " Gracenote Node.js SDK by Dominik Danninger"
+    documentation_url: https://github.com/ddanninger/node-gracenote
+    platform: Node.js
+    author: ddanninger
+    stargazers_count: 58
+  - name: " Gracenote C# SDK by Jon Veesam"
+    documentation_url: https://www.nuget.org/packages/ParkSquare.Gracenote/
+    platform: C#

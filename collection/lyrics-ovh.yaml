@@ -1,0 +1,10 @@
+name: Lyrics.ovh
+slug: lyrics-ovh
+description: A place where APIs are kept. A place where APIs are kept
+categories:
+  - Music & Audio
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://docs.lyricsovh.apiary.io/

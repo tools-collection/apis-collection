@@ -1,0 +1,30 @@
+name: Travis CI
+slug: travis-ci
+description: If you’re new to the Travis CI API, you should be using API V3. The API V2 described on this page will be
+  deprecated so. Overview API V3 Our most recent API is V3, which is has its own API Explorer
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.travis-ci.com/api/
+libraries:
+  - name: Travis CI Elixir SDK by Hugo Duksis
+    documentation_url: https://github.com/duksis/travis_ex
+    platform: Elixir
+    author: duksis
+    stargazers_count: 0
+  - name: Travis CI Python SDK by Fabio Menegazzo
+    documentation_url: https://github.com/menegazzo/travispy
+    platform: Python
+    author: menegazzo
+    stargazers_count: 74
+  - name: Travis CI Ruby SDK
+    documentation_url: https://github.com/travis-ci/travis.rb
+    platform: Ruby
+    stargazers_count: 1547
+  - name: Travis CI Ember Web JavaScript SDK
+    documentation_url: https://github.com/travis-ci/travis-web
+    platform: JavaScript
+    stargazers_count: 585

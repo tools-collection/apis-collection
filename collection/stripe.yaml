@@ -1,0 +1,108 @@
+name: Stripe
+slug: stripe
+description: Stripe's API. Payments, Billing, Business financing, Spend management, Fraud & risk management etc
+categories:
+  - Commerce
+  - Payments
+  - Finance & Economics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://stripe.com/docs/api
+libraries:
+  - name: Stripe Android SDK
+    documentation_url: https://stripe.com/docs/libraries
+    source_code_url: https://stripe.com/docs/mobile/android
+    platform: Java
+  - name: tools-sales-ops PHP SDK by Revolve Robotics
+    documentation_url: https://github.com/revolverobotics/tools-sales-ops
+    platform: PHP
+    stargazers_count: 0
+  - name: Stripe iOS SDK by Stripe
+    documentation_url: https://github.com/stripe/stripe-ios
+    platform: Objective-C
+    stargazers_count: 1369
+  - name: Stripe NodeJS SDK by Xavier Carpentier
+    documentation_url: https://www.npmjs.com/package/react-native-stripe-api
+    platform: Node.js
+  - name: Stripe PHP SDK by Joe Linn
+    documentation_url: https://github.com/jlinn/stripe-api-php
+    platform: PHP
+    author: jlinn
+    stargazers_count: 83
+  - name: Stripe Perl Library by Al Newkirk
+    documentation_url: https://metacpan.org/release/API-Stripe
+    source_code_url: https://github.com/alnewkirk/API-Stripe
+    platform: PERL
+  - name: Stripe Haskell Library by David Johnson
+    documentation_url: http://hackage.haskell.org/package/stripe-haskell
+    source_code_url: https://github.com/dmjio/stripe
+    platform: Haskell
+    author: dmjio
+    stargazers_count: 148
+  - name: Stripe .NET Library by ServiceStack
+    documentation_url: https://github.com/ServiceStack/Stripe/blob/master/README.md
+    source_code_url: https://github.com/ServiceStack/Stripe
+    platform: .Net, C++
+    stargazers_count: 191
+  - name: Stripe .NET Library by Jayme Davis
+    documentation_url: https://github.com/jaymedavis/stripe.net/blob/master/readme.md
+    source_code_url: https://github.com/jaymedavis/stripe.net
+    platform: .Net, C++
+    author: jaymedavis
+    stargazers_count: 3
+  - name: Stripe Xamarin C++ Library by Xamarin
+    documentation_url: https://github.com/xamarin/XamarinStripe
+    platform: C++
+    stargazers_count: 133
+  - name: Stripe PHP Library by Cartalyst
+    documentation_url: https://cartalyst.com/manual/stripe/1.0
+    platform: PHP
+  - name: Stripe OAuth2 PHP Library by Oliver Nassar
+    documentation_url: https://github.com/onassar/PHP-StripeOAuth/blob/master/README.md
+    source_code_url: https://github.com/onassar/PHP-StripeOAuth
+    platform: PHP
+    author: onassar
+    stargazers_count: 44
+  - name: "Stripe PHP Library by Laravel Cashier "
+    documentation_url: http://laravel.com/docs/4.2/billing
+    platform: PHP
+  - name: Stripe Kohana PHP Library by Kohana
+    documentation_url: https://github.com/jnbdz/kohana-stripe/blob/master/README.md
+    source_code_url: https://github.com/jnbdz/kohana-stripe
+    platform: PHP
+    author: jnbdz
+    stargazers_count: 4
+  - name: Stripe CakePHP-StripeComponent-Plugin Library by Chronon
+    documentation_url: https://github.com/chronon/CakePHP-StripeComponent-Plugin/blob/master/README.markdown
+    source_code_url: https://github.com/chronon/CakePHP-StripeComponent-Plugin
+    platform: PHP
+    author: chronon
+    stargazers_count: 43
+  - name: Stripe CakePHP Plugin Library by Jeremy Harris
+    documentation_url: https://github.com/jeremyharris/stripe/blob/master/README.md
+    source_code_url: https://github.com/jeremyharris/stripe
+    platform: PHP
+    author: jeremyharris
+    stargazers_count: 40
+  - name: Stripe Payola Ruby Library by Peter Keen
+    documentation_url: https://www.payola.io/
+    source_code_url: https://github.com/peterkeen/payola
+    platform: Ruby
+    stargazers_count: 831
+  - name: Stripe Node.js Library by Stripe
+    documentation_url: https://stripe.com/docs/api/node#intro
+    platform: Node.js
+  - name: Stripe Java Library by Stripe
+    documentation_url: https://stripe.com/docs/api/java
+    platform: Java
+  - name: Stripe API PHP Library by Stripe
+    documentation_url: https://stripe.com/docs/api/php#intro
+    platform: PHP
+  - name: Stripe API Ruby Library by Stripe
+    documentation_url: https://stripe.com/docs/api/ruby
+    platform: Ruby
+  - name: Stripe API Python Library by Stripe
+    documentation_url: https://stripe.com/docs/api/python#intro
+    platform: Python

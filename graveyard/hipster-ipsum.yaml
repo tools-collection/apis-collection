@@ -1,0 +1,12 @@
+name: Hipster Ipsum
+slug: hipster-ipsum
+description: Generates Hipster Ipsum text
+categories:
+  - Testing
+  - Random
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hipster-ipsum/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://hipsterjesus.com

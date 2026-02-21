@@ -1,0 +1,10 @@
+name: Postman
+slug: postman
+description: The Postman API allows you to programmatically access data stored in Postman account with ease.
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.api.getpostman.com/

@@ -1,0 +1,11 @@
+name: Adorable Avatars
+slug: adorable-avatars
+description: Generate random cartoon avatars
+categories:
+  - Testing
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/adorable-avatars/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://avatars.adorable.io

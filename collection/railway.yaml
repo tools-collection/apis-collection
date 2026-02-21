@@ -1,0 +1,12 @@
+name: Railway
+slug: railway
+description: Railway's API enables programmatic management of projects, services, deployments, and environments on the Railway cloud platform.
+categories:
+  - Development
+type: GraphQL
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.railway.app
+  - name: API Reference
+    url: https://docs.railway.app/reference/public-api

@@ -1,0 +1,10 @@
+name: Georgia
+slug: georgia
+description: Central bank of Georgia
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://nbg.gov.ge/api.html

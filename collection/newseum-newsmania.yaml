@@ -1,0 +1,10 @@
+name: Newseum NewsMania
+slug: newseum-newsmania
+description: Gives you access to 1000s of Trivia questions. Your browser will redirect to your requested content
+  shortly. This process is automatic. Please allow
+categories:
+  - Games
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.newseum.org/newsmania/

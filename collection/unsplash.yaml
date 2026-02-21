@@ -1,0 +1,119 @@
+name: Unsplash
+slug: unsplash
+description: but for photos. Lorem Ipsum. Lorem Ipsum
+categories:
+  - Development
+  - Images & Photography
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/unsplash/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://unsplash.it/
+libraries:
+  - name: Unsplash Python SDK by salvoventura
+    documentation_url: https://github.com/salvoventura/pyunsplash
+    platform: Python
+    author: salvoventura
+    stargazers_count: 30
+  - name: Unsplash Android SDK by Jaleel Akbash
+    documentation_url: https://github.com/akbashev/KotSplash
+    platform: Java, Kotlin
+  - name: Unsplash Ruby SDK by Felipe Luiz Soares
+    documentation_url: https://github.com/felipesoares6/UnplashPhotosAPI
+    platform: Ruby
+    author: felipesoares6
+    stargazers_count: 0
+  - name: Unsplash Swift SDK by Pintumo
+    documentation_url: https://github.com/Pintumo/PNTMUnsplash
+    platform: Swift
+    stargazers_count: 0
+  - name: Unsplash Node.js SDK by Fabian Lauer
+    documentation_url: https://github.com/FabianLauer/unsplash-json
+    platform: Node.js
+    author: FabianLauer
+    stargazers_count: 1
+  - name: Unsplash PHP SDK by taduuda
+    documentation_url: https://github.com/taduuda/unsplash-php
+    platform: PHP
+    author: cetteup
+    stargazers_count: 0
+  - name: Unsplash Node.js SDK by Andrew Zhang
+    documentation_url: https://github.com/zhangmhao/node-unsplash
+    platform: Node.js
+    author: walkdoer
+    stargazers_count: 0
+  - name: Unsplash PHP SDK by Owen Voke
+    documentation_url: https://github.com/PXgamer/splas-php
+    platform: PHP
+    author: owenvoke
+    stargazers_count: 2
+  - name: Unsplash Java SDK by rye761
+    documentation_url: https://github.com/rye761/unsplash-java-unofficial
+    platform: Java
+    author: rye761
+    stargazers_count: 7
+  - name: Unsplash Go SDK by hardikbagdi
+    documentation_url: https://github.com/hardikbagdi/go-unsplash
+    platform: Go
+    author: hbagdi
+    stargazers_count: 34
+  - name: Unsplash JavaScript SDK by Malik Nurmatov
+    documentation_url: https://github.com/maliknurmatov/unsplashify
+    platform: JavaScript
+    author: maliknurmatov
+    stargazers_count: 0
+  - name: Unsplash Python SDK by Yakup Adaklı
+    documentation_url: https://github.com/yakupadakli/python-unsplash
+    platform: Python
+    author: yakupadakli
+    stargazers_count: 94
+  - name: Unsplash Elixir SDK by Wayne Hoover
+    documentation_url: https://github.com/waynehoover/unsplash-elixir
+    platform: Elixir
+    author: waynehoover
+    stargazers_count: 13
+  - name: Unsplash Android SDK by Keenen Charles
+    documentation_url: https://github.com/KeenenCharles/AndroidUnplash
+    platform: Java
+    author: KeenenCharles
+    stargazers_count: 81
+  - name: Unsplash Swift SDK by Camden Fullmer
+    documentation_url: https://github.com/camdenfullmer/unsplash-swift
+    platform: Swift
+  - name: Unsplash Python SDK by Tzahi Vidas
+    documentation_url: https://github.com/kazuar/unsplash
+    platform: Python
+    author: kazuar
+    stargazers_count: 0
+  - name: Unsplash Swift SDK by Willow Graysen
+    documentation_url: https://github.com/istx25/Unsplash
+    platform: Swift
+  - name: Unsplash PHP SDK by Unsplash
+    documentation_url: https://github.com/unsplash/unsplash-php
+    platform: PHP
+    stargazers_count: 331
+  - name: Unsplash Ruby SDK by Unsplash
+    documentation_url: https://github.com/unsplash/unsplash_rb
+    platform: Ruby
+    stargazers_count: 201
+  - name: Unsplash iOS SDK by Don Bytyqi
+    documentation_url: https://github.com/donbytyqi/Papers
+    platform: Swift
+    author: donbytyqi
+    stargazers_count: 0
+  - name: Unsplash Python SDK by Michael Hacker
+    documentation_url: https://github.com/michael-hacker/unsplash-python
+    platform: Python
+  - name: Unsplash Swift SDK by Caramba
+    documentation_url: https://github.com/carambalabs/UnsplashKit
+    platform: Swift
+    stargazers_count: 183
+  - name: " Unsplash JavaScript SDK by Unsplash"
+    documentation_url: https://github.com/unsplash/unsplash-js
+    platform: JavaScript
+    stargazers_count: 1481
+  - name: Unsplash PHP SDK by Crew
+    documentation_url: https://github.com/CrewLabs/Unsplash-PHP
+    platform: PHP
+    stargazers_count: 331

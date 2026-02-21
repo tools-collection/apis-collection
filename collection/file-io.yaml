@@ -1,0 +1,10 @@
+name: File.io
+slug: file-io
+description: Ephemeral file sharing. Convenient, anonymous and secure.
+categories:
+  - Documents & Productivity
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.file.io

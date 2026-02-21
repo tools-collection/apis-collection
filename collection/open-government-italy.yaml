@@ -1,0 +1,11 @@
+name: Open Government, Italy
+slug: open-government-italy
+description: dati. gov. it Il Portale dati. it, gestitodall’Agenzia per l’Italia digitale, è il catalogo nazionale dei
+  metadati relativi ai dati rilasciati in formato aperto dalle pubbliche amministrazioni it
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.dati.gov.it/

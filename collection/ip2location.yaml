@@ -1,0 +1,27 @@
+name: IP2Location
+slug: ip2location
+description: IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone,
+  Area Code, Mobile Data, Usage Type, Elevation and so on
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ip2location/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.ip2location.com/web-service/ip2location
+libraries:
+  - name: IP2Location Python SDK
+    documentation_url: https://www.ip2location.com/developers/python
+    source_code_url: https://github.com/chrislim2888/IP2Location-Python
+    platform: Python
+    author: chrislim2888
+    stargazers_count: 72
+  - name: IP2Proxy PHP SDK
+    documentation_url: https://www.ip2location.com/ip2proxy/developers/php-api
+    source_code_url: https://github.com/ip2location/ip2proxy-php-api
+    platform: PHP
+    author: ip2location
+    stargazers_count: 3
+  - name: IP2Location Ruby Library
+    documentation_url: https://github.com/ezkl/ip2location

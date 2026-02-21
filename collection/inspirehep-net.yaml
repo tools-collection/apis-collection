@@ -1,0 +1,11 @@
+name: inspirehep.net
+slug: inspirehep-net
+description: "INSPIRE API Q: I want to do automated searching and receive machine readable responses. Do you have an
+  API? A: YES, Inspire has a feature-rich programmatic query interface for third party tools and"
+categories:
+  - Science & Math
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://inspirehep.net/info/hep/api?ln=en

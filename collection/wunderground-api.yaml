@@ -1,0 +1,10 @@
+name: Wunderground API
+slug: wunderground-api
+description: Reliable data, accurate forecast, & global coverage in 80 languages
+categories:
+  - Weather
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.wunderground.com/weather/api/

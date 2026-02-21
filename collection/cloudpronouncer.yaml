@@ -1,0 +1,15 @@
+name: Cloudpronouncer
+slug: cloudpronouncer
+description: "Text To Speech API. CloudPronouncer (tts online or tts reader) is a cross browsers REST API supporting 255
+  Standard and Premium Voices in 42 languages including variants (the list is growing in time) and it may be used by any
+  device that can connect to Internet and send the POST requests to our API as instructed in this website: smartphones,
+  tablets, laptops, PC Desktops, other smart devices. It uses cloud infrastructure and artificial intelligence to solve
+  the requests."
+categories:
+  - IoT & Home Automation
+  - Voice
+  - AI & ML
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.de-vis-software.ro/text-to-speech-api.aspx

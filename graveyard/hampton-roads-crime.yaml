@@ -1,0 +1,12 @@
+name: Hampton Roads Crime
+slug: hampton-roads-crime
+description: Let’s you get most recent and historical crime data so you feel safe in your neighbourhood
+categories:
+  - Statistics & Data
+  - News & Feeds
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hampton-roads-crime/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://labs.hamptonroads.com/api/crime/

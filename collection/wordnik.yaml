@@ -1,0 +1,33 @@
+name: Wordnik
+slug: wordnik
+description: The Wordnik API Docs. Dictionary functions
+categories:
+  - Text Analysis & Tools
+  - Content & Dictionaries
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wordnik/logo_256x256.png
+contact: contact@wordassociations.net
+links:
+  - name: Docs / Website
+    url: http://developer.wordnik.com/docs.html#!/word
+libraries:
+  - name: Wordnik Scala SDK by Wordnik
+    documentation_url: https://github.com/wordnik/wordnik-clients/tree/master/scala
+    platform: Scala
+    stargazers_count: 7
+  - name: Wordnik PHP SDK by Wordnik
+    documentation_url: https://github.com/wordnik/wordnik-clients/tree/master/php
+    platform: PHP
+    stargazers_count: 7
+  - name: Wordnik Objective-C SDK by Wordnik
+    documentation_url: https://github.com/wordnik/wordnik-clients/tree/master/objc/
+    platform: Objective-C
+    stargazers_count: 7
+  - name: Wordnik Java SDK by Wordnik
+    documentation_url: https://github.com/wordnik/wordnik-clients/tree/master/java
+    platform: Java
+    stargazers_count: 7
+  - name: Wordnik's Library Page
+    documentation_url: http://developer.wordnik.com/libraries
+    platform: .Net, Java, Objective-C, PHP, Python, Ruby

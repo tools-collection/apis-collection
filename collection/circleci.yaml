@@ -1,0 +1,141 @@
+name: CircleCI
+slug: circleci
+description: CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all
+  actions in CircleCI.
+categories:
+  - Testing
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://circleci.com/docs/api/v1-reference/
+libraries:
+  - name: CircleCI Go SDK by Alec Holmes
+    documentation_url: https://github.com/alecholmez/GoDash
+    platform: Go
+    author: alecholmez
+    stargazers_count: 0
+  - name: CircleCI JavaScript SDK by Divya
+    documentation_url: https://github.com/shortdiv/circle-cli
+    platform: JavaScript
+    author: shortdiv
+    stargazers_count: 0
+  - name: CircleCI Ruby SDK by Alex Kalinin
+    documentation_url: https://github.com/AlexKalinin/circle-ci-rspec-downloader
+    platform: Ruby
+    author: AlexKalinin
+    stargazers_count: 0
+  - name: CircleCI Flask Python SDK by Matthew F Johnson
+    documentation_url: https://github.com/trips2821/flask-api
+    platform: Python
+    author: trips2821
+    stargazers_count: 0
+  - name: CircleCI Go SDK by Josh Komoroske
+    documentation_url: https://github.com/joshdk/circleci-go
+    platform: Go
+    author: joshdk
+    stargazers_count: 1
+  - name: CircleCI Go SDK by Ryan Lower
+    documentation_url: https://github.com/ryanlower/go-circleci
+    platform: Go
+    author: ryanlower
+    stargazers_count: 1
+  - name: CircleCI Ruby SDK by Hiroyuki Takamura
+    documentation_url: https://github.com/yukimura1227/circleci_trimmer
+    platform: Ruby
+    author: yukimura1227
+    stargazers_count: 0
+  - name: CircleCI Elixir SDK by Yann VERY
+    documentation_url: https://hexdocs.pm/circler/api-reference.html
+    source_code_url: https://github.com/yannvery/circler
+    platform: Elixir
+    author: yannvery
+    stargazers_count: 0
+  - name: CircleCI Go SDK by Phil Morgan
+    documentation_url: https://github.com/psmorgan/go-circleci-api
+    platform: Go
+    author: psmorgan
+    stargazers_count: 0
+  - name: CircleCI Go SDK by Chavez
+    documentation_url: https://github.com/mtchavez/circlecigo
+    platform: Go
+    author: mtchavez
+    stargazers_count: 0
+  - name: CircleCI TypeScript SDK by Jordon de Hoog
+    documentation_url: https://github.com/jordond/circleci-api
+    source_code_url: https://www.npmjs.com/package/circleci-api
+    platform: Unspecified
+    stargazers_count: 15
+  - name: CircleCI Ruby SDK by Les Aker
+    documentation_url: https://github.com/akerl/circular
+    source_code_url: https://rubygems.org/gems/circular
+    platform: Ruby
+    author: akerl
+    stargazers_count: 1
+  - name: CircleCI Clojure SDK by Daniel Gregoire
+    documentation_url: https://github.com/semperos/cci
+    platform: Clojure
+    author: semperos
+    stargazers_count: 2
+  - name: CircleCI Clojure SDK by Reid D McKenzie
+    documentation_url: https://github.com/arrdem/circleci.api
+    platform: Clojure
+    author: arrdem
+    stargazers_count: 0
+  - name: CircleCI Tapioca Python SDK by George Kussumoto
+    documentation_url: https://github.com/georgeyk/tapioca-circleci
+    platform: Python
+    author: georgeyk
+    stargazers_count: 0
+  - name: CircleCI JavaScript SDK by Rafael Schettino
+    documentation_url: https://github.com/rcschettino/circleci-rest-sdk
+    platform: JavaScript
+  - name: CircleCI Elixir SDK by Justin Schneck
+    documentation_url: https://github.com/mobileoverlord/circleci
+    source_code_url: https://hex.pm/packages/circle_ci
+    platform: Elixir
+    author: mobileoverlord
+    stargazers_count: 1
+  - name: CircleCI Go SDK by Betacraft
+    documentation_url: https://github.com/betacraft/circleci
+    platform: Go
+    stargazers_count: 0
+  - name: CircleCI Kotlin SDK by Yuji Ueki
+    documentation_url: https://github.com/unhappychoice/CircleCI
+    source_code_url: https://jitpack.io/#unhappychoice/circleci
+    platform: Kotlin
+    author: unhappychoice
+    stargazers_count: 2
+  - name: CircleCI Python SDK by Harper Reed
+    documentation_url: https://github.com/harperreed/simple-circleci
+    platform: Python
+    author: harperreed
+    stargazers_count: 3
+  - name: CircleCI Haskell SDK by Denis Shevchenko
+    documentation_url: https://github.com/denisshevchenko/circlehs
+    source_code_url: http://hackage.haskell.org/package/circlehs
+    platform: Haskell
+    author: denisshevchenko
+    stargazers_count: 11
+  - name: CircleCI Python SDK by Lev Lazinskiy
+    documentation_url: https://github.com/levlaz/circleci.py
+    source_code_url: https://pypi.org/project/circleci/1.1.1/
+    platform: Python
+    author: levlaz
+    stargazers_count: 48
+  - name: CircleCI Go SDK by Jesse Szwedko
+    documentation_url: https://github.com/jszwedko/circleci-cli
+    platform: Go
+    author: jszwedko
+    stargazers_count: 65
+  - name: CircleCI NodeJS SDK by Lei Pan
+    documentation_url: https://github.com/superpan/node-circleci
+    platform: Node.js
+    author: superpan
+    stargazers_count: 0
+  - name: CircleCI JavaScript SDK by Koujirou Ishii
+    documentation_url: https://github.com/kjirou/torus
+    platform: JavaScript
+    author: kjirou
+    stargazers_count: 0

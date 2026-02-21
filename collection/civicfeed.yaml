@@ -1,0 +1,12 @@
+name: CivicFeed
+slug: civicfeed
+description: Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers
+categories:
+  - News & Feeds
+  - Video & Media
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/civicfeed/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.civicfeed.com/

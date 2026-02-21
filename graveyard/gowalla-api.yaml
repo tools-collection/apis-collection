@@ -1,0 +1,12 @@
+name: Gowalla API
+slug: gowalla-api
+description: Gather and compare all kinds of interesting data, they weren't really interactive with Gowalla itself
+categories:
+  - Maps & Geo
+  - Social
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gowalla-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://go.gowalla.com/

@@ -1,0 +1,41 @@
+name: BlockCypher
+slug: blockcypher
+description: Build blockchain applications easily with our web APIs and callbacks. High throughputs, linear scaling,
+  low-latency. BlockCypher is the infrastructure fabric for blockchain applications
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.blockcypher.com/
+libraries:
+  - name: BlockCypher .Net SDK by Boris Scheiman
+    documentation_url: https://github.com/bscheiman/BlockCypher
+    platform: .Net
+    author: bscheiman
+    stargazers_count: 20
+  - name: BlockCypher Node.js SDK by BlockCypher
+    documentation_url: https://github.com/blockcypher/node-client
+    platform: Node.js
+    stargazers_count: 94
+  - name: BlockCypher Go SDK by BlockCypher
+    documentation_url: https://github.com/blockcypher/gobcy
+    platform: Go
+    stargazers_count: 61
+  - name: BlockCypher PHP SDK by BlockCypher
+    documentation_url: https://github.com/blockcypher/php-client
+    platform: PHP
+    stargazers_count: 52
+  - name: BlockCypher Java SDK by BlockCypher
+    documentation_url: https://github.com/blockcypher/java-client
+    platform: Java
+    stargazers_count: 46
+  - name: BlockCypher Python SDK by BlockCypher
+    documentation_url: https://github.com/blockcypher/blockcypher-python
+    platform: Python
+    stargazers_count: 223
+  - name: BlockCypher Ruby SDK by BlockCypher
+    documentation_url: https://github.com/blockcypher/ruby-client
+    platform: Ruby
+    stargazers_count: 47

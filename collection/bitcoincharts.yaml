@@ -1,0 +1,12 @@
+name: Bitcoincharts
+slug: bitcoincharts
+description: You can use this API to include markets data in your websites, mobile apps or desktop applets.
+  Bitcoincharts is the world's leading provider for financial and technical data related to the Bitcoin network. It
+  provides news, markets, price charts and more
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://bitcoincharts.com/about/markets-api/

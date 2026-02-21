@@ -1,0 +1,10 @@
+name: Bored
+slug: bored
+description: Find random activities to fight boredom
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.boredapi.com/

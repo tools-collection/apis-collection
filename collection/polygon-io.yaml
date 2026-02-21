@@ -1,0 +1,12 @@
+name: Polygon.io
+slug: polygon-io
+description: Polygon.io provides real-time and historical stock, options, forex, and crypto market data. Access aggregates, trades, quotes, financials, and news via REST and WebSocket APIs.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://polygon.io/docs
+  - name: API Reference
+    url: https://polygon.io/docs/stocks/getting-started

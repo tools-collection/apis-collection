@@ -1,0 +1,22 @@
+name: Screenshot Machine
+slug: screenshot-machine
+description: Free screenshot api for capturing web pages. Let our website screenshot generator and gifted robots take
+  your webpage screenshot!
+categories:
+  - Scrapers & Data Mining
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.screenshotmachine.com
+libraries:
+  - name: ScreenshotMachine Node SDK by Kevin Moritz
+    documentation_url: https://github.com/mayorbyrne/node-screenshot-machine/blob/master/README.md
+    source_code_url: https://github.com/mayorbyrne/node-screenshot-machine
+    platform: Node.js
+    author: mayorbyrne
+    stargazers_count: 2
+  - name: ScreenshotMachine Ruby SDK by Tupalo
+    documentation_url: https://github.com/tupalo/screenshot_machine/blob/master/README.md
+    source_code_url: https://github.com/tupalo/screenshot_machine
+    platform: Ruby
+    stargazers_count: 2

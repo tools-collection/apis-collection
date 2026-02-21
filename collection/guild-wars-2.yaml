@@ -1,0 +1,77 @@
+name: Guild Wars 2
+slug: guild-wars-2
+description: The current version of the API. The Guild Wars 2 API (application programming interface) is an interface
+  that enables third-party applications to access data directly from the Guild Wars 2 servers
+categories:
+  - Games
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://wiki.guildwars2.com/wiki/API:Main
+libraries:
+  - name: Guild Wars 2 .Net
+    documentation_url: https://gw2dotnet.codeplex.com/
+    platform: .Net
+  - name: Guild Wars 2 PHP SDK
+    documentation_url: https://forum-en.guildwars2.com/forum/community/api/PHP-SDK
+    source_code_url: https://github.com/defunctl/Gw2-SDK
+    platform: PHP
+    author: defunctl
+    stargazers_count: 5
+  - name: gw2 Ruby Gem
+    documentation_url: https://rubygems.org/gems/gw2
+    source_code_url: https://github.com/parix/gw2
+    platform: Ruby
+    author: parix
+    stargazers_count: 7
+  - name: rgw2 Ruby Guild Wars 2
+    documentation_url: https://github.com/koshrf/rgw2
+    platform: Ruby
+    author: koshrf
+    stargazers_count: 1
+  - name: GuildWars2API Python
+    documentation_url: https://github.com/ngenator/guildwars2api/
+    platform: Python
+    author: ngenator
+    stargazers_count: 6
+  - name: python-guildwars2
+    documentation_url: https://github.com/jstraw/python-guildwars2
+    platform: Python
+    author: jstraw
+    stargazers_count: 3
+  - name: GW2api Python
+    documentation_url: https://github.com/mocnik/gw2api/tree/v0.1
+    platform: Python
+    author: mocnik
+    stargazers_count: 7
+  - name: Php-Gw2-Api
+    documentation_url: https://github.com/jamesmcfadden/Php-Gw2-Api
+    platform: PHP
+    author: mcfdn
+    stargazers_count: 6
+  - name: jQuery GuildWars2 tooltip
+    documentation_url: https://github.com/Aziz-JH/jquery-GuildWars2-tooltip
+    platform: JavaScript
+  - name: gw2-js-api-wrapper
+    documentation_url: https://github.com/JasonKaz/gw2-js-api-wrapper
+    platform: JavaScript
+    author: JasonKaz
+    stargazers_count: 3
+  - name: GW2NodeLib
+    documentation_url: https://github.com/TimeBomb/GW2NodeLib
+    platform: JavaScript
+    author: TimeBomb
+    stargazers_count: 5
+  - name: gw2api
+    documentation_url: https://code.google.com/p/gw2api/
+    platform: Java
+  - name: GwSharp
+    documentation_url: https://github.com/Rohansi/GwSharp
+    platform: C#
+    author: Rohansi
+    stargazers_count: 8
+  - name: Guild Wars 2 API C/C++ Library Project
+    documentation_url: https://gw2apicpp.codeplex.com/
+    platform: C, C++

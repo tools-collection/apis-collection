@@ -1,0 +1,144 @@
+name: Spotify
+slug: spotify
+description: Let’s you search and lookup metadata about artists, tracks and albums. Spotify’s Web API lets your
+  applications fetch data from the Spotify music catalog, manage users' playlists and saved music, get recommendations,
+  control Spotify Connect, and more. Simply put, your app receives Spotify content through the Spotify Web API
+categories:
+  - Music & Audio
+  - Scrapers & Data Mining
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spotify/logo_256x256.png
+contact: admin@spinbot.net
+links:
+  - name: Docs / Website
+    url: https://developer.spotify.com/documentation/web-api/
+libraries:
+  - name: lizz C++ SDK by bx5a
+    documentation_url: https://github.com/bx5a/lizz
+    platform: C++
+    author: bx5a
+    stargazers_count: 0
+  - name: Discogs Loves Spotify PHP SDK by Lukas Juhas
+    documentation_url: https://github.com/lukasjuhas/discogs-loves-spotify
+    platform: PHP
+    author: lukasjuhas
+    stargazers_count: 0
+  - name: Media Now JavaScript SDK by internet4000
+    documentation_url: https://github.com/internet4000/media-now
+    platform: JavaScript, Node.js
+    stargazers_count: 9
+  - name: Festival Search Engine JavaScript SDK by Steven Liatti
+    documentation_url: https://github.com/steenput/FestivalSearchEngine
+    platform: JavaScript
+    author: stevenliatti
+    stargazers_count: 1
+  - name: Spotify Web Playback JavaScript SDK
+    documentation_url: https://beta.developer.spotify.com/documentation/web-playback-sdk/
+    platform: JavaScript
+  - name: Spotify iOS App Remote SDK
+    documentation_url: https://beta.developer.spotify.com/documentation/ios-app-remote/
+    platform: Objective-C
+  - name: Spotify Android App Remote SDK
+    documentation_url: https://beta.developer.spotify.com/documentation/android-app-remote/
+    platform: Java
+  - name: Spotifind NodeJS SDK by Pedro Otero Prada
+    documentation_url: https://github.com/pedro-otero/spotifind
+    source_code_url: https://www.npmjs.com/package/spotifind
+    platform: Node.js
+    author: pedro-otero
+    stargazers_count: 0
+  - name: Spotify NodeJS SDK by Christian Eckenrode
+    documentation_url: https://github.com/ceckenrode/node-spotify-api/blob/master/README.md
+    source_code_url: https://github.com/ceckenrode/node-spotify-api
+    platform: Node.js
+    author: ceckenrode
+    stargazers_count: 22
+  - name: Spotify Web JavaScript SDK by José Manuel Pérez
+    documentation_url: https://github.com/JMPerez/spotify-web-api-js
+    platform: JavaScript
+    author: JMPerez
+    stargazers_count: 1289
+  - name: Spotify Java SDK by Siegenthaler Solutions
+    documentation_url: https://github.com/SiegenthalerSolutions/spotify-web-api-android
+    platform: Java
+    stargazers_count: 11
+  - name: Spotify NodeJS SDK by Michael Thelin
+    documentation_url: https://github.com/thelinmichael/spotify-web-api-node
+    platform: Node.js
+    author: thelinmichael
+    stargazers_count: 1934
+  - name: Spotify Java SDK by Michael Thelin
+    documentation_url: https://github.com/thelinmichael/spotify-web-api-java
+    platform: Java
+    author: thelinmichael
+    stargazers_count: 543
+  - name: Spotify Perl SDK by Spotify Perl SDK by trs-80
+    documentation_url: https://github.com/trs-80/WWW-Spotify
+    platform: PERL
+    author: trs-80
+    stargazers_count: 3
+  - name: Spotify Perl SDK by Nick Langridge
+    documentation_url: https://github.com/nicklangridge/WebService-Spotify
+    platform: PERL
+    author: nicklangridge
+    stargazers_count: 5
+  - name: Spotify Elixir SDK by Jason Cummings
+    documentation_url: https://github.com/jsncmgs1/spotify_ex
+    platform: Elixir
+    author: jsncmgs1
+    stargazers_count: 109
+  - name: Spotify Go SDK by Zac Bergquist
+    documentation_url: https://github.com/zmb3/spotify
+    platform: Go
+    author: zmb3
+    stargazers_count: 671
+  - name: Spotify Clojure SDK by Kalle Bromstrom
+    documentation_url: https://github.com/blmstrm/clj-spotify
+    platform: Clojure
+    author: blmstrm
+    stargazers_count: 59
+  - name: Spotify .NET SDK by Jonas Dellinger
+    documentation_url: https://github.com/JohnnyCrazy/SpotifyAPI-NET
+    platform: .Net, C#
+    author: JohnnyCrazy
+    stargazers_count: 861
+  - name: Spotify Ruby SDK by Guilherme Sad
+    documentation_url: https://github.com/guilhermesad/rspotify
+    platform: Ruby
+    author: guilhermesad
+    stargazers_count: 569
+  - name: Spotify Ruby SDK by iCore Tech
+    documentation_url: https://github.com/icoretech/spotify-client
+    platform: Ruby
+    stargazers_count: 76
+  - name: Spotify PHP SDK by Jonjo McKay
+    documentation_url: https://github.com/jonjomckay/spotify-web-api
+    platform: PHP
+    author: jonjomckay
+    stargazers_count: 53
+  - name: Spotify Python SDK by Paul Lamere
+    documentation_url: https://github.com/plamere/spotipy
+    platform: Python
+    author: plamere
+    stargazers_count: 3040
+  - name: Spotify Meteor JavaScript SDK by Xinran Xiao
+    documentation_url: https://github.com/xinranxiao/meteor-spotify-web-api/
+    platform: JavaScript
+    author: xinranxiao
+    stargazers_count: 34
+  - name: Spotify AngularJS SDK by Ed Moore
+    documentation_url: https://github.com/eddiemoore/angular-spotify
+    platform: JavaScript
+    author: eddiemoore
+    stargazers_count: 244
+  - name: Spotify Web Android Library by Kasia
+    documentation_url: https://github.com/kaaes/spotify-web-api-android
+    platform: Java
+    author: kaaes
+    stargazers_count: 343
+  - name: Spotify Web PHP Library by Jonathan Wilsson
+    documentation_url: https://github.com/jwilsson/spotify-web-api-php
+    platform: PHP
+    author: jwilsson
+    stargazers_count: 636

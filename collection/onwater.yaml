@@ -1,0 +1,10 @@
+name: OnWater
+slug: onwater
+description: An API to determine if a point (latitude and longitude) is on water, sea, lake, river, or land
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://onwater.io/

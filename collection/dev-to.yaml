@@ -1,0 +1,13 @@
+name: DEV.to (Forem)
+slug: dev-to
+description: DEV.to's API provides access to articles, comments, users, tags, and organizations on the developer community platform. Read and publish developer content programmatically.
+categories:
+  - Development
+  - Social
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.forem.com/api
+  - name: API Reference
+    url: https://developers.forem.com/api/v1

@@ -1,0 +1,13 @@
+name: Klarna
+slug: klarna
+description: Klarna's Payments API enables buy-now-pay-later, installment plans, and direct bank payments at checkout. Integrates with e-commerce platforms for flexible consumer payment options.
+categories:
+  - Payments
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.klarna.com
+  - name: API Reference
+    url: https://docs.klarna.com/api/payments

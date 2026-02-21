@@ -1,0 +1,12 @@
+name: Utelly
+slug: utelly
+description: Check where a tv show or movie is available
+categories:
+  - Content & Dictionaries
+  - Entertainment
+  - Video & Media
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/utelly/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.utelly.com/

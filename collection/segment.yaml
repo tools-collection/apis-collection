@@ -1,0 +1,13 @@
+name: Segment
+slug: segment
+description: Segment's API is a customer data platform that collects, unifies, and routes user events to analytics, marketing, and data warehouse tools from a single source of truth.
+categories:
+  - Analytics
+  - Marketing & SEO
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://segment.com/docs/connections/sources/catalog/libraries/server/http-api
+  - name: API Reference
+    url: https://segment.com/docs/connections/sources/catalog/libraries/server/http-api

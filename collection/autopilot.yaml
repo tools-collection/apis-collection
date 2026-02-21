@@ -1,0 +1,11 @@
+name: Autopilot
+slug: autopilot
+description: The Autopilot API documentation, examples and blog for Autopilot REST API. Marketing Automation
+categories:
+  - Forms & Surveys
+  - Marketing & SEO
+  - Email & SMS
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://developers.autopilothq.com

@@ -1,0 +1,10 @@
+name: Transportation in Auckland, New Zealand
+slug: transport-for-auckland-new-zealand
+description: The Auckland Transport developer portal is a platform that exposes a diverse range of API's and transport data
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://api.at.govt.nz/

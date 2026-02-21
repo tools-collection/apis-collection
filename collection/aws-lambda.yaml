@@ -1,0 +1,12 @@
+name: AWS Lambda
+slug: aws-lambda
+description: AWS Lambda API enables invoking, managing, and configuring serverless functions. Create, update, and delete functions programmatically and integrate with other AWS services via event triggers.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.aws.amazon.com/lambda/latest/dg/API_Reference.html
+  - name: API Reference
+    url: https://docs.aws.amazon.com/lambda/latest/api/welcome.html

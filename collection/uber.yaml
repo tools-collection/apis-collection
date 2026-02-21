@@ -1,0 +1,111 @@
+name: Uber
+slug: uber
+description: Discover how the Uber API can easily enhance your app’s user experience and take your innovation further
+  with a wide range of new capabilities. Uber provides API for customizing trip experiences, requesting rides, powering
+  logistics, creating bots and so much more
+categories:
+  - Commerce
+  - Travel
+  - Transportation
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.uber.com/
+libraries:
+  - name: Uber Ride Request Android SDK by Uber
+    documentation_url: https://github.com/uber/rides-android-sdk
+    platform: Java
+    stargazers_count: 278
+  - name: Uber Ride Request iOS SDK by Uber
+    documentation_url: https://github.com/uber/rides-ios-sdk
+    platform: Objective-C
+    stargazers_count: 335
+  - name: Uber Ride Requests Java SDK by Uber
+    documentation_url: https://github.com/uber/rides-java-sdk/tree/master/sdk
+    platform: Java
+    stargazers_count: 92
+  - name: Uber Ride Requests Python SDK by Uber
+    documentation_url: https://github.com/uber/rides-python-sdk/tree/master/example
+    platform: Python
+    stargazers_count: 143
+  - name: Uber PHP SDK by APIMATIC
+    documentation_url: https://github.com/apimatic/uber-php
+    platform: PHP
+  - name: Uber Ruby SDK by Abhijeet Kalyan
+    documentation_url: https://rubygems.org/gems/uber_api/versions/0.1.2
+    platform: Ruby
+  - name: Uber Node.js SDK by Jackson Geller
+    documentation_url: https://www.npmjs.com/package/uberjs
+    platform: Node.js
+  - name: Uber Ruby SDK by Dingding Ye
+    documentation_url: https://github.com/sishen/uber-ruby
+    platform: Ruby
+    author: sishen
+    stargazers_count: 42
+  - name: Uber PHP SDK by Bas van Dorst
+    documentation_url: https://github.com/basvandorst/UberPHP
+    platform: PHP
+    author: basvandorst
+    stargazers_count: 3
+  - name: Uber Android SDK by Uber
+    documentation_url: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/android
+    platform: Java
+  - name: Uber iOS SDK by Uber
+    documentation_url: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/ios
+    source_code_url: https://github.com/uber/rides-ios-sdk
+    platform: Swift
+    stargazers_count: 335
+  - name: Uber Java SDK by Uber
+    documentation_url: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/java
+    source_code_url: https://github.com/uber/rides-java-sdk
+    platform: Java
+    stargazers_count: 92
+  - name: Uber Python SDK by Uber
+    documentation_url: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/python
+    source_code_url: https://github.com/uber/rides-python-sdk
+    platform: Python
+    stargazers_count: 143
+  - name: Uber PHP SDK by Steven Maguire
+    documentation_url: https://github.com/stevenmaguire/uber-php
+    platform: PHP
+    author: stevenmaguire
+    stargazers_count: 55
+  - name: "Uber R SDK by Andrew Collier "
+    documentation_url: https://github.com/DataWookie/ubeR
+    platform: R
+    author: datawookie
+    stargazers_count: 35
+  - name: Uber Ruby SDK by Christopher EnyTC
+    documentation_url: https://github.com/chrisenytc/uber-sdk
+    platform: Ruby
+    author: chrisenytc
+    stargazers_count: 32
+  - name: Uber Node.js SDK by Shern Shiou Tan
+    documentation_url: https://github.com/shernshiou/node-uber
+    platform: Node.js
+    author: shernshiou
+    stargazers_count: 162
+  - name: Uber SDK for .NET
+    documentation_url: https://github.com/wadewegner/uber-sdk-for-net
+    platform: .Net, C#
+    author: wadewegner
+    stargazers_count: 18
+  - name: UberKit
+    documentation_url: https://github.com/sachinkesiraju/UberKit
+    platform: Objective-C
+    author: sachinkesiraju
+    stargazers_count: 96
+  - name: uber (Ruby Gem)
+    documentation_url: https://github.com/pageandrew/uber
+    platform: Ruby
+    author: andrewpage
+    stargazers_count: 0
+  - name: Uber API for NodeJS
+    documentation_url: https://www.npmjs.org/package/uber-api
+    source_code_url: https://github.com/nathanpdaniel/uber-api
+    platform: Node.js
+    author: nathanpdaniel
+    stargazers_count: 11

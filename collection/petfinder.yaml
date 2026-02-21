@@ -1,0 +1,85 @@
+name: Petfinder
+slug: petfinder
+description: The Petfinder API (Application Programming Interface) allows you to access the Petfinder database of
+  hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations. You can use the
+  API to build your own dynamic websites or applications backed by the same data used on Petfinder.com.
+categories:
+  - Search
+  - Animals
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/petfinder/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.petfinder.com/developers/v2/docs/
+libraries:
+  - name: Petfinder Go SDK
+    documentation_url: https://github.com/petfinder-com/petfinder-go-sdk
+    platform: Go
+    stargazers_count: 4
+  - name: Petfinder PHP SDK
+    documentation_url: https://github.com/petfinder-com/petfinder-php-sdk
+    platform: PHP
+    stargazers_count: 7
+  - name: Petfinder JavaScript SDK
+    documentation_url: https://github.com/petfinder-com/petfinder-js-sdk
+    platform: JavaScript
+    stargazers_count: 33
+  - name: Petfinder Python SDK by Aaron Schlegel
+    documentation_url: https://github.com/aschleg/petpy
+    platform: Python
+    author: aschleg
+    stargazers_count: 18
+  - name: Petfinder PHP SDK by Luke Bainbridge
+    documentation_url: https://github.com/midnightLuke/petfinder-api-php
+    platform: PHP
+    author: midnightLuke
+    stargazers_count: 0
+  - name: Petfinder .NET SDK by John Price
+    documentation_url: https://github.com/pricejc/petfinder-dotnet
+    platform: .Net
+    author: pricejc
+    stargazers_count: 1
+  - name: Petfinder Node.js SDK by Angel S. Moreno
+    documentation_url: https://github.com/angelxmoreno/petfinder-promise
+    platform: Node.js
+    author: angelxmoreno
+    stargazers_count: 0
+  - name: Petfinder Ruby SDK by Pedro De Ona
+    documentation_url: https://github.com/pdeona/petfinder_wrap
+    platform: Ruby
+    author: pdeona
+    stargazers_count: 1
+  - name: Petfinder R SDK by Aaron Schlegel
+    documentation_url: https://github.com/aschleg/PetfindeR
+    platform: R
+    author: aschleg
+    stargazers_count: 3
+  - name: Petfinder PHP SDK by Salerno Labs
+    documentation_url: https://github.com/salernolabs/petfinder
+    platform: PHP
+    stargazers_count: 1
+  - name: Petfinder AngularJS SDK by Luke Schlangen
+    documentation_url: https://github.com/LukeSchlangen/angular-petfinder-api
+    platform: JavaScript
+    author: LukeSchlangen
+    stargazers_count: 0
+  - name: Petfinder JavaScript SDK by Chris Ferdinandi
+    documentation_url: https://github.com/cferdinandi/petfinderAPI4everybody
+    platform: JavaScript, Node.js
+    author: cferdinandi
+    stargazers_count: 13
+  - name: Petfinder PHP SDK by Brian Haveri
+    documentation_url: https://github.com/brianhaveri/Petfinder
+    platform: PHP
+    author: brianhaveri
+    stargazers_count: 6
+  - name: Petfinder Python SDK by Greg Taylor
+    documentation_url: https://github.com/gtaylor/petfinder-api
+    platform: Python
+    author: gtaylor
+    stargazers_count: 11
+  - name: Petfinder Ruby SDK by Eric Hutzelman
+    documentation_url: https://github.com/ehutzelman/petfinder
+    platform: Ruby
+    author: ehutzelman
+    stargazers_count: 36

@@ -1,0 +1,10 @@
+name: RandomCat
+slug: randomcat
+description: Random cat image API
+categories:
+  - Animals
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://aws.random.cat/meow

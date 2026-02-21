@@ -1,0 +1,11 @@
+name: IP Sidekick
+slug: ip-sidekick
+description: IP Sidekick is an API that returns information about an IP address. You can use it to customize your
+  content based on the visitor's location or display their country.
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://ipsidekick.com

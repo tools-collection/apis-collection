@@ -1,0 +1,12 @@
+name: Magic The Gathering
+slug: magic-the-gathering
+description: The MTG API allows developers to easily consume MTG card and set data in JSON format
+categories:
+  - Games
+  - Entertainment
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/magic-the-gathering/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://magicthegathering.io/

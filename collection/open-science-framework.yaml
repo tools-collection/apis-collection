@@ -1,0 +1,12 @@
+name: Open Science Framework
+slug: open-science-framework
+description: OSF is a free, open platform to support your research and enable collaboration.
+categories:
+  - Files & Storage
+  - Science & Math
+  - Collaboration
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://osf.io/y9jdt/wiki/home/

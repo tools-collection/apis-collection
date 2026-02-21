@@ -1,0 +1,12 @@
+name: OpenSea
+slug: opensea
+description: OpenSea's API provides NFT metadata, collection stats, listings, offers, and transaction history from the world's largest NFT marketplace across Ethereum, Polygon, and other chains.
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.opensea.io/reference/api-overview
+  - name: API Reference
+    url: https://docs.opensea.io/reference/get_listings

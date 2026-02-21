@@ -1,1 +1,8 @@
 node_modules/
+dist/*
+!dist/apis-list.yaml
+*.js
+!vitest.config.ts
+.env
+.firecrawl
+.claude

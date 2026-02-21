@@ -1,0 +1,9 @@
+name: 3ps
+slug: 3ps
+categories:
+  - Other
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://ideea.io/3ps

@@ -1,0 +1,13 @@
+name: Robohash Image Generator
+slug: robohash-image-generator
+description: Generates cool looking robot image for any text
+categories:
+  - Social
+  - Images & Photography
+  - Random
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/robohash-image-generator/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.mashape.com/blaazetech/robohash-image-generator

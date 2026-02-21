@@ -1,0 +1,52 @@
+name: Open Food Facts
+slug: open-food-facts
+description: Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the
+  tidbits of information we can find on product labels.
+categories:
+  - Food & Drinks
+  - Sport & Fitness
+  - Statistics & Data
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://en.wiki.openfoodfacts.org/API
+libraries:
+  - name: Open Food Facts Python SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-python
+    platform: Python
+    stargazers_count: 123
+  - name: Open Food Facts Elixir SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-elixir
+    platform: Elixir
+    stargazers_count: 1
+  - name: Open Food Facts Ruby SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-ruby
+    source_code_url: https://rubygems.org/gems/openfoodfacts
+    platform: Ruby
+    stargazers_count: 23
+  - name: Open Food Facts NodeJS SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-nodejs
+    platform: JavaScript, Node.js
+    stargazers_count: 18
+  - name: Open Food Facts Go SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-go
+    platform: Go
+    stargazers_count: 22
+  - name: Open Food Facts PHP SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-php
+    platform: PHP
+    stargazers_count: 29
+  - name: Open Food Facts Laravel PHP SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-laravel
+    source_code_url: https://packagist.org/packages/openfoodfacts/openfoodfacts-laravel
+    platform: PHP
+    stargazers_count: 72
+  - name: Open Food Facts iOS SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-ios
+    platform: Swift
+    stargazers_count: 190
+  - name: Open Food Facts Dart SDK
+    documentation_url: https://github.com/openfoodfacts/openfoodfacts-dart
+    platform: Dart
+    stargazers_count: 49

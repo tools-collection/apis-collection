@@ -1,0 +1,51 @@
+name: Bitfinex
+slug: bitfinex
+description: The Bitfinex API is designed to allow access to all the features of the Bitfinex platform on the condition
+  that it is used in compliance with our API Terms of Service. Users can use the API to create highly customised and
+  advanced trading strategies on our platform
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.bitfinex.com/docs
+libraries:
+  - name: ccex-api TypeScript SDK by Dang Thanh Tung
+    documentation_url: https://github.com/dang1412/ccex-api
+    platform: JavaScript, Node.js
+    author: dang1412
+    stargazers_count: 30
+  - name: ExchangeSharp .NET/C# by Jeff Johnson
+    documentation_url: https://github.com/jjxtra/ExchangeSharp
+    platform: .Net, C#
+    author: jjxtra
+    stargazers_count: 759
+  - name: GoEx Go SDK by nntaoli.com
+    documentation_url: https://github.com/nntaoli-project/GoEx
+    platform: Go
+    stargazers_count: 1976
+  - name: Cryptex iOS SDK by Sathya Rajaraman
+    documentation_url: https://github.com/trsathya/Cryptex
+    platform: Swift
+    author: trsathya
+    stargazers_count: 65
+  - name: Bitfinex Ruby SDK by Bitfinex
+    documentation_url: https://github.com/bitfinexcom/bitfinex-api-rb
+    platform: Ruby
+    stargazers_count: 81
+  - name: Bitfinex Go SDK by Bitfinex
+    documentation_url: https://github.com/bitfinexcom/bitfinex-api-go
+    platform: Go
+    stargazers_count: 316
+  - name: Bitfinex Node.js SDK by Bitfinex
+    documentation_url: https://www.npmjs.com/package/bitfinex-api-node
+    source_code_url: https://github.com/bitfinexcom/bitfinex-api-node
+    platform: Node.js
+    stargazers_count: 477
+  - name: Bitfinex Meteor SDK by Josh Rossi
+    documentation_url: https://atmospherejs.com/mjr/bitfinex-api
+    source_code_url: https://github.com/joshuarossi/bitfinex_api/
+    platform: JavaScript
+    author: joshuarossi
+    stargazers_count: 2

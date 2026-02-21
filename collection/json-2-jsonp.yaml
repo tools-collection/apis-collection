@@ -1,0 +1,11 @@
+name: JSON 2 JSONP
+slug: json-2-jsonp
+description: Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using pure JavaScript.
+categories:
+  - Development
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/json-2-jsonp/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://json2jsonp.com/

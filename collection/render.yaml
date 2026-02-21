@@ -1,0 +1,12 @@
+name: Render
+slug: render
+description: Render's API lets you manage web services, static sites, databases, cron jobs, and private services on the Render cloud platform programmatically.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://render.com/docs/api
+  - name: API Reference
+    url: https://api-docs.render.com/reference

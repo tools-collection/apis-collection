@@ -1,0 +1,12 @@
+name: Google Classroom API
+slug: google-classroom-api
+description: Provision and manage your Classroom courses
+categories:
+  - Education
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-classroom-api/logo_256x256.png
+contact: support@goog.io
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/classroom/?hl=en

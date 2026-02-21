@@ -1,0 +1,9 @@
+name: Jesus Api
+slug: jesus-api
+categories:
+  - Other
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://jesusapi.000webhostapp.com

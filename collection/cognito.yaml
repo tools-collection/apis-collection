@@ -1,0 +1,13 @@
+name: Cognito
+slug: cognito
+description: Can take a customer's cellphone number and return name, address history, full SSN, and date of birth.
+  Cognito API documentation will give you everything you need to get up and running with Cognito’s ID verification APIs.
+  A powerful API for verifying and retrieving identity information
+categories:
+  - Validation & Verification
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cognito/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://cognitohq.com/docs

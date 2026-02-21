@@ -1,0 +1,24 @@
+name: Barzahlen
+slug: barzahlen
+description: viafintech API v2 allows you to create payment, partial payment, payout, and refund slips customers can use
+  in stores like supermarkets to pay or receive money. Slips are sent to users as an email with a PDF attachment or as a
+  text message. When a store's point of sale system confirms the transaction, viafintech usually immediately calls a
+  Webhook to notify your system about the payment. You can then use this confirmation e.g. to mark an invoice as paid or
+  trigger shipping goods to the customer.
+categories:
+  - Documents & Productivity
+  - Commerce
+  - Payments
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.viafintech.com
+libraries:
+  - name: Barzahlen Ruby SDK
+    documentation_url: https://github.com/Barzahlen/Barzahlen-Ruby
+    platform: Ruby
+    stargazers_count: 4
+  - name: Barzahlen PHP SDK
+    documentation_url: https://github.com/Barzahlen/Barzahlen-PHP
+    platform: PHP
+    stargazers_count: 13

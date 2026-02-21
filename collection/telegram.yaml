@@ -1,0 +1,108 @@
+name: Telegram
+slug: telegram
+description: The Bot API allows you to easily create programs that use Telegram. The Telegram API allows you to build
+  your own customized Telegram clients
+categories:
+  - Images & Photography
+  - Video & Media
+  - Social
+  - Chats & Messaging
+  - Bots
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://core.telegram.org/
+libraries:
+  - name: Telegram JavaScript SDK by Maxim Sadofyev
+    documentation_url: https://github.com/sunriselink/TelegramApi
+    platform: JavaScript
+    author: sunriselink
+    stargazers_count: 71
+  - name: Telegram Java SDK by Aykut Alparslan
+    documentation_url: https://github.com/aykutalparslan/Telegram-Server
+    platform: Java
+    author: aykutalparslan
+    stargazers_count: 192
+  - name: Telegram NodeJS SDK by Enrico Stara
+    documentation_url: https://github.com/enricostara/telegram.link
+    source_code_url: https://www.npmjs.com/package/telegram.link
+    platform: JavaScript, Node.js
+    author: enricostara
+    stargazers_count: 331
+  - name: Telegram Java SDK by Ruben Bermudez
+    documentation_url: https://github.com/rubenlagus/TelegramApi
+    platform: Java
+    author: rubenlagus
+    stargazers_count: 195
+  - name: Telegram Passport JavaScript SDK
+    documentation_url: https://core.telegram.org/passport/sdk-javascript
+    source_code_url: https://github.com/TelegramMessenger/TGPassportJsSDK
+    platform: JavaScript
+    stargazers_count: 22
+  - name: Telegram Passport Android SDK
+    documentation_url: https://core.telegram.org/passport/sdk-android
+    source_code_url: https://github.com/TelegramMessenger/TGPassportAndroidSDK
+    platform: Java
+    stargazers_count: 29
+  - name: Telegram Passport iOS SDK
+    documentation_url: https://core.telegram.org/passport/sdk-ios-mac
+    source_code_url: https://github.com/TelegramMessenger/TGPassportKit
+    platform: Objective-C
+    stargazers_count: 18
+  - name: VKontakte JavaScript SDK by ejnshtein
+    documentation_url: https://github.com/ejnshtein/vk-to-telegram
+    platform: JavaScript
+    author: ejnshtein
+    stargazers_count: 24
+  - name: Telegram C# SDK by TaggersoftDeprecated
+    platform: C#
+  - name: Telegram Android SDK
+    documentation_url: https://telegram.org/source
+    source_code_url: https://github.com/DrKLO/Telegram
+    platform: Java
+    author: DrKLO
+    stargazers_count: 16237
+  - name: Telegram Java SDK by Steve Korshakov
+    documentation_url: https://github.com/ex3ndr/telegram-api
+    platform: Java
+    author: ex3ndr
+    stargazers_count: 128
+  - name: Telegram Python Library by Anton Grigoryev
+    documentation_url: https://github.com/griganton/telepy/blob/master/README.md
+    source_code_url: https://github.com/griganton/telepy
+    platform: Python
+    author: griganton
+    stargazers_count: 1
+  - name: Telegram Ruby Library by Platphorm
+    documentation_url: https://github.com/platphorm/telegram_rb/blob/master/README.md
+    source_code_url: https://github.com/platphorm/telegram_rb
+    platform: Ruby
+    author: platphorm
+    stargazers_count: 35
+  - name: Telegram JavaScript Library by Enrico Stara
+    documentation_url: https://www.npmjs.com/package/telegram.link
+    source_code_url: https://github.com/enricostara/telegram.link
+    platform: JavaScript, Node.js
+    author: enricostara
+    stargazers_count: 331
+  - name: Telegram Java MTProto Library by Stepan Korshakov
+    documentation_url: https://github.com/ex3ndr/telegram-mt/blob/master/README.md
+    source_code_url: https://github.com/ex3ndr/telegram-mt
+    platform: Java
+    author: ex3ndr
+    stargazers_count: 112
+  - name: Telegram Java TL-Builder Library by Stepan Korshakov
+    documentation_url: https://github.com/ex3ndr/telegram-tl/blob/master/README.md
+    source_code_url: https://github.com/ex3ndr/telegram-tl
+    platform: Java
+    author: ex3ndr
+    stargazers_count: 58
+  - name: Telegram Java TypeLanguage Library by Stepan Korshakov
+    documentation_url: https://github.com/ex3ndr/telegram-tl-core/blob/master/README.md
+    source_code_url: https://github.com/ex3ndr/telegram-tl-core
+    platform: Java
+    author: ex3ndr
+    stargazers_count: 32
+  - name: Telegram C# SDK by TaggersoftDeprecated
+    platform: C#

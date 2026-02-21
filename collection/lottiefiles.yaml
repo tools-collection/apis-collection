@@ -1,0 +1,13 @@
+name: LottieFiles
+slug: lottiefiles
+description: LottieFiles API provides access to a library of Lottie animations, enables uploading and managing animation files, and converting between animation formats for web and mobile apps.
+categories:
+  - Images & Photography
+  - Art & Design
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://lottiefiles.com/developers
+  - name: API Reference
+    url: https://lottiefiles.com/developers/public-api

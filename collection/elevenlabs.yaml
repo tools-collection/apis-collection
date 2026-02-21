@@ -1,0 +1,14 @@
+name: ElevenLabs
+slug: elevenlabs
+description: ElevenLabs API provides AI voice generation and cloning. Generate realistic speech from text with customizable voices, or clone a voice from an audio sample.
+categories:
+  - AI & ML
+  - Voice
+  - Music & Audio
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://elevenlabs.io/docs
+  - name: API Reference
+    url: https://elevenlabs.io/docs/api-reference/getting-started

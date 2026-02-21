@@ -1,0 +1,12 @@
+name: Fly.io
+slug: fly-io
+description: Fly.io API enables programmatic management of applications, machines, volumes, and networking on the Fly.io global platform. Deploy Docker containers close to users worldwide.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://fly.io/docs
+  - name: Machines API
+    url: https://fly.io/docs/machines/api

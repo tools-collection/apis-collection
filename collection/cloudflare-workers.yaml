@@ -1,0 +1,12 @@
+name: Cloudflare Workers
+slug: cloudflare-workers
+description: Cloudflare Workers API manages serverless functions deployed to Cloudflare's global edge network, including KV storage, D1 databases, R2 object storage, and Queues.
+categories:
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.cloudflare.com/workers
+  - name: API Reference
+    url: https://developers.cloudflare.com/api

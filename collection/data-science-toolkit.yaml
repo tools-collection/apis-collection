@@ -1,0 +1,39 @@
+name: Data Science Toolkit
+slug: data-science-toolkit
+description: A collection of the best open data sets and open-source tools for data science.
+categories:
+  - Statistics & Data
+type: REST
+is_free: true
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/data-science-toolkit/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/petewarden/dstk
+libraries:
+  - name: Geocoder Ruby SDK by Alex Reisner
+    documentation_url: https://github.com/alexreisner/geocoder
+    source_code_url: https://rubygems.org/gems/geocoder
+    platform: Ruby
+    author: alexreisner
+    stargazers_count: 5834
+  - name: Data Science Toolkit R Library by Ryan Elmore
+    documentation_url: http://cran.r-project.org/web/packages/RDSTK/index.html
+    source_code_url: https://github.com/rtelmore/RDSTK
+    platform: R
+    author: rtelmore
+    stargazers_count: 26
+  - name: " Geocoder Node.js Library by Nicolas Chaulet"
+    documentation_url: https://github.com/nchaulet/node-geocoder
+    platform: Node.js
+    author: nchaulet
+    stargazers_count: 954
+  - name: Data Science Toolkit JavaScript Library by Pete Warden
+    documentation_url: https://github.com/petewarden/dstk
+    platform: JavaScript
+    author: petewarden
+    stargazers_count: 1140
+  - name: Data Science Toolkit Python Library by CloverHealth
+    documentation_url: https://github.com/CloverHealth/pydstk
+    platform: Python
+    author: gwax
+    stargazers_count: 0

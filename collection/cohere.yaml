@@ -1,0 +1,13 @@
+name: Cohere
+slug: cohere
+description: Cohere's API provides NLP capabilities including text generation, embeddings, classification, and reranking. Designed for enterprise use cases like semantic search and RAG pipelines.
+categories:
+  - AI & ML
+  - Text Analysis & Tools
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.cohere.com
+  - name: API Reference
+    url: https://docs.cohere.com/reference/about

@@ -1,0 +1,12 @@
+name: GeoDataSource
+slug: geodatasource
+description: Location Search Web Service (RESTful API) enable you to find nearest city information based on latitude and
+  longitude provided.
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geodatasource/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.geodatasource.com/web-service

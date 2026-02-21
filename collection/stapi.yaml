@@ -1,0 +1,10 @@
+name: STAPI
+slug: stapi
+description: Information on all things Star Trek
+categories:
+  - Video & Media
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://stapi.co

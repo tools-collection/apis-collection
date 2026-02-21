@@ -1,0 +1,130 @@
+name: CoinMarketCap
+slug: coinmarketcap
+description: Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, most accurate real-time,
+  historical cryptocurrency and exchange trade data for Bitcoin, Ethereum and more
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinmarketcap/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://coinmarketcap.com/api/
+libraries:
+  - name: Cryptocurrencies API Laravel Manager PHP SDK by Mattia Clementi
+    documentation_url: https://github.com/ilCleme/cryptocurrencies-laravel
+    source_code_url: https://packagist.org/packages/ilcleme/cryptocurrencies-laravel
+    platform: PHP
+    author: ilCleme
+    stargazers_count: 3
+  - name: CoinMarketCap Python SDK by Miguel Mota
+    documentation_url: https://github.com/CoinCircle/go-coinmarketcap
+    platform: Python
+    stargazers_count: 64
+  - name: CoinMarketCap JavaScript SDK by Abhinav Kasamsetty
+    documentation_url: https://github.com/tiaanduplessis/coinmarketcap-api
+    platform: JavaScript
+    author: tiaanduplessis
+    stargazers_count: 119
+  - name: Crypto2discord Python SDK by Azerpas
+    documentation_url: https://github.com/azerpas/Crypto2discord
+    platform: Python
+    author: azerpas
+    stargazers_count: 7
+  - name: R-Cryptocurrencies R SDK by GinzaLion
+    documentation_url: https://github.com/GinzaLion/R-Cryptocurrencies
+    platform: R
+  - name: Cryptex iOS SDK by Sathya Rajaraman
+    documentation_url: https://github.com/trsathya/Cryptex
+    platform: Swift
+    author: trsathya
+    stargazers_count: 65
+  - name: BitcoinAverage Python PIP SDK
+    documentation_url: https://github.com/bitcoinaverage/api-integration-examples/
+    platform: Python
+    stargazers_count: 63
+  - name: Crypto-Grabber Python SDK by Brandon Jew
+    documentation_url: https://github.com/brandonjew/crypto-grabber
+    platform: Python
+    author: brandonjew
+    stargazers_count: 0
+  - name: CoinMarketCap Elixir SDK by Arthur M. Collé
+    documentation_url: https://github.com/arthurcolle/CoinMarketCap.ex
+    platform: Elixir
+    author: stochastic-thread
+    stargazers_count: 0
+  - name: CoinMarketCap Go SDK by Shaun Morrow
+    documentation_url: https://github.com/shaunmza/coinmarketcap
+    platform: Go
+    author: shaunmza
+    stargazers_count: 0
+  - name: CoinMarketCap Python SDK by mharvilla
+    documentation_url: https://github.com/mharvilla/crypto
+    platform: Python
+    author: mharvilla
+    stargazers_count: 0
+  - name: CoinMarketCap .NET SDK by Ryan L.
+    documentation_url: https://github.com/MTS11648/Dogecoin-Live-Updater
+    platform: .Net, C#
+    author: RyanLaFauci
+    stargazers_count: 0
+  - name: CoinMarketCap Swift SDK by Kuyawa Kata
+    documentation_url: https://github.com/kuyawa/Altcoins
+    platform: Swift
+    author: kuyawa
+    stargazers_count: 5
+  - name: CoinMarketCap Wordpress PHP SDK by alpual
+    documentation_url: https://github.com/alpual/coinvis
+    platform: PHP
+    author: alpual
+    stargazers_count: 3
+  - name: CoinMarketCap Python SDK by bobbysto
+    documentation_url: https://github.com/bobbysto/python-coinmarketcap
+    platform: Python
+  - name: CoinMarketCap Python SDK by Ruan Bekker
+    documentation_url: https://github.com/ruanbekker/faas-coinmarketcap
+    platform: Python
+    author: ruanbekker
+    stargazers_count: 5
+  - name: CoinMarketCap C# SDK by raghupallavi
+    documentation_url: https://github.com/raghupallavi/CoinMarketCap-CSharp-Api
+    platform: C#
+  - name: CoinMarketCap Python SDK by stephen-l
+    documentation_url: https://github.com/stephen-l/CryptoTicker
+    platform: Python
+    author: stephen-l
+    stargazers_count: 0
+  - name: CoinMarketCap Python SDK by Cryptodroid
+    documentation_url: https://github.com/cryptodroid-litecoin/Coinmarketcap-graph
+    platform: Python
+    author: cryptodroid-litecoin
+    stargazers_count: 1
+  - name: CoinMarketCap ReactJS SDK by gwolf2
+    documentation_url: https://github.com/gwolf2/crypto-prices
+    platform: JavaScript
+    author: gwolf2
+    stargazers_count: 0
+  - name: CoinMarketCap Go SDK by Decarium
+    documentation_url: https://github.com/Decarium/go-coinmarketcap
+    platform: Go
+    stargazers_count: 1
+  - name: CoinMarketCap .NET SDK by Scott Christian
+    documentation_url: https://github.com/dezryth/ccticker
+    platform: .Net, C#
+    author: dezryth
+    stargazers_count: 0
+  - name: CoinMarketCap GraphQL SDK by Arnaud Christ
+    documentation_url: https://github.com/Onra/graphql-coinmarketcap
+    platform: Unspecified
+    author: Onra
+    stargazers_count: 2
+  - name: CoinMarketCap PHP SDK by Joshua Cidoni-Walker
+    documentation_url: https://github.com/jcidoniwalker/coinmarket_json_parser
+    platform: PHP
+    author: jcidoniwalker
+    stargazers_count: 8
+  - name: CoinMarketCap Node.js SDK by haakym
+    documentation_url: https://github.com/haakym/coinme
+    platform: JavaScript, Node.js
+    author: haakym
+    stargazers_count: 0

@@ -1,0 +1,30 @@
+name: Localytics
+slug: localytics
+description: Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on
+  terminology. The Localytics API, and the backend services which power it, are organized around. Interface to
+  Localytics analytics platform
+categories:
+  - Marketing & SEO
+  - Analytics
+  - Business
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://docs.localytics.com/dev/query-api.html#query-api
+libraries:
+  - name: Localytics Xamarin SDK by Localytics
+    documentation_url: https://github.com/localytics/localytics-xamarin
+    platform: C#
+    stargazers_count: 6
+  - name: Localytics Cordova SDK by Localytics
+    documentation_url: https://github.com/localytics/localytics-cordova
+    platform: JavaScript
+    stargazers_count: 13
+  - name: " Localytics Java SDK by Localytics"
+    documentation_url: http://docs.localytics.com/#Dev/sdk-downloads.html
+    platform: Java
+  - name: Localytics Objective-C SDK by Localytics
+    documentation_url: http://docs.localytics.com/index.html#Dev/Integrate/ios-integration.html
+    source_code_url: http://docs.localytics.com/#Dev/sdk-downloads.html
+    platform: Objective-C

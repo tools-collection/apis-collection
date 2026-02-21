@@ -1,0 +1,13 @@
+name: Adyen
+slug: adyen
+description: Adyen's payments API processes online, in-person, and in-app payments globally. Supports 200+ payment methods, fraud detection, payouts, and financial reporting for enterprise merchants.
+categories:
+  - Payments
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.adyen.com
+  - name: API Reference
+    url: https://docs.adyen.com/api-explorer

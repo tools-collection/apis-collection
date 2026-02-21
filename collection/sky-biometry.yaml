@@ -1,0 +1,12 @@
+name: Sky Biometry
+slug: sky-biometry
+description: SkyBiometry uses completely different computer vision algorithms for face detection and recognition than
+  face. com as you can see in the API documentation. . The Sky Biometry API can be used to scan any face image for face
+  detection and attributes determination. This is a paid API
+categories:
+  - Recognition
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sky-biometry/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://skybiometry.com/documentation/

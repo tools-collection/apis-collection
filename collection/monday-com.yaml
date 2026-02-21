@@ -1,0 +1,13 @@
+name: monday.com
+slug: monday-com
+description: monday.com's GraphQL API provides access to boards, items, columns, updates, and automations. Build work management integrations and sync data with monday.com's platform.
+categories:
+  - Project Management
+  - Development
+type: GraphQL
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.monday.com/api-reference/docs
+  - name: API Reference
+    url: https://developer.monday.com/api-reference/reference/about-the-api-reference

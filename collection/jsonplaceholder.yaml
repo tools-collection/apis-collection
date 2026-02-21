@@ -1,0 +1,13 @@
+name: JSONPlaceholder
+slug: jsonplaceholder
+description: Free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub,
+  for a demo on CodeSandbox, in code examples on Stack Overfllow etc
+categories:
+  - Development
+  - Random
+  - Testing
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://jsonplaceholder.typicode.com/

@@ -1,0 +1,12 @@
+name: Transportation in Victoria, Australia
+slug: transport-for-victoria-au
+description: |-
+  This page is not yet available on the PTV Beta website. <br />
+  <br />
+  Please refer to the PTV website until further notice. PTV API
+categories:
+  - Transportation
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.ptv.vic.gov.au/footer/ptv-data-and-reports/digital-products/ptv-timetable-api

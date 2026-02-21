@@ -1,0 +1,13 @@
+name: Perplexity AI
+slug: perplexity-ai
+description: Perplexity's API provides search-augmented language model responses. Models have real-time web access and cite sources, making them ideal for research and fact-checking applications.
+categories:
+  - AI & ML
+  - Search
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.perplexity.ai
+  - name: API Reference
+    url: https://docs.perplexity.ai/api-reference/chat-completions

@@ -1,0 +1,91 @@
+name: Dark Sky
+slug: dark-sky
+description: Weather API
+categories:
+  - Weather
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://darksky.net/dev
+libraries:
+  - name: Dark Sky WordPress PHP SDK by Joshua Nelson
+    documentation_url: https://github.com/joshuadavidnelson/wp-darksky
+    platform: PHP
+    author: joshuadavidnelson
+    stargazers_count: 16
+  - name: Dark Sky Swift SDK by Peter Willsey
+    documentation_url: https://github.com/pwillsey/ForecastIOClient
+    platform: Swift
+    author: pwillsey
+    stargazers_count: 17
+  - name: Dark Sky Swift SDK by Satyam Khodasara
+    documentation_url: https://darksky.net/dev/docs/libraries
+    source_code_url: https://github.com/sxg/ForecastIO
+    platform: Swift
+    author: sxg
+    stargazers_count: 157
+  - name: Dark Sky Swift SDK by Caramba Labs
+    documentation_url: https://github.com/carambalabs/DarkSkyKit
+    platform: Swift
+    stargazers_count: 32
+  - name: Dark Sky Scala SDK by Garrett T
+    documentation_url: https://github.com/film42/forecast-io-scala
+    platform: Scala
+    author: film42
+    stargazers_count: 12
+  - name: Dark Sky Rust SDK by Jesse Grillo
+    documentation_url: https://github.com/jgrillo/forecast-rs
+    platform: Unspecified
+    author: jgrillo
+    stargazers_count: 14
+  - name: Dark Sky Ruby SDK by Vicente Gozalbes
+    documentation_url: https://github.com/vigosan/forecast_io
+    platform: Ruby
+    author: vigosan
+    stargazers_count: 11
+  - name: Dark Sky R SDK by Bob Rudis
+    documentation_url: https://github.com/hrbrmstr/darksky
+    platform: R
+    author: hrbrmstr
+    stargazers_count: 81
+  - name: Dark Sky Python SDK by Angel Hernandez III
+    documentation_url: https://github.com/bitpixdigital/forecastiopy3
+    platform: Python
+    author: bitpixdigital
+    stargazers_count: 60
+  - name: Dark Sky Python SDK by David Ervideira
+    documentation_url: https://github.com/dvdme/forecastiopy
+    platform: Python
+    author: dvdme
+    stargazers_count: 26
+  - name: Dark Sky Python SDK by Ze’ev Gilovitz
+    documentation_url: https://github.com/ZeevG/python-forecast.io
+    platform: Python
+    author: ZeevG
+    stargazers_count: 424
+  - name: Dark Sky PERL SDK by Martin-Louis Bright
+    documentation_url: http://search.cpan.org/~martyloo/Forecast-IO-0.21/lib/Forecast/IO.pm
+    source_code_url: https://github.com/mlbright/Forecast-IO
+    platform: PERL
+    author: mlbright
+    stargazers_count: 5
+  - name: Dark Sky ColdFusion SDK by Danny Cork
+    documentation_url: https://github.com/DannyCork/ForecastCFML
+    platform: ColdFusion
+    author: senf666
+    stargazers_count: 8
+  - name: Dark Sky Reckon NodeJS SDK by Chris Jones
+    documentation_url: https://github.com/jonezy/reckon/
+    platform: Node.js
+    author: jonezy
+    stargazers_count: 13
+  - name: Dark Sky NodeJS SDK by Matt Walters
+    documentation_url: https://github.com/mateodelnorte/forecast.io
+    platform: Node.js
+    author: mateodelnorte
+    stargazers_count: 115
+  - name: Dark Sky NodeJS SDK by Ian Tearle
+    documentation_url: https://github.com/iantearle/forecast.io-javascript-api
+    platform: Node.js
+    author: iantearle
+    stargazers_count: 65

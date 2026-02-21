@@ -1,0 +1,35 @@
+name: Houndify
+slug: houndify
+description: The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and
+  retain data ownership and customer relationships. Integrate voice and conversational intelligence into your products
+  through an independent platform that is always learning
+categories:
+  - Voice
+  - AI & ML
+  - IoT & Home Automation
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/houndify/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.houndify.com/
+libraries:
+  - name: SpeechRecognition
+    documentation_url: https://pypi.python.org/pypi/SpeechRecognition/
+    source_code_url: https://github.com/Uberi/speech_recognition
+    platform: Python
+    author: Uberi
+    stargazers_count: 5425
+  - name: Houndify Python SDK by Dominic R. May
+    documentation_url: https://github.com/Mause/houndipy
+    platform: Python
+    author: Mause
+    stargazers_count: 3
+  - name: Houndify Node.js SDK by Jeff Andersen
+    documentation_url: https://github.com/jeffandersen/houndify
+    platform: Node.js
+    author: jeffandersen
+    stargazers_count: 5
+  - name: Houndify Go SDK by SoundHound
+    documentation_url: https://github.com/soundhound/houndify-sdk-go
+    platform: Go
+    stargazers_count: 21

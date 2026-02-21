@@ -1,0 +1,12 @@
+name: FavQs
+slug: favqs
+description: FavQs allows you to collect, discover, and share your favorite quotes.
+categories:
+  - Content & Dictionaries
+  - Fun
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/favqs/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://favqs.com/api

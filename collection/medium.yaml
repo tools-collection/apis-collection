@@ -1,0 +1,46 @@
+name: Medium
+slug: medium
+description: Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Contribute to
+  Medium/medium-api-docs development by creating an account on GitHub
+categories:
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/medium/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/Medium/medium-api-docs
+libraries:
+  - name: Medium Haskell SDK by Timmy Tofu
+    documentation_url: https://hackage.haskell.org/package/medium-sdk-haskell
+    platform: Haskell
+  - name: Medium Ruby SDK by Kevin Kirsche
+    documentation_url: https://rubygems.org/gems/medium-sdk-ruby/versions/1.0.1
+    platform: Ruby
+  - name: Medium PHP SDK by Jonathan Torres
+    documentation_url: https://github.com/jonathantorres/medium-sdk-php
+    platform: PHP
+    author: jonathantorres
+    stargazers_count: 77
+  - name: Medium Go SDK by Parham Doustdar
+    documentation_url: https://github.com/parhamdoustdar/godium
+    platform: Go
+    author: parhamdoustdar
+    stargazers_count: 95
+  - name: Medium Ruby SDK by John Wang
+    documentation_url: https://github.com/grokify/medium-sdk-ruby
+    platform: Ruby
+    author: grokify
+    stargazers_count: 4
+  - name: Medium Node.js SDK by Medium
+    documentation_url: https://github.com/Medium/medium-sdk-nodejs
+    platform: Node.js
+    stargazers_count: 332
+  - name: Medium Go SDK by Medium
+    documentation_url: https://github.com/Medium/medium-sdk-go
+    platform: Go
+    stargazers_count: 131
+  - name: Medium Python SDK by Medium
+    documentation_url: https://github.com/Medium/medium-sdk-python
+    platform: Python
+    stargazers_count: 179

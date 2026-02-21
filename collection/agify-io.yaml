@@ -1,0 +1,11 @@
+name: Agify.io
+slug: agify-io
+description: Free API to check and predict the age of a name. Use the API for research, ad targeting, user segmenting
+  etc. Free API to check and predict the age of a name.
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://agify.io

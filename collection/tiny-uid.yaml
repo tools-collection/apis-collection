@@ -1,0 +1,13 @@
+name: Tiny.UID
+slug: tiny-uid
+description: API Documentation tinyuid. com exposes its data via an Application Programming Interface (API), so
+  developers can interact in a programmatic way with application. This document is the official refer. API for
+  shortening long URLs
+categories:
+  - URLs
+type: REST
+is_free: false
+contact: support@traccar.org
+links:
+  - name: Docs / Website
+    url: https://tinyuid.com/docs

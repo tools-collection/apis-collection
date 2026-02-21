@@ -1,0 +1,124 @@
+name: YouTube
+slug: youtube
+description: Add YouTube functionality to your sites and apps. Add YouTube functionality to your sites and apps
+categories:
+  - Video & Media
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.google.com/youtube/
+libraries:
+  - name: Media Now JavaScript SDK by internet4000
+    documentation_url: https://github.com/internet4000/media-now
+    platform: JavaScript, Node.js
+    stargazers_count: 9
+  - name: Social API JS JavaScript SDK by Joris Daniel
+    documentation_url: https://github.com/yoriiis/social-api.js
+    platform: JavaScript
+    author: yoriiis
+    stargazers_count: 5
+  - name: "Google Go SDK "
+    documentation_url: https://github.com/google/google-api-go-client/blob/master/GettingStarted.md
+    source_code_url: https://github.com/google/google-api-go-client
+    platform: Go
+    stargazers_count: 2553
+  - name: "Google Objective-C SDK "
+    documentation_url: https://github.com/google/google-api-objectivec-client-for-rest/wiki
+    source_code_url: https://github.com/google/google-api-objectivec-client-for-rest
+    platform: Objective-C
+    stargazers_count: 542
+  - name: Google Java SDK
+    documentation_url: https://developers.google.com/api-client-library/java/
+    source_code_url: https://developers.google.com/api-client-library/java/google-api-java-client/dev-guide
+    platform: Java
+  - name: "YouTube Python SDK by Chirag Rathod "
+    documentation_url: https://github.com/srcecde/python-youtube-api
+    platform: Python
+    author: srcecde
+    stargazers_count: 94
+  - name: YouTube PHP SDK by Jason Leung
+    documentation_url: https://github.com/madcoda/php-youtube-api
+    source_code_url: https://github.com/madcoda/php-youtube-api
+    platform: PHP
+    author: madcoda
+    stargazers_count: 375
+  - name: YouTube Node.js SDK by node.js Nicaragua
+    documentation_url: https://github.com/nodenica/youtube-node
+    platform: Node.js
+    author: paulomcnally
+    stargazers_count: 90
+  - name: YouTube PHP SDK by Jan Galek
+    documentation_url: https://packagist.org/packages/galek/youtube-api
+    source_code_url: https://github.com/JanGalek/YoutubeAPI
+    platform: PHP
+    author: JanGalek
+    stargazers_count: 0
+  - name: YouTube Laravel PHP SDK by Joe Dawson
+    documentation_url: https://packagist.org/packages/dawson/youtube
+    source_code_url: https://github.com/JoeDawson/youtube
+    platform: PHP
+    author: joedawson
+    stargazers_count: 141
+  - name: YouTube Video Sync JavaScript SDK 3.7.2 by Pubnub
+    documentation_url: http://pubnub.github.io/video-sync/
+    source_code_url: http://www.pubnub.com/docs/javascript/javascript-sdk.html
+    platform: JavaScript
+  - name: ASP.NET Video Starter Kit - Youtube DATA SDK
+    documentation_url: http://www.mediasoftpro.com/video-starter-kit/youtube-sdk.html
+    platform: .Net
+  - name: YouTube Node.js Library by Ionică Bizău
+    documentation_url: https://github.com/IonicaBizau/youtube-api
+    platform: Node.js
+    author: IonicaBizau
+    stargazers_count: 337
+  - name: "Youtube .Net Library .Net-youtube "
+    documentation_url: https://developers.google.com/api-client-library/dotnet/apis/youtube/v3
+    source_code_url: http://www.nuget.org/packages/Google.Apis.Tasks.v1/
+    platform: .Net
+  - name: Youtube Java LIbrary java-youtube
+    documentation_url: https://github.com/google/google-api-java-client
+    platform: Java
+    stargazers_count: 1003
+  - name: CodeIgniter YouTube API Library
+    documentation_url: https://developers.google.com/youtube/articles/codeigniter_library?csw=1
+    source_code_url: https://github.com/jimdoescode/CodeIgniter-YouTube-API-Library
+    platform: PHP
+    author: jimdoescode
+    stargazers_count: 128
+  - name: Google APIs Client Library for Python
+    documentation_url: https://developers.google.com/api-client-library/python/
+    source_code_url: https://code.google.com/p/google-api-python-client/downloads/list
+    platform: Python
+  - name: Google APIs Client Library for Objective-C
+    documentation_url: https://code.google.com/p/google-api-objectivec-client/
+    platform: Objective-C
+  - name: Google APIs Client Library for JavaScript
+    documentation_url: https://developers.google.com/api-client-library/javascript/
+    platform: JavaScript
+  - name: Google APIs Client Library for Java
+    documentation_url: https://code.google.com/p/google-api-java-client/
+    platform: Java
+  - name: Google APIs Client Library for .NET
+    documentation_url: https://developers.google.com/api-client-library/dotnet/
+    platform: .Net
+  - name: Google APIs Client Library for PHP
+    documentation_url: https://developers.google.com/api-client-library/php/
+    source_code_url: https://github.com/google/google-api-php-client
+    platform: PHP
+    stargazers_count: 7333
+  - name: AS3 Library for YouTube API
+    documentation_url: http://code.google.com/p/as3youtubelib/
+  - name: ActionScript YouTube Library
+    documentation_url: http://code.google.com/p/as3-youtube-data-api/
+  - name: Official YouTube Objective-C Library
+    documentation_url: http://code.google.com/p/gdata-objectivec-client/
+  - name: Official YouTube Python Library
+    documentation_url: http://code.google.com/apis/youtube/developers_guide_python.html
+    platform: Python
+  - name: "Official Java Source for YouTube "
+    documentation_url: http://code.google.com/apis/youtube/developers_guide_java.html
+    platform: Java
+  - name: Perl Library for YouTube API
+    documentation_url: http://search.cpan.org/~yoshida/WebService-YouTube/

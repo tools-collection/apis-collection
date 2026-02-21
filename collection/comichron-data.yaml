@@ -1,0 +1,11 @@
+name: Comichron Data
+slug: comichron-data
+description: com - comichron-data/api. JSON API for monthly sales data from comichron
+categories:
+  - Entertainment
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/comichron-data/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://github.com/comichron-data/api

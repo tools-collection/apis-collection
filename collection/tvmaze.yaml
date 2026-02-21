@@ -1,0 +1,138 @@
+name: TVmaze
+slug: tvmaze
+description: Add schedules, show, episode, cast information. TV Show and web series database. Episode guide, cast, crew
+  and character information. Recaps, reviews, episode trailers, celebrity photos and more.Add television information to
+  your own website or app with a fast and clean TV API
+categories:
+  - Entertainment
+  - Video & Media
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tvmaze/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.tvmaze.com/api
+libraries:
+  - name: TVmaze Go SDK by Sascha Hanse
+    documentation_url: https://github.com/knarz/gotvmaze
+    platform: Go
+  - name: TVmaze Node.js SDK by Hendri Pretorius
+    documentation_url: https://github.com/pretorh/node-tvmaze-client
+    platform: Node.js
+    author: pretorh
+    stargazers_count: 0
+  - name: TVmaze PHP SDK by whocares
+    documentation_url: https://github.com/whocares-openscene/TVMaze-php
+    platform: PHP
+    author: whocares-openscene
+    stargazers_count: 1
+  - name: TVmaze JavaScript SDK by Ajay Thomas
+    documentation_url: https://github.com/ajaythomas123/tvmaze-js-wrapper
+    platform: JavaScript
+    author: ajaythomas123
+    stargazers_count: 2
+  - name: TVmaze Node.js SDK by gtuk
+    documentation_url: https://github.com/gtuk/tvmaze-api
+    platform: Node.js
+    author: gtuk
+    stargazers_count: 1
+  - name: TVmaze Ruby SDK by Ivan Parfenchuk
+    documentation_url: https://github.com/uson1x/tvmaze
+    platform: Ruby
+    author: uson1x
+    stargazers_count: 5
+  - name: TVmaze Node.js SDK by Greg Hesp
+    documentation_url: https://github.com/greghesp/tvmaze-node
+    platform: Node.js
+    author: greghesp
+    stargazers_count: 4
+  - name: TVmaze JavaScript SDK by Ivan Robles
+    documentation_url: https://github.com/Sharmaz/tv-shows
+    platform: JavaScript
+    author: Sharmaz
+    stargazers_count: 0
+  - name: TVmaze PHP SDK by Josh Pinkney
+    documentation_url: https://github.com/JPinkney/TVMaze-PHP-API-Wrapper
+    platform: PHP
+    author: JPinkney
+    stargazers_count: 11
+  - name: TVmaze .NET SDK by William Bradley
+    documentation_url: https://github.com/WilliamABradley/TVMazeSharp
+    platform: .Net
+    author: WilliamABradley
+    stargazers_count: 2
+  - name: TVmaze Ruby SDK by Codie Mullins
+    documentation_url: https://github.com/codiemullins/tvmaze-api
+    platform: Ruby
+    author: codiemullins
+    stargazers_count: 0
+  - name: TVmaze Node.js SDK by Julian Duque
+    documentation_url: https://github.com/julianduque/tv-maze
+    platform: Node.js
+    author: julianduque
+    stargazers_count: 9
+  - name: TVmaze Python SDK by RP1458
+    documentation_url: https://github.com/robertopauletto/tvmaze_wrapper
+    platform: Python
+    author: robertopauletto
+    stargazers_count: 0
+  - name: TVmaze Go SDK by Abu Ashraf Masnun
+    documentation_url: https://github.com/masnun/tvmaze
+    platform: Go
+    author: masnun
+    stargazers_count: 4
+  - name: TVmaze PHP SDK by Martin Århof
+    documentation_url: https://github.com/lsv/tvmazeapi
+    platform: PHP
+    author: lsv
+    stargazers_count: 0
+  - name: TVmaze Python SDK by srob650
+    documentation_url: https://github.com/srob650/pytvmaze
+    platform: Python
+    author: srob650
+    stargazers_count: 22
+  - name: TVmaze Elixir SDK by Sean Abrahams
+    documentation_url: https://github.com/seanabrahams/tv
+    platform: Elixir
+    author: seanabrahams
+    stargazers_count: 0
+  - name: TVmaze Python SDK by Jerry-27
+    documentation_url: https://github.com/Jerry-27/TVMaze
+    platform: Python
+    author: Jerry-27
+    stargazers_count: 0
+  - name: TVmaze ReactJS SDK by Hişar Kaya
+    documentation_url: https://github.com/hisarkaya/tvmaze
+    platform: JavaScript
+    author: hisarkaya
+    stargazers_count: 0
+  - name: TVmaze JavaScript SDK by Oscar Pérez
+    documentation_url: https://github.com/omiguelperez/tv-maze
+    platform: JavaScript
+    author: omiguelperez
+    stargazers_count: 0
+  - name: TVmaze AngularJS SDK by CHARLES I
+    documentation_url: https://github.com/Lepkele/AngularJS-TVwatcher
+    platform: JavaScript
+    author: Lepkele
+    stargazers_count: 0
+  - name: TVmaze Python SDK by Jani Šumak
+    documentation_url: https://github.com/dasdachs/tvmaze-py
+    platform: Python
+    author: dasdachs
+    stargazers_count: 0
+  - name: TVmaze Node.js SDK by Chris Alderson
+    documentation_url: https://github.com/ChrisAlderson/tvmaze-api-pt
+    platform: Node.js
+    author: ChrisAlderson
+    stargazers_count: 2
+  - name: TVmaze Laravel PHP SDK by David Fisher
+    documentation_url: https://github.com/davidfisher24/tv-show-api
+    platform: PHP
+    author: davidfisher24
+    stargazers_count: 0
+  - name: TVmaze Android Kotlin SDK by Jacek Dermont
+    documentation_url: https://github.com/jdermont/TVMazeApiClient
+    platform: Kotlin
+    author: jdermont
+    stargazers_count: 0

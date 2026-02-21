@@ -1,0 +1,24 @@
+name: CityGrid
+slug: citygrid
+description: Enables developers to create web and mobile applications that find local businesses, organizations, and
+  points of interest by a variety of search criteria
+categories:
+  - Maps & Geo
+  - Commerce
+  - Search
+  - Point of Interest
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://docs.citygridmedia.com/display/citygridv2/Places+API
+libraries:
+  - name: "CityGrid Node.js SDK by Jon Wicks "
+    documentation_url: https://github.com/jwicks/node-citygrid
+    platform: Node.js
+    author: jwicks
+    stargazers_count: 2
+  - name: CityGrid Ruby SDK by CityGrid
+    documentation_url: https://github.com/CityGrid/citygrid_api
+    platform: Ruby
+    stargazers_count: 10

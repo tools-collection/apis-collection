@@ -1,0 +1,11 @@
+name: Carro Score
+slug: carro-score
+description: Carro makes finding influencers that love your brand easier than ever before
+categories:
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carro-score/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://docs.score.getcarro.com/

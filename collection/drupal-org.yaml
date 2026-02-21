@@ -1,0 +1,12 @@
+name: Drupal.org
+slug: drupal-org
+description: Drupal.org uses the RESTful Web Services module to expose node, comment, user, file, taxonomy_vocabulary
+  and taxonomy_term resources
+categories:
+  - Development
+  - Open Source
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.drupal.org/drupalorg/docs/api

@@ -1,0 +1,13 @@
+name: Looker
+slug: looker
+description: Looker's REST API manages dashboards, looks, queries, users, and data connections. Embed analytics, run reports programmatically, and integrate with Looker's BI platform.
+categories:
+  - Analytics
+  - Statistics & Data
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developers.looker.com/api/explorer/4.0/methods
+  - name: API Reference
+    url: https://developers.looker.com/api/explorer/4.0/methods

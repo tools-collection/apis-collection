@@ -1,0 +1,40 @@
+name: Language Detection
+slug: language-detection
+description: Detect language(s) from pieces of text
+categories:
+  - Recognition
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://languagedetection.apifex.com/
+libraries:
+  - name: Language Detection Perl SDK by Neil Bowers
+    documentation_url: https://github.com/neilb/WebService-DetectLanguage
+    platform: PERL
+    author: neilb
+    stargazers_count: 0
+  - name: Language Detection .NET SDK
+    documentation_url: https://github.com/detectlanguage/detectlanguage-csharp
+    platform: .Net
+    stargazers_count: 6
+  - name: Language Detection PHP SDK
+    documentation_url: https://github.com/detectlanguage/detectlanguage-php
+    platform: PHP
+    stargazers_count: 43
+  - name: Language Detection Java SDK
+    documentation_url: https://github.com/detectlanguage/detectlanguage-java
+    platform: Java
+    stargazers_count: 19
+  - name: Language Detection Node.js SDK
+    documentation_url: https://github.com/detectlanguage/detectlanguage-node
+    platform: Node.js
+    stargazers_count: 7
+  - name: Language Detection Python SDK
+    documentation_url: https://github.com/detectlanguage/detectlanguage-python
+    platform: Python
+    stargazers_count: 35
+  - name: Language Detection Ruby SDK
+    documentation_url: https://github.com/detectlanguage/detectlanguage-ruby
+    platform: Ruby
+    stargazers_count: 25

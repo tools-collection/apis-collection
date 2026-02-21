@@ -1,0 +1,27 @@
+name: Codeship
+slug: codeship
+description: Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powered by Stoplight.io.
+  Document, mock, test, and more, with the StopLight API Designer
+categories:
+  - Development
+  - Collaboration
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://apidocs.codeship.com/
+libraries:
+  - name: Codeship NodeJS SDK by Che-Wei Lin
+    documentation_url: https://github.com/John-Lin/codeship-api
+    platform: Node.js
+    author: John-Lin
+    stargazers_count: 1
+  - name: Codeship Ruby SDK
+    documentation_url: https://github.com/codeship/codeship-ruby
+    platform: Ruby
+    stargazers_count: 13
+  - name: Codeship Go SDK
+    documentation_url: https://godoc.org/github.com/codeship/codeship-go
+    source_code_url: https://github.com/codeship/codeship-go
+    platform: Go
+    stargazers_count: 18

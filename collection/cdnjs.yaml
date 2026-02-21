@@ -1,0 +1,10 @@
+name: CDNJS
+slug: cdnjs
+description: cdnjs provides a simple API to allow anyone to quickly query the libraries it has on the CDN.
+categories:
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://cdnjs.com/api

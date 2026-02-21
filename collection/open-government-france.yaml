@@ -1,0 +1,11 @@
+name: Open Government, France
+slug: open-government-france
+description: data. gouv. fr accueil. data
+categories:
+  - Government
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-government-france/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.data.gouv.fr/

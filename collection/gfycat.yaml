@@ -1,0 +1,125 @@
+name: Gfycat
+slug: gfycat
+description: Gfycat’s API - collection of GIFs
+categories:
+  - Fun
+  - Social
+  - Art & Design
+  - Images & Photography
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gfycat/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developers.gfycat.com/api/
+libraries:
+  - name: Gfycat npm JavaScript SDK
+    documentation_url: https://developers.gfycat.com/jssdk/
+    source_code_url: https://www.npmjs.com/package/gfycat-sdk
+    platform: JavaScript
+  - name: Gfycat APIKit iOS SDK
+    documentation_url: https://developers.gfycat.com/iossdk/
+    source_code_url: https://github.com/gfycat/GfycatApiKit
+    platform: Objective-C
+    stargazers_count: 7
+  - name: Gfycat Core SDK
+    documentation_url: https://developers.gfycat.com/androidsdk/
+    platform: Java
+  - name: Gfycat Python SDK by Tom Kranenburg
+    documentation_url: https://github.com/TomKranenburg/gfywrapper
+    platform: Python
+    author: TomKranenburg
+    stargazers_count: 0
+  - name: Gfycat PHP SDK by Aaron Chang
+    documentation_url: https://github.com/mistayam/gfyScript
+    platform: PHP
+  - name: Gfycat PHP SDK by Stefano
+    documentation_url: https://github.com/steoo/php-gfy-api-interface
+    platform: PHP
+    author: steoo
+    stargazers_count: 0
+  - name: Gfycat NodeJS SDK by Butterscotch Stallion
+    documentation_url: https://github.com/butterscotchstallion/gfyapi
+    platform: Node.js
+    author: butterscotchstallion
+    stargazers_count: 0
+  - name: Gfycat NodeJS SDK by Shadowfacts
+    documentation_url: https://github.com/shadowfacts/gfy
+    platform: Node.js
+    author: shadowfacts
+    stargazers_count: 2
+  - name: Gfycat Go SDK by hashworks
+    documentation_url: https://github.com/hashworks/go-gfycat
+    platform: Go
+    author: hashworks
+    stargazers_count: 0
+  - name: Gfycat JavaScript SDK by Nikita Savyolov
+    documentation_url: https://github.com/ga2mer/gfycatjs
+    platform: JavaScript, Node.js
+    author: ga2mer
+    stargazers_count: 0
+  - name: Gfycat Go SDK by Krognol
+    documentation_url: https://github.com/Krognol/gofycat
+    platform: Go
+    author: Krognol
+    stargazers_count: 0
+  - name: Gfycat Objective-C SDK by Akshay Easwaran
+    documentation_url: https://github.com/akeaswaran/AEGfycatHandler
+    platform: Objective-C
+    author: akeaswaran
+    stargazers_count: 2
+  - name: Gfycat PHP SDK by Pulkit Kathuria
+    documentation_url: https://github.com/kevincobain2000/gfycat
+    platform: PHP
+    author: kevincobain2000
+    stargazers_count: 1
+  - name: Gfycat Perl SDK by Chankey Pathak
+    documentation_url: https://github.com/chankeypathak/WWW-Gfycat
+    platform: PERL
+    author: chankeypathak
+    stargazers_count: 0
+  - name: Gfycat JavaScript SDK by Josh Kang
+    documentation_url: https://github.com/kngroo/gfycat-sdk
+    platform: JavaScript
+    author: kngroo
+    stargazers_count: 1
+  - name: Gfycat Ruby SDK by Martin Häger
+    documentation_url: https://github.com/vrcsix/gfycat
+    platform: Ruby
+    author: haegrr
+    stargazers_count: 1
+  - name: Gfycat Go SDK by orijtech
+    documentation_url: https://github.com/orijtech/gfycat
+    platform: Go
+    stargazers_count: 0
+  - name: Gfycat Swift SDK by Trung Nguyen
+    documentation_url: https://github.com/geek1706/gfycat-swift
+    platform: Swift
+    author: geek1706
+    stargazers_count: 5
+  - name: Gfycat .NET SDK by Sydney Acksman
+    documentation_url: https://github.com/ObsidianMinor/Gfycat.Net
+    source_code_url: https://www.nuget.org/packages/Gfycat.Net
+    platform: .Net
+    author: ObsidianMinor
+    stargazers_count: 12
+  - name: Gfycat PHP SDK by Nehal Patel
+    documentation_url: https://github.com/nehalvpatel/gfycat-php
+    platform: PHP
+    author: nehalvpatel
+    stargazers_count: 8
+  - name: Gfycat Python SDK by Ankesh Anand
+    documentation_url: https://github.com/ankeshanand/py-gfycat
+    source_code_url: https://pypi.org/project/gfycat/0.1.4/
+    platform: Python
+    author: ankeshanand
+    stargazers_count: 19
+  - name: Gfycat JavaScript SDK
+    documentation_url: https://github.com/gfycat/gfycat-sdk
+    source_code_url: https://www.npmjs.com/package/gfycat-sdk
+    platform: JavaScript
+    stargazers_count: 17
+  - name: Gfycat iOS SDK
+    documentation_url: https://github.com/gfycat/GfycatApiKit
+    platform: Objective-C
+    stargazers_count: 7

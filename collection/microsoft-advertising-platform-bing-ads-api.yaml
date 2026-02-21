@@ -1,0 +1,12 @@
+name: Microsoft Advertising Platform - Bing Ads API
+slug: microsoft-advertising-platform-bing-ads-api
+description: Official developer documentation for Microsoft Advertising. Provides programmatic access to various
+  advertising technologies
+categories:
+  - Marketing & SEO
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/microsoft-advertising-platform-bing-ads-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx

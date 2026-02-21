@@ -1,0 +1,11 @@
+name: Rig Veda API
+slug: rig-veda-api
+description: All of the poets and gods in the Rig Veda, presented with the mandal and sukta numbers they're mentioned
+  in, the meters the verses are composed in, and the categories the poets and gods belong to
+categories:
+  - Other
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://aninditabasu.github.io/indica/html/rv.html

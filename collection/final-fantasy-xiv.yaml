@@ -1,0 +1,11 @@
+name: Final Fantasy XIV
+slug: final-fantasy-xiv
+description: "A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, linkshells, lodestone, markets & maps"
+categories:
+  - Entertainment
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/final-fantasy-xiv/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://xivapi.com/

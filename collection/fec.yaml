@@ -1,0 +1,10 @@
+name: FEC
+slug: fec
+description: Information on campaign donations in federal elections
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.open.fec.gov/developers/

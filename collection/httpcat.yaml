@@ -1,0 +1,11 @@
+name: HTTPCat
+slug: httpcat
+description: API for HTTP Cats. API for HTTP Cats
+categories:
+  - Animals
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/httpcat/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://http.cat/

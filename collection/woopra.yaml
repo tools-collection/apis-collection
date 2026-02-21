@@ -1,0 +1,47 @@
+name: Woopra
+slug: woopra
+description: >-
+  End-to-end Customer Journey Analytics
+
+  No hours sank into aggregating and cleaning data. No complex SQL queries required. Just the answers teams need to make
+  smarter decisions, fast. Now, that's data-driven.
+categories:
+  - Analytics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.woopra.com/docs/developer/analytics-api/
+libraries:
+  - name: Woopra Ruby SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/ruby-on-rails-sdk/
+    platform: Ruby
+  - name: Woopra Python SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/python-sdk/
+    platform: Python
+  - name: Woopra Java SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/java-sdk/
+    source_code_url: https://github.com/Woopra/woopra-java-sdk
+    platform: Java
+    stargazers_count: 2
+  - name: Woopra Node.js SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/node-js-sdk/
+    source_code_url: https://github.com/woopra/node-woopra
+    platform: Node.js
+    stargazers_count: 5
+  - name: Woopra Android SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/android-sdk/
+    source_code_url: https://github.com/Woopra/woopra-android-sdk
+    platform: Java
+    stargazers_count: 6
+  - name: Woopra iOS SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/ios-sdk/
+    source_code_url: https://github.com/Woopra/woopra-ios-sdk
+    platform: Objective-C
+    stargazers_count: 5
+  - name: Woopra PHP SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/php-sdk/
+    platform: PHP
+  - name: Woopra JavaScript SDK by Woopra
+    documentation_url: https://www.woopra.com/docs/setup/javascript-tracking/
+    platform: JavaScript

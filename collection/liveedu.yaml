@@ -1,0 +1,22 @@
+name: Liveedu
+slug: liveedu
+description: Live Coding Streaming. Education Ecosystem is a project learning platform for people to learn how to build
+  real products
+categories:
+  - Education
+  - Video & Media
+  - Entertainment
+  - Development
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.education-ecosystem.com/developer/applications/
+libraries:
+  - name: LiveCoding .NET SDK
+    documentation_url: https://github.com/LiveCodingTVOfficial/LiveCoding.NET
+    platform: .Net
+    stargazers_count: 0
+  - name: LiveCoding.tv Python SDK
+    documentation_url: https://github.com/LiveCodingTVOfficial/python-livecodingtv
+    platform: Python
+    stargazers_count: 1

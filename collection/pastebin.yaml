@@ -1,0 +1,12 @@
+name: Pastebin
+slug: pastebin
+description: Pastebin is a website where you can store text online for a set period of time. Quickly share text or code,
+  with support for over 250 languages for syntax highlighting. Pastebin. com is the number one paste tool since 2002
+categories:
+  - Collaboration
+  - Files & Storage
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://pastebin.com/doc_scraping_api

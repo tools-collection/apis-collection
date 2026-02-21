@@ -1,0 +1,10 @@
+name: LaunchLibrary
+slug: launchlibrary
+description: Aggregated info about space launches.
+categories:
+  - Space
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://launchlibrary.net/docs/1.3/api.html

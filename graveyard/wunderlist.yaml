@@ -1,0 +1,47 @@
+name: Wunderlist
+slug: wunderlist
+description: Todo Lists
+categories:
+  - Project Management
+  - Documents & Productivity
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wunderlist/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.wunderlist.com/documentation
+libraries:
+  - name: Wunderlist .NET SDK by Miguel Hasse de Oliveira
+    documentation_url: https://www.nuget.org/packages/Hasseware.Wunderlist/
+    source_code_url: https://github.com/miguelhasse/Net.Wunderlist
+    platform: .Net, C#
+    author: miguelhasse
+    stargazers_count: 4
+  - name: Wunderlist Node.js SDK by Felipe Sousa
+    documentation_url: https://www.npmjs.com/package/wunderlist-api
+    source_code_url: https://github.com/felipesousa/wunderlist-api
+    platform: Node.js
+    author: felipesousa
+    stargazers_count: 12
+  - name: Wunderlist Go SDK by Dimitar Kostov
+    documentation_url: https://github.com/mytrile/wunderlist
+    platform: Go
+    author: mytrile
+    stargazers_count: 4
+  - name: Wunderlist Ruby SDK by Sebastian Gräßl
+    documentation_url: https://github.com/bastilian/wunderlist-cli
+    platform: Ruby
+    author: bastilian
+    stargazers_count: 22
+  - name: Wunderlist PHP SDK by Joshua de Gier
+    documentation_url: https://github.com/PENDOnl/Wunderlist2-PHP-Wrapper
+    platform: PHP
+  - name: Wunderlist JavaScript SDK by Wunderlist
+    documentation_url: https://developer.wunderlist.com/documentation/tools/wunderlist.js
+    source_code_url: https://github.com/wunderlist/wunderlist.js
+    platform: JavaScript
+    stargazers_count: 126
+  - name: Wunderlist Perl Library by Al Newkirk
+    documentation_url: https://metacpan.org/release/API-Wunderlist
+    source_code_url: https://github.com/alnewkirk/API-Wunderlist
+    platform: PERL

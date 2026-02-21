@@ -1,0 +1,13 @@
+name: Deepgram
+slug: deepgram
+description: Deepgram's API offers real-time and batch speech recognition with high accuracy. Features include speaker detection, smart formatting, language detection, and custom model training.
+categories:
+  - AI & ML
+  - Voice
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.deepgram.com/docs
+  - name: API Reference
+    url: https://developers.deepgram.com/reference

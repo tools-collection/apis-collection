@@ -1,0 +1,64 @@
+name: EventBrite
+slug: eventbrite
+description: Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on
+  GitHub. Eventbrite Python SDK
+categories:
+  - Authentication & User Management
+  - Social
+  - Events
+  - Marketing & SEO
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eventbrite/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://www.eventbrite.com/platform/
+libraries:
+  - name: Eventbrite Python SDK
+    documentation_url: https://github.com/eventbrite/eventbrite-sdk-python
+    platform: Python
+    stargazers_count: 5
+  - name: Eventbrite PHP SDK by Jamie Hollern
+    documentation_url: https://github.com/jamiehollern/eventbrite
+    platform: PHP
+    author: jamiehollern
+    stargazers_count: 20
+  - name: Eventbrite PHP SDK by ryan jarvinen
+    documentation_url: https://github.com/ryanjarvinen/eventbrite.php
+    platform: PHP
+    author: ryanjarvinen
+    stargazers_count: 45
+  - name: Eventbrite Node.js SDK by DataHero
+    documentation_url: https://github.com/Datahero/node-eventbrite
+    platform: Node.js
+    stargazers_count: 25
+  - name: Eventbrite .NET Client Library
+    documentation_url: https://github.com/penguinboy/Eventbrite.NET
+    platform: .Net
+    author: penguinboy
+    stargazers_count: 26
+  - name: Eventbrite C# Client Library
+    documentation_url: https://github.com/ghurlman/EventBrite.WinStore
+    platform: C#
+    author: ghurlman
+    stargazers_count: 5
+  - name: Eventbrite JavaScript Client Library
+    documentation_url: https://github.com/eventbrite/Eventbrite.jquery.js
+    platform: JavaScript
+    stargazers_count: 0
+  - name: Eventbrite Node.js Client Library
+    documentation_url: https://github.com/eventbrite/eventbrite.npm
+    platform: Node.js
+    stargazers_count: 0
+  - name: Eventbrite Ruby Client Library
+    documentation_url: https://github.com/eventbrite/eventbrite-client.rb
+    platform: Ruby
+    stargazers_count: 0
+  - name: Eventbrite Python Client Library
+    documentation_url: https://github.com/eventbrite/eventbrite-client-py
+    platform: Python
+    stargazers_count: 1
+  - name: Eventbrite PHP Client Library
+    documentation_url: https://github.com/eventbrite/eventbrite.php
+    platform: PHP
+    stargazers_count: 1

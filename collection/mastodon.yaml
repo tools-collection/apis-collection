@@ -1,0 +1,47 @@
+name: Mastodon
+slug: mastodon
+description: Welcome to the Mastodon documentation!. Welcome to the Mastodon documentation!
+categories:
+  - Social
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastodon/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://docs.joinmastodon.org/
+libraries:
+  - name: " Mastodon Swift SDK by Mitchell Schwitzer"
+    documentation_url: https://github.com/schwitzerm/scaladon
+    platform: Swift
+    author: schwitzerm
+    stargazers_count: 6
+  - name: " Mastodon Python SDK by Lorenz Diener"
+    documentation_url: https://github.com/halcy/Mastodon.py
+    platform: Python
+    author: halcy
+    stargazers_count: 413
+  - name: Mastodon Android SDK by Toshihiro Yashi
+    documentation_url: https://github.com/sys1yagi/mastodon4j
+    platform: Java
+    author: sys1yagi
+    stargazers_count: 83
+  - name: " Mastodon Go SDK by Mikael Berthe"
+    documentation_url: https://github.com/McKael/madon
+    platform: Go
+    author: McKael
+    stargazers_count: 38
+  - name: Mastodon Elixir SDK by Milton Mazzarri
+    documentation_url: https://github.com/milmazz/hunter
+    platform: Elixir
+    author: milmazz
+    stargazers_count: 32
+  - name: Mastodon CPlus SDK by TastyTea
+    documentation_url: https://github.com/tastytea/mastodon-cpp
+    platform: C++
+    author: tastytea
+    stargazers_count: 6
+  - name: Mastodon C# SDK by Yusuke Yamada
+    documentation_url: https://github.com/yamachu/Mastodot
+    platform: C#
+    author: yamachu
+    stargazers_count: 16

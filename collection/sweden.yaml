@@ -1,0 +1,13 @@
+name: Sweden
+slug: sweden
+description: Information you need to get started using PostNord API. PostNord provides a range of APIs to facilitate
+  integration with your back end systems. Integrate PostNord web services directly into your website, customs
+  applications or e-commerce platform.
+categories:
+  - Post & Logistics
+  - Maps & Geo
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.postnord.com/api/docs/general-information

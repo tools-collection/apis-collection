@@ -1,0 +1,12 @@
+name: Changelogs.md
+slug: changelogs-md
+description: Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format.
+categories:
+  - Development
+  - Open Source
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/changelogs-md/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://changelogs.md

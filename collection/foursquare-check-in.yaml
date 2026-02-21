@@ -1,0 +1,11 @@
+name: Foursquare Check-In
+slug: foursquare-check-in
+description: Allows you to check in to a place
+categories:
+  - Social
+  - Point of Interest
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.foursquare.com/docs/checkins/add

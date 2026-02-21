@@ -1,0 +1,43 @@
+name: PayPal
+slug: paypal
+description: Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
+categories:
+  - Authentication & User Management
+  - Commerce
+  - Finance & Economics
+  - Payments
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/
+libraries:
+  - name: PayPal PHP SDK
+    documentation_url: https://developer.paypal.com/docs/api/rest-sdks
+    source_code_url: https://github.com/paypal/PayPal-PHP-SDK
+    platform: PHP
+    stargazers_count: 2061
+  - name: PayPal PHP SDK by Oswaldo Perez
+    documentation_url: https://packagist.org/packages/oslawso/paypal-api
+    source_code_url: https://github.com/oslawso/paypal-api
+    platform: PHP
+    author: oslawso
+    stargazers_count: 0
+  - name: PayPal-nvp-api Node.js SDK by Dong Nguyen
+    documentation_url: https://www.npmjs.com/package/paypal-nvp-api
+    source_code_url: https://github.com/ndaidong/paypal-nvp-api
+    platform: Node.js
+    author: ndaidong
+    stargazers_count: 15
+  - name: PayPal Android SDK
+    documentation_url: https://github.com/paypal/PayPal-Android-SDK
+    platform: Java
+    stargazers_count: 770
+  - name: PayPal iOS SDKDeprecated
+    platform: Objective-C
+  - name: PayPal PHP SDK by PayPal
+    documentation_url: https://github.com/paypal/PayPal-PHP-SDK
+    platform: PHP
+    stargazers_count: 2061
+  - name: PayPal iOS SDKDeprecated
+    platform: Objective-C

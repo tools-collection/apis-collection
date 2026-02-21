@@ -1,0 +1,130 @@
+name: Cisco Spark
+slug: cisco-spark
+description: Build the future of business collaboration with Webex!
+categories:
+  - Video & Media
+  - Social
+  - Chats & Messaging
+  - Collaboration
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cisco-spark/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.ciscospark.com
+libraries:
+  - name: Cisco Spark Bash SDK by patglanz
+    documentation_url: https://github.com/patglanz/Cisco-Spark-API-with-bash
+    platform: Unspecified
+    author: patglanz
+    stargazers_count: 1
+  - name: Cisco Spark Python SDK by Madumal Sameera Piyasundara
+    documentation_url: https://github.com/SamPiy93/Python-Bot-Integration
+    platform: Python
+    author: SamPiy93
+    stargazers_count: 0
+  - name: Cisco Spark Python SDK by Martin Ertsås
+    documentation_url: https://github.com/martiert/aiosparkapi
+    platform: Python
+    author: martiert
+    stargazers_count: 0
+  - name: Cisco Spark Python SDK by devinchappell
+    documentation_url: https://github.com/devinchappell/pyspark
+    platform: Python
+    author: devinchappell
+    stargazers_count: 0
+  - name: Cisco Spark Python SDK by Antoine
+    documentation_url: https://github.com/Bassintag551/spark-python-sdk
+    platform: Python
+    author: Bassintag
+    stargazers_count: 1
+  - name: Cisco Spark Python SDK by Andriy Hrytskiv
+    documentation_url: https://github.com/andriyko/aiociscospark
+    platform: Python
+    author: andriyko
+    stargazers_count: 7
+  - name: Cisco Spark Python SDK by imapex
+    documentation_url: https://github.com/imapex/spark-python
+    platform: Python
+    stargazers_count: 0
+  - name: Cisco Spark Python SDK by Aglagane Abdelbar
+    documentation_url: https://github.com/Abdellbar/sparkapi
+    platform: Python
+    author: Abdellbar
+    stargazers_count: 0
+  - name: Cisco Spark Haskell SDK by Naoto Shimazaki
+    documentation_url: https://github.com/nshimaza/cisco-spark-api
+    platform: Haskell
+    author: nshimaza
+    stargazers_count: 7
+  - name: Cisco Spark jQuery SDK by Tuan Hoang
+    documentation_url: https://github.com/tuanchoang/Cisco-Spark-API-Wrapper
+    platform: jQuery
+    author: tuanchoang
+    stargazers_count: 0
+  - name: Cisco Spark Python SDK by spirrello
+    documentation_url: https://github.com/spirrello/spark
+    platform: Python
+  - name: Cisco Spark Go SDK by Vallard Benincosa
+    documentation_url: https://github.com/vallard/spark
+    platform: Go
+    author: vallard
+    stargazers_count: 1
+  - name: Cisco Spark Python SDK by Johannes Krohn
+    documentation_url: https://github.com/jeokrohn/cisco_spark
+    platform: Python
+    author: jeokrohn
+    stargazers_count: 4
+  - name: Cisco Spark Node.js SDK by Marcello Federico
+    documentation_url: https://github.com/marchfederico/node-sparkclient
+    platform: Node.js
+    author: marchfederico
+    stargazers_count: 7
+  - name: Cisco Spark Python SDK by Scott Henning
+    documentation_url: https://github.com/shenning00/pyCiscoSparkAPI
+    platform: Python
+    author: shenning00
+    stargazers_count: 0
+  - name: Cisco Spark JavaScript SDK by Miles Oldenburg
+    documentation_url: https://github.com/milesoldenburg/spark
+    platform: JavaScript, jQuery
+    author: milesoldenburg
+    stargazers_count: 3
+  - name: Cisco Spark .NET SDK by Darren Parkinson
+    documentation_url: https://github.com/darrenparkinson/SparkDotNet
+    platform: .Net
+    author: darrenparkinson
+    stargazers_count: 13
+  - name: Cisco Spark Webhook Node.js SDK by Cumberland Group
+    documentation_url: https://github.com/CumberlandGroup/node-spark-webhook
+    platform: Node.js
+  - name: Cisco Spark Node.js SDK by Cumberland Group
+    documentation_url: https://github.com/CumberlandGroup/node-spark
+    platform: Node.js
+  - name: Cisco Spark Node-RED Node.js SDK by Cumberland Group
+    documentation_url: https://github.com/CumberlandGroup/node-red-contrib-spark
+    platform: JavaScript, Node.js
+    stargazers_count: 4
+    author: nmarus
+  - name: Cisco Spark JavaScript SDK by Joseph Lee
+    documentation_url: https://github.com/joelee/ciscospark
+    platform: JavaScript
+    author: joelee
+    stargazers_count: 0
+  - name: Cisco Spark Java SDK
+    documentation_url: https://github.com/ciscospark/spark-java-sdk
+    platform: Java
+    stargazers_count: 67
+  - name: Cisco Spark Python SDK by Brad Bester
+    documentation_url: https://github.com/brbester/pyCiscoSpark
+    platform: Python
+    author: brbester
+    stargazers_count: 30
+  - name: Cisco Spark Python SDK
+    documentation_url: https://github.com/CiscoDevNet/ciscosparkapi
+    platform: Python
+    stargazers_count: 256
+  - name: Cisco Spark Node.js SDK by Flint Bot
+    documentation_url: https://github.com/flint-bot/sparky
+    platform: Node.js
+    stargazers_count: 17

@@ -1,0 +1,135 @@
+name: Postmark
+slug: postmark
+description: No bulk. That means your app's email isn't stuck waiting behind 500,000 copies of a marketing campaign.
+  Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark
+  delivers email triggered by an action in your app
+categories:
+  - Email & SMS
+  - Business
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postmark/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://postmarkapp.com/developer
+libraries:
+  - name: Kanboard PHP SDK by polom
+    documentation_url: https://github.com/polom/kanboard-tasksbymail
+    platform: PHP
+    author: polom
+    stargazers_count: 6
+  - name: Postmark Java SDK by Imaginatio
+    documentation_url: https://github.com/Imaginatio/postmark-java
+    platform: Java
+    stargazers_count: 9
+  - name: Postmark Go SDK by Mahmud Ridwan
+    documentation_url: https://github.com/hjr265/postmark.go
+    platform: Go
+    author: hjr265
+    stargazers_count: 15
+  - name: Postmark Haskell SDK by markhibberd
+    documentation_url: https://github.com/markhibberd/postmark
+    platform: Haskell
+    author: markhibberd
+    stargazers_count: 18
+  - name: Postmark Go SDK by Kyle Truscott
+    documentation_url: https://github.com/keighl/postmark
+    platform: Go
+    author: keighl
+    stargazers_count: 49
+  - name: Postmark PHP SDK by Joffrey JAFFEUX
+    documentation_url: https://github.com/jjaffeux/postmark-inbound-php
+    platform: PHP
+    author: jjaffeux
+    stargazers_count: 82
+  - name: Postmark Ruby SDK by Randy Schmidt
+    documentation_url: https://github.com/r38y/postmark-mitt
+    platform: Ruby
+    author: r38y
+    stargazers_count: 40
+  - name: Postmark Java SDK by Jared Holdcroft
+    documentation_url: https://github.com/jaredholdcroft/postmark-java
+    platform: Java
+    author: jaredholdcroft
+    stargazers_count: 15
+  - name: Postmark Ruby on Rails SDK by Wildbit
+    documentation_url: https://github.com/wildbit/postmark-rails
+    platform: Ruby
+    stargazers_count: 276
+  - name: Postmark FeathersJS SDK by feathers-plus
+    documentation_url: https://github.com/feathers-plus/feathers-postmark
+    platform: JavaScript
+    stargazers_count: 7
+  - name: Postmark Laravel PHP SDK by Durham Hale
+    documentation_url: https://github.com/durhamhale/laravel-postmark
+    platform: PHP
+    author: durhamhale
+    stargazers_count: 4
+  - name: Postmark Elixir SDK by Marcel Oomens
+    documentation_url: https://github.com/marceloomens/ExPosta
+    platform: Elixir
+    author: marceloomens
+    stargazers_count: 4
+  - name: Postmark Perl SDK by Ido Perlmuter
+    documentation_url: https://github.com/ido50/WWW-Postmark
+    platform: PERL
+    author: ido50
+    stargazers_count: 5
+  - name: Postmark NodeJS SDK by Andrew Sliwinski
+    documentation_url: https://github.com/thisandagain/trebuchet
+    platform: Node.js
+    author: thisandagain
+    stargazers_count: 14
+  - name: Postmark Scala SDK by Seb Richards
+    documentation_url: https://github.com/sebrichards/postmark-scala
+    platform: Scala
+    author: sebrichards
+    stargazers_count: 8
+  - name: Postmark Java SDK by Wildbit
+    documentation_url: https://github.com/wildbit/postmark-java
+    source_code_url: http://search.maven.org/#artifactdetails%7Ccom.wildbit.java%7Cpostmark%7C1.1.6%7C
+    platform: Java
+    stargazers_count: 18
+  - name: Postmark Python SDK by Dmitry Dygalo
+    documentation_url: https://github.com/Stranger6667/postmarker
+    source_code_url: https://pypi.org/project/postmarker/
+    platform: Python
+    author: Stranger6667
+    stargazers_count: 76
+  - name: Postmark Go SDK by ChannelMeter
+    documentation_url: https://github.com/ChannelMeter/postmark
+    platform: Go
+    stargazers_count: 0
+  - name: Postmark ColdFusion SDK by Ember Feather
+    documentation_url: https://github.com/emberfeather/postmark4cf
+    platform: ColdFusion
+    stargazers_count: 2
+  - name: Postmark Go SDK by Matt Evans
+    documentation_url: https://github.com/mattevans/postmark-go
+    platform: Go
+    author: mattevans
+    stargazers_count: 4
+  - name: Postmark Go SDK by Diffeo
+    documentation_url: https://github.com/diffeo/postmark
+    platform: Go
+    stargazers_count: 2
+  - name: Postmark ColdFusion SDK by Matt Gifford
+    documentation_url: https://github.com/coldfumonkeh/postmark
+    platform: ColdFusion
+    author: coldfumonkeh
+    stargazers_count: 5
+  - name: Postmark Laravel PHP SDK by Terry Matula
+    documentation_url: https://github.com/matula/laravel-postmark
+    platform: PHP
+    author: matula
+    stargazers_count: 4
+  - name: Postmark PHP SDK by Mark van den Broek
+    documentation_url: https://github.com/mvdnbrk/postmark-inbound
+    source_code_url: https://packagist.org/packages/mvdnbrk/postmark-inbound
+    platform: PHP
+    author: mvdnbrk
+    stargazers_count: 3
+  - name: Postmark Go SDK by Vic Demuzere
+    documentation_url: https://github.com/sorcix/go-postmark
+    platform: Go
+    author: sorcix
+    stargazers_count: 0

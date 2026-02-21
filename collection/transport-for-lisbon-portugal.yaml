@@ -1,0 +1,11 @@
+name: Transportation in Lisbon, Portugal
+slug: transport-for-lisbon-portugal
+description: Data access is free upon registration, in order to enhanc. Welcome to EMEL’s open data portal. This website
+  provides datasets concerning the company, and by other partner entities related with EMEL
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://emel.city-platform.com/opendata/

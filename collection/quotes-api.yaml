@@ -1,0 +1,9 @@
+name: Quotes Api
+slug: quotes-api
+description: They Said So. Quotes API with lot of features
+categories:
+  - Fun
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://quotes.rest

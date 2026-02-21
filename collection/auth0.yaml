@@ -1,0 +1,13 @@
+name: Auth0
+slug: auth0
+description: Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can
+  focus on your core business. Authenticate and authorize apps and APIs with any identity provider running on any stack
+  any device or cloud. Free for 700 active users
+categories:
+  - Authentication & User Management
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/auth0/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://auth0.com

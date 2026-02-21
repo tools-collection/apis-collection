@@ -1,0 +1,69 @@
+name: US Street Address
+slug: us-street-address
+description: Verify one or more addresses using the SmartyStreets US Street Address API
+categories:
+  - Validation & Verification
+  - Maps & Geo
+  - Post & Logistics
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-street-address/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://smartystreets.com/docs/cloud/us-street-api
+libraries:
+  - name: SmartyStreets-Validator-Geocoder JavaScript SDK by Josh Pierro
+    documentation_url: https://github.com/jlberglund/pco-postal
+    platform: JavaScript
+    author: jlberglund
+    stargazers_count: 0
+  - name: SmartyStreets US Street Address Go SDK by Eric Whitebloom
+    documentation_url: https://github.com/ewhitebloom/CMS-Importer
+    platform: Go
+  - name: SmartyStreets US Street Address JavaScript SDK by Nir Alfasi
+    documentation_url: https://github.com/alfasin/smarty-streets-as-promised
+    platform: JavaScript
+    author: alfasin
+    stargazers_count: 0
+  - name: SmartyStreets US Street Address Python SDK by Don Morehouse
+    documentation_url: https://github.com/dm-wyncode/smartystreets-client
+    platform: Python
+  - name: SmartyStreets Drupal PHP SDK by Liam Schneider
+    documentation_url: https://github.com/labwebdev/SmartyStreetsAPI
+    platform: PHP
+    author: labwebdev
+    stargazers_count: 0
+  - name: SmartyStreets US Street Address ColdFusion SDK by Construction Monitor
+    documentation_url: https://github.com/Construction-Monitor/coldfusion-smartystreets
+    platform: ColdFusion
+    stargazers_count: 0
+  - name: SmartyStreets PHP SDK by Austin Burns
+    documentation_url: https://github.com/AustinBurns/Smarty-Streets-API-Request
+    platform: PHP
+    author: AustinBurns
+    stargazers_count: 0
+  - name: SmartyStreets Clojure SDK by Democracy Works
+    documentation_url: https://github.com/democracyworks/clj-smartystreets
+    platform: Clojure
+    stargazers_count: 2
+  - name: SmartyStreets iOS SDK
+    documentation_url: https://smartystreets.com/docs/sdk/ios
+    source_code_url: https://github.com/smartystreets/smartystreets-ios-sdk
+    platform: Objective-C, Swift
+    stargazers_count: 5
+  - name: SmartyStreets Ruby SDK by Florian Lorrain
+    documentation_url: https://github.com/florrain/smartystreets_api
+    platform: Ruby
+    author: florrain
+    stargazers_count: 4
+  - name: SmartyStreets Java SDK by Peter Edge
+    documentation_url: https://github.com/peter-edge/smartystreets-java
+    platform: Java
+  - name: SmartyStreets Ruby SDK
+    documentation_url: https://smartystreets.com/docs/sdk/ruby
+    source_code_url: https://github.com/smartystreets/smartystreets-ruby-sdk
+    platform: Ruby
+    stargazers_count: 16
+  - name: SmartyStreets Ruby SDK by Peter Edge
+    documentation_url: https://github.com/peter-edge/smartystreets_ruby
+    platform: Ruby

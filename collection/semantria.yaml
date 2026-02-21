@@ -1,0 +1,28 @@
+name: Lexalytics
+slug: semantria
+description: "Flexible natural language processing APIs and complete text analytics platform solutions for data
+  analytics companies and data analyst teams. SAAS API based on Lexalytics engine. #Paid"
+categories:
+  - AI & ML
+  - Analytics
+  - Text Analysis & Tools
+type: REST
+is_free: false
+contact: support@selectpdf.com
+links:
+  - name: Docs / Website
+    url: https://www.lexalytics.com/
+libraries:
+  - name: Semantria .NET Sample Code
+    documentation_url: https://semantria.readme.io/docs/quick-start-with-net
+    platform: .Net
+  - name: Semantria Ruby SDK by Lexalytics
+    documentation_url: https://semantria.readme.io/docs/sdks
+    source_code_url: https://github.com/Semantria/semantria-sdk/tree/master/Ruby
+    platform: Ruby
+    stargazers_count: 39
+  - name: Semantria JavaScript SDK by Semantria
+    documentation_url: https://semantria.com/support/developer/docs/sdks
+    source_code_url: https://github.com/Semantria/semantria-sdk/tree/master/JavaScript
+    platform: JavaScript
+    stargazers_count: 39

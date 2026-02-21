@@ -1,0 +1,32 @@
+name: Withings
+slug: withings
+description: Access to data from Withings activity trackers and body measures
+categories:
+  - Sport & Fitness
+  - Health
+  - IoT & Home Automation
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: http://oauth.withings.com/api
+libraries:
+  - name: Withings Ruby SDK by Paul Osman
+    documentation_url: https://github.com/paulosman/withings-sdk
+    platform: Ruby
+    author: paulosman
+    stargazers_count: 6
+  - name: Withings NodeJS SDK by Amida Technology Solutions
+    documentation_url: https://github.com/amida-tech/withings-lib
+    platform: Node.js
+    stargazers_count: 9
+  - name: Withings Python SDK by Maxime Bouroumeau-Fuseau
+    documentation_url: https://github.com/maximebf/python-withings
+    platform: Python
+    author: maximebf
+    stargazers_count: 71
+  - name: " Withings PHP Library by Alexander Liljengård "
+    documentation_url: https://github.com/Zn4rK/php-withings
+    platform: PHP
+    author: Zn4rK
+    stargazers_count: 16

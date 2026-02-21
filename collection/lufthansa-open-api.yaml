@@ -1,0 +1,10 @@
+name: Lufthansa Open API
+slug: lufthansa-open-api
+description: Lufthansa Developer Network. Use the data of Europe's biggest airline group! Fight status,inflight
+  amenities, partner program
+categories:
+  - Travel
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.lufthansa.com/

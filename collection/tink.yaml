@@ -1,0 +1,13 @@
+name: Tink (Visa)
+slug: tink
+description: Tink's Open Banking API provides bank account data, payment initiation, and income verification across 3,500+ European banks. Powers account aggregation and PSD2-compliant fintech apps.
+categories:
+  - Finance & Economics
+  - Payments
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://docs.tink.com
+  - name: API Reference
+    url: https://docs.tink.com/api

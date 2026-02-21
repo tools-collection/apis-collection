@@ -1,0 +1,11 @@
+name: Postmon
+slug: postmon
+description: API to query zip codes and orders in an easy, fast and free way.
+categories:
+  - Maps & Geo
+  - Post & Logistics
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://postmon.com.br/

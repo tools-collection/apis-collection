@@ -1,0 +1,10 @@
+name: Lord of the Rings API
+slug: lord-of-the-rings-api
+description: Get data about the books, the movie trilogy, many characters and quotes
+categories:
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://the-one-api.herokuapp.com/

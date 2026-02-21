@@ -1,0 +1,10 @@
+name: Age of Empires II
+slug: age-of-empires-ii
+description: Simple API to retrieve resources related to Age of Empires II
+categories:
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://age-of-empires-2-api.herokuapp.com

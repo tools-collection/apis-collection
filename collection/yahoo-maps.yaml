@@ -1,0 +1,19 @@
+name: Yahoo Maps
+slug: yahoo-maps
+description: Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform. Measure,
+  monetize, advertise and improve your apps with Yahoo tools. Join the 200,000 developers using Yahoo tools to build
+  their app businesses
+categories:
+  - Maps & Geo
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-maps/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.yahoo.com/maps/
+libraries:
+  - name: Mapstraction JavaScript SDK
+    documentation_url: http://mapstraction.com/
+    source_code_url: https://github.com/mapstraction/mxn
+    platform: JavaScript
+    stargazers_count: 579

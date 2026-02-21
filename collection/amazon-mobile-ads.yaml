@@ -1,0 +1,13 @@
+name: Amazon Mobile Ads
+slug: amazon-mobile-ads
+description: Monetize across platforms with multiple ad formats. Mobile Ads Monetize your global iOS, Android, and Fire
+  OS traffic with high-quality ads from Amazon and brand advertisers
+categories:
+  - Commerce
+  - Marketing & SEO
+type: REST
+is_free: false
+contact: support@interzoid.com
+links:
+  - name: Docs / Website
+    url: https://developer.amazon.com/mobile-ads

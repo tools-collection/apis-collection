@@ -1,0 +1,37 @@
+name: Shodan
+slug: shodan
+description: Shodan API, the easiest way to access the Shodan search engine on your own terms. Shodan is the world's
+  first search engine for Internet-connected devices.
+categories:
+  - Security
+  - Search
+  - IoT & Home Automation
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.shodan.io/
+libraries:
+  - name: Shodan Perl SDK by Dudley Adams
+    documentation_url: https://metacpan.org/pod/WWW::Shodan::API
+    source_code_url: https://github.com/Dudley5000/WWW-Shodan-API
+    platform: PERL
+    author: Dudley5000
+    stargazers_count: 13
+  - name: Shodan Java SDK by newhouse
+    documentation_url: https://developer.shodan.io/api/clients
+    source_code_url: https://github.com/fooock/jshodan
+    platform: Java
+    author: fooock
+    stargazers_count: 48
+  - name: Shodan Python SDK by John Matherly
+    documentation_url: https://shodan.readthedocs.io/en/latest/index.html
+    source_code_url: https://github.com/achillean/shodan-python
+    platform: Python
+    author: achillean
+    stargazers_count: 1538
+  - name: Shodan Node.js SDK by Jesús Pérez
+    documentation_url: https://github.com/jesusprubio/shodan-client.js
+    platform: Node.js
+    author: jesusprubio
+    stargazers_count: 171

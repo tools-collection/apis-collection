@@ -1,0 +1,12 @@
+name: Upcoming.Org API
+slug: upcoming-org-api
+description: A simple way to share and discover interesting events from your friends, followers, and the artists and
+  organizations you care about
+categories:
+  - Events
+  - Calendar & Time
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/upcoming-org-api/logo_256x256.png
+links:
+  - name: Docs / Website

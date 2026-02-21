@@ -1,0 +1,10 @@
+name: City Bikes
+slug: city-bikes
+description: Project that provides bike sharing data for apps, research and projects to use.
+categories:
+  - Sport & Fitness
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: http://api.citybik.es/v2/

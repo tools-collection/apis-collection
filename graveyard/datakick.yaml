@@ -1,0 +1,37 @@
+name: Datakick
+slug: datakick
+description: The open product database.
+categories:
+  - Statistics & Data
+  - Bar & QR Codes
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://www.datakick.org/api
+libraries:
+  - name: Datakick Ruby SDK
+    documentation_url: https://github.com/ankane/datakick-rb
+    platform: Ruby
+    author: ankane
+    stargazers_count: 12
+  - name: Datakick Python SDK
+    documentation_url: https://github.com/carlos-a-rodriguez/datakick
+    platform: Python
+    author: carlos-a-rodriguez
+    stargazers_count: 2
+  - name: Datakick Node.js SDK
+    documentation_url: https://github.com/ENT8R/datakick
+    platform: Node.js
+    author: ENT8R
+    stargazers_count: 4
+  - name: Datakick Objective-C SDK
+    documentation_url: https://github.com/imryan/datakick-ios
+    platform: Objective-C
+    author: imryan
+    stargazers_count: 2
+  - name: Datakick Android SDK
+    documentation_url: https://github.com/kyleconroy/datakick-android
+    platform: Java
+    author: kyleconroy
+    stargazers_count: 1

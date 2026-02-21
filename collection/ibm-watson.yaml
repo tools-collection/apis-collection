@@ -1,0 +1,94 @@
+name: IBM Watson
+slug: ibm-watson
+description: >-
+  Build and train models, and create apps, with a trusted AI-infused platform. Offers a variety of services for building
+  cognitive apps.
+
+  A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage.
+categories:
+  - AI & ML
+  - Voice
+  - Text Analysis & Tools
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ibm-watson/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://developer.ibm.com/watson/
+libraries:
+  - name: IBM Watson Go SDK
+    documentation_url: https://github.com/watson-developer-cloud/go-sdk
+    platform: Go
+    stargazers_count: 67
+  - name: IBM Watson C# SDK by Denny Headrick
+    documentation_url: https://github.com/dennyboy/WatsonCSharp
+    platform: .Net, C#
+    author: dennyboy
+    stargazers_count: 2
+  - name: IBM Watson Go SDK by Livio Soares
+    documentation_url: https://github.com/liviosoares/go-watson-sdk
+    platform: Go
+    author: liviosoares
+    stargazers_count: 86
+  - name: IBM Watson .Net SDK by Watson Developer Cloud
+    documentation_url: https://github.com/watson-developer-cloud/dotnet-standard-sdk
+    platform: .Net
+    stargazers_count: 146
+  - name: IBM Watson Android SDK by Watson Developer Cloud
+    documentation_url: https://github.com/watson-developer-cloud/android-sdk
+    platform: Java
+    stargazers_count: 137
+  - name: IBM Watson Ruby SDK by suchowan
+    documentation_url: https://github.com/suchowan/watson-api-client
+    platform: Ruby
+    author: suchowan
+    stargazers_count: 26
+  - name: IBM Watson R SDK by ColumbusCollaboratory
+    documentation_url: https://github.com/ColumbusCollaboratory/cognizer
+    platform: R
+    stargazers_count: 120
+  - name: IBM Watson Unity SDK by Watson Developer Cloud
+    documentation_url: https://github.com/watson-developer-cloud/unity-sdk
+    platform: C#
+    stargazers_count: 541
+  - name: IBM Watson Swift SDK by Watson Developer Cloud
+    documentation_url: https://github.com/watson-developer-cloud/swift-sdk
+    platform: Swift
+    stargazers_count: 876
+  - name: IBM Watson PHP SDK by FindBrok
+    documentation_url: https://github.com/findbrok/php-watson-api-bridge
+    platform: PHP
+    stargazers_count: 31
+  - name: IBM Watson Objective-C SDK by Watson Developer Cloud
+    documentation_url: https://github.com/watson-developer-cloud/ios-sdk
+    platform: Objective-C
+    stargazers_count: 876
+  - name: IBM Watson Developer Cloud Python SDK by Watson Developer Cloud
+    documentation_url: https://pypi.python.org/pypi/watson-developer-cloud
+    source_code_url: https://github.com/watson-developer-cloud/python-sdk
+    platform: Python
+    stargazers_count: 1334
+  - name: IBM Watson Java SDK by Watson Developer Cloud
+    documentation_url: http://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/java-sdk
+    source_code_url: https://github.com/watson-developer-cloud/java-sdk
+    platform: Java
+    stargazers_count: 585
+  - name: IBM Watson NodeJS SDK by Watson Developer Cloud
+    documentation_url: https://www.npmjs.com/package/watson-developer-cloud
+    source_code_url: https://github.com/watson-developer-cloud/node-sdk
+    platform: Node.js
+    stargazers_count: 1425
+  - name: IBM Bluemix Globalization Pipeline Node.js SDK by IBM Bluemix
+    documentation_url: https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/node-js-sdk/
+    platform: Node.js
+  - name: " IBM Bluemix Globalization Pipeline Java SDK by IBM Bluemix"
+    documentation_url: https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/java-sdk/
+    platform: Java
+  - name: IBM Bluemix Globalization Pipeline Ruby SDK by IBM Bluemix
+    documentation_url: https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/ruby-sdk/
+    platform: Ruby
+  - name: PersonifyJS
+    documentation_url: http://personifyjs.github.io/
+    source_code_url: https://github.com/PersonifyJS/personify.js
+    platform: JavaScript
+    stargazers_count: 183

@@ -1,0 +1,9 @@
+name: Routingnumbers.Info
+slug: routingnumbers-info
+description: API for ACH/NACHA Bank Routing Numbers
+categories:
+  - Finance & Economics
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.routingnumbers.info/api/index.html

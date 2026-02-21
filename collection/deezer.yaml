@@ -1,0 +1,139 @@
+name: Deezer
+slug: deezer
+description: Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's
+  music catalogue. You have to login to accept the terms and conditions of the simple API. Login Back to top Follow
+  @deezer Terms of use Contact & Support
+categories:
+  - Search
+  - Video & Media
+  - Music & Audio
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deezer/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://developers.deezer.com/api
+libraries:
+  - name: lizz C++ SDK by bx5a
+    documentation_url: https://github.com/bx5a/lizz
+    platform: C++
+    author: bx5a
+    stargazers_count: 0
+  - name: Deezer Python SDK by Steinthor Palsson
+    documentation_url: https://github.com/steinitzu/pydeezer
+    platform: Python
+    author: steinitzu
+    stargazers_count: 2
+  - name: Deezer VueJS SDK by Kevin Badinca
+    documentation_url: https://github.com/kainister/deezweb
+    platform: JavaScript
+    author: kainister
+    stargazers_count: 0
+  - name: Deezer Swift SDK by George Bonnici-Carter
+    documentation_url: https://github.com/GeorgeB123/Song_Search
+    platform: Swift
+    author: GeorgeB123
+    stargazers_count: 0
+  - name: Deezer Kotlin SDK by Biacode
+    documentation_url: https://github.com/Biacode/jdeezer
+    platform: Kotlin
+    author: Biacode
+    stargazers_count: 2
+  - name: Deezer Rust SDK by diogox
+    documentation_url: https://github.com/diogox/deezer_metadata
+    platform: Unspecified
+    author: diogox
+    stargazers_count: 4
+  - name: Deezer VueJS SDK by figura01
+    documentation_url: https://github.com/figura01/api-deezer-vujes
+    platform: JavaScript
+    author: figura01
+    stargazers_count: 0
+  - name: Deezer VueJS SDK by maheshkumawat24
+    documentation_url: https://github.com/maheshkumawat24/deezer-vue
+    platform: JavaScript
+    author: maheshkumawat24
+    stargazers_count: 0
+  - name: Deezer AngularJS SDK by Jérémy DE LA CASA
+    documentation_url: https://github.com/jeremydelacasa/angular-deezer-api
+    platform: JavaScript
+    author: jeremydelacasa
+    stargazers_count: 1
+  - name: Deezer JavaScript SDK by Justin Levine
+    documentation_url: https://github.com/jclevine/real-deezer-api
+    platform: JavaScript
+    author: jclevine
+    stargazers_count: 0
+  - name: Deezer Python SDK by Kaefertal
+    documentation_url: https://github.com/Kaefertal/Deezer-API-data-exporter
+    platform: Python
+    author: Kaefertal
+    stargazers_count: 0
+  - name: Deezer PHP SDK by CharloMez
+    documentation_url: https://github.com/CharloMez/charlo-deezer-api
+    platform: PHP
+    author: CharloMez
+    stargazers_count: 0
+  - name: Deezer Java SDK by George
+    documentation_url: https://github.com/GeorgeII/deezer-api-wrapper
+    platform: Java
+  - name: Deezer PHP SDK by RollandVivienPro
+    documentation_url: https://github.com/RollandVivienPro/deezer-notif-api
+    platform: PHP
+    author: RollandVivienPro
+    stargazers_count: 0
+  - name: Deezer NodeJS SDK by Allan Douglas
+    documentation_url: https://github.com/AllanDouglas/api-deezer-node-example
+    platform: Node.js
+    author: AllanDouglas
+    stargazers_count: 0
+  - name: Deezer Symfony PHP SDK by Thibaud Anthoine
+    documentation_url: https://github.com/thibaudanthoine/deezer-api-console
+    platform: PHP
+    author: thibaudanthoine
+    stargazers_count: 1
+  - name: Deezer Java SDK by Fenrurr
+    documentation_url: https://github.com/Fenrurr/SimpleDeezerApi
+    platform: Java
+    author: ltinnirello
+    stargazers_count: 0
+  - name: Deezer Objective-C SDK by Rémi Lavedrine
+    documentation_url: https://github.com/Shosta/deezer-search-artist
+    platform: Objective-C
+    author: Shosta
+    stargazers_count: 0
+  - name: Deezer JavaScript SDK by d-fi
+    documentation_url: https://github.com/d-fi/deezer-request2
+    platform: JavaScript
+    stargazers_count: 3
+  - name: Deezer Java SDK by alex-massa
+    documentation_url: https://github.com/alex-massa/deezer-api
+    platform: Java
+    author: alex-massa
+    stargazers_count: 0
+  - name: Deezer PHP SDK by Paul
+    documentation_url: https://github.com/PouleR/deezer-api
+    source_code_url: https://packagist.org/packages/pouler/deezer-api
+    platform: PHP
+    author: PouleR
+    stargazers_count: 2
+  - name: Deezer JavaScript SDK by wowucco
+    documentation_url: https://github.com/wowucco/deezer-api
+    platform: JavaScript
+    author: wowucco
+    stargazers_count: 0
+  - name: Deezer C# SDK by NwotYknuf
+    documentation_url: https://github.com/NwotYknuf/deezerReaper
+    platform: C#
+    author: NwotYknuf
+    stargazers_count: 0
+  - name: Deezer Python SDK by NcVillalobos
+    documentation_url: https://github.com/NcVillalobos/DeezerPy
+    platform: Python
+    author: DeVillax
+    stargazers_count: 0
+  - name: Deezer Java SDK by Ernest Chechelski
+    documentation_url: https://github.com/ernichechelski/DeezerMusicTour
+    platform: Java
+    author: ernichechelski
+    stargazers_count: 0

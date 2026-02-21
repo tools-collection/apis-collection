@@ -1,0 +1,13 @@
+name: OpenAlex
+slug: openalex
+description: OpenAlex is a fully open catalog of the global research system. API provides access to 250M+ academic works, authors, institutions, concepts, and citation graphs.
+categories:
+  - Science & Math
+  - Books
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.openalex.org
+  - name: API Reference
+    url: https://docs.openalex.org/api-entities/works

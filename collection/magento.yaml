@@ -1,0 +1,12 @@
+name: Adobe Commerce (Magento)
+slug: magento
+description: Adobe Commerce (Magento) REST and GraphQL APIs manage products, orders, customers, carts, and inventory for enterprise e-commerce stores. Supports both cloud and self-hosted deployments.
+categories:
+  - Commerce
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.adobe.com/commerce/webapi/rest
+  - name: API Reference
+    url: https://developer.adobe.com/commerce/webapi/rest/quick-reference

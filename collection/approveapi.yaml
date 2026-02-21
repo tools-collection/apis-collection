@@ -1,0 +1,12 @@
+name: Approveapi
+slug: approveapi
+description: A simple API to request a user's real-time approval on any device or platform via Email, SMS, Slack, and
+  in-app mobile Push. I found a great domain name for sale. Check it out!
+categories:
+  - Development
+  - Validation & Verification
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/approveapi/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://approveapi.com

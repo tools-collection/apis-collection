@@ -1,0 +1,13 @@
+name: Brex
+slug: brex
+description: Brex's API provides access to corporate card transactions, expenses, budgets, vendors, and reimbursements. Automate expense management and financial workflows for businesses.
+categories:
+  - Finance & Economics
+  - Payments
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://developer.brex.com
+  - name: API Reference
+    url: https://developer.brex.com/openapi/transactions_api

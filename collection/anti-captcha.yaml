@@ -1,0 +1,93 @@
+name: Anti-Captcha
+slug: anti-captcha
+description: Access to Anti-Captcha’s API. Bypass reCAPTCHA, solve image captchas, hCaptcha, FunCaptcha, GeeTest for the
+  cheapest price
+categories:
+  - Captcha
+  - Recognition
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anti-captcha/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://anti-captcha.com/apidoc
+libraries:
+  - name: Anti Captcha PHP SDK by Tymchyk Maksym
+    documentation_url: https://github.com/m-tymchyk/php-anticaptcha-v2
+    platform: PHP
+    author: m-tymchyk
+    stargazers_count: 0
+  - name: Anti Captcha NodeJS SDK by Tymchyk Maksym
+    documentation_url: https://github.com/m-tymchyk/resolve-anticaptcha
+    platform: JavaScript, Node.js
+    author: m-tymchyk
+    stargazers_count: 1
+  - name: Anti Captcha Python SDK by Andrey Perelygin
+    documentation_url: https://github.com/AndreyPerelygin/anticaptcha
+    platform: Python
+    author: AndreyPerelygin
+    stargazers_count: 1
+  - name: Anti Captcha Laravel PHP SDK by Volodymyr Chukh
+    documentation_url: https://github.com/vovarpd/laravel-anticaptcha
+    platform: PHP
+    author: vovarpd
+    stargazers_count: 3
+  - name: Anti Captcha .NET SDK by Mikhail
+    documentation_url: https://github.com/Shifu462/AnticaptchaNet
+    platform: .Net, C#
+    author: Shifu462
+    stargazers_count: 2
+  - name: Anti Captcha Python SDK by jakestrouse00
+    documentation_url: https://github.com/jakestrouse00/AntiCaptcha-python-wrapper
+    platform: Python
+    author: jakestrouse00
+    stargazers_count: 1
+  - name: Anti Captcha Yii 2 PHP SDK by Dmitry
+    documentation_url: https://github.com/sabirov/yii2-AntiCaptcha
+    platform: PHP
+    author: sabirov
+    stargazers_count: 1
+  - name: Anti Captcha Perl SDK by Fayland Lam
+    documentation_url: https://github.com/fayland/perl-WebService-AntiCaptcha
+    platform: PERL
+    author: fayland
+    stargazers_count: 2
+  - name: Anti Captcha Go SDK by Andrew Druzhinin
+    documentation_url: https://github.com/drzhnin/go-anti-captcha
+    platform: Go
+    author: drzhnin
+    stargazers_count: 6
+  - name: Anti Captcha PHP SDK by Majesko
+    documentation_url: https://github.com/Majesko/anti-captcha
+    platform: PHP
+    author: Majesko
+    stargazers_count: 3
+  - name: Anti Captcha Ruby SDK by Infosimples
+    documentation_url: https://github.com/infosimples/anti_captcha
+    platform: Ruby
+    stargazers_count: 19
+  - name: Anti Captcha Python SDK by Andrei Drang
+    documentation_url: https://github.com/AndreiDrang/python3-anticaptcha
+    source_code_url: https://pypi.org/project/python3-anticaptcha/1.2.5/
+    platform: Python
+    author: AndreiDrang
+    stargazers_count: 92
+  - name: Anti Captcha NodeJS SDK by Andréas Hanss
+    documentation_url: https://github.com/ScreamZ/anti-captcha
+    platform: Node.js
+    author: ScreamZ
+    stargazers_count: 20
+  - name: Anti Captcha Java SDK by Anti Captcha
+    documentation_url: https://code.google.com/archive/p/java-antigate/
+    platform: Java
+  - name: Anti Captcha C++ SDK by Anti Captcha
+    documentation_url: https://anti-captcha.com/apidoc
+    platform: C++
+  - name: Anti Captcha Node.js SDK by Anti Captcha
+    documentation_url: https://www.npmjs.com/package/antigate
+    platform: Node.js
+  - name: Anti Captcha Python SDK by Anti Captcha
+    documentation_url: https://github.com/gotlium/antigate/tree/master/docs
+    platform: Python
+    author: gotlium
+    stargazers_count: 92

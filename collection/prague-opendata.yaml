@@ -1,0 +1,12 @@
+name: Prague Opendata
+slug: prague-opendata
+description: Prague City Open Data. Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. Zde
+  magistrát hlavního města, příspěvkové organizace, městské části a další související subjekty zveřejňují data ve
+  strojově
+categories:
+  - Government
+  - Statistics & Data
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://opendata.praha.eu/en

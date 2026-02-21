@@ -1,0 +1,26 @@
+name: CoinDesk
+slug: coindesk
+description: Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin Price Index (BPI) data
+  programmatically available to others. Find out how to use it here
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coindesk/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://www.coindesk.com/api/
+libraries:
+  - name: " CoinDesk Go SDK by Martín Raúl Villalba"
+    documentation_url: https://github.com/mvillalba/go-coindesk
+    platform: Go
+    author: mvillalba
+    stargazers_count: 1
+  - name: CoinDesk PHP SDK by haqqur
+    documentation_url: https://github.com/haqqur/php-btconv
+    platform: PHP
+  - name: CoinDesk Node.js SDK by LapsuS
+    documentation_url: https://github.com/erlapso/node-coindesk
+    platform: Node.js
+    author: erlapso
+    stargazers_count: 0

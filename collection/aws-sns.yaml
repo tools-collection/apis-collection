@@ -1,0 +1,13 @@
+name: AWS SNS
+slug: aws-sns
+description: AWS Simple Notification Service API enables pub/sub messaging, mobile push notifications, and SMS delivery. Create topics, manage subscriptions, and publish messages at scale.
+categories:
+  - Email & SMS
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.aws.amazon.com/sns/latest/dg/welcome.html
+  - name: API Reference
+    url: https://docs.aws.amazon.com/sns/latest/api/welcome.html

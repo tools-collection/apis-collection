@@ -1,0 +1,14 @@
+name: MessageBird
+slug: messagebird
+description: MessageBird's API provides SMS, voice, WhatsApp, email, and live chat communications. Send messages globally, build IVR flows, and manage omnichannel customer interactions.
+categories:
+  - Email & SMS
+  - Voice
+  - Chats & Messaging
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.messagebird.com
+  - name: API Reference
+    url: https://developers.messagebird.com/api

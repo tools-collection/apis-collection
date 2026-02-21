@@ -1,0 +1,13 @@
+name: Shotstack
+slug: shotstack
+description: Shotstack API enables programmatic video editing and generation. Compose videos from templates, images, audio, and text overlays at scale for media automation pipelines.
+categories:
+  - Video & Media
+  - AI & ML
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://shotstack.io/docs/guide/getting-started/core-concepts
+  - name: API Reference
+    url: https://shotstack.io/docs/api

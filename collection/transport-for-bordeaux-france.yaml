@@ -1,0 +1,10 @@
+name: Transportation in Bordeaux, France
+slug: transport-for-bordeaux-france
+description: Bordeaux Transportion Data
+categories:
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://opendata.bordeaux-metropole.fr/explore/

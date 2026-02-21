@@ -1,0 +1,15 @@
+name: 1Forge.com
+slug: 1forge-com
+description: Real-time forex and crypto quotes via JSON and WebSocket
+categories:
+  - Finance & Economics
+type: REST
+is_free: false
+contact: contact@1forge.com
+specification:
+  type: swagger
+  url: http://1forge.com/openapi.json
+  version: http://1forge.com/openapi.json
+links:
+  - name: Docs / Website
+    url: https://1forge.com/

@@ -1,0 +1,56 @@
+name: Getty Images
+slug: getty-images
+description: Page moved here. Page moved here
+categories:
+  - Images & Photography
+  - Video & Media
+  - Art & Design
+type: REST
+is_free: false
+contact: info@getthedata.com
+links:
+  - name: Docs / Website
+    url: http://developers.gettyimages.com/en/
+libraries:
+  - name: Getty Images Ruby SDK
+    documentation_url: https://github.com/gettyimages/gettyimages-api_ruby
+    platform: Ruby
+    stargazers_count: 12
+  - name: Getty Images Node.js SDK
+    documentation_url: https://github.com/gettyimages/gettyimages-api_nodejs
+    platform: Node.js
+    stargazers_count: 22
+  - name: Getty Images Java SDK
+    documentation_url: https://github.com/gettyimages/gettyimages-api_java
+    platform: Java
+    stargazers_count: 12
+  - name: Getty Images PHP SDK
+    documentation_url: https://github.com/gettyimages/gettyimages-api_php
+    platform: PHP
+    stargazers_count: 14
+  - name: Getty Images .NET SDK
+    documentation_url: https://github.com/gettyimages/gettyimages-api_dotnet
+    platform: .Net
+    stargazers_count: 13
+  - name: Getty Images Connect Objective-C SDK by Getty Images
+    documentation_url: https://github.com/gettyimages/gettyimages-api_objective-c
+    source_code_url: https://github.com/gettyimages/gettyimages-api_objective-c
+    platform: Objective-C
+  - name: "Getty Images Connect Java # SDK"
+    documentation_url: https://github.com/gettyimages/connect_sdk_java
+    platform: Java
+  - name: Getty Images Connect Ruby SDK
+    documentation_url: https://github.com/gettyimages/connect_sdk_ruby
+    platform: Ruby
+  - name: Getty Images Connect Node.js SDK
+    documentation_url: https://github.com/gettyimages/connect_sdk_nodejs
+    platform: Node.js
+  - name: Getty Images Connect PHP SDK
+    documentation_url: https://github.com/gettyimages/connect_sdk_php
+    platform: PHP
+  - name: Getty Images Connect Objective-C SDK
+    documentation_url: https://github.com/gettyimages/connect_sdk_objective-c
+    platform: Objective-C
+  - name: Getty Images Connect API C# SDK
+    documentation_url: https://github.com/gettyimages/connect_sdk_csharp
+    platform: C#

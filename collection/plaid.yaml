@@ -1,0 +1,59 @@
+name: Plaid
+slug: plaid
+description: Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect
+  their financial data to apps and services. You&apos;ve reached this page unjustly"
+categories:
+  - Finance & Economics
+  - Analytics
+  - Payments
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/plaid/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://plaid.com/
+libraries:
+  - name: Plaid Link React JavaScript SDK
+    documentation_url: https://plaid.com/docs/libraries/#link-client-libraries
+    source_code_url: https://github.com/plaid/react-plaid-link
+    platform: JavaScript
+    stargazers_count: 141
+  - name: Plaid Link iOS SDK
+    documentation_url: https://plaid.com/docs/#ios-bindings
+    source_code_url: https://github.com/plaid/plaid-link-ios
+    platform: Objective-C, Swift
+    stargazers_count: 51
+  - name: Plaid Android SDK by Michael Barany
+    documentation_url: https://github.com/mbarany/Plaid-Android
+    platform: Java
+    author: mbarany
+    stargazers_count: 2
+  - name: Plaid Link AngularJS SDK by Chris Barnes
+    documentation_url: https://plaid.com/docs/libraries
+    source_code_url: https://github.com/csbarnes/angular-plaid-link
+    platform: JavaScript
+    author: csbarnes
+    stargazers_count: 11
+  - name: Plaid Legacy Java SDK by Plaid
+    documentation_url: https://github.com/plaid/plaid-java-legacy
+    platform: Java
+    stargazers_count: 1
+  - name: Plaid Rust SDK by Michael Barany
+    documentation_url: https://github.com/mbarany/Plaid-Backend
+    platform: PHP
+    author: mbarany
+    stargazers_count: 22
+  - name: Plaid Rust SDK by Nathan Kot
+    documentation_url: https://github.com/nathankot/plaid-rust
+    platform: Unspecified
+    author: nathankot
+    stargazers_count: 6
+  - name: Plaid Ruby SDK by Plaid
+    documentation_url: https://github.com/plaid/plaid-ruby
+    platform: Ruby
+    stargazers_count: 154
+  - name: Plaid Java SDK by Plaid
+    documentation_url: https://plaid.com/docs/
+    source_code_url: https://github.com/plaid/plaid-java
+    platform: Java
+    stargazers_count: 69

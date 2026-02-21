@@ -1,0 +1,10 @@
+name: Livecoin
+slug: livecoin
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: false
+is_active: false
+links:
+  - name: Docs / Website
+    url: https://www.livecoin.net

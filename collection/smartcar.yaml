@@ -1,0 +1,69 @@
+name: Smartcar
+slug: smartcar
+description: Build web and mobile apps that communicate with vehicles
+categories:
+  - Vehicles
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://smartcar.com/docs/
+libraries:
+  - name: Smartcar Connect Android SDK
+    documentation_url: https://github.com/smartcar/android-sdk
+    source_code_url: https://smartcar.github.io/android-sdk/
+    platform: Java
+    stargazers_count: 7
+  - name: " Smartcar Connect iOS SDK"
+    documentation_url: https://github.com/smartcar/ios-sdk
+    platform: Objective-C
+    stargazers_count: 6
+  - name: Smartcar Connect JavaScript SDK
+    documentation_url: https://github.com/smartcar/javascript-sdk
+    platform: JavaScript
+    stargazers_count: 3
+  - name: Smartcar JavaScript SDK
+    documentation_url: https://smartcar.com/docs/
+    source_code_url: https://github.com/smartcar/javascript-sdk
+    platform: JavaScript
+    stargazers_count: 3
+  - name: "Smartcar React SDK "
+    documentation_url: https://smartcar.com/docs/integration-guides/react/introduction
+    source_code_url: https://github.com/smartcar/getting-started-javascript-sdk-react
+    platform: JavaScript
+    stargazers_count: 1
+  - name: "Smartcar ExpressJS SDK "
+    documentation_url: https://smartcar.com/docs/integration-guides/express/introduction
+    source_code_url: https://github.com/smartcar/getting-started-express
+    platform: Node.js
+    stargazers_count: 1
+  - name: "Smartcar Java SDK "
+    documentation_url: https://smartcar.github.io/java-sdk
+    source_code_url: https://github.com/smartcar/java-sdk
+    platform: Java
+    stargazers_count: 6
+  - name: "Smartcar Python SDK "
+    documentation_url: https://github.com/smartcar/python-sdk
+    platform: Python
+    stargazers_count: 19
+  - name: "Smartcar NodeJS SDK "
+    documentation_url: https://github.com/smartcar/node-sdk#readme
+    source_code_url: https://github.com/smartcar/node-sdk
+    platform: Node.js
+    stargazers_count: 24
+  - name: "Smartcar Android SDK "
+    documentation_url: https://smartcar.com/docs/integration-guides/android/introduction
+    source_code_url: https://github.com/smartcar/android-sdk
+    platform: Java
+    stargazers_count: 7
+  - name: "Smartcar iOS SDK "
+    documentation_url: https://smartcar.com/docs/integration-guides/ios/introduction
+    source_code_url: https://github.com/smartcar/ios-sdk
+    platform: Swift
+    stargazers_count: 6
+  - name: "Smartcar JavaScript Client OAuth SDK "
+    documentation_url: https://github.com/smartcar/javascript-sdk/blob/master/README.md
+    source_code_url: https://github.com/smartcar/javascript-sdk
+    platform: JavaScript
+    stargazers_count: 3

@@ -1,0 +1,11 @@
+name: USAspending.gov
+slug: usaspending-gov
+description: Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated. The USAspending
+  Application Programming Interface (API) The USAspending API (Application Programming Interface) all
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://api.usaspending.gov/

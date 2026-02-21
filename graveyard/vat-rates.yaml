@@ -1,0 +1,11 @@
+name: Vat Rates
+slug: vat-rates
+description: A collection of all VAT rates for EU countries
+categories:
+  - Finance & Economics
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vat-rates/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: https://jsonvat.com

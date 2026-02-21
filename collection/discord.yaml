@@ -1,0 +1,118 @@
+name: Discord
+slug: discord
+description: Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can
+  come up with
+categories:
+  - Chats & Messaging
+  - Voice
+  - Games
+  - Social
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://discordapp.com/developers/docs/intro
+libraries:
+  - name: Crypto2discord Python SDK by Azerpas
+    documentation_url: https://github.com/azerpas/Crypto2discord
+    platform: Python
+    author: azerpas
+    stargazers_count: 7
+  - name: Discord Java SDK by ashley null
+    documentation_url: https://github.com/nerd/Discord4J
+    platform: Java
+    author: nerd
+    stargazers_count: 27
+  - name: Discord Dart SDK by Hackzzila
+    documentation_url: https://github.com/hackzzila/Discord-Dart
+    platform: Dart
+    author: Hackzzila
+    stargazers_count: 50
+  - name: Discord Python SDK by Danny
+    documentation_url: https://github.com/Rapptz/discord.py
+    platform: Python
+    author: Rapptz
+    stargazers_count: 15930
+  - name: Discord C# SDK by Ryan de Jonge
+    documentation_url: https://github.com/NaamloosDT/DSharpPlus
+    platform: C#
+    author: Naamloos
+    stargazers_count: 2
+  - name: Discord Rust SDK by SpaceManiac
+    documentation_url: https://github.com/SpaceManiac/discord-rs
+    platform: Unspecified
+    author: SpaceManiac
+    stargazers_count: 401
+  - name: Discord Java SDK by Bastian Oppermann
+    documentation_url: https://github.com/BtoBastian/Javacord
+    platform: Java
+    stargazers_count: 772
+  - name: Discord Java SDK by Austin Keener
+    documentation_url: https://github.com/DV8FromTheWorld/JDA/
+    platform: Java
+    author: DV8FromTheWorld
+    stargazers_count: 4628
+  - name: Discord Java SDK by austinv11
+    documentation_url: https://github.com/austinv11/Discord4J
+    platform: Java
+    stargazers_count: 1901
+  - name: Discord .Net SDK by RogueException
+    documentation_url: https://github.com/RogueException/Discord.Net
+    platform: .Net
+    stargazers_count: 3492
+  - name: Discord Ruby SDK by meew0
+    documentation_url: https://github.com/meew0/discordrb
+    platform: Ruby
+    stargazers_count: 9
+    author: meew0
+  - name: Discord Node.js SDK by Amish Shah
+    documentation_url: https://github.com/hydrabolt/discord.js
+    platform: Node.js
+    stargazers_count: 26579
+  - name: Discord Lua SDK by Adam James
+    documentation_url: https://github.com/satom99/litcord
+    platform: Lua
+    author: satom99
+    stargazers_count: 23
+  - name: Discord Go SDK by Bruce
+    documentation_url: https://github.com/bwmarrin/discordgo
+    platform: Go
+    author: bwmarrin
+    stargazers_count: 5786
+  - name: Discord Unity SDK by DiscordUnity
+    documentation_url: https://github.com/DiscordUnity/DiscordUnity
+    platform: C#, Unity
+    stargazers_count: 68
+  - name: Discord PHP SDK by Reflex
+    documentation_url: https://github.com/teamreflex/DiscordPHP
+    platform: PHP
+    stargazers_count: 1064
+  - name: Discord JavaScript SDK by qeled
+    documentation_url: https://github.com/qeled/discordie
+    platform: JavaScript
+    author: qeled
+    stargazers_count: 192
+  - name: Discord Lua SDK by SinisterRectus
+    documentation_url: https://github.com/SinisterRectus/Discordia
+    platform: Lua
+    author: SinisterRectus
+    stargazers_count: 750
+  - name: Discord Node.js SDK by abal
+    documentation_url: https://github.com/abalabahaha/eris
+    platform: Node.js
+    author: abalabahaha
+    stargazers_count: 1507
+  - name: Discord Node.js SDK by izy521
+    documentation_url: https://github.com/izy521/discord.io
+    platform: Node.js
+    author: izy521
+    stargazers_count: 533
+  - name: Discord Crystal SDK by meew0
+    documentation_url: https://github.com/meew0/discordcr
+    platform: Unspecified
+    stargazers_count: 136
+  - name: Discord Swift SDK by Erik Little
+    documentation_url: https://github.com/nuclearace/SwiftDiscord
+    platform: Swift
+    author: nuclearace
+    stargazers_count: 122

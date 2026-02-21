@@ -1,0 +1,13 @@
+name: Big ML
+slug: big-ml
+description: BigML removes the complexities of Machine Learning so you can focus on what matters most, enhancing and
+  automating decision making. BigML is user-friendly and developer-friendly Machine learning API that mainly
+  concentrates on decision trees
+categories:
+  - AI & ML
+type: REST
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/big-ml/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://bigml.com/api/

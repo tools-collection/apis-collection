@@ -1,0 +1,42 @@
+name: eBay
+slug: ebay
+description: eBay's APIs
+categories:
+  - Commerce
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://go.developer.ebay.com/
+libraries:
+  - name: eBay PHP SDK for Enterprise Retail Order Management by Scott van Brug
+    documentation_url: https://github.com/eBayEnterprise/RetailOrderManagement-SDK
+    platform: PHP
+    stargazers_count: 1
+  - name: eBay .NET SDK by Sergiy Bidnyi
+    documentation_url: https://github.com/JustApplications/ebaysdk-nuget
+    platform: .Net
+    stargazers_count: 1
+  - name: eBay SDK for .NET
+    documentation_url: http://www.ebay.com/
+    source_code_url: https://go.developer.ebay.com/developers/ebay/documentation-tools/sdks/dotnet
+    platform: .Net
+  - name: eBay PHP Library by Rick Earley
+    documentation_url: https://github.com/rearley/ebay
+    platform: PHP
+    author: rearley
+    stargazers_count: 8
+  - name: eBay Ruby Library by JJ Buckley
+    documentation_url: https://github.com/bjjb/ebayr
+    platform: Ruby
+    author: bjjb
+    stargazers_count: 61
+  - name: " eBay Java Library by eBay"
+    documentation_url: http://developer.ebay.com/devzone/javasdk-jaxb/docs/GettingStarted/GettingStarted.html
+    platform: Java
+  - name: ActionScript Library for eBay API
+    documentation_url: http://code.google.com/p/as3ebaylib/
+  - name: eBay Flex ClientAlerts api
+    documentation_url: http://developer.ebay.com/developercenter/flash/client-alerts/
+  - name: PHP Ultimate eBay Store
+  - name: PHP Ultimate eBay Store

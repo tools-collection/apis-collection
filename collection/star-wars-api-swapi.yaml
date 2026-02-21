@@ -1,0 +1,10 @@
+name: Star Wars API (SWAPI)
+slug: star-wars-api-swapi
+description: A Remake of the original api, using the MERN stack
+categories:
+  - Entertainment
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://www.swapi.tech/

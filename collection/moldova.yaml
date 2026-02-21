@@ -1,0 +1,10 @@
+name: Moldova
+slug: moldova
+description: Central bank of Moldova
+categories:
+  - Government
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://bnm.md/en/content/official-exchange-rates

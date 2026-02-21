@@ -1,0 +1,15 @@
+name: Posterous API
+slug: posterous-api
+description: Similar to other blogging platforms. Posting could be done by logging into the website's rich text editor,
+  but it was particularly designed for mobile blogging. Mobile methods include sending an email, with attachments of
+  photos, MP3s, documents, and video (both links and files)
+categories:
+  - Social
+  - Email & SMS
+  - Images & Photography
+is_free: false
+is_active: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/posterous-api/logo_256x256.png
+links:
+  - name: Docs / Website
+    url: http://www.posterous.com/api
