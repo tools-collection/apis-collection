@@ -1,0 +1,20 @@
+name: Agent Gateway
+slug: agent-gateway
+description: Free unified REST API for real-time crypto price data (500+ tokens via Hyperliquid)
+  and 35+ AI agent infrastructure services including LLM, identity, email, scheduling,
+  web scraping, and more. No API key required for basic crypto price access.
+categories:
+  - Blockchain & Cryptocurrencies
+  - AI & ML
+type: REST
+is_free: true
+auth_type: none
+rate_limits: "Free tier with rate limits; paid plans available"
+specification:
+  type: OpenAPI
+  url: https://agent-gateway-kappa.vercel.app/openapi.json
+links:
+  - name: Docs / Website
+    url: https://agent-gateway-kappa.vercel.app
+  - name: Crypto Prices Endpoint
+    url: https://agent-gateway-kappa.vercel.app/prices
