@@ -1,0 +1,11 @@
+name: Auto.dev
+slug: auto-dev
+description: Automotive data APIs — VIN decode, vehicle listings, payments, recalls, and specs. 1,000 free API requests per month.
+categories:
+  - Vehicles
+type: REST
+is_free: false
+auth_type: api_key
+links:
+  - name: Docs / Website
+    url: https://docs.auto.dev/v2/cli-mcp-sdk
