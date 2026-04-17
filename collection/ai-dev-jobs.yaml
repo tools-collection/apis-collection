@@ -1,0 +1,22 @@
+name: AI Dev Jobs
+slug: ai-dev-jobs
+description: REST API for 8,400+ active AI/ML engineering jobs from 580 company ATS sources (Anthropic, OpenAI, Meta FAIR, Google DeepMind, Scale, Cohere, and 475+ more). Search by role, tags, location, workplace (remote/hybrid/onsite), experience level, and salary range. Also exposes an MCP server for AI agents.
+categories:
+  - Jobs
+  - AI & ML
+type: REST
+is_free: true
+specification:
+  type: openapi
+  url: https://aidevboard.com/openapi.yaml
+links:
+  - name: Docs / Website
+    url: https://aidevboard.com/docs
+  - name: API endpoint
+    url: https://aidevboard.com/api/v1/jobs
+  - name: MCP server
+    url: https://aidevboard.com/mcp
+  - name: RSS feed
+    url: https://aidevboard.com/feed.xml
+  - name: OpenAPI spec
+    url: https://aidevboard.com/openapi.yaml

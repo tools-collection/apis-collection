@@ -1,0 +1,20 @@
+name: Not Human Search
+slug: not-human-search
+description: Agent-first search engine. Indexes 8,000+ AI tools, MCP servers, and agent-readable services, ranked across 7 agentic readiness signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Queryable via REST API, MCP server, or browser. Includes a verify_mcp tool that does a live JSON-RPC probe of any MCP URL.
+categories:
+  - Search
+  - AI & ML
+type: REST
+is_free: true
+specification:
+  type: openapi
+  url: https://nothumansearch.ai/openapi.yaml
+links:
+  - name: Docs / Website
+    url: https://nothumansearch.ai
+  - name: API endpoint
+    url: https://nothumansearch.ai/api/v1/search
+  - name: MCP server
+    url: https://nothumansearch.ai/mcp
+  - name: llms.txt
+    url: https://nothumansearch.ai/llms.txt
