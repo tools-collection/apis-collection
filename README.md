@@ -1452,6 +1452,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Open Street Map](https://tools-collection.net/apis-list/open-street-map) - Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry
 - [OpenCage](https://tools-collection.net/apis-list/opencage) - An easy-to-use forward and reverse geocoding API 🆓
 - [OpenWeatherMap](https://tools-collection.net/apis-list/openweathermap) - Simple and fast and free weather API from OpenWeatherMap
+- [PostalCodes.info](https://tools-collection.net/apis-list/postalcodes-info) - Postal code lookup, search, country exports and address validation workflows for global postal data
 - [PostcodeData.nl](https://tools-collection.net/apis-list/postcodedata-nl) - Netherland&#x27;s post codes search
 - [Postcodes.io](https://tools-collection.net/apis-list/postcodes-io) - Search, validate and reverse geocode postcodes
 - [Postmon](https://tools-collection.net/apis-list/postmon) - API to query zip codes and orders in an easy, fast and free way
@@ -1667,6 +1668,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Mapbox Directions API](https://tools-collection.net/apis-list/mapbox-directions-api) - The Mapbox Directions API can calculate optimal driving, walking, and cycling routes, produce turn-by-turn instructions, produce routes with up to 25 coordinates anywhere on earth
 - [Mapbox Matrix API](https://tools-collection.net/apis-list/mapbox-matrix-api) - The Mapbox Matrix API returns travel times between many points
 - [Onfleet API](https://tools-collection.net/apis-list/onfleet-api) - Onfleet is the easiest way for businesses to manage and analyze their last-mile delivery operations
+- [PostalCodes.info](https://tools-collection.net/apis-list/postalcodes-info) - Postal code lookup, search, country exports and address validation workflows for global postal data
 - [PostcodeData.nl](https://tools-collection.net/apis-list/postcodedata-nl) - Netherland&#x27;s post codes search
 - [Postcodes.io](https://tools-collection.net/apis-list/postcodes-io) - Search, validate and reverse geocode postcodes
 - [Postmates](https://tools-collection.net/apis-list/postmates) - Build on-demand delivery into your app or website.
