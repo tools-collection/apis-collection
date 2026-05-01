@@ -1,0 +1,12 @@
+name: PostalCodes.info
+slug: postalcodes-info
+description: Postal code lookup, search, country exports and address validation workflows for global postal data.
+categories:
+  - Post & Logistics
+  - Maps & Geo
+type: REST
+is_free: false
+auth_type: api_key
+links:
+  - name: Docs / Website
+    url: https://postalcodes.info/api
