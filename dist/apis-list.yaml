@@ -14229,6 +14229,39 @@
       url: https://www.meilisearch.com/docs
     - name: API Reference
       url: https://www.meilisearch.com/docs/reference/api/overview
+- name: Memesio
+  slug: memesio
+  description: Memesio is a meme creation and sharing API with public template
+    discovery, captioned meme rendering, hosted share links, OpenAPI metadata,
+    and agent/MCP discovery resources.
+  categories:
+    - Entertainment
+    - Fun
+    - Images & Photography
+  type: REST
+  is_free: true
+  auth_type: none
+  rate_limits: Public endpoints are rate limited; developer or agent API keys
+    unlock higher-rate, premium, and AI routes.
+  tags:
+    - memes
+    - meme-generator
+    - templates
+    - image-generation
+    - openapi
+  specification:
+    type: openapi
+    url: https://memesio.com/api/openapi
+    version: 3.1.0
+  links:
+    - name: Docs / Website
+      url: https://memesio.com/developers/api
+    - name: OpenAPI Description
+      url: https://memesio.com/api/openapi
+    - name: API Catalog
+      url: https://memesio.com/.well-known/api-catalog
+    - name: MCP Documentation
+      url: https://memesio.com/developers/mcp
 - name: Mercedes-Benz
   slug: mercedes-benz
   description: Mercedes-Benz's live API products
