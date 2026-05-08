@@ -939,6 +939,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Lord of the Rings API](https://tools-collection.net/apis-list/lord-of-the-rings-api) - Get data about the books, the movie trilogy, many characters and quotes
 - [Magic The Gathering](https://tools-collection.net/apis-list/magic-the-gathering) - The MTG API allows developers to easily consume MTG card and set data in JSON format
 - [Marvel](https://tools-collection.net/apis-list/marvel) - The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&amp;#039;s systems
+- [Memesio](https://tools-collection.net/apis-list/memesio) - Memesio is a meme creation and sharing API with public template discovery, captioned meme rendering, hosted share links, OpenAPI metadata, and agent/MCP discovery resources 🆓
 - [mod.io](https://tools-collection.net/apis-list/mod-io) - Cross-platform mod support
 - [My Anime List API](https://tools-collection.net/apis-list/my-anime-list-api) - Jikan is an unofficial MyAnimeList REST based API
 - [Netflix Roulette](https://tools-collection.net/apis-list/netflix-roulette) - Wondering what to watch
@@ -1126,6 +1127,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Imgflip](https://tools-collection.net/apis-list/imgflip) - Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API
 - [JokeAPI](https://tools-collection.net/apis-list/jokeapi) - JokeAPI is a RESTful API that serves jokes from many categories while also offering a lot of filtering methods
 - [Jokes](https://tools-collection.net/apis-list/jokes) - Full featured Jokes API
+- [Memesio](https://tools-collection.net/apis-list/memesio) - Memesio is a meme creation and sharing API with public template discovery, captioned meme rendering, hosted share links, OpenAPI metadata, and agent/MCP discovery resources 🆓
 - [Numbers](https://tools-collection.net/apis-list/numbers) - An API for interesting facts about numbers
 - [PlaceGoat](https://tools-collection.net/apis-list/placegoat) - PlaceGOAT placeholder service.
 - [Quotes Api](https://tools-collection.net/apis-list/quotes-api) - They Said So. Quotes API with lot of features
@@ -1319,6 +1321,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Lolwallpapers Api](https://tools-collection.net/apis-list/lolwallpapers-api) - League of Legends Wallpapers website official API
 - [Lorem Picsum](https://tools-collection.net/apis-list/lorem-picsum) - Lorem Ipsum, but for photos.
 - [LottieFiles](https://tools-collection.net/apis-list/lottiefiles) - LottieFiles API provides access to a library of Lottie animations, enables uploading and managing animation files, and converting between animation formats for web and mobile apps 🆓
+- [Memesio](https://tools-collection.net/apis-list/memesio) - Memesio is a meme creation and sharing API with public template discovery, captioned meme rendering, hosted share links, OpenAPI metadata, and agent/MCP discovery resources 🆓
 - [Noun Project](https://tools-collection.net/apis-list/noun-project) - Grab a hold of the World’s Visual Language
 - [Nudity Detection Api](https://tools-collection.net/apis-list/nudity-detection-api) - io detects nudity in images and helps to recognise and filter undesired content
 - [Openverse](https://tools-collection.net/apis-list/openverse) - Openverse API provides search access to 800M+ openly licensed and public domain images, audio, and other media 🆓
