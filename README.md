@@ -1512,6 +1512,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Scoop.it](https://tools-collection.net/apis-list/scoop-it) - Enables professionals and businesses to research and publish content through its content curation tool
 - [SearchApi](https://tools-collection.net/apis-list/searchapi) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
 - [Segment](https://tools-collection.net/apis-list/segment) - Segment&#x27;s API is a customer data platform that collects, unifies, and routes user events to analytics, marketing, and data warehouse tools from a single source of truth 🆓
+- [TalorData](https://tools-collection.net/apis-list/talordata) - TalorData provides SERP APIs for retrieving structured search engine results data with configurable query parameters
 - [Visit Rank](https://tools-collection.net/apis-list/visit-rank) - Get a rank for any of 385 million domains
 - [Yahoo Gemini API](https://tools-collection.net/apis-list/yahoo-gemini-api) - Developer tools and the support you need to leverage Verizon Media&#x27;s powerful data and advertising solutions
 - [Yo Developers API](https://tools-collection.net/apis-list/yo-developers-api) - Yo API Documentation
@@ -1787,6 +1788,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [SearchApi](https://tools-collection.net/apis-list/searchapi) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
 - [Spotify](https://tools-collection.net/apis-list/spotify) - Let’s you search and lookup metadata about artists, tracks and albums
 - [SummarizeBot API](https://tools-collection.net/apis-list/summarizebot-api) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [TalorData](https://tools-collection.net/apis-list/talordata) - TalorData provides SERP APIs for retrieving structured search engine results data with configurable query parameters
 - [Trawlingweb](https://tools-collection.net/apis-list/trawlingweb) - Trawlingweb structures, stores and indexes millions of web pages per day in vertical data pools
 - [Zenscrape](https://tools-collection.net/apis-list/zenscrape-web-scraping-api) - This web scraping API handles all problems that are related to web scraping
 - [Zenserp](https://tools-collection.net/apis-list/zenserp) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
@@ -1821,6 +1823,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [SearchApi](https://tools-collection.net/apis-list/searchapi) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
 - [Shodan](https://tools-collection.net/apis-list/shodan) - Shodan API, the easiest way to access the Shodan search engine on your own terms
 - [Shutterstock](https://tools-collection.net/apis-list/shutterstock) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
+- [TalorData](https://tools-collection.net/apis-list/talordata) - TalorData provides SERP APIs for retrieving structured search engine results data with configurable query parameters
 - [TMDb](https://tools-collection.net/apis-list/tmdb) - TMDb provides powerful searches as well as powerful movie discovery
 - [Typesense](https://tools-collection.net/apis-list/typesense) - Typesense is an open-source, typo-tolerant search engine with a REST API 🆓
 - [Unofficial Google News Api](https://tools-collection.net/apis-list/unofficial-google-news-api) - GNews is an API to search for articles from a variety of sources, including Google News
