@@ -21788,6 +21788,26 @@
   links:
     - name: Docs / Website
       url: https://github.com/evz/tacofancy
+- name: TalorData
+  slug: talordata
+  description: TalorData provides SERP APIs for retrieving structured search
+    engine results data with configurable query parameters.
+  categories:
+    - Marketing & SEO
+    - Scrapers & Data Mining
+    - Search
+  type: REST
+  is_free: false
+  auth_type: api_key
+  tags:
+    - serp
+    - search engine results
+    - web data
+  links:
+    - name: Website
+      url: https://talordata.com
+    - name: SERP API Documentation
+      url: https://docs.talordata.com/serp-api/query-parameters
 - name: Tamil Dictionary Api
   slug: tamil-dictionary-api
   description: Lookup Tamil words and build your own Tamil dictionary APP using this API
