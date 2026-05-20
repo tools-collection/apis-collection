@@ -1766,6 +1766,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Currents](https://tools-collection.net/apis-list/currents) - Currents - Capture the world news through simple json News API
 - [Dashblock](https://tools-collection.net/apis-list/dashblock) - The easiest way to access websites programmatically and collect structured data
 - [Elis](https://tools-collection.net/apis-list/elis) - Automate data extraction from your documents with Artificial Intelligence
+- [Geonode](https://geonode.com) — Rotating residential + datacenter proxies and a Firecrawl-compatible scraper API.
 - [Getscreenshot By Rasterwise](https://tools-collection.net/apis-list/getscreenshot-by-rasterwise) - GetScreenshot is an affordable and highly scalable screenshot API service
 - [Icelandic APIs](https://tools-collection.net/apis-list/icelandic-apis) - The purpose of APIs
 - [import.io](https://tools-collection.net/apis-list/import-io) - Import
