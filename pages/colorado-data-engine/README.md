@@ -1,24 +1,32 @@
-# [Colorado Data Engine](http://codataengine.org/)
+# 📦 [Colorado Data Engine](http://codataengine.org/)
 
 
-Formatted and geolocated Colorado public data
+> **Formatted and geolocated Colorado public data**
 
-## Details
-- **Categories**: Government
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://codataengine.org/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

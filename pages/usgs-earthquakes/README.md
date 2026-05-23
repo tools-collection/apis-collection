@@ -1,25 +1,33 @@
-# [USGS Earthquake Hazards](https://earthquake.usgs.gov/fdsnws/event/1)
+# 📦 [USGS Earthquake Hazards](https://earthquake.usgs.gov/fdsnws/event/1)
 
 
-USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity. Access global seismic event feeds in GeoJSON format.
+> **USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity. Access global seismic event feeds in GeoJSON format.**
 
-## Details
-- **Categories**: Environment &amp; Nature, Science &amp; Math
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Environment &amp; Nature`, `Science &amp; Math`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://earthquake.usgs.gov/fdsnws/event/1)
 - [API Reference](https://earthquake.usgs.gov/fdsnws/event/1)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

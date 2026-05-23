@@ -1,26 +1,32 @@
-# [import.io](http://api.docs.import.io/)
+# 📦 [import.io](http://api.docs.import.io/)
 
 
-Import.io enables any organization to gain intelligence, efficiencies, and competitive advantages from the vast amount of data on the web.
+> **Import.io enables any organization to gain intelligence, efficiencies, and competitive advantages from the vast amount of data on the web.**
 
-## Details
-- **Categories**: Development, Scrapers &amp; Data Mining
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Development`, `Scrapers &amp; Data Mining`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://api.docs.import.io/)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-contact@ijenko.com
+## 📬 Contact
+📧 contact@ijenko.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

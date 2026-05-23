@@ -1,25 +1,33 @@
-# [Global Solar Forecasting And Irradiance](https://solcast.com/solar-data-api/)
+# 📦 [Global Solar Forecasting And Irradiance](https://solcast.com/solar-data-api/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/global-solar-forecasting-and-irradiance/logo_256x256.png" alt="Global Solar Forecasting And Irradiance logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/global-solar-forecasting-and-irradiance/logo_256x256.png" alt="Global Solar Forecasting And Irradiance logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Solar radiation and forecasting data globally available and free for researchers, hobbyists. Produces real-time estimates of solar radiation and solar power globally, and forecasts based on where cloud cover will move next
+> **Solar radiation and forecasting data globally available and free for researchers, hobbyists. Produces real-time estimates of solar radiation and solar power globally, and forecasts based on where cloud cover will move next**
 
-## Details
-- **Categories**: Other
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Other`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://solcast.com/solar-data-api/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

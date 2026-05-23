@@ -1,24 +1,32 @@
-# [Jokes](https://jokes.one/api/joke/)
+# 📦 [Jokes](https://jokes.one/api/joke/)
 
 
-Full featured Jokes API
+> **Full featured Jokes API**
 
-## Details
-- **Categories**: Entertainment, Fun
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Entertainment`, `Fun`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://jokes.one/api/joke/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

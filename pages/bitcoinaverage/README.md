@@ -1,41 +1,49 @@
-# [BitcoinAverage](https://apiv2.bitcoinaverage.com/)
+# 📦 [BitcoinAverage](https://apiv2.bitcoinaverage.com/)
 
 
-The world&#x27;s best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price
+> **The world&#x27;s best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price**
 
-## Details
-- **Categories**: Blockchain &amp; Cryptocurrencies
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://apiv2.bitcoinaverage.com/)
 
-## Libraries
-### BitcoinAverage NodeJS SDK
-
-- **Platform**: Node.js
-- **Docs**: [https://www.npmjs.com/package/bitcoinaverage](https://www.npmjs.com/package/bitcoinaverage)
+## 🧰 Libraries
+### 🛠️ BitcoinAverage NodeJS SDK
 
 
-
-
-### BitcoinAverage Python PIP SDK
-
-- **Platform**: Python
-- **Docs**: [https://github.com/bitcoinaverage/api-integration-examples/](https://github.com/bitcoinaverage/api-integration-examples/)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.com/package/bitcoinaverage)
 
 
 
-- **Stars**: 63
+
+### 🛠️ BitcoinAverage Python PIP SDK
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/bitcoinaverage/api-integration-examples/)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 63
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

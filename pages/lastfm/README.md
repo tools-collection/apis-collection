@@ -1,226 +1,257 @@
-# [LastFm](https://www.last.fm/api)
+# 📦 [LastFm](https://www.last.fm/api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lastfm/logo_256x256.png" alt="LastFm logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lastfm/logo_256x256.png" alt="LastFm logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-fm. Allows anyone to build their own programs using Last. fm data, whether they&#x27;re on the web, the desktop or mobile devices. The world&#x27;s largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last
+> **fm. Allows anyone to build their own programs using Last. fm data, whether they&#x27;re on the web, the desktop or mobile devices. The world&#x27;s largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last**
 
-## Details
-- **Categories**: Music &amp; Audio
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Music &amp; Audio`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.last.fm/api)
 
-## Libraries
-### MetaMusic .NET SDK by David Pires
+## 🧰 Libraries
+### 🛠️ MetaMusic .NET SDK by David Pires
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/Davidblkx/MetaMusic](https://github.com/Davidblkx/MetaMusic)
 
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/Davidblkx/MetaMusic)
 
-- **Author**: Davidblkx
-- **Stars**: 1
-### Last.fm PHP SDK by Matt Oakes
 
-- **Platform**: PHP
-- **Docs**: [https://packagist.org/packages/matto1990/lastfm-api](https://packagist.org/packages/matto1990/lastfm-api)
-- **Source**: [https://github.com/matto1990/PHP-Last.fm-API](https://github.com/matto1990/PHP-Last.fm-API)
+- **Author**: 👤 Davidblkx
+- **Stars**: ⭐ 1
+### 🛠️ Last.fm PHP SDK by Matt Oakes
 
-- **Author**: matt-oakes
-- **Stars**: 106
-### Last.fm PHP SDK by Pierre Quillery
 
-- **Platform**: PHP
-- **Docs**: [https://packagist.org/packages/dandelionmood/lastfm](https://packagist.org/packages/dandelionmood/lastfm)
-- **Source**: [https://github.com/dandelionmood/php-lastfm](https://github.com/dandelionmood/php-lastfm)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://packagist.org/packages/matto1990/lastfm-api)
+- **Source**: [💻 Source Code](https://github.com/matto1990/PHP-Last.fm-API)
 
-- **Author**: dandelionmood
-- **Stars**: 26
-### Last.fm Symfony SDK by Karol Sójko
+- **Author**: 👤 matt-oakes
+- **Stars**: ⭐ 106
+### 🛠️ Last.fm PHP SDK by Pierre Quillery
 
-- **Platform**: PHP
-- **Docs**: [https://packagist.org/packages/binarythinking/lastfm-bundle](https://packagist.org/packages/binarythinking/lastfm-bundle)
-- **Source**: [https://github.com/karolsojko/BinaryThinkingLastfmBundle](https://github.com/karolsojko/BinaryThinkingLastfmBundle)
 
-- **Author**: karolsojko
-- **Stars**: 15
-### Last.fm Node.js SDK by Max Kueng
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://packagist.org/packages/dandelionmood/lastfm)
+- **Source**: [💻 Source Code](https://github.com/dandelionmood/php-lastfm)
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/maxkueng/node-lastfmapi](https://github.com/maxkueng/node-lastfmapi)
+- **Author**: 👤 dandelionmood
+- **Stars**: ⭐ 26
+### 🛠️ Last.fm Symfony SDK by Karol Sójko
 
 
-- **Author**: maxkueng
-- **Stars**: 49
-### Last.fm PHP SDK by Witold Wasiczko
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://packagist.org/packages/binarythinking/lastfm-bundle)
+- **Source**: [💻 Source Code](https://github.com/karolsojko/BinaryThinkingLastfmBundle)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/snapshotpl/LastFmClient](https://github.com/snapshotpl/LastFmClient)
+- **Author**: 👤 karolsojko
+- **Stars**: ⭐ 15
+### 🛠️ Last.fm Node.js SDK by Max Kueng
 
 
-- **Author**: snapshotpl
-- **Stars**: 1
-### Last.fm Java SDK by Johann Kovacs
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/maxkueng/node-lastfmapi)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/jkovacs/lastfm-java](https://github.com/jkovacs/lastfm-java)
 
+- **Author**: 👤 maxkueng
+- **Stars**: ⭐ 49
+### 🛠️ Last.fm PHP SDK by Witold Wasiczko
 
-- **Author**: jkovacs
-- **Stars**: 59
-### Last.fm JavaScript SDK by Felix Bruns
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/fxb/javascript-last.fm-api](https://github.com/fxb/javascript-last.fm-api)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/snapshotpl/LastFmClient)
 
 
-- **Author**: fxb
-- **Stars**: 279
-### Last.fm .Net SDK by Inflatable Friends
+- **Author**: 👤 snapshotpl
+- **Stars**: ⭐ 1
+### 🛠️ Last.fm Java SDK by Johann Kovacs
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/inflatablefriends/lastfm](https://github.com/inflatablefriends/lastfm)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/jkovacs/lastfm-java)
 
 
-- **Stars**: 75
-### Last.fm iOS and Mac OS X SDK by Kevin Renskers
+- **Author**: 👤 jkovacs
+- **Stars**: ⭐ 59
+### 🛠️ Last.fm JavaScript SDK by Felix Bruns
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/gangverk/LastFm](https://github.com/gangverk/LastFm)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/fxb/javascript-last.fm-api)
 
 
-- **Stars**: 82
-### Last.fm C++ Library by Last.fm
+- **Author**: 👤 fxb
+- **Stars**: ⭐ 279
+### 🛠️ Last.fm .Net SDK by Inflatable Friends
 
-- **Platform**: C++
-- **Docs**: [https://github.com/lastfm/libmoost](https://github.com/lastfm/libmoost)
 
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/inflatablefriends/lastfm)
 
 
-- **Stars**: 160
-### Last.fm Python Library by Adrian Sampson
 
-- **Platform**: Backbone.js, Python
-- **Docs**: [https://github.com/sampsyo/pylastfp](https://github.com/sampsyo/pylastfp)
+- **Stars**: ⭐ 75
+### 🛠️ Last.fm iOS and Mac OS X SDK by Kevin Renskers
 
 
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/gangverk/LastFm)
 
-- **Stars**: 28
-### Last.fm C# Library by Vyacheslav Lisnevskyi
 
-- **Platform**: C#
-- **Docs**: [https://github.com/VLisnevskiy/Last.fm.API/blob/master/README.md](https://github.com/VLisnevskiy/Last.fm.API/blob/master/README.md)
-- **Source**: [https://github.com/VLisnevskiy/Last.fm.API](https://github.com/VLisnevskiy/Last.fm.API)
 
-- **Author**: VLisnevskiy
-- **Stars**: 3
-### Last.fm PHP Library by Felix Bruns
+- **Stars**: ⭐ 82
+### 🛠️ Last.fm C++ Library by Last.fm
 
-- **Platform**: PHP
-- **Docs**: [http://lastfm.felixbruns.de/php-last.fm-api/](http://lastfm.felixbruns.de/php-last.fm-api/)
-- **Source**: [https://github.com/fxb/php-last.fm-api](https://github.com/fxb/php-last.fm-api)
 
-- **Author**: fxb
-- **Stars**: 84
-### Last.fm C++ Library by Javier Santacruz López-Cepero
+- **Platform**: `C++`
+- **Docs**: [📚 Documentation](https://github.com/lastfm/libmoost)
 
-- **Platform**: C++
-- **Docs**: [https://www.openhub.net/p/liblfm](https://www.openhub.net/p/liblfm)
-- **Source**: [http://sourceforge.net/projects/liblfm/](http://sourceforge.net/projects/liblfm/)
 
 
+- **Stars**: ⭐ 160
+### 🛠️ Last.fm Python Library by Adrian Sampson
 
-### Last.fm Java Library lastfm-java
 
-- **Platform**: Java
-- **Docs**: [https://code.google.com/p/lastfm-java/](https://code.google.com/p/lastfm-java/)
+- **Platform**: `Backbone.js, Python`
+- **Docs**: [📚 Documentation](https://github.com/sampsyo/pylastfp)
 
 
 
+- **Stars**: ⭐ 28
+### 🛠️ Last.fm C# Library by Vyacheslav Lisnevskyi
 
-### Last.fm ActionScript Library lastfm-as3
 
-- **Platform**: ActionScript
-- **Docs**: [https://code.google.com/p/lastfm-as3/](https://code.google.com/p/lastfm-as3/)
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/VLisnevskiy/Last.fm.API/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/VLisnevskiy/Last.fm.API)
 
+- **Author**: 👤 VLisnevskiy
+- **Stars**: ⭐ 3
+### 🛠️ Last.fm PHP Library by Felix Bruns
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](http://lastfm.felixbruns.de/php-last.fm-api/)
+- **Source**: [💻 Source Code](https://github.com/fxb/php-last.fm-api)
 
-### JavaScript last.fm API
+- **Author**: 👤 fxb
+- **Stars**: ⭐ 84
+### 🛠️ Last.fm C++ Library by Javier Santacruz López-Cepero
 
-- **Platform**: JavaScript
-- **Docs**: [http://lastfm.felixbruns.de/javascript-last.fm-api/](http://lastfm.felixbruns.de/javascript-last.fm-api/)
-- **Source**: [https://github.com/fxb/javascript-last.fm-api](https://github.com/fxb/javascript-last.fm-api)
 
-- **Author**: fxb
-- **Stars**: 279
-### scrobbler2
+- **Platform**: `C++`
+- **Docs**: [📚 Documentation](https://www.openhub.net/p/liblfm)
+- **Source**: [💻 Source Code](http://sourceforge.net/projects/liblfm/)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/gingerhendrix/scrobbler2/tree/master](https://github.com/gingerhendrix/scrobbler2/tree/master)
 
 
-- **Author**: gingerhendrix
-- **Stars**: 42
-### Last.fm Lib .Net
+### 🛠️ Last.fm Java Library lastfm-java
 
-- **Platform**: .Net
-- **Docs**: [http://lastfmlibnet.sourceforge.net/](http://lastfmlibnet.sourceforge.net/)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://code.google.com/p/lastfm-java/)
 
 
 
-### PHP last.fm API
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/fxb/php-last.fm-api](https://github.com/fxb/php-last.fm-api)
+### 🛠️ Last.fm ActionScript Library lastfm-as3
 
 
-- **Author**: fxb
-- **Stars**: 84
-### LPFM Last.fm Scrobbler
+- **Platform**: `ActionScript`
+- **Docs**: [📚 Documentation](https://code.google.com/p/lastfm-as3/)
 
-- **Platform**: .Net
-- **Docs**: [http://lpfm.codeplex.com/](http://lpfm.codeplex.com/)
 
 
 
+### 🛠️ JavaScript last.fm API
 
-### pyLast
 
-- **Platform**: Python
-- **Docs**: [https://code.google.com/p/pylast/](https://code.google.com/p/pylast/)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](http://lastfm.felixbruns.de/javascript-last.fm-api/)
+- **Source**: [💻 Source Code](https://github.com/fxb/javascript-last.fm-api)
 
+- **Author**: 👤 fxb
+- **Stars**: ⭐ 279
+### 🛠️ scrobbler2
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/gingerhendrix/scrobbler2/tree/master)
 
-### Perl Library for Last.fm
 
-- **Platform**: N/A
-- **Docs**: [http://search.cpan.org/~nilsonsfj/WebService-Audioscrobbler-0.07/lib/WebService/Audioscrobbler.pm](http://search.cpan.org/~nilsonsfj/WebService-Audioscrobbler-0.07/lib/WebService/Audioscrobbler.pm)
+- **Author**: 👤 gingerhendrix
+- **Stars**: ⭐ 42
+### 🛠️ Last.fm Lib .Net
 
 
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](http://lastfmlibnet.sourceforge.net/)
 
 
-### LastFmLib.Net: Last.fm API .NET Library 
 
-- **Platform**: N/A
-- **Docs**: [http://lastfmlibnet.de.vu/](http://lastfmlibnet.de.vu/)
 
+### 🛠️ PHP last.fm API
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/fxb/php-last.fm-api)
 
 
+- **Author**: 👤 fxb
+- **Stars**: ⭐ 84
+### 🛠️ LPFM Last.fm Scrobbler
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](http://lpfm.codeplex.com/)
+
+
+
+
+### 🛠️ pyLast
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://code.google.com/p/pylast/)
+
+
+
+
+### 🛠️ Perl Library for Last.fm
+
+
+- **Platform**: `N/A`
+- **Docs**: [📚 Documentation](http://search.cpan.org/~nilsonsfj/WebService-Audioscrobbler-0.07/lib/WebService/Audioscrobbler.pm)
+
+
+
+
+### 🛠️ LastFmLib.Net: Last.fm API .NET Library 
+
+
+- **Platform**: `N/A`
+- **Docs**: [📚 Documentation](http://lastfmlibnet.de.vu/)
+
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

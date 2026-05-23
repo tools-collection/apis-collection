@@ -1,24 +1,32 @@
-# [Prague Opendata](https://opendata.praha.eu/en)
+# 📦 [Prague Opendata](https://opendata.praha.eu/en)
 
 
-Prague City Open Data. Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. Zde magistrát hlavního města, příspěvkové organizace, městské části a další související subjekty zveřejňují data ve strojově
+> **Prague City Open Data. Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. Zde magistrát hlavního města, příspěvkové organizace, městské části a další související subjekty zveřejňují data ve strojově**
 
-## Details
-- **Categories**: Government, Statistics &amp; Data
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`, `Statistics &amp; Data`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://opendata.praha.eu/en)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

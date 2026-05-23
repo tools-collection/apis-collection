@@ -1,65 +1,76 @@
-# [Datakick](https://www.datakick.org/api)
+# 📦 [Datakick](https://www.datakick.org/api)
 
 
-The open product database.
+> **The open product database.**
 
-## Details
-- **Categories**: Statistics &amp; Data, Bar &amp; QR Codes
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Statistics &amp; Data`, `Bar &amp; QR Codes`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.datakick.org/api)
 
-## Libraries
-### Datakick Ruby SDK
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/ankane/datakick-rb](https://github.com/ankane/datakick-rb)
+## 🧰 Libraries
+### 🛠️ Datakick Ruby SDK
 
 
-- **Author**: ankane
-- **Stars**: 12
-### Datakick Python SDK
-
-- **Platform**: Python
-- **Docs**: [https://github.com/carlos-a-rodriguez/datakick](https://github.com/carlos-a-rodriguez/datakick)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/ankane/datakick-rb)
 
 
-- **Author**: carlos-a-rodriguez
-- **Stars**: 2
-### Datakick Node.js SDK
-
-- **Platform**: Node.js
-- **Docs**: [https://github.com/ENT8R/datakick](https://github.com/ENT8R/datakick)
+- **Author**: 👤 ankane
+- **Stars**: ⭐ 12
+### 🛠️ Datakick Python SDK
 
 
-- **Author**: ENT8R
-- **Stars**: 4
-### Datakick Objective-C SDK
-
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/imryan/datakick-ios](https://github.com/imryan/datakick-ios)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/carlos-a-rodriguez/datakick)
 
 
-- **Author**: imryan
-- **Stars**: 2
-### Datakick Android SDK
-
-- **Platform**: Java
-- **Docs**: [https://github.com/kyleconroy/datakick-android](https://github.com/kyleconroy/datakick-android)
+- **Author**: 👤 carlos-a-rodriguez
+- **Stars**: ⭐ 2
+### 🛠️ Datakick Node.js SDK
 
 
-- **Author**: kyleconroy
-- **Stars**: 1
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/ENT8R/datakick)
 
 
+- **Author**: 👤 ENT8R
+- **Stars**: ⭐ 4
+### 🛠️ Datakick Objective-C SDK
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/imryan/datakick-ios)
+
+
+- **Author**: 👤 imryan
+- **Stars**: ⭐ 2
+### 🛠️ Datakick Android SDK
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/kyleconroy/datakick-android)
+
+
+- **Author**: 👤 kyleconroy
+- **Stars**: ⭐ 1
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

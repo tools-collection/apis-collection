@@ -1,24 +1,32 @@
-# [WebPurify](https://www.webpurify.com/image-moderation/)
+# 📦 [WebPurify](https://www.webpurify.com/image-moderation/)
 
 
-Provides live image moderation by humans or AI-based image moderation service.
+> **Provides live image moderation by humans or AI-based image moderation service.**
 
-## Details
-- **Categories**: Validation &amp; Verification, Security, Images &amp; Photography
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Validation &amp; Verification`, `Security`, `Images &amp; Photography`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.webpurify.com/image-moderation/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

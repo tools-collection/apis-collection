@@ -1,24 +1,32 @@
-# [GamerPower](https://www.gamerpower.com/api-read)
+# 📦 [GamerPower](https://www.gamerpower.com/api-read)
 
 
-The GamerPower API (Aka Game Giveaway Tracker API). Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.
+> **The GamerPower API (Aka Game Giveaway Tracker API). Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.**
 
-## Details
-- **Categories**: Commerce, Entertainment, Games
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Commerce`, `Entertainment`, `Games`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.gamerpower.com/api-read)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

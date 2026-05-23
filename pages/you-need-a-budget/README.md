@@ -1,25 +1,33 @@
-# [You Need A Budget](https://api.youneedabudget.com)
+# 📦 [You Need A Budget](https://api.youneedabudget.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/you-need-a-budget/logo_256x256.png" alt="You Need A Budget logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/you-need-a-budget/logo_256x256.png" alt="You Need A Budget logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Introduction Hello Developers Welcome to the YNAB API! (If you aren&#x27;t a developer or you have no idea what an &quot;API&quot; is and you just want to sign in to your YNAB account, you can do that here. ) The. The you need a budget official API
+> **Introduction Hello Developers Welcome to the YNAB API! (If you aren&#x27;t a developer or you have no idea what an &quot;API&quot; is and you just want to sign in to your YNAB account, you can do that here. ) The. The you need a budget official API**
 
-## Details
-- **Categories**: Finance &amp; Economics
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Finance &amp; Economics`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://api.youneedabudget.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

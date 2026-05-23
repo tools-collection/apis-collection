@@ -1,24 +1,32 @@
-# [Restwords](https://www.restwords.com)
+# 📦 [Restwords](https://www.restwords.com)
 
 
-You can GET to retrieve your text and you can POST to change your stored text. Store up to 2000 ASCII chararacters.
+> **You can GET to retrieve your text and you can POST to change your stored text. Store up to 2000 ASCII chararacters.**
 
-## Details
-- **Categories**: Other
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Other`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.restwords.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

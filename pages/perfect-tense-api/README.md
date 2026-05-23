@@ -1,24 +1,32 @@
-# [Perfect Tense API](https://www.perfecttense.com/developers)
+# 📦 [Perfect Tense API](https://www.perfecttense.com/developers)
 
 
-Automated. Perfect Tense gives you error-free content in seconds. The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.
+> **Automated. Perfect Tense gives you error-free content in seconds. The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.**
 
-## Details
-- **Categories**: Content &amp; Dictionaries, AI &amp; ML
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Content &amp; Dictionaries`, `AI &amp; ML`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.perfecttense.com/developers)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

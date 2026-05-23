@@ -1,169 +1,193 @@
-# [Telegram](https://core.telegram.org/)
+# 📦 [Telegram](https://core.telegram.org/)
 
 
-The Bot API allows you to easily create programs that use Telegram. The Telegram API allows you to build your own customized Telegram clients
+> **The Bot API allows you to easily create programs that use Telegram. The Telegram API allows you to build your own customized Telegram clients**
 
-## Details
-- **Categories**: Images &amp; Photography, Video &amp; Media, Social, Chats &amp; Messaging, Bots
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Images &amp; Photography`, `Video &amp; Media`, `Social`, `Chats &amp; Messaging`, `Bots`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://core.telegram.org/)
 
-## Libraries
-### Telegram JavaScript SDK by Maxim Sadofyev
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/sunriselink/TelegramApi](https://github.com/sunriselink/TelegramApi)
+## 🧰 Libraries
+### 🛠️ Telegram JavaScript SDK by Maxim Sadofyev
 
 
-- **Author**: sunriselink
-- **Stars**: 71
-### Telegram Java SDK by Aykut Alparslan
-
-- **Platform**: Java
-- **Docs**: [https://github.com/aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/sunriselink/TelegramApi)
 
 
-- **Author**: aykutalparslan
-- **Stars**: 192
-### Telegram NodeJS SDK by Enrico Stara
-
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/enricostara/telegram.link](https://github.com/enricostara/telegram.link)
-- **Source**: [https://www.npmjs.com/package/telegram.link](https://www.npmjs.com/package/telegram.link)
-
-- **Author**: enricostara
-- **Stars**: 331
-### Telegram Java SDK by Ruben Bermudez
-
-- **Platform**: Java
-- **Docs**: [https://github.com/rubenlagus/TelegramApi](https://github.com/rubenlagus/TelegramApi)
+- **Author**: 👤 sunriselink
+- **Stars**: ⭐ 71
+### 🛠️ Telegram Java SDK by Aykut Alparslan
 
 
-- **Author**: rubenlagus
-- **Stars**: 195
-### Telegram Passport JavaScript SDK
-
-- **Platform**: JavaScript
-- **Docs**: [https://core.telegram.org/passport/sdk-javascript](https://core.telegram.org/passport/sdk-javascript)
-- **Source**: [https://github.com/TelegramMessenger/TGPassportJsSDK](https://github.com/TelegramMessenger/TGPassportJsSDK)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/aykutalparslan/Telegram-Server)
 
 
-- **Stars**: 22
-### Telegram Passport Android SDK
-
-- **Platform**: Java
-- **Docs**: [https://core.telegram.org/passport/sdk-android](https://core.telegram.org/passport/sdk-android)
-- **Source**: [https://github.com/TelegramMessenger/TGPassportAndroidSDK](https://github.com/TelegramMessenger/TGPassportAndroidSDK)
+- **Author**: 👤 aykutalparslan
+- **Stars**: ⭐ 192
+### 🛠️ Telegram NodeJS SDK by Enrico Stara
 
 
-- **Stars**: 29
-### Telegram Passport iOS SDK
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/enricostara/telegram.link)
+- **Source**: [💻 Source Code](https://www.npmjs.com/package/telegram.link)
 
-- **Platform**: Objective-C
-- **Docs**: [https://core.telegram.org/passport/sdk-ios-mac](https://core.telegram.org/passport/sdk-ios-mac)
-- **Source**: [https://github.com/TelegramMessenger/TGPassportKit](https://github.com/TelegramMessenger/TGPassportKit)
-
-
-- **Stars**: 18
-### VKontakte JavaScript SDK by ejnshtein
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/ejnshtein/vk-to-telegram](https://github.com/ejnshtein/vk-to-telegram)
+- **Author**: 👤 enricostara
+- **Stars**: ⭐ 331
+### 🛠️ Telegram Java SDK by Ruben Bermudez
 
 
-- **Author**: ejnshtein
-- **Stars**: 24
-### Telegram C# SDK by TaggersoftDeprecated
-
-- **Platform**: C#
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/rubenlagus/TelegramApi)
 
 
+- **Author**: 👤 rubenlagus
+- **Stars**: ⭐ 195
+### 🛠️ Telegram Passport JavaScript SDK
 
 
-
-### Telegram Android SDK
-
-- **Platform**: Java
-- **Docs**: [https://telegram.org/source](https://telegram.org/source)
-- **Source**: [https://github.com/DrKLO/Telegram](https://github.com/DrKLO/Telegram)
-
-- **Author**: DrKLO
-- **Stars**: 16237
-### Telegram Java SDK by Steve Korshakov
-
-- **Platform**: Java
-- **Docs**: [https://github.com/ex3ndr/telegram-api](https://github.com/ex3ndr/telegram-api)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://core.telegram.org/passport/sdk-javascript)
+- **Source**: [💻 Source Code](https://github.com/TelegramMessenger/TGPassportJsSDK)
 
 
-- **Author**: ex3ndr
-- **Stars**: 128
-### Telegram Python Library by Anton Grigoryev
+- **Stars**: ⭐ 22
+### 🛠️ Telegram Passport Android SDK
 
-- **Platform**: Python
-- **Docs**: [https://github.com/griganton/telepy/blob/master/README.md](https://github.com/griganton/telepy/blob/master/README.md)
-- **Source**: [https://github.com/griganton/telepy](https://github.com/griganton/telepy)
 
-- **Author**: griganton
-- **Stars**: 1
-### Telegram Ruby Library by Platphorm
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://core.telegram.org/passport/sdk-android)
+- **Source**: [💻 Source Code](https://github.com/TelegramMessenger/TGPassportAndroidSDK)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/platphorm/telegram_rb/blob/master/README.md](https://github.com/platphorm/telegram_rb/blob/master/README.md)
-- **Source**: [https://github.com/platphorm/telegram_rb](https://github.com/platphorm/telegram_rb)
 
-- **Author**: platphorm
-- **Stars**: 35
-### Telegram JavaScript Library by Enrico Stara
+- **Stars**: ⭐ 29
+### 🛠️ Telegram Passport iOS SDK
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://www.npmjs.com/package/telegram.link](https://www.npmjs.com/package/telegram.link)
-- **Source**: [https://github.com/enricostara/telegram.link](https://github.com/enricostara/telegram.link)
 
-- **Author**: enricostara
-- **Stars**: 331
-### Telegram Java MTProto Library by Stepan Korshakov
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://core.telegram.org/passport/sdk-ios-mac)
+- **Source**: [💻 Source Code](https://github.com/TelegramMessenger/TGPassportKit)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/ex3ndr/telegram-mt/blob/master/README.md](https://github.com/ex3ndr/telegram-mt/blob/master/README.md)
-- **Source**: [https://github.com/ex3ndr/telegram-mt](https://github.com/ex3ndr/telegram-mt)
 
-- **Author**: ex3ndr
-- **Stars**: 112
-### Telegram Java TL-Builder Library by Stepan Korshakov
+- **Stars**: ⭐ 18
+### 🛠️ VKontakte JavaScript SDK by ejnshtein
 
-- **Platform**: Java
-- **Docs**: [https://github.com/ex3ndr/telegram-tl/blob/master/README.md](https://github.com/ex3ndr/telegram-tl/blob/master/README.md)
-- **Source**: [https://github.com/ex3ndr/telegram-tl](https://github.com/ex3ndr/telegram-tl)
 
-- **Author**: ex3ndr
-- **Stars**: 58
-### Telegram Java TypeLanguage Library by Stepan Korshakov
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/ejnshtein/vk-to-telegram)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/ex3ndr/telegram-tl-core/blob/master/README.md](https://github.com/ex3ndr/telegram-tl-core/blob/master/README.md)
-- **Source**: [https://github.com/ex3ndr/telegram-tl-core](https://github.com/ex3ndr/telegram-tl-core)
 
-- **Author**: ex3ndr
-- **Stars**: 32
-### Telegram C# SDK by TaggersoftDeprecated
+- **Author**: 👤 ejnshtein
+- **Stars**: ⭐ 24
+### 🛠️ Telegram C# SDK by TaggersoftDeprecated
 
-- **Platform**: C#
+
+- **Platform**: `C#`
 
 
 
 
 
+### 🛠️ Telegram Android SDK
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://telegram.org/source)
+- **Source**: [💻 Source Code](https://github.com/DrKLO/Telegram)
+
+- **Author**: 👤 DrKLO
+- **Stars**: ⭐ 16237
+### 🛠️ Telegram Java SDK by Steve Korshakov
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/ex3ndr/telegram-api)
+
+
+- **Author**: 👤 ex3ndr
+- **Stars**: ⭐ 128
+### 🛠️ Telegram Python Library by Anton Grigoryev
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/griganton/telepy/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/griganton/telepy)
+
+- **Author**: 👤 griganton
+- **Stars**: ⭐ 1
+### 🛠️ Telegram Ruby Library by Platphorm
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/platphorm/telegram_rb/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/platphorm/telegram_rb)
+
+- **Author**: 👤 platphorm
+- **Stars**: ⭐ 35
+### 🛠️ Telegram JavaScript Library by Enrico Stara
+
+
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.com/package/telegram.link)
+- **Source**: [💻 Source Code](https://github.com/enricostara/telegram.link)
+
+- **Author**: 👤 enricostara
+- **Stars**: ⭐ 331
+### 🛠️ Telegram Java MTProto Library by Stepan Korshakov
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/ex3ndr/telegram-mt/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/ex3ndr/telegram-mt)
+
+- **Author**: 👤 ex3ndr
+- **Stars**: ⭐ 112
+### 🛠️ Telegram Java TL-Builder Library by Stepan Korshakov
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/ex3ndr/telegram-tl/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/ex3ndr/telegram-tl)
+
+- **Author**: 👤 ex3ndr
+- **Stars**: ⭐ 58
+### 🛠️ Telegram Java TypeLanguage Library by Stepan Korshakov
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/ex3ndr/telegram-tl-core/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/ex3ndr/telegram-tl-core)
+
+- **Author**: 👤 ex3ndr
+- **Stars**: ⭐ 32
+### 🛠️ Telegram C# SDK by TaggersoftDeprecated
+
+
+- **Platform**: `C#`
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

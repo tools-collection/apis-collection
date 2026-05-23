@@ -1,24 +1,32 @@
-# [Forismatic](http://forismatic.com/en/api/)
+# 📦 [Forismatic](http://forismatic.com/en/api/)
 
 
-Gives you a random quote per click.
+> **Gives you a random quote per click.**
 
-## Details
-- **Categories**: Fun, Content &amp; Dictionaries, Random
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Fun`, `Content &amp; Dictionaries`, `Random`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://forismatic.com/en/api/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,41 +1,49 @@
-# [Jservice](http://jservice.io)
+# 📦 [Jservice](http://jservice.io)
 
 
-Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes
+> **Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes**
 
-## Details
-- **Categories**: Games
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Games`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://jservice.io)
 
-## Libraries
-### jService JavaScript SDK by Keith Pops
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/keithpops/jeoparty](https://github.com/keithpops/jeoparty)
+## 🧰 Libraries
+### 🛠️ jService JavaScript SDK by Keith Pops
 
 
-- **Author**: keithpops
-- **Stars**: 104
-### jService Ruby SDK by Dean Silfen
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/djds23/jApi](https://github.com/djds23/jApi)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/keithpops/jeoparty)
 
 
-- **Author**: djds23
-- **Stars**: 8
+- **Author**: 👤 keithpops
+- **Stars**: ⭐ 104
+### 🛠️ jService Ruby SDK by Dean Silfen
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/djds23/jApi)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 djds23
+- **Stars**: ⭐ 8
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

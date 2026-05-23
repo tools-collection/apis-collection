@@ -1,30 +1,34 @@
-# [ODWeather](http://api.oceandrivers.com/static/docs.html)
+# 📦 [ODWeather](http://api.oceandrivers.com/static/docs.html)
 
 
-Weather for boating
+> **Weather for boating**
 
-## Details
-- **Categories**: Weather
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Weather`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
-## Specification
-- **Type**: swagger
+## 📖 Specification
+- **Type**: `swagger`
 - **URL**: [https://api.oceandrivers.com/static/resources.json](https://api.oceandrivers.com/static/resources.json)
-- **Version**: https://api.oceandrivers.com/static/resources.json
+- **Version**: `https://api.oceandrivers.com/static/resources.json`
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://api.oceandrivers.com/static/docs.html)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-matiasbonet@oceandrivers.com
+## 📬 Contact
+📧 matiasbonet@oceandrivers.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

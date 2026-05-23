@@ -1,49 +1,58 @@
-# [Yandex](https://tech.yandex.com/maps/)
+# 📦 [Yandex](https://tech.yandex.com/maps/)
 
 
-Maps and the necessary tools for working it on your web app or site
+> **Maps and the necessary tools for working it on your web app or site**
 
-## Details
-- **Categories**: Maps &amp; Geo, Search
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Maps &amp; Geo`, `Search`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://tech.yandex.com/maps/)
 
-## Libraries
-### Yandex Go SDK by Javier162380
-
-- **Platform**: Go
-- **Docs**: [https://github.com/Javier162380/yandexapi](https://github.com/Javier162380/yandexapi)
+## 🧰 Libraries
+### 🛠️ Yandex Go SDK by Javier162380
 
 
-- **Author**: Javier162380
-
-### Yandex PHP SDK by NIX Solutions
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/nixsolutions/yandex-php-library](https://github.com/nixsolutions/yandex-php-library)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/Javier162380/yandexapi)
 
 
+- **Author**: 👤 Javier162380
 
-- **Stars**: 515
-###  Geocoder PHP Library by William Durand
+### 🛠️ Yandex PHP SDK by NIX Solutions
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder)
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/nixsolutions/yandex-php-library)
 
 
 
-- **Stars**: 3686
+- **Stars**: ⭐ 515
+### 🛠️  Geocoder PHP Library by William Durand
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/geocoder-php/Geocoder)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 3686
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

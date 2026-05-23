@@ -1,24 +1,32 @@
-# [Oxford Dictionary API](https://developer.oxforddictionaries.com/)
+# 📦 [Oxford Dictionary API](https://developer.oxforddictionaries.com/)
 
 
-Access to Oxford Dictionary services with several different subscription options including a free tier. The Oxford Dictionaries API gives you access to our world-renowned dictionary data, including definitions, translations, synonyms, and audio pronunciations
+> **Access to Oxford Dictionary services with several different subscription options including a free tier. The Oxford Dictionaries API gives you access to our world-renowned dictionary data, including definitions, translations, synonyms, and audio pronunciations**
 
-## Details
-- **Categories**: Content &amp; Dictionaries
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Content &amp; Dictionaries`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.oxforddictionaries.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

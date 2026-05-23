@@ -1,24 +1,32 @@
-# [Orion Health](https://developer.orionhealth.io/)
+# 📦 [Orion Health](https://developer.orionhealth.io/)
 
 
-Leverage the power of our Open APIs and our FHIR capabilities to enable the best applications to be developed for every healthcare scenario
+> **Leverage the power of our Open APIs and our FHIR capabilities to enable the best applications to be developed for every healthcare scenario**
 
-## Details
-- **Categories**: Health
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Health`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.orionhealth.io/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

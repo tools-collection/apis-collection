@@ -1,25 +1,33 @@
-# [Google Drive API](https://developers.google.com/drive/v2/reference/)
+# 📦 [Google Drive API](https://developers.google.com/drive/v2/reference/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-drive-api/logo_256x256.png" alt="Google Drive API logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-drive-api/logo_256x256.png" alt="Google Drive API logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-com/upload/drive/v2/files and PO. URIs relative to https://www. googleapis. com/drive/v2, unless otherwise noted get GET /files/fileId Gets a file&#x27;s metadata by ID. insert POST https://www
+> **com/upload/drive/v2/files and PO. URIs relative to https://www. googleapis. com/drive/v2, unless otherwise noted get GET /files/fileId Gets a file&#x27;s metadata by ID. insert POST https://www**
 
-## Details
-- **Categories**: Maps &amp; Geo
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Maps &amp; Geo`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.google.com/drive/v2/reference/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,66 +1,77 @@
-# [Rhapsody](https://developer.rhapsody.com/)
+# 📦 [Rhapsody](https://developer.rhapsody.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rhapsody/logo_256x256.png" alt="Rhapsody logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rhapsody/logo_256x256.png" alt="Rhapsody logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Access metadata, user’s entire library of music and do much more. The Napster API enables legal on-demand playback of millions of songs. Start building something awesome with the original streaming service
+> **Access metadata, user’s entire library of music and do much more. The Napster API enables legal on-demand playback of millions of songs. Start building something awesome with the original streaming service**
 
-## Details
-- **Categories**: Music &amp; Audio
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Music &amp; Audio`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.rhapsody.com/)
 
-## Libraries
-### PushSpring Android SDK by Rhapsody
-
-- **Platform**: Java
-- **Docs**: [https://github.com/Rhapsody/PushSpringSDK-Android](https://github.com/Rhapsody/PushSpringSDK-Android)
-- **Source**: [https://github.com/Rhapsody/PushSpringSDK-Android/tree/master/PushSpringSDK/src/com/pushspring/sdk](https://github.com/Rhapsody/PushSpringSDK-Android/tree/master/PushSpringSDK/src/com/pushspring/sdk)
+## 🧰 Libraries
+### 🛠️ PushSpring Android SDK by Rhapsody
 
 
-
-### Rhapsody Java SDK by Kai Winter
-
-- **Platform**: Java
-- **Docs**: [https://github.com/kaiwinter/rhapsody-java-sdk](https://github.com/kaiwinter/rhapsody-java-sdk)
-
-
-- **Author**: kaiwinter
-- **Stars**: 3
-### Rhapsody JavaScript SDK by Rhapsody
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/Rhapsody/rhapsody.js](https://github.com/Rhapsody/rhapsody.js)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/Rhapsody/PushSpringSDK-Android)
+- **Source**: [💻 Source Code](https://github.com/Rhapsody/PushSpringSDK-Android/tree/master/PushSpringSDK/src/com/pushspring/sdk)
 
 
 
-- **Stars**: 13
-### Rhapsody iOS SDK by Rhapsody
-
-- **Platform**: Objective-C
-- **Docs**: [https://developers.coinbase.com/api/v2](https://developers.coinbase.com/api/v2)
-- **Source**: [https://github.com/Rhapsody/rhapsody-ios-sdk](https://github.com/Rhapsody/rhapsody-ios-sdk)
+### 🛠️ Rhapsody Java SDK by Kai Winter
 
 
-
-### Rhapsody Android SDK by Rhapsody
-
-- **Platform**: Java
-- **Docs**: [https://developer.rhapsody.com/sdks](https://developer.rhapsody.com/sdks)
-- **Source**: [https://github.com/Rhapsody/rhapsody-android-sdk](https://github.com/Rhapsody/rhapsody-android-sdk)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/kaiwinter/rhapsody-java-sdk)
 
 
+- **Author**: 👤 kaiwinter
+- **Stars**: ⭐ 3
+### 🛠️ Rhapsody JavaScript SDK by Rhapsody
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/Rhapsody/rhapsody.js)
 
 
 
+- **Stars**: ⭐ 13
+### 🛠️ Rhapsody iOS SDK by Rhapsody
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://developers.coinbase.com/api/v2)
+- **Source**: [💻 Source Code](https://github.com/Rhapsody/rhapsody-ios-sdk)
+
+
+
+### 🛠️ Rhapsody Android SDK by Rhapsody
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://developer.rhapsody.com/sdks)
+- **Source**: [💻 Source Code](https://github.com/Rhapsody/rhapsody-android-sdk)
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

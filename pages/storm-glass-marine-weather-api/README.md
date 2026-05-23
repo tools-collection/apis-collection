@@ -1,26 +1,32 @@
-# [Storm Glass Marine Weather API](https://stormglass.io)
+# 📦 [Storm Glass Marine Weather API](https://stormglass.io)
 
 
-Read More. Global marine weather data from multiple sources in one single API!
+> **Read More. Global marine weather data from multiple sources in one single API!**
 
-## Details
-- **Categories**: Weather
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Weather`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://stormglass.io)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-support@stormglass.io
+## 📬 Contact
+📧 support@stormglass.io
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

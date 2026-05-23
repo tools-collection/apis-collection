@@ -1,25 +1,33 @@
-# [PlayerUnknown&#x27;s Battlegrounds](https://pubgtracker.com/site-api)
+# 📦 [PlayerUnknown&#x27;s Battlegrounds](https://pubgtracker.com/site-api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/playerunknowns-battlegrounds/logo_256x256.png" alt="PlayerUnknown&#x27;s Battlegrounds logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/playerunknowns-battlegrounds/logo_256x256.png" alt="PlayerUnknown&#x27;s Battlegrounds logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Start building your own website today using official PUBG data
+> **Start building your own website today using official PUBG data**
 
-## Details
-- **Categories**: Entertainment, Games
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Entertainment`, `Games`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://pubgtracker.com/site-api)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

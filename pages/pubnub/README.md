@@ -1,226 +1,257 @@
-# [PubNub](https://www.pubnub.com/docs)
+# 📦 [PubNub](https://www.pubnub.com/docs)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pubnub/logo_256x256.png" alt="PubNub logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pubnub/logo_256x256.png" alt="PubNub logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-&lt;div class&#x3D;&quot;homepage-wrap&quot;&gt;
+> **&lt;div class&#x3D;&quot;homepage-wrap&quot;&gt;**
 
-## Details
-- **Categories**: Chats &amp; Messaging, IoT &amp; Home Automation
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Chats &amp; Messaging`, `IoT &amp; Home Automation`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.pubnub.com/docs)
 
-## Libraries
-### PubNub Silverlight C# SDK
+## 🧰 Libraries
+### 🛠️ PubNub Silverlight C# SDK
 
-- **Platform**: C#
-- **Docs**: [https://www.pubnub.com/docs/silverlight-c-sharp/pubnub-c-sharp-sdk](https://www.pubnub.com/docs/silverlight-c-sharp/pubnub-c-sharp-sdk)
-- **Source**: [https://github.com/pubnub/c-sharp/tree/master_3x/csharp.net](https://github.com/pubnub/c-sharp/tree/master_3x/csharp.net)
 
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/silverlight-c-sharp/pubnub-c-sharp-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/c-sharp/tree/master_3x/csharp.net)
 
-- **Stars**: 93
-### PubNub Scala SDK
 
-- **Platform**: Scala
-- **Docs**: [https://www.pubnub.com/docs/scala-java/pubnub-java-sdk](https://www.pubnub.com/docs/scala-java/pubnub-java-sdk)
-- **Source**: [https://github.com/pubnub/java/tree/master_3x/scala](https://github.com/pubnub/java/tree/master_3x/scala)
+- **Stars**: ⭐ 93
+### 🛠️ PubNub Scala SDK
 
 
-- **Stars**: 528
-### PubNub Perl SDK
+- **Platform**: `Scala`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/scala-java/pubnub-java-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/java/tree/master_3x/scala)
 
-- **Platform**: PERL
-- **Docs**: [https://github.com/pubnub/pubnub-api/tree/master/perl5](https://github.com/pubnub/pubnub-api/tree/master/perl5)
 
+- **Stars**: ⭐ 528
+### 🛠️ PubNub Perl SDK
 
 
-- **Stars**: 822
-### PubNub Objective-C SDK
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/pubnub/pubnub-api/tree/master/perl5)
 
-- **Platform**: Objective-C
-- **Docs**: [https://www.pubnub.com/docs/ios-objective-c/pubnub-objective-c-sdk](https://www.pubnub.com/docs/ios-objective-c/pubnub-objective-c-sdk)
-- **Source**: [https://github.com/pubnub/objective-c](https://github.com/pubnub/objective-c)
 
 
-- **Stars**: 172
-### PubNub Haskell SDK
+- **Stars**: ⭐ 822
+### 🛠️ PubNub Objective-C SDK
 
-- **Platform**: Haskell
-- **Docs**: [https://github.com/pubnub/haskell/blob/master/README.md](https://github.com/pubnub/haskell/blob/master/README.md)
-- **Source**: [https://github.com/pubnub/haskell](https://github.com/pubnub/haskell)
 
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/ios-objective-c/pubnub-objective-c-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/objective-c)
 
-- **Stars**: 18
-### PubNub Lua SDK
 
-- **Platform**: Lua
-- **Docs**: [https://www.pubnub.com/docs/lua/pubnub-lua-sdk](https://www.pubnub.com/docs/lua/pubnub-lua-sdk)
-- **Source**: [https://github.com/pubnub/lua/tree/master/pure](https://github.com/pubnub/lua/tree/master/pure)
+- **Stars**: ⭐ 172
+### 🛠️ PubNub Haskell SDK
 
 
-- **Stars**: 12
-### PubNub C++ SDK
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](https://github.com/pubnub/haskell/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/pubnub/haskell)
 
-- **Platform**: C++
-- **Docs**: [https://www.pubnub.com/docs/windows-cpp/pubnub-cpp-sdk](https://www.pubnub.com/docs/windows-cpp/pubnub-cpp-sdk)
-- **Source**: [https://github.com/pubnub/c-core](https://github.com/pubnub/c-core)
 
+- **Stars**: ⭐ 18
+### 🛠️ PubNub Lua SDK
 
-- **Stars**: 33
-### PubNub Go SDK
 
-- **Platform**: Go
-- **Docs**: [https://www.pubnub.com/docs/go/pubnub-go-sdk](https://www.pubnub.com/docs/go/pubnub-go-sdk)
-- **Source**: [https://github.com/pubnub/go](https://github.com/pubnub/go)
+- **Platform**: `Lua`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/lua/pubnub-lua-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/lua/tree/master/pure)
 
 
-- **Stars**: 93
-### PubNub MQTT Python SDK
+- **Stars**: ⭐ 12
+### 🛠️ PubNub C++ SDK
 
-- **Platform**: Python
-- **Docs**: [https://www.pubnub.com/blog/new-improved-pubnub-mqtt-support-and-iot-capabilities](https://www.pubnub.com/blog/new-improved-pubnub-mqtt-support-and-iot-capabilities)
-- **Source**: [https://www.pubnub.com/docs/mqtt-pubnub-bridge/getting-started#introduction](https://www.pubnub.com/docs/mqtt-pubnub-bridge/getting-started#introduction)
 
+- **Platform**: `C++`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/windows-cpp/pubnub-cpp-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/c-core)
 
 
-### PubNub Asyncio Python SDK
+- **Stars**: ⭐ 33
+### 🛠️ PubNub Go SDK
 
-- **Platform**: Python
-- **Docs**: [https://www.pubnub.com/docs/python-aiohttp/pubnub-python-sdk](https://www.pubnub.com/docs/python-aiohttp/pubnub-python-sdk)
-- **Source**: [https://github.com/pubnub/python](https://github.com/pubnub/python)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/go/pubnub-go-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/go)
 
-- **Stars**: 141
-### PubNub Tornado Python SDK
 
-- **Platform**: Python
-- **Docs**: [https://www.pubnub.com/docs/python-tornado/pubnub-python-sdk](https://www.pubnub.com/docs/python-tornado/pubnub-python-sdk)
-- **Source**: [https://github.com/pubnub/python](https://github.com/pubnub/python)
+- **Stars**: ⭐ 93
+### 🛠️ PubNub MQTT Python SDK
 
 
-- **Stars**: 141
-### PubNub Unity C# SDK by PubNub
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/blog/new-improved-pubnub-mqtt-support-and-iot-capabilities)
+- **Source**: [💻 Source Code](https://www.pubnub.com/docs/mqtt-pubnub-bridge/getting-started#introduction)
 
-- **Platform**: C#
-- **Docs**: [https://www.pubnub.com/docs/unity3d-c-sharp/pubnub-c-sharp-sdk](https://www.pubnub.com/docs/unity3d-c-sharp/pubnub-c-sharp-sdk)
 
 
+### 🛠️ PubNub Asyncio Python SDK
 
 
-### PubNub Moai Lua SDK by PubNub
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/python-aiohttp/pubnub-python-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/python)
 
-- **Platform**: Lua
-- **Docs**: [https://github.com/pubnub/lua/tree/master/moai](https://github.com/pubnub/lua/tree/master/moai)
 
+- **Stars**: ⭐ 141
+### 🛠️ PubNub Tornado Python SDK
 
 
-- **Stars**: 12
-### PubNub Impact JavaScript SDK by PubNub
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/python-tornado/pubnub-python-sdk)
+- **Source**: [💻 Source Code](https://github.com/pubnub/python)
 
-- **Platform**: JavaScript
-- **Docs**: [https://www.pubnub.com/docs/impactjs-javascript/pubnub-javascript-sdk](https://www.pubnub.com/docs/impactjs-javascript/pubnub-javascript-sdk)
 
+- **Stars**: ⭐ 141
+### 🛠️ PubNub Unity C# SDK by PubNub
 
 
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/unity3d-c-sharp/pubnub-c-sharp-sdk)
 
-### PubNub Corona Lua SDK by PubNub
 
-- **Platform**: Lua
-- **Docs**: [https://github.com/pubnub/lua](https://github.com/pubnub/lua)
 
 
+### 🛠️ PubNub Moai Lua SDK by PubNub
 
-- **Stars**: 12
-### PubNub ColdFusion SDK by PubNub
 
-- **Platform**: ColdFusion
-- **Docs**: [https://github.com/pubnub/pubnub-api/tree/master/coldfusion](https://github.com/pubnub/pubnub-api/tree/master/coldfusion)
+- **Platform**: `Lua`
+- **Docs**: [📚 Documentation](https://github.com/pubnub/lua/tree/master/moai)
 
 
 
-- **Stars**: 822
-### PubNub AngularJS SDK by PubNub 
+- **Stars**: ⭐ 12
+### 🛠️ PubNub Impact JavaScript SDK by PubNub
 
-- **Platform**: JavaScript
-- **Docs**: [https://www.pubnub.com/docs/angularjs-javascript/pubnub-javascript-sdk](https://www.pubnub.com/docs/angularjs-javascript/pubnub-javascript-sdk)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/impactjs-javascript/pubnub-javascript-sdk)
 
 
 
-### PubNub Xamarin iOS C# SDK by PubNub
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/pubnub/c-sharp](https://github.com/pubnub/c-sharp)
+### 🛠️ PubNub Corona Lua SDK by PubNub
 
 
+- **Platform**: `Lua`
+- **Docs**: [📚 Documentation](https://github.com/pubnub/lua)
 
-- **Stars**: 93
-### PubNub Xamarin Android C# SDK by PubNub
 
-- **Platform**: C#
-- **Docs**: [https://www.pubnub.com/docs/c-sharp-net-c-sharp/pubnub-c-sharp-sdk](https://www.pubnub.com/docs/c-sharp-net-c-sharp/pubnub-c-sharp-sdk)
 
+- **Stars**: ⭐ 12
+### 🛠️ PubNub ColdFusion SDK by PubNub
 
 
+- **Platform**: `ColdFusion`
+- **Docs**: [📚 Documentation](https://github.com/pubnub/pubnub-api/tree/master/coldfusion)
 
-### PubNub Pocket PC C# SDK by PubNub
 
-- **Platform**: C#
-- **Docs**: [https://www.pubnub.com/docs/pocket-pc-c-sharp/pubnub-c-sharp-sdk](https://www.pubnub.com/docs/pocket-pc-c-sharp/pubnub-c-sharp-sdk)
 
+- **Stars**: ⭐ 822
+### 🛠️ PubNub AngularJS SDK by PubNub 
 
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/angularjs-javascript/pubnub-javascript-sdk)
 
-### PubNub Java ME SDK by PubNub
 
-- **Platform**: Java
-- **Docs**: [https://www.pubnub.com/docs/j2me-java/pubnub-java-sdk](https://www.pubnub.com/docs/j2me-java/pubnub-java-sdk)
 
 
+### 🛠️ PubNub Xamarin iOS C# SDK by PubNub
 
 
-### PubNub Accelerator Titanium JavaScript SDK by PubNub
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/pubnub/c-sharp)
 
-- **Platform**: JavaScript
-- **Docs**: [https://www.pubnub.com/docs/titanium-javascript/pubnub-javascript-sdk-v3](https://www.pubnub.com/docs/titanium-javascript/pubnub-javascript-sdk-v3)
 
 
+- **Stars**: ⭐ 93
+### 🛠️ PubNub Xamarin Android C# SDK by PubNub
 
 
-### PubNub CodeNameOne Java SDK by PubNub
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/c-sharp-net-c-sharp/pubnub-c-sharp-sdk)
 
-- **Platform**: Java
-- **Docs**: [https://www.pubnub.com/docs/codename-one-java/pubnub-java-sdk](https://www.pubnub.com/docs/codename-one-java/pubnub-java-sdk)
 
 
 
+### 🛠️ PubNub Pocket PC C# SDK by PubNub
 
-### PubNub Blackberry Java SDK by PubNub
 
-- **Platform**: Java
-- **Docs**: [https://www.pubnub.com/docs/blackberry-java/pubnub-java-sdk](https://www.pubnub.com/docs/blackberry-java/pubnub-java-sdk)
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/pocket-pc-c-sharp/pubnub-c-sharp-sdk)
 
 
 
 
-### PubNub C Library
+### 🛠️ PubNub Java ME SDK by PubNub
 
-- **Platform**: C, C++
-- **Docs**: [https://github.com/pubnub/c](https://github.com/pubnub/c)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/j2me-java/pubnub-java-sdk)
 
 
-- **Stars**: 46
 
 
+### 🛠️ PubNub Accelerator Titanium JavaScript SDK by PubNub
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/titanium-javascript/pubnub-javascript-sdk-v3)
+
+
+
+
+### 🛠️ PubNub CodeNameOne Java SDK by PubNub
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/codename-one-java/pubnub-java-sdk)
+
+
+
+
+### 🛠️ PubNub Blackberry Java SDK by PubNub
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://www.pubnub.com/docs/blackberry-java/pubnub-java-sdk)
+
+
+
+
+### 🛠️ PubNub C Library
+
+
+- **Platform**: `C, C++`
+- **Docs**: [📚 Documentation](https://github.com/pubnub/c)
+
+
+
+- **Stars**: ⭐ 46
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

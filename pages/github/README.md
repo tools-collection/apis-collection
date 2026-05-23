@@ -1,90 +1,104 @@
-# [GitHub](https://docs.github.com/en/rest)
+# 📦 [GitHub](https://docs.github.com/en/rest)
 
 
-World&#x27;s most famous code hosting service. You can use the official Octokit library and other third-party libraries to extend and simplify how you use the GitHub API.
+> **World&#x27;s most famous code hosting service. You can use the official Octokit library and other third-party libraries to extend and simplify how you use the GitHub API.**
 
-## Details
-- **Categories**: Development
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Development`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [REST API](https://docs.github.com/en/rest)
 - [GitHub GraphQL API](https://docs.github.com/en/graphql)
 
-## Libraries
-### octokit.rb
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/Giphy/giphy-js-sdk-core](https://github.com/Giphy/giphy-js-sdk-core)
+## 🧰 Libraries
+### 🛠️ octokit.rb
 
 
-
-
-### octokit.net
-
-- **Platform**: .NET
-- **Docs**: [https://github.com/octokit/octokit.net](https://github.com/octokit/octokit.net)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/Giphy/giphy-js-sdk-core)
 
 
 
 
-### octokit/rest.js
-
-- **Platform**: JvaScript
-- **Docs**: [https://github.com/octokit/rest.js](https://github.com/octokit/rest.js)
+### 🛠️ octokit.net
 
 
-
-
-### octokit/rest.js
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/octokit/rest.js](https://github.com/octokit/rest.js)
+- **Platform**: `.NET`
+- **Docs**: [📚 Documentation](https://github.com/octokit/octokit.net)
 
 
 
 
-### go-github
-
-- **Platform**: Go
-- **Docs**: [https://github.com/google/go-github](https://github.com/google/go-github)
+### 🛠️ octokit/rest.js
 
 
-
-
-### go-github
-
-- **Platform**: Go
-- **Docs**: [https://github.com/google/go-github](https://github.com/google/go-github)
+- **Platform**: `JvaScript`
+- **Docs**: [📚 Documentation](https://github.com/octokit/rest.js)
 
 
 
 
-### PHP GitHub API
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api)
+### 🛠️ octokit/rest.js
 
 
-
-
-### ghapi
-
-- **Platform**: Python
-- **Docs**: [https://github.com/fastai/ghapi](https://github.com/fastai/ghapi)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/octokit/rest.js)
 
 
 
 
+### 🛠️ go-github
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/google/go-github)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+### 🛠️ go-github
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/google/go-github)
+
+
+
+
+### 🛠️ PHP GitHub API
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/KnpLabs/php-github-api)
+
+
+
+
+### 🛠️ ghapi
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/fastai/ghapi)
+
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

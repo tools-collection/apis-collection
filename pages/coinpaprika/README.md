@@ -1,33 +1,40 @@
-# [coinpaprika](https://api.coinpaprika.com)
+# 📦 [coinpaprika](https://api.coinpaprika.com)
 
 
-Cryptocurrencies prices, market capitalization, volume and more.
+> **Cryptocurrencies prices, market capitalization, volume and more.**
 
-## Details
-- **Categories**: Blockchain &amp; Cryptocurrencies
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://api.coinpaprika.com)
 
-## Libraries
-### Coinpaprika C# SDK by Marco Siccardi
-
-- **Platform**: .Net, C#
-- **Docs**: [https://api.coinpaprika.com/#section/Clients](https://api.coinpaprika.com/#section/Clients)
-- **Source**: [https://github.com/MSiccDev/CoinpaprikaAPI](https://github.com/MSiccDev/CoinpaprikaAPI)
+## 🧰 Libraries
+### 🛠️ Coinpaprika C# SDK by Marco Siccardi
 
 
-- **Stars**: 12
+- **Platform**: `.Net, C#`
+- **Docs**: [📚 Documentation](https://api.coinpaprika.com/#section/Clients)
+- **Source**: [💻 Source Code](https://github.com/MSiccDev/CoinpaprikaAPI)
 
 
+- **Stars**: ⭐ 12
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

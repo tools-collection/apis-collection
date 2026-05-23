@@ -1,370 +1,419 @@
-# [Flickr](https://www.flickr.com/services/api/)
+# 📦 [Flickr](https://www.flickr.com/services/api/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/flickr/logo_256x256.png" alt="Flickr logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/flickr/logo_256x256.png" alt="Flickr logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Search through user Flickr content, contacts, upload or replace photos. Flickr is almost certainly the best online photo management and sharing application in the world. Show off your favorite photos and videos to the world, securely and privately show content to your friends and family, or blog the photos and videos you take with a cameraphone
+> **Search through user Flickr content, contacts, upload or replace photos. Flickr is almost certainly the best online photo management and sharing application in the world. Show off your favorite photos and videos to the world, securely and privately show content to your friends and family, or blog the photos and videos you take with a cameraphone**
 
-## Details
-- **Categories**: Images &amp; Photography, Video &amp; Media, Social
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Images &amp; Photography`, `Video &amp; Media`, `Social`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.flickr.com/services/api/)
 
-## Libraries
-### Flickr iOS SDK by Dennis Zelada
+## 🧰 Libraries
+### 🛠️ Flickr iOS SDK by Dennis Zelada
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/denniszelada/flickrfinder](https://github.com/denniszelada/flickrfinder)
 
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/denniszelada/flickrfinder)
 
-- **Author**: denniszelada
 
-### Flickr Objective-C SDK by Lukhnos Liu
+- **Author**: 👤 denniszelada
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/lukhnos/objectiveflickr](https://github.com/lukhnos/objectiveflickr)
+### 🛠️ Flickr Objective-C SDK by Lukhnos Liu
 
 
-- **Author**: lukhnos
-- **Stars**: 792
-### Flickr Node.js SDK by sujal
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/lukhnos/objectiveflickr)
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/sujal/node-flickr](https://github.com/sujal/node-flickr)
 
+- **Author**: 👤 lukhnos
+- **Stars**: ⭐ 792
+### 🛠️ Flickr Node.js SDK by sujal
 
-- **Author**: sujal
-- **Stars**: 24
-### Flickr PHP SDK by iPublikuj
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/iPublikuj/flickr](https://github.com/iPublikuj/flickr)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/sujal/node-flickr)
 
 
+- **Author**: 👤 sujal
+- **Stars**: ⭐ 24
+### 🛠️ Flickr PHP SDK by iPublikuj
 
-- **Stars**: 2
-### Flickr PHP SDK by VeryLastRoom
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/rezzza/FlickrBundle](https://github.com/rezzza/FlickrBundle)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/iPublikuj/flickr)
 
 
 
-- **Stars**: 4
-### Flickr Node.js SDK by Carlos Andres Lopez
+- **Stars**: ⭐ 2
+### 🛠️ Flickr PHP SDK by VeryLastRoom
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/calopez/hapi-js-fliquer](https://github.com/calopez/hapi-js-fliquer)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/rezzza/FlickrBundle)
 
-- **Author**: calopez
 
-### Flickr Java SDK by sanghoon
 
-- **Platform**: Java
-- **Docs**: [https://github.com/code-it-like-beckham/flickr-api-wrapper](https://github.com/code-it-like-beckham/flickr-api-wrapper)
+- **Stars**: ⭐ 4
+### 🛠️ Flickr Node.js SDK by Carlos Andres Lopez
 
 
-- **Author**: search-king
-- **Stars**: 1
-### Flickr Python SDK by MintedMayes
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/calopez/hapi-js-fliquer)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/MintedMayes/python-flickr-api](https://github.com/MintedMayes/python-flickr-api)
 
+- **Author**: 👤 calopez
 
-- **Author**: MintedMayes
+### 🛠️ Flickr Java SDK by sanghoon
 
-### Flickr Ruby SDK by Tomasz Wegrzanowski
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/taw/objectiveflickr](https://github.com/taw/objectiveflickr)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/code-it-like-beckham/flickr-api-wrapper)
 
 
-- **Author**: taw
+- **Author**: 👤 search-king
+- **Stars**: ⭐ 1
+### 🛠️ Flickr Python SDK by MintedMayes
 
-### Flickr Go SDK by Azer Koçulu
 
-- **Platform**: Go
-- **Docs**: [https://github.com/azer/go-flickr](https://github.com/azer/go-flickr)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/MintedMayes/python-flickr-api)
 
 
-- **Author**: azer
-- **Stars**: 5
-### Flickr R SDK by Jim Hester
+- **Author**: 👤 MintedMayes
 
-- **Platform**: R
-- **Docs**: [https://github.com/jimhester/flickrr](https://github.com/jimhester/flickrr)
+### 🛠️ Flickr Ruby SDK by Tomasz Wegrzanowski
 
 
-- **Author**: jimhester
-- **Stars**: 2
-### Flickr Ruby SDK by Janko Marohnić
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/taw/objectiveflickr)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/janko-m/flickr-objects](https://github.com/janko-m/flickr-objects)
 
+- **Author**: 👤 taw
 
-- **Author**: janko
-- **Stars**: 28
-### Flickr Node.js SDK by cooleo
+### 🛠️ Flickr Go SDK by Azer Koçulu
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/cooleo/FlickrJS](https://github.com/cooleo/FlickrJS)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/azer/go-flickr)
 
 
+- **Author**: 👤 azer
+- **Stars**: ⭐ 5
+### 🛠️ Flickr R SDK by Jim Hester
 
-### Flickr Perl SDK by Toby Corkindale
 
-- **Platform**: PERL
-- **Docs**: [https://github.com/TJC/Flickr-API2](https://github.com/TJC/Flickr-API2)
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](https://github.com/jimhester/flickrr)
 
 
-- **Author**: TJC
-- **Stars**: 18
-### Flickr C SDK by Dave Beckett
+- **Author**: 👤 jimhester
+- **Stars**: ⭐ 2
+### 🛠️ Flickr Ruby SDK by Janko Marohnić
 
-- **Platform**: C
-- **Docs**: [http://librdf.org/flickcurl/](http://librdf.org/flickcurl/)
-- **Source**: [https://github.com/dajobe/flickcurl](https://github.com/dajobe/flickcurl)
 
-- **Author**: dajobe
-- **Stars**: 58
-### Flickr Swift SDK by Chris Schwartz
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/janko-m/flickr-objects)
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/chris-schwartz/ios-swift-flickr-client](https://github.com/chris-schwartz/ios-swift-flickr-client)
 
+- **Author**: 👤 janko
+- **Stars**: ⭐ 28
+### 🛠️ Flickr Node.js SDK by cooleo
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/cooleo/FlickrJS)
 
-### Flickr JavaScript SDK by Andrey Voropaev
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/thisavoropaev/flickrest](https://github.com/thisavoropaev/flickrest)
 
 
+### 🛠️ Flickr Perl SDK by Toby Corkindale
 
 
-### Flickr Go SDK by Nolan Caudill
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/TJC/Flickr-API2)
 
-- **Platform**: Go
-- **Docs**: [https://github.com/mncaudill/go-flickr](https://github.com/mncaudill/go-flickr)
 
+- **Author**: 👤 TJC
+- **Stars**: ⭐ 18
+### 🛠️ Flickr C SDK by Dave Beckett
 
-- **Author**: mncaudill
-- **Stars**: 60
-### Flickr PHP SDK by JeroenG
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/Jeroen-G/Flickr](https://github.com/Jeroen-G/Flickr)
+- **Platform**: `C`
+- **Docs**: [📚 Documentation](http://librdf.org/flickcurl/)
+- **Source**: [💻 Source Code](https://github.com/dajobe/flickcurl)
 
+- **Author**: 👤 dajobe
+- **Stars**: ⭐ 58
+### 🛠️ Flickr Swift SDK by Chris Schwartz
 
-- **Author**: Jeroen-G
-- **Stars**: 25
-### Flickr Node.js SDK by Mike Kamermans
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/Pomax/node-flickrapi](https://github.com/Pomax/node-flickrapi)
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/chris-schwartz/ios-swift-flickr-client)
 
 
-- **Author**: Pomax
-- **Stars**: 176
-### Flickr PHP SDK by Dan Coulter
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/dan-coulter/phpflickr](https://github.com/dan-coulter/phpflickr)
 
+### 🛠️ Flickr JavaScript SDK by Andrey Voropaev
 
-- **Author**: dan-coulter
-- **Stars**: 208
-### Flickr Elixir SDK by Chuhei Ishigaki
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/chuhey/flickr_uploader](https://github.com/chuhey/flickr_uploader)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/thisavoropaev/flickrest)
 
 
-- **Author**: chuhey
 
-### Flickr PHP SDK by Alary Franck
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/DantSu/PHPFlickr-Oauth](https://github.com/DantSu/PHPFlickr-Oauth)
+### 🛠️ Flickr Go SDK by Nolan Caudill
 
 
-- **Author**: DantSu
-- **Stars**: 2
-### Flickr R SDK by Francesca Mancini
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/mncaudill/go-flickr)
 
-- **Platform**: R
-- **Docs**: [https://github.com/FrancescaMancini/Flickr-API](https://github.com/FrancescaMancini/Flickr-API)
 
+- **Author**: 👤 mncaudill
+- **Stars**: ⭐ 60
+### 🛠️ Flickr PHP SDK by JeroenG
 
-- **Author**: FrancescaMancini
-- **Stars**: 10
-### Flickr JavaScript SDK by Fernando Palacios Landi
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/fernandoPalaciosGit/flickr-photos-fetcher](https://github.com/fernandoPalaciosGit/flickr-photos-fetcher)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/Jeroen-G/Flickr)
 
 
-- **Author**: fernandoPalaciosGit
+- **Author**: 👤 Jeroen-G
+- **Stars**: ⭐ 25
+### 🛠️ Flickr Node.js SDK by Mike Kamermans
 
-### Flickr Perl Library by Flickr
 
-- **Platform**: PERL
-- **Docs**: [https://github.com/iamcal/perl-Flickr-API](https://github.com/iamcal/perl-Flickr-API)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/Pomax/node-flickrapi)
 
 
-- **Author**: iamcal
-- **Stars**: 8
-### Flickr iOS Library by David Gileadi
+- **Author**: 👤 Pomax
+- **Stars**: ⭐ 176
+### 🛠️ Flickr PHP SDK by Dan Coulter
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/dgileadi/OnlineImagePicker](https://github.com/dgileadi/OnlineImagePicker)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/dan-coulter/phpflickr)
 
-- **Author**: dgileadi
-- **Stars**: 11
-### Flickr PHP Library by Phan Thanh Cong
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/ptcong/php-remote-image-uploader](https://github.com/ptcong/php-remote-image-uploader)
+- **Author**: 👤 dan-coulter
+- **Stars**: ⭐ 208
+### 🛠️ Flickr Elixir SDK by Chuhei Ishigaki
 
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/chuhey/flickr_uploader)
 
 
-### Flickr Java Library by Paul Bourke
+- **Author**: 👤 chuhey
 
-- **Platform**: Java
-- **Docs**: [https://github.com/yuyang226/FlickrjApi4Android](https://github.com/yuyang226/FlickrjApi4Android)
+### 🛠️ Flickr PHP SDK by Alary Franck
 
 
-- **Author**: yuyang226
-- **Stars**: 43
-### Flickr Ruby Library by Maël Clérambault
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/DantSu/PHPFlickr-Oauth)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/hanklords/flickraw](https://github.com/hanklords/flickraw)
 
+- **Author**: 👤 DantSu
+- **Stars**: ⭐ 2
+### 🛠️ Flickr R SDK by Francesca Mancini
 
-- **Author**: hanklords
-- **Stars**: 505
-### Flickr C# Library by Sam Hudson
 
-- **Platform**: C#
-- **Docs**: [https://github.com/samjudson/flickr-net](https://github.com/samjudson/flickr-net)
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](https://github.com/FrancescaMancini/Flickr-API)
 
 
-- **Author**: samjudson
-- **Stars**: 93
-### Flickr Python Library python-flickr-api
+- **Author**: 👤 FrancescaMancini
+- **Stars**: ⭐ 10
+### 🛠️ Flickr JavaScript SDK by Fernando Palacios Landi
 
-- **Platform**: Python
-- **Docs**: [https://github.com/alexis-mignon/python-flickr-api](https://github.com/alexis-mignon/python-flickr-api)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/fernandoPalaciosGit/flickr-photos-fetcher)
 
-- **Author**: alexis-mignon
-- **Stars**: 372
-### node-flickrapi
 
-- **Platform**: Node.js
-- **Docs**: [https://www.npmjs.org/package/flickrapi](https://www.npmjs.org/package/flickrapi)
-- **Source**: [https://github.com/Pomax/node-flickrapi](https://github.com/Pomax/node-flickrapi)
+- **Author**: 👤 fernandoPalaciosGit
 
-- **Author**: Pomax
-- **Stars**: 176
-### flickrj-android
+### 🛠️ Flickr Perl Library by Flickr
 
-- **Platform**: Java
-- **Docs**: [https://code.google.com/p/flickrj-android/](https://code.google.com/p/flickrj-android/)
 
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/iamcal/perl-Flickr-API)
 
 
+- **Author**: 👤 iamcal
+- **Stars**: ⭐ 8
+### 🛠️ Flickr iOS Library by David Gileadi
 
-### FlickrNet
 
-- **Platform**: .Net
-- **Docs**: [http://flickrnet.codeplex.com/](http://flickrnet.codeplex.com/)
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/dgileadi/OnlineImagePicker)
 
 
+- **Author**: 👤 dgileadi
+- **Stars**: ⭐ 11
+### 🛠️ Flickr PHP Library by Phan Thanh Cong
 
 
-### PHP Wrapper for Flickr API
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/ptcong/php-remote-image-uploader)
 
-- **Platform**: PHP
-- **Docs**: [http://sourceforge.net/projects/phlickr/](http://sourceforge.net/projects/phlickr/)
 
 
 
+### 🛠️ Flickr Java Library by Paul Bourke
 
-### .NET Wrapper for Flickr API
 
-- **Platform**: N/A
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/yuyang226/FlickrjApi4Android)
 
 
+- **Author**: 👤 yuyang226
+- **Stars**: ⭐ 43
+### 🛠️ Flickr Ruby Library by Maël Clérambault
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/hanklords/flickraw)
 
-### ActionScript Library for Flickr
 
-- **Platform**: N/A
-- **Docs**: [http://code.google.com/p/as3flickrlib/](http://code.google.com/p/as3flickrlib/)
+- **Author**: 👤 hanklords
+- **Stars**: ⭐ 505
+### 🛠️ Flickr C# Library by Sam Hudson
 
 
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/samjudson/flickr-net)
 
 
-### MediaWiki Widgets Library
+- **Author**: 👤 samjudson
+- **Stars**: ⭐ 93
+### 🛠️ Flickr Python Library python-flickr-api
 
-- **Platform**: N/A
-- **Docs**: [http://www.mediawikiwidgets.org/](http://www.mediawikiwidgets.org/)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/alexis-mignon/python-flickr-api)
 
 
+- **Author**: 👤 alexis-mignon
+- **Stars**: ⭐ 372
+### 🛠️ node-flickrapi
 
-### rFlickr Ruby Library
 
-- **Platform**: Ruby
-- **Docs**: [http://www.maxdunn.com/RoR+and+Flickr](http://www.maxdunn.com/RoR+and+Flickr)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.org/package/flickrapi)
+- **Source**: [💻 Source Code](https://github.com/Pomax/node-flickrapi)
 
+- **Author**: 👤 Pomax
+- **Stars**: ⭐ 176
+### 🛠️ flickrj-android
 
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://code.google.com/p/flickrj-android/)
 
-### flickrj
 
-- **Platform**: Java
-- **Docs**: [http://sourceforge.net/projects/flickrj/](http://sourceforge.net/projects/flickrj/)
 
 
+### 🛠️ FlickrNet
 
 
-### .NET Wrapper for Flickr API
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](http://flickrnet.codeplex.com/)
 
-- **Platform**: N/A
 
 
 
+### 🛠️ PHP Wrapper for Flickr API
 
 
-### .NET Wrapper for Flickr API
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](http://sourceforge.net/projects/phlickr/)
 
-- **Platform**: N/A
 
 
 
+### 🛠️ .NET Wrapper for Flickr API
 
 
+- **Platform**: `N/A`
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+
+### 🛠️ ActionScript Library for Flickr
+
+
+- **Platform**: `N/A`
+- **Docs**: [📚 Documentation](http://code.google.com/p/as3flickrlib/)
+
+
+
+
+### 🛠️ MediaWiki Widgets Library
+
+
+- **Platform**: `N/A`
+- **Docs**: [📚 Documentation](http://www.mediawikiwidgets.org/)
+
+
+
+
+### 🛠️ rFlickr Ruby Library
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](http://www.maxdunn.com/RoR+and+Flickr)
+
+
+
+
+### 🛠️ flickrj
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](http://sourceforge.net/projects/flickrj/)
+
+
+
+
+### 🛠️ .NET Wrapper for Flickr API
+
+
+- **Platform**: `N/A`
+
+
+
+
+
+### 🛠️ .NET Wrapper for Flickr API
+
+
+- **Platform**: `N/A`
+
+
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,33 +1,40 @@
-# [Makeup](http://makeup-api.herokuapp.com/)
+# 📦 [Makeup](http://makeup-api.herokuapp.com/)
 
 
-Search makeup products
+> **Search makeup products**
 
-## Details
-- **Categories**: Other
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Other`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://makeup-api.herokuapp.com/)
 
-## Libraries
-### Makeup Go SDK by Ryan Christiani
-
-- **Platform**: Go
-- **Docs**: [https://github.com/Rchristiani/gomakeup](https://github.com/Rchristiani/gomakeup)
+## 🧰 Libraries
+### 🛠️ Makeup Go SDK by Ryan Christiani
 
 
-- **Author**: Rchristiani
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/Rchristiani/gomakeup)
 
 
+- **Author**: 👤 Rchristiani
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

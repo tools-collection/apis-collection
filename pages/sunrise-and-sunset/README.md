@@ -1,24 +1,32 @@
-# [Sunrise and Sunset](https://sunrise-sunset.org/api)
+# 📦 [Sunrise and Sunset](https://sunrise-sunset.org/api)
 
 
-Sunset and sunrise times API. Free API that provides sunset and sunrise times for a given latitude and longitude.
+> **Sunset and sunrise times API. Free API that provides sunset and sunrise times for a given latitude and longitude.**
 
-## Details
-- **Categories**: Science &amp; Math
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Science &amp; Math`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://sunrise-sunset.org/api)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

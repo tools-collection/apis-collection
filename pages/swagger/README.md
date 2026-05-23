@@ -1,24 +1,32 @@
-# [Swagger](http://swagger.io/)
+# 📦 [Swagger](http://swagger.io/)
 
 
-Find out how Swagger can help you and get started today. Simplify API development for users, teams, and enterprises with our open source and professional toolset
+> **Find out how Swagger can help you and get started today. Simplify API development for users, teams, and enterprises with our open source and professional toolset**
 
-## Details
-- **Categories**: Development
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Development`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://swagger.io/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

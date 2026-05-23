@@ -1,24 +1,32 @@
-# [Charity Search](http://charityapi.orghunter.com/)
+# 📦 [Charity Search](http://charityapi.orghunter.com/)
 
 
-The OrgHunter Charity API provides developers access to over 2M charities in it&#x27;s database
+> **The OrgHunter Charity API provides developers access to over 2M charities in it&#x27;s database**
 
-## Details
-- **Categories**: Other
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Other`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://charityapi.orghunter.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

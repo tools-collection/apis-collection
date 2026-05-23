@@ -1,24 +1,32 @@
-# [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries)
+# 📦 [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries)
 
 
-) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month
+> **) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month**
 
-## Details
-- **Categories**: Content &amp; Dictionaries
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Content &amp; Dictionaries`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://developer.pearson.com/apis/dictionaries)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

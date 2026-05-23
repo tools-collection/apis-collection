@@ -1,25 +1,33 @@
-# [Shotstack](https://shotstack.io/docs/guide/getting-started/core-concepts)
+# 📦 [Shotstack](https://shotstack.io/docs/guide/getting-started/core-concepts)
 
 
-Shotstack API enables programmatic video editing and generation. Compose videos from templates, images, audio, and text overlays at scale for media automation pipelines.
+> **Shotstack API enables programmatic video editing and generation. Compose videos from templates, images, audio, and text overlays at scale for media automation pipelines.**
 
-## Details
-- **Categories**: Video &amp; Media, AI &amp; ML
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Video &amp; Media`, `AI &amp; ML`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://shotstack.io/docs/guide/getting-started/core-concepts)
 - [API Reference](https://shotstack.io/docs/api)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

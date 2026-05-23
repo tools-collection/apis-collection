@@ -1,65 +1,76 @@
-# [UPS](https://www.ups.com/upsdeveloperkit)
+# 📦 [UPS](https://www.ups.com/upsdeveloperkit)
 
 
-UPS is an American multinational package delivery and supply chain management company
+> **UPS is an American multinational package delivery and supply chain management company**
 
-## Details
-- **Categories**: Commerce, Maps &amp; Geo, Post &amp; Logistics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Commerce`, `Maps &amp; Geo`, `Post &amp; Logistics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.ups.com/upsdeveloperkit)
 
-## Libraries
-### Shipment Perl SDK by Andrew Baerg
-
-- **Platform**: PERL
-- **Docs**: [https://github.com/pullingshots/Shipment](https://github.com/pullingshots/Shipment)
+## 🧰 Libraries
+### 🛠️ Shipment Perl SDK by Andrew Baerg
 
 
-- **Author**: pullingshots
-- **Stars**: 17
-### python-ship SDK by benweatherman
-
-- **Platform**: Python
-- **Docs**: [https://github.com/benweatherman/python-ship](https://github.com/benweatherman/python-ship)
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/pullingshots/Shipment)
 
 
-- **Author**: benweatherman
-- **Stars**: 43
-### Unofficial UPS PHP SDK by xujiajun
-
-- **Platform**: PHP
-- **Docs**: [https://packagist.org/packages/xujiajun/ups-api](https://packagist.org/packages/xujiajun/ups-api)
-- **Source**: [https://github.com/xujiajun/php-ups-api](https://github.com/xujiajun/php-ups-api)
-
-- **Author**: xujiajun
-
-### UPS PHP Library php-ups-api
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/gabrielbull/php-ups-api](https://github.com/gabrielbull/php-ups-api)
+- **Author**: 👤 pullingshots
+- **Stars**: ⭐ 17
+### 🛠️ python-ship SDK by benweatherman
 
 
-- **Author**: gabrielbull
-- **Stars**: 367
-### UPS Shipping PHP Library php-ups-api
-
-- **Platform**: PHP
-- **Docs**: [https://code.google.com/p/php-ups-api/](https://code.google.com/p/php-ups-api/)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/benweatherman/python-ship)
 
 
+- **Author**: 👤 benweatherman
+- **Stars**: ⭐ 43
+### 🛠️ Unofficial UPS PHP SDK by xujiajun
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://packagist.org/packages/xujiajun/ups-api)
+- **Source**: [💻 Source Code](https://github.com/xujiajun/php-ups-api)
+
+- **Author**: 👤 xujiajun
+
+### 🛠️ UPS PHP Library php-ups-api
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/gabrielbull/php-ups-api)
+
+
+- **Author**: 👤 gabrielbull
+- **Stars**: ⭐ 367
+### 🛠️ UPS Shipping PHP Library php-ups-api
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://code.google.com/p/php-ups-api/)
 
 
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

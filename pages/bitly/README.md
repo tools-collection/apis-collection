@@ -1,97 +1,112 @@
-# [Bitly](http://dev.bitly.com/links.html)
+# 📦 [Bitly](http://dev.bitly.com/links.html)
 
 
-Access to Bitly’s API. The Bitly API Bitly is the most widely trusted link management platform in the world. By using the Bitly API, you will exercise the full power of your links through automated link customization, mo
+> **Access to Bitly’s API. The Bitly API Bitly is the most widely trusted link management platform in the world. By using the Bitly API, you will exercise the full power of your links through automated link customization, mo**
 
-## Details
-- **Categories**: URLs
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `URLs`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://dev.bitly.com/links.html)
 
-## Libraries
-### Bitly PHP SDK by Kanan Langin-Hooper
-
-- **Platform**: PHP
-- **Docs**: [https://packagist.org/packages/kananlanginhooper/bitly-api-php](https://packagist.org/packages/kananlanginhooper/bitly-api-php)
-- **Source**: [https://github.com/kananlanginhooper/bitly-api-php](https://github.com/kananlanginhooper/bitly-api-php)
-
-- **Author**: kananlanginhooper
-
-### Bit.ly Ruby Library by Louis Gillies
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/playgood/get_shorty](https://github.com/playgood/get_shorty)
+## 🧰 Libraries
+### 🛠️ Bitly PHP SDK by Kanan Langin-Hooper
 
 
-- **Author**: louisgillies
-- **Stars**: 7
-### Bit.ly Python Library by Yoav Aviram
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://packagist.org/packages/kananlanginhooper/bitly-api-php)
+- **Source**: [💻 Source Code](https://github.com/kananlanginhooper/bitly-api-php)
 
-- **Platform**: Python
-- **Docs**: [https://code.google.com/p/python-bitly/](https://code.google.com/p/python-bitly/)
+- **Author**: 👤 kananlanginhooper
+
+### 🛠️ Bit.ly Ruby Library by Louis Gillies
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/playgood/get_shorty)
 
 
-### Bit.ly PHP Library by Yii
+- **Author**: 👤 louisgillies
+- **Stars**: ⭐ 7
+### 🛠️ Bit.ly Python Library by Yoav Aviram
 
-- **Platform**: PHP
-- **Docs**: [http://www.yiiframework.com/extension/bitly-url-shortener](http://www.yiiframework.com/extension/bitly-url-shortener)
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://code.google.com/p/python-bitly/)
 
 
 
 
-###  Bit.ly Java Library by Finn Johnsen 
-
-- **Platform**: .Net, Java
-- **Docs**: [https://github.com/finnjohnsen/BitlyAndroid](https://github.com/finnjohnsen/BitlyAndroid)
+### 🛠️ Bit.ly PHP Library by Yii
 
 
-- **Author**: finnjohnsen
-- **Stars**: 19
-### Bit.ly Python Library bitly-api-python
-
-- **Platform**: Python
-- **Docs**: [https://github.com/bitly/bitly-api-python](https://github.com/bitly/bitly-api-python)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](http://www.yiiframework.com/extension/bitly-url-shortener)
 
 
 
-- **Stars**: 242
-### Bitly .NET library BitlyDotNET
 
-- **Platform**: .Net
-- **Docs**: [http://dev.bitly.com/code_libraries.html](http://dev.bitly.com/code_libraries.html)
-- **Source**: [https://code.google.com/p/bitly-dot-net/](https://code.google.com/p/bitly-dot-net/)
+### 🛠️  Bit.ly Java Library by Finn Johnsen 
 
 
+- **Platform**: `.Net, Java`
+- **Docs**: [📚 Documentation](https://github.com/finnjohnsen/BitlyAndroid)
 
-### url_shortener (Bitly Ruby Gem)
 
-- **Platform**: Ruby
-- **Docs**: [http://rdoc.info/github/nas/url_shortener](http://rdoc.info/github/nas/url_shortener)
-- **Source**: [https://github.com/nas/url_shortener](https://github.com/nas/url_shortener)
+- **Author**: 👤 finnjohnsen
+- **Stars**: ⭐ 19
+### 🛠️ Bit.ly Python Library bitly-api-python
 
-- **Author**: nas
-- **Stars**: 40
-### node-bitlyapi
 
-- **Platform**: Node.js
-- **Docs**: [https://www.npmjs.org/package/node-bitlyapi](https://www.npmjs.org/package/node-bitlyapi)
-- **Source**: [https://github.com/nkirby/node-bitlyapi](https://github.com/nkirby/node-bitlyapi)
-
-- **Author**: nkirby
-- **Stars**: 33
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/bitly/bitly-api-python)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 242
+### 🛠️ Bitly .NET library BitlyDotNET
+
+
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](http://dev.bitly.com/code_libraries.html)
+- **Source**: [💻 Source Code](https://code.google.com/p/bitly-dot-net/)
+
+
+
+### 🛠️ url_shortener (Bitly Ruby Gem)
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](http://rdoc.info/github/nas/url_shortener)
+- **Source**: [💻 Source Code](https://github.com/nas/url_shortener)
+
+- **Author**: 👤 nas
+- **Stars**: ⭐ 40
+### 🛠️ node-bitlyapi
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.org/package/node-bitlyapi)
+- **Source**: [💻 Source Code](https://github.com/nkirby/node-bitlyapi)
+
+- **Author**: 👤 nkirby
+- **Stars**: ⭐ 33
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

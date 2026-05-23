@@ -1,26 +1,32 @@
-# [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986)
+# 📦 [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986)
 
 
-ClickMeter API RESTful services. ClickMeter API RESTful services. Interact programmatically with our infrastructure. Integrate your application(s) with a powerful.
+> **ClickMeter API RESTful services. ClickMeter API RESTful services. Interact programmatically with our infrastructure. Integrate your application(s) with a powerful.**
 
-## Details
-- **Categories**: Analytics, Marketing &amp; SEO, URLs, Email &amp; SMS
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Analytics`, `Marketing &amp; SEO`, `URLs`, `Email &amp; SMS`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://support.clickmeter.com/hc/en-us/categories/201474986)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-api@clickmeter.com
+## 📬 Contact
+📧 api@clickmeter.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

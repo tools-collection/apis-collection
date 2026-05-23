@@ -1,29 +1,37 @@
-# [Html2pdf.App](https://html2pdf.app/)
+# 📦 [Html2pdf.App](https://html2pdf.app/)
 
 
-Free Html to Pdf online generator.
+> **Free Html to Pdf online generator.
 Most realistic, high quality and easy to use html to pdf api conversion service for developers!
 Free API - no payments
 No need your own server.
 Maintainable and improving service.
-Easy to use.
+Easy to use.**
 
-## Details
-- **Categories**: Documents &amp; Productivity, Development
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Documents &amp; Productivity`, `Development`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://html2pdf.app/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

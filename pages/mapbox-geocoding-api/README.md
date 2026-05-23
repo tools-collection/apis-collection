@@ -1,24 +1,32 @@
-# [Mapbox Geocoding API](https://docs.mapbox.com/api/)
+# 📦 [Mapbox Geocoding API](https://docs.mapbox.com/api/)
 
 
-The Mapbox Geocoding API does forward geocoding (search place names and return coordinates) and reverse geocoding (search coordinates and return place names)
+> **The Mapbox Geocoding API does forward geocoding (search place names and return coordinates) and reverse geocoding (search coordinates and return place names)**
 
-## Details
-- **Categories**: Search, Maps &amp; Geo
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Search`, `Maps &amp; Geo`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://docs.mapbox.com/api/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

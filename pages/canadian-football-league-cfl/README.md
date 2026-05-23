@@ -1,24 +1,32 @@
-# [Canadian Football League (CFL)](http://api.cfl.ca/)
+# 📦 [Canadian Football League (CFL)](http://api.cfl.ca/)
 
 
-CFL API Need assistance? E-mail us or browse the API documentation
+> **CFL API Need assistance? E-mail us or browse the API documentation**
 
-## Details
-- **Categories**: Sport &amp; Fitness
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Sport &amp; Fitness`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://api.cfl.ca/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

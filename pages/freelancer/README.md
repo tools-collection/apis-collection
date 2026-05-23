@@ -1,50 +1,59 @@
-# [Freelancer](https://developers.freelancer.com)
+# 📦 [Freelancer](https://developers.freelancer.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/freelancer/logo_256x256.png" alt="Freelancer logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/freelancer/logo_256x256.png" alt="Freelancer logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more. Task humans from software. Task humans from software
+> **Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more. Task humans from software. Task humans from software**
 
-## Details
-- **Categories**: Commerce, Business, Jobs
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Commerce`, `Business`, `Jobs`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.freelancer.com)
 
-## Libraries
-### Freelancer Android SDK
-
-- **Platform**: Kotlin
-- **Docs**: [https://github.com/freelancer/freelancer-sdk-android](https://github.com/freelancer/freelancer-sdk-android)
+## 🧰 Libraries
+### 🛠️ Freelancer Android SDK
 
 
-
-- **Stars**: 24
-### Freelancer Python SDK 
-
-- **Platform**: Python
-- **Docs**: [https://github.com/freelancer/freelancer-sdk-python](https://github.com/freelancer/freelancer-sdk-python)
+- **Platform**: `Kotlin`
+- **Docs**: [📚 Documentation](https://github.com/freelancer/freelancer-sdk-android)
 
 
 
-- **Stars**: 79
-### JSON Placeholder Node.js Library by typicode
-
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
+- **Stars**: ⭐ 24
+### 🛠️ Freelancer Python SDK 
 
 
-- **Author**: typicode
-- **Stars**: 75642
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/freelancer/freelancer-sdk-python)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 79
+### 🛠️ JSON Placeholder Node.js Library by typicode
+
+
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/typicode/json-server)
+
+
+- **Author**: 👤 typicode
+- **Stars**: ⭐ 75642
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

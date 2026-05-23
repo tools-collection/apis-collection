@@ -1,25 +1,33 @@
-# [Robohash Image Generator](https://www.mashape.com/blaazetech/robohash-image-generator)
+# 📦 [Robohash Image Generator](https://www.mashape.com/blaazetech/robohash-image-generator)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/robohash-image-generator/logo_256x256.png" alt="Robohash Image Generator logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/robohash-image-generator/logo_256x256.png" alt="Robohash Image Generator logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Generates cool looking robot image for any text
+> **Generates cool looking robot image for any text**
 
-## Details
-- **Categories**: Social, Images &amp; Photography, Random
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Social`, `Images &amp; Photography`, `Random`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.mashape.com/blaazetech/robohash-image-generator)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

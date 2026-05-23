@@ -1,25 +1,33 @@
-# [xAI Grok](https://docs.x.ai)
+# 📦 [xAI Grok](https://docs.x.ai)
 
 
-xAI&#x27;s API provides access to the Grok family of language models for text generation and reasoning. Grok has real-time access to X (Twitter) data and is optimized for conversational tasks.
+> **xAI&#x27;s API provides access to the Grok family of language models for text generation and reasoning. Grok has real-time access to X (Twitter) data and is optimized for conversational tasks.**
 
-## Details
-- **Categories**: AI &amp; ML
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `AI &amp; ML`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://docs.x.ai)
 - [API Reference](https://docs.x.ai/api)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

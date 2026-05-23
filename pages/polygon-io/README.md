@@ -1,25 +1,33 @@
-# [Polygon.io](https://polygon.io/docs)
+# 📦 [Polygon.io](https://polygon.io/docs)
 
 
-Polygon.io provides real-time and historical stock, options, forex, and crypto market data. Access aggregates, trades, quotes, financials, and news via REST and WebSocket APIs.
+> **Polygon.io provides real-time and historical stock, options, forex, and crypto market data. Access aggregates, trades, quotes, financials, and news via REST and WebSocket APIs.**
 
-## Details
-- **Categories**: Finance &amp; Economics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Finance &amp; Economics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://polygon.io/docs)
 - [API Reference](https://polygon.io/docs/stocks/getting-started)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

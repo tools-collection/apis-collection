@@ -1,25 +1,33 @@
-# [Picatic](http://developer.picatic.com/?utm_medium&#x3D;web&amp;utm_source&#x3D;github&amp;utm_campaign&#x3D;public-apis%20repo&amp;utm_content&#x3D;abhishekbanthia)
+# 📦 [Picatic](http://developer.picatic.com/?utm_medium&#x3D;web&amp;utm_source&#x3D;github&amp;utm_campaign&#x3D;public-apis%20repo&amp;utm_content&#x3D;abhishekbanthia)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/picatic/logo_256x256.png" alt="Picatic logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/picatic/logo_256x256.png" alt="Picatic logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Sell tickets directly from your app or website. The ticketing and event management platform that puts the power in your hands
+> **Sell tickets directly from your app or website. The ticketing and event management platform that puts the power in your hands**
 
-## Details
-- **Categories**: Payments, Authentication &amp; User Management, Events
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Payments`, `Authentication &amp; User Management`, `Events`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://developer.picatic.com/?utm_medium&#x3D;web&amp;utm_source&#x3D;github&amp;utm_campaign&#x3D;public-apis%20repo&amp;utm_content&#x3D;abhishekbanthia)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

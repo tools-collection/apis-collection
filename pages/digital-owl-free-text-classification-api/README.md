@@ -1,24 +1,32 @@
-# [Digital Owl Free Text Classification Api](https://digitalowl.org)
+# 📦 [Digital Owl Free Text Classification Api](https://digitalowl.org)
 
 
-Free for use text classification, sentiment analysis, semantic similarity and word analysis api.
+> **Free for use text classification, sentiment analysis, semantic similarity and word analysis api.**
 
-## Details
-- **Categories**: AI &amp; ML, Text Analysis &amp; Tools
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `AI &amp; ML`, `Text Analysis &amp; Tools`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://digitalowl.org)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

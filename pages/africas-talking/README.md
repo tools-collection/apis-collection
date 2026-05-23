@@ -1,24 +1,32 @@
-# [Africa&#x27;s Talking](https://africastalking.com/)
+# 📦 [Africa&#x27;s Talking](https://africastalking.com/)
 
 
-A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications. Access African telco services through a HTTP API
+> **A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications. Access African telco services through a HTTP API**
 
-## Details
-- **Categories**: Chats &amp; Messaging, Email &amp; SMS
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Chats &amp; Messaging`, `Email &amp; SMS`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://africastalking.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

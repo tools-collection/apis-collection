@@ -1,65 +1,76 @@
-# [HyperTrack](https://docs.hypertrack.com)
+# 📦 [HyperTrack](https://docs.hypertrack.com)
 
 
-Build applications that track the movement of your business. HyperTrack is the API for anything that moves with commercial value. From startups to enterprises worldwide, product development teams build live location use cases with HyperTrack to power business efficiency and product experience.
+> **Build applications that track the movement of your business. HyperTrack is the API for anything that moves with commercial value. From startups to enterprises worldwide, product development teams build live location use cases with HyperTrack to power business efficiency and product experience.**
 
-## Details
-- **Categories**: Vehicles, Maps &amp; Geo, Post &amp; Logistics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Vehicles`, `Maps &amp; Geo`, `Post &amp; Logistics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://docs.hypertrack.com)
 
-## Libraries
-### HyperTrack Python SDK by HyperTrack
-
-- **Platform**: Python
-- **Docs**: [https://github.com/hypertrack/hypertrack-python](https://github.com/hypertrack/hypertrack-python)
+## 🧰 Libraries
+### 🛠️ HyperTrack Python SDK by HyperTrack
 
 
-
-- **Stars**: 2
-### HyperTrack iOS Consumer Objective-C SDK by HyperTrack
-
-- **Platform**: Objective-C
-- **Docs**: [https://docs.hypertrack.com/v3/sdks/ios/installing.html](https://docs.hypertrack.com/v3/sdks/ios/installing.html)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/hypertrack/hypertrack-python)
 
 
 
+- **Stars**: ⭐ 2
+### 🛠️ HyperTrack iOS Consumer Objective-C SDK by HyperTrack
 
-### HyperTrack iOS Driver Objective-C SDK by HyperTrack
 
-- **Platform**: Objective-C
-- **Docs**: [http://docs.hypertrack.io/docs/getting-started-ios-driver](http://docs.hypertrack.io/docs/getting-started-ios-driver)
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://docs.hypertrack.com/v3/sdks/ios/installing.html)
 
 
 
 
-### HyperTrack Android Consumer Java SDK by HyperTrack
-
-- **Platform**: Java
-- **Docs**: [http://docs.hypertrack.io/docs/getting-started-android-consumer](http://docs.hypertrack.io/docs/getting-started-android-consumer)
-- **Source**: [http://docs.hypertrack.io/docs/getting-started-android-consumer](http://docs.hypertrack.io/docs/getting-started-android-consumer)
+### 🛠️ HyperTrack iOS Driver Objective-C SDK by HyperTrack
 
 
-
-### HyperTrack Android Driver Java SDK by HyperTrack
-
-- **Platform**: Java
-- **Docs**: [http://docs.hypertrack.io/docs/getting-started-android-driver](http://docs.hypertrack.io/docs/getting-started-android-driver)
-- **Source**: [http://docs.hypertrack.io/docs/getting-started-android-driver](http://docs.hypertrack.io/docs/getting-started-android-driver)
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](http://docs.hypertrack.io/docs/getting-started-ios-driver)
 
 
 
 
+### 🛠️ HyperTrack Android Consumer Java SDK by HyperTrack
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](http://docs.hypertrack.io/docs/getting-started-android-consumer)
+- **Source**: [💻 Source Code](http://docs.hypertrack.io/docs/getting-started-android-consumer)
+
+
+
+### 🛠️ HyperTrack Android Driver Java SDK by HyperTrack
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](http://docs.hypertrack.io/docs/getting-started-android-driver)
+- **Source**: [💻 Source Code](http://docs.hypertrack.io/docs/getting-started-android-driver)
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

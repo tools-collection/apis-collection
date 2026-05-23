@@ -1,24 +1,32 @@
-# [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode&#x3D;1211EP&amp;streetnumber&#x3D;60&amp;ref&#x3D;domeinnaam.nl&amp;type&#x3D;json)
+# 📦 [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode&#x3D;1211EP&amp;streetnumber&#x3D;60&amp;ref&#x3D;domeinnaam.nl&amp;type&#x3D;json)
 
 
-Netherland&#x27;s post codes search
+> **Netherland&#x27;s post codes search**
 
-## Details
-- **Categories**: Post &amp; Logistics, Maps &amp; Geo
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Post &amp; Logistics`, `Maps &amp; Geo`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://api.postcodedata.nl/v1/postcode/?postcode&#x3D;1211EP&amp;streetnumber&#x3D;60&amp;ref&#x3D;domeinnaam.nl&amp;type&#x3D;json)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

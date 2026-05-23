@@ -1,58 +1,68 @@
-# [Clearbit Logo](https://clearbit.com/docs#logo-api)
+# 📦 [Clearbit Logo](https://clearbit.com/docs#logo-api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clearbit-logo/logo_256x256.png" alt="Clearbit Logo logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clearbit-logo/logo_256x256.png" alt="Clearbit Logo logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
+> **If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API**
 
-## Details
-- **Categories**: AI &amp; ML, Business, Images &amp; Photography
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `AI &amp; ML`, `Business`, `Images &amp; Photography`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://clearbit.com/docs#logo-api)
 
-## Libraries
-### Clearbit Ruby SDK by Alex MacCaw
-
-- **Platform**: Ruby
-- **Docs**: [https://rubygems.org/gems/clearbit/versions/0.2.2](https://rubygems.org/gems/clearbit/versions/0.2.2)
+## 🧰 Libraries
+### 🛠️ Clearbit Ruby SDK by Alex MacCaw
 
 
-
-
-### Clearbit Go SDK by thoughtbot
-
-- **Platform**: Go
-- **Docs**: [https://github.com/thoughtbot/clearbit](https://github.com/thoughtbot/clearbit)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://rubygems.org/gems/clearbit/versions/0.2.2)
 
 
 
-- **Stars**: 30
-### Clearbit Go SDK by Clearbit
 
-- **Platform**: Go
-- **Docs**: [https://github.com/clearbit/clearbit-go](https://github.com/clearbit/clearbit-go)
+### 🛠️ Clearbit Go SDK by thoughtbot
 
 
-
-- **Stars**: 12
-### Clearbit Ruby SDK by Clearbit
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/clearbit/clearbit-ruby](https://github.com/clearbit/clearbit-ruby)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/thoughtbot/clearbit)
 
 
 
-- **Stars**: 52
+- **Stars**: ⭐ 30
+### 🛠️ Clearbit Go SDK by Clearbit
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/clearbit/clearbit-go)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 12
+### 🛠️ Clearbit Ruby SDK by Clearbit
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/clearbit/clearbit-ruby)
+
+
+
+- **Stars**: ⭐ 52
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,25 +1,33 @@
-# [Product Hunt API](https://api.producthunt.com/v2/docs)
+# 📦 [Product Hunt API](https://api.producthunt.com/v2/docs)
 
 
-Product Hunt&#x27;s GraphQL API provides access to products, posts, collections, topics, and user data. Discover and integrate trending tech products and startup launches.
+> **Product Hunt&#x27;s GraphQL API provides access to products, posts, collections, topics, and user data. Discover and integrate trending tech products and startup launches.**
 
-## Details
-- **Categories**: Social, Development
-- **Type**: GraphQL
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Social`, `Development`
+- **🔌 Type**: `GraphQL`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://api.producthunt.com/v2/docs)
 - [API Reference](https://api.producthunt.com/v2/docs)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

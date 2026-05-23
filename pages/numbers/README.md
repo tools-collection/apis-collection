@@ -1,24 +1,32 @@
-# [Numbers](http://numbersapi.com)
+# 📦 [Numbers](http://numbersapi.com)
 
 
-An API for interesting facts about numbers. An API for interesting facts about numbers
+> **An API for interesting facts about numbers. An API for interesting facts about numbers**
 
-## Details
-- **Categories**: Random, Fun, Science &amp; Math
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Random`, `Fun`, `Science &amp; Math`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://numbersapi.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

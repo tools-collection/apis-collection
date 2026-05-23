@@ -1,33 +1,40 @@
-# [They Said So](http://quotes.rest/)
+# 📦 [They Said So](http://quotes.rest/)
 
 
-They Said So Quotes API offers a complete feature rich REST API access to its quotes platform.
+> **They Said So Quotes API offers a complete feature rich REST API access to its quotes platform.**
 
-## Details
-- **Categories**: Fun
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Fun`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://quotes.rest/)
 
-## Libraries
-### They Said So Node.js SDK by Adam Barker
-
-- **Platform**: Node.js
-- **Docs**: [https://github.com/q-state/node-theysaidso](https://github.com/q-state/node-theysaidso)
+## 🧰 Libraries
+### 🛠️ They Said So Node.js SDK by Adam Barker
 
 
-- **Author**: q-state
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/q-state/node-theysaidso)
 
 
+- **Author**: 👤 q-state
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

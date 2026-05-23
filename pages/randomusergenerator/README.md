@@ -1,24 +1,32 @@
-# [RandomUserGenerator](https://randomuser.me/)
+# 📦 [RandomUserGenerator](https://randomuser.me/)
 
 
-Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It&#x27;s like Lorem Ipsum, for people.
+> **Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It&#x27;s like Lorem Ipsum, for people.**
 
-## Details
-- **Categories**: Testing
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Testing`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://randomuser.me/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

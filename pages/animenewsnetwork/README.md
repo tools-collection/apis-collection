@@ -1,24 +1,32 @@
-# [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)
+# 📦 [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)
 
 
-ANN provides a direct feed to the Encyclopedia data in XML format
+> **ANN provides a direct feed to the Encyclopedia data in XML format**
 
-## Details
-- **Categories**: Entertainment
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Entertainment`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.animenewsnetwork.com/encyclopedia/api.php)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

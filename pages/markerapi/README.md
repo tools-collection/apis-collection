@@ -1,25 +1,33 @@
-# [markerapi](http://www.markerapi.com/)
+# 📦 [markerapi](http://www.markerapi.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/markerapi/logo_256x256.png" alt="markerapi logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/markerapi/logo_256x256.png" alt="markerapi logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Trademark search API to search the US trademarks database (USPTO) based on a search string. API allows to search by serial number, trademark, owner, upcoming expiration date, and product/service description.
+> **Trademark search API to search the US trademarks database (USPTO) based on a search string. API allows to search by serial number, trademark, owner, upcoming expiration date, and product/service description.**
 
-## Details
-- **Categories**: Business
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Business`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://www.markerapi.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

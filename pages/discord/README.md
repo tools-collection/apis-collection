@@ -1,201 +1,229 @@
-# [Discord](https://discordapp.com/developers/docs/intro)
+# 📦 [Discord](https://discordapp.com/developers/docs/intro)
 
 
-Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with
+> **Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with**
 
-## Details
-- **Categories**: Chats &amp; Messaging, Voice, Games, Social
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Chats &amp; Messaging`, `Voice`, `Games`, `Social`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://discordapp.com/developers/docs/intro)
 
-## Libraries
-### Crypto2discord Python SDK by Azerpas
+## 🧰 Libraries
+### 🛠️ Crypto2discord Python SDK by Azerpas
 
-- **Platform**: Python
-- **Docs**: [https://github.com/azerpas/Crypto2discord](https://github.com/azerpas/Crypto2discord)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/azerpas/Crypto2discord)
 
-- **Author**: azerpas
-- **Stars**: 7
-### Discord Java SDK by ashley null
 
-- **Platform**: Java
-- **Docs**: [https://github.com/nerd/Discord4J](https://github.com/nerd/Discord4J)
+- **Author**: 👤 azerpas
+- **Stars**: ⭐ 7
+### 🛠️ Discord Java SDK by ashley null
 
 
-- **Author**: nerd
-- **Stars**: 27
-### Discord Dart SDK by Hackzzila
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/nerd/Discord4J)
 
-- **Platform**: Dart
-- **Docs**: [https://github.com/hackzzila/Discord-Dart](https://github.com/hackzzila/Discord-Dart)
 
+- **Author**: 👤 nerd
+- **Stars**: ⭐ 27
+### 🛠️ Discord Dart SDK by Hackzzila
 
-- **Author**: Hackzzila
-- **Stars**: 50
-### Discord Python SDK by Danny
 
-- **Platform**: Python
-- **Docs**: [https://github.com/Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+- **Platform**: `Dart`
+- **Docs**: [📚 Documentation](https://github.com/hackzzila/Discord-Dart)
 
 
-- **Author**: Rapptz
-- **Stars**: 15930
-### Discord C# SDK by Ryan de Jonge
+- **Author**: 👤 Hackzzila
+- **Stars**: ⭐ 50
+### 🛠️ Discord Python SDK by Danny
 
-- **Platform**: C#
-- **Docs**: [https://github.com/NaamloosDT/DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/Rapptz/discord.py)
 
-- **Author**: Naamloos
-- **Stars**: 2
-### Discord Rust SDK by SpaceManiac
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/SpaceManiac/discord-rs](https://github.com/SpaceManiac/discord-rs)
+- **Author**: 👤 Rapptz
+- **Stars**: ⭐ 15930
+### 🛠️ Discord C# SDK by Ryan de Jonge
 
 
-- **Author**: SpaceManiac
-- **Stars**: 401
-### Discord Java SDK by Bastian Oppermann
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/NaamloosDT/DSharpPlus)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/BtoBastian/Javacord](https://github.com/BtoBastian/Javacord)
 
+- **Author**: 👤 Naamloos
+- **Stars**: ⭐ 2
+### 🛠️ Discord Rust SDK by SpaceManiac
 
 
-- **Stars**: 772
-### Discord Java SDK by Austin Keener
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/SpaceManiac/discord-rs)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/DV8FromTheWorld/JDA/](https://github.com/DV8FromTheWorld/JDA/)
 
+- **Author**: 👤 SpaceManiac
+- **Stars**: ⭐ 401
+### 🛠️ Discord Java SDK by Bastian Oppermann
 
-- **Author**: DV8FromTheWorld
-- **Stars**: 4628
-### Discord Java SDK by austinv11
 
-- **Platform**: Java
-- **Docs**: [https://github.com/austinv11/Discord4J](https://github.com/austinv11/Discord4J)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/BtoBastian/Javacord)
 
 
 
-- **Stars**: 1901
-### Discord .Net SDK by RogueException
+- **Stars**: ⭐ 772
+### 🛠️ Discord Java SDK by Austin Keener
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/RogueException/Discord.Net](https://github.com/RogueException/Discord.Net)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/DV8FromTheWorld/JDA/)
 
 
-- **Stars**: 3492
-### Discord Ruby SDK by meew0
+- **Author**: 👤 DV8FromTheWorld
+- **Stars**: ⭐ 4628
+### 🛠️ Discord Java SDK by austinv11
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/meew0/discordrb](https://github.com/meew0/discordrb)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/austinv11/Discord4J)
 
-- **Author**: meew0
-- **Stars**: 9
-### Discord Node.js SDK by Amish Shah
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/hydrabolt/discord.js](https://github.com/hydrabolt/discord.js)
 
+- **Stars**: ⭐ 1901
+### 🛠️ Discord .Net SDK by RogueException
 
 
-- **Stars**: 26579
-### Discord Lua SDK by Adam James
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/RogueException/Discord.Net)
 
-- **Platform**: Lua
-- **Docs**: [https://github.com/satom99/litcord](https://github.com/satom99/litcord)
 
 
-- **Author**: satom99
-- **Stars**: 23
-### Discord Go SDK by Bruce
+- **Stars**: ⭐ 3492
+### 🛠️ Discord Ruby SDK by meew0
 
-- **Platform**: Go
-- **Docs**: [https://github.com/bwmarrin/discordgo](https://github.com/bwmarrin/discordgo)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/meew0/discordrb)
 
-- **Author**: bwmarrin
-- **Stars**: 5786
-### Discord Unity SDK by DiscordUnity
 
-- **Platform**: C#, Unity
-- **Docs**: [https://github.com/DiscordUnity/DiscordUnity](https://github.com/DiscordUnity/DiscordUnity)
+- **Author**: 👤 meew0
+- **Stars**: ⭐ 9
+### 🛠️ Discord Node.js SDK by Amish Shah
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/hydrabolt/discord.js)
 
-- **Stars**: 68
-### Discord PHP SDK by Reflex
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/teamreflex/DiscordPHP](https://github.com/teamreflex/DiscordPHP)
 
+- **Stars**: ⭐ 26579
+### 🛠️ Discord Lua SDK by Adam James
 
 
-- **Stars**: 1064
-### Discord JavaScript SDK by qeled
+- **Platform**: `Lua`
+- **Docs**: [📚 Documentation](https://github.com/satom99/litcord)
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/qeled/discordie](https://github.com/qeled/discordie)
 
+- **Author**: 👤 satom99
+- **Stars**: ⭐ 23
+### 🛠️ Discord Go SDK by Bruce
 
-- **Author**: qeled
-- **Stars**: 192
-### Discord Lua SDK by SinisterRectus
 
-- **Platform**: Lua
-- **Docs**: [https://github.com/SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/bwmarrin/discordgo)
 
 
-- **Author**: SinisterRectus
-- **Stars**: 750
-### Discord Node.js SDK by abal
+- **Author**: 👤 bwmarrin
+- **Stars**: ⭐ 5786
+### 🛠️ Discord Unity SDK by DiscordUnity
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/abalabahaha/eris](https://github.com/abalabahaha/eris)
 
+- **Platform**: `C#, Unity`
+- **Docs**: [📚 Documentation](https://github.com/DiscordUnity/DiscordUnity)
 
-- **Author**: abalabahaha
-- **Stars**: 1507
-### Discord Node.js SDK by izy521
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/izy521/discord.io](https://github.com/izy521/discord.io)
 
+- **Stars**: ⭐ 68
+### 🛠️ Discord PHP SDK by Reflex
 
-- **Author**: izy521
-- **Stars**: 533
-### Discord Crystal SDK by meew0
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/meew0/discordcr](https://github.com/meew0/discordcr)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/teamreflex/DiscordPHP)
 
 
 
-- **Stars**: 136
-### Discord Swift SDK by Erik Little
+- **Stars**: ⭐ 1064
+### 🛠️ Discord JavaScript SDK by qeled
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/nuclearace/SwiftDiscord](https://github.com/nuclearace/SwiftDiscord)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/qeled/discordie)
 
-- **Author**: nuclearace
-- **Stars**: 122
 
+- **Author**: 👤 qeled
+- **Stars**: ⭐ 192
+### 🛠️ Discord Lua SDK by SinisterRectus
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `Lua`
+- **Docs**: [📚 Documentation](https://github.com/SinisterRectus/Discordia)
+
+
+- **Author**: 👤 SinisterRectus
+- **Stars**: ⭐ 750
+### 🛠️ Discord Node.js SDK by abal
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/abalabahaha/eris)
+
+
+- **Author**: 👤 abalabahaha
+- **Stars**: ⭐ 1507
+### 🛠️ Discord Node.js SDK by izy521
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/izy521/discord.io)
+
+
+- **Author**: 👤 izy521
+- **Stars**: ⭐ 533
+### 🛠️ Discord Crystal SDK by meew0
+
+
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/meew0/discordcr)
+
+
+
+- **Stars**: ⭐ 136
+### 🛠️ Discord Swift SDK by Erik Little
+
+
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/nuclearace/SwiftDiscord)
+
+
+- **Author**: 👤 nuclearace
+- **Stars**: ⭐ 122
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

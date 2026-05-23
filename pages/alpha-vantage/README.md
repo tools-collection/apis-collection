@@ -1,41 +1,49 @@
-# [Alpha Vantage](https://www.alphavantage.co/)
+# 📦 [Alpha Vantage](https://www.alphavantage.co/)
 
 
-Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series. Alpha Vantage offers free stock APIs in JSON and CSV formats for realtime and historical equity, forex, cryptocurrency data and over 50 technical indicators
+> **Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series. Alpha Vantage offers free stock APIs in JSON and CSV formats for realtime and historical equity, forex, cryptocurrency data and over 50 technical indicators**
 
-## Details
-- **Categories**: Blockchain &amp; Cryptocurrencies
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.alphavantage.co/)
 
-## Libraries
-### Alpha Vantage Java SDK by Patrik Nygren
-
-- **Platform**: Java
-- **Docs**: [https://github.com/patriques82/alphavantage4j](https://github.com/patriques82/alphavantage4j)
+## 🧰 Libraries
+### 🛠️ Alpha Vantage Java SDK by Patrik Nygren
 
 
-- **Author**: patriques82
-- **Stars**: 126
-### Alpha Vantage Python SDK by Romel Torres
-
-- **Platform**: Python
-- **Docs**: [https://github.com/RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/patriques82/alphavantage4j)
 
 
-- **Author**: RomelTorres
-- **Stars**: 4733
+- **Author**: 👤 patriques82
+- **Stars**: ⭐ 126
+### 🛠️ Alpha Vantage Python SDK by Romel Torres
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/RomelTorres/alpha_vantage)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 RomelTorres
+- **Stars**: ⭐ 4733
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

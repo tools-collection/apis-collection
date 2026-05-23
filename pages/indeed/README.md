@@ -1,266 +1,302 @@
-# [Indeed](https://www.indeed.com/publisher)
+# 📦 [Indeed](https://www.indeed.com/publisher)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/indeed/logo_256x256.png" alt="Indeed logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/indeed/logo_256x256.png" alt="Indeed logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Post your jobs on Indeed, the #1 job site worldwide.
+> **Post your jobs on Indeed, the #1 job site worldwide.**
 
-## Details
-- **Categories**: Jobs, Search
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Jobs`, `Search`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.indeed.com/publisher)
 
-## Libraries
-### Job Search Web Scraper NodeJS SDK by Christian Sakai
+## 🧰 Libraries
+### 🛠️ Job Search Web Scraper NodeJS SDK by Christian Sakai
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/christiansakai/job-search](https://github.com/christiansakai/job-search)
 
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/christiansakai/job-search)
 
-- **Author**: swissarmybox
-- **Stars**: 5
-### jobs-engine C# SDK by Ahmed Farahat
 
-- **Platform**: C#
-- **Docs**: [https://github.com/farahat80/jobs-engine](https://github.com/farahat80/jobs-engine)
+- **Author**: 👤 swissarmybox
+- **Stars**: ⭐ 5
+### 🛠️ jobs-engine C# SDK by Ahmed Farahat
 
 
-- **Author**: farahat80
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/farahat80/jobs-engine)
 
-### Jobseekr Ruby on Rails SDK by andrew cabrera
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/n-drw/jobseekr](https://github.com/n-drw/jobseekr)
+- **Author**: 👤 farahat80
 
+### 🛠️ Jobseekr Ruby on Rails SDK by andrew cabrera
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/n-drw/jobseekr)
 
-### Jobo Node.js SDK by g-gar
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/g-gar/jobo](https://github.com/g-gar/jobo)
 
 
-- **Author**: g-gar
+### 🛠️ Jobo Node.js SDK by g-gar
 
-### Indeed Python SDK by Nick
 
-- **Platform**: Python
-- **Docs**: [https://github.com/nfmcclure/Job_Prevalence](https://github.com/nfmcclure/Job_Prevalence)
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/g-gar/jobo)
 
 
-- **Author**: nfmcclure
+- **Author**: 👤 g-gar
 
-### Indeed Python SDK by Avram Dames
+### 🛠️ Indeed Python SDK by Nick
 
-- **Platform**: Python
-- **Docs**: [https://github.com/aviDms/indeed_api](https://github.com/aviDms/indeed_api)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/nfmcclure/Job_Prevalence)
 
-- **Author**: aviDms
 
-### Indeed Node.js SDK by Drew Frisk
+- **Author**: 👤 nfmcclure
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/keannan5390/Node-Indeed-API](https://github.com/keannan5390/Node-Indeed-API)
+### 🛠️ Indeed Python SDK by Avram Dames
 
 
-- **Author**: MysterDru
-- **Stars**: 5
-### Indeed Ruby SDK by Indeed Labs
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/aviDms/indeed_api)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/indeedlabs/indeed-ruby](https://github.com/indeedlabs/indeed-ruby)
 
+- **Author**: 👤 aviDms
 
+### 🛠️ Indeed Node.js SDK by Drew Frisk
 
-- **Stars**: 18
-### Indeed Angular SDK by kbrushaber
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/kbrushaber/indeed-api](https://github.com/kbrushaber/indeed-api)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/keannan5390/Node-Indeed-API)
 
 
-- **Author**: kbrushaber
+- **Author**: 👤 MysterDru
+- **Stars**: ⭐ 5
+### 🛠️ Indeed Ruby SDK by Indeed Labs
 
-### Indeed Python SDK by Indeed Labs
 
-- **Platform**: Python
-- **Docs**: [https://github.com/indeedlabs/indeed-python](https://github.com/indeedlabs/indeed-python)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/indeedlabs/indeed-ruby)
 
 
 
-- **Stars**: 123
-### Indeed Python SDK by Tim
+- **Stars**: ⭐ 18
+### 🛠️ Indeed Angular SDK by kbrushaber
 
-- **Platform**: Python
-- **Docs**: [https://github.com/timsternation/Indeed_Job_Analysis](https://github.com/timsternation/Indeed_Job_Analysis)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/kbrushaber/indeed-api)
 
-- **Author**: timsternation
 
-### Indeed Python SDK by baramuyu
+- **Author**: 👤 kbrushaber
 
-- **Platform**: Python
-- **Docs**: [https://github.com/baramuyu/indeed_api_crawler](https://github.com/baramuyu/indeed_api_crawler)
+### 🛠️ Indeed Python SDK by Indeed Labs
 
 
-- **Author**: baramuyu
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/indeedlabs/indeed-python)
 
-### Indeed Python SDK by Grigoriy Melnichenko
 
-- **Platform**: Python
-- **Docs**: [https://github.com/GriMel/indeed-python-api](https://github.com/GriMel/indeed-python-api)
 
+- **Stars**: ⭐ 123
+### 🛠️ Indeed Python SDK by Tim
 
-- **Author**: GriMel
-- **Stars**: 2
-### Indeed R SDK by Geofry Lawton
 
-- **Platform**: R
-- **Docs**: [https://github.com/TheGeoLawton/IndeedR](https://github.com/TheGeoLawton/IndeedR)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/timsternation/Indeed_Job_Analysis)
 
 
-- **Author**: TheGeoLawton
+- **Author**: 👤 timsternation
 
-### Indeed PHP SDK by Danny
+### 🛠️ Indeed Python SDK by baramuyu
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/dfan001/Job-Skill-Search](https://github.com/dfan001/Job-Skill-Search)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/baramuyu/indeed_api_crawler)
 
 
+- **Author**: 👤 baramuyu
 
-### Indeed Python SDK by Gary Heath
+### 🛠️ Indeed Python SDK by Grigoriy Melnichenko
 
-- **Platform**: Python
-- **Docs**: [https://github.com/GaryHeath/indeed-jobs](https://github.com/GaryHeath/indeed-jobs)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/GriMel/indeed-python-api)
 
 
+- **Author**: 👤 GriMel
+- **Stars**: ⭐ 2
+### 🛠️ Indeed R SDK by Geofry Lawton
 
-### Indeed Python SDK by theolg
 
-- **Platform**: Python
-- **Docs**: [https://github.com/theolg/indeed_api](https://github.com/theolg/indeed_api)
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](https://github.com/TheGeoLawton/IndeedR)
 
 
-- **Author**: theolg
+- **Author**: 👤 TheGeoLawton
 
-### Indeed R SDK by Sam Kleiner
+### 🛠️ Indeed PHP SDK by Danny
 
-- **Platform**: R
-- **Docs**: [https://github.com/StoicPerlman/GigMapr-R](https://github.com/StoicPerlman/GigMapr-R)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/dfan001/Job-Skill-Search)
 
-- **Author**: StoicPerlman
-- **Stars**: 1
-### Indeed Java SDK by Steve Soltys
 
-- **Platform**: Java
-- **Docs**: [https://github.com/stevesoltys/indeed](https://github.com/stevesoltys/indeed)
 
 
-- **Author**: stevesoltys
-- **Stars**: 1
-### Indeed Ruby SDK by Corey
+### 🛠️ Indeed Python SDK by Gary Heath
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/c1505/indeed-api](https://github.com/c1505/indeed-api)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/GaryHeath/indeed-jobs)
 
-- **Author**: c1505
 
-### Indeed Python SDK by vardhmanrp
 
-- **Platform**: Python
-- **Docs**: [https://github.com/vardhmanrp/Indeed-Xml-Web-API](https://github.com/vardhmanrp/Indeed-Xml-Web-API)
 
+### 🛠️ Indeed Python SDK by theolg
 
-- **Author**: vardhmanrp
 
-### Indeed Python SDK by fission6
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/theolg/indeed_api)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/fission6/python-indeed](https://github.com/fission6/python-indeed)
 
+- **Author**: 👤 theolg
 
-- **Author**: fission6
-- **Stars**: 17
-### Indeed Node.js SDK by paulrays
+### 🛠️ Indeed R SDK by Sam Kleiner
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/paulrays/indeed-jobs-api](https://github.com/paulrays/indeed-jobs-api)
 
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](https://github.com/StoicPerlman/GigMapr-R)
 
-- **Author**: paulrays
 
-### Indeed PHP SDK by Lancaster Vermon
+- **Author**: 👤 StoicPerlman
+- **Stars**: ⭐ 1
+### 🛠️ Indeed Java SDK by Steve Soltys
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/lanceveru/indeed-api](https://github.com/lanceveru/indeed-api)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/stevesoltys/indeed)
 
-- **Author**: lanceveru
 
-### Indeed Node.js SDK by Murali Sangubhatla
+- **Author**: 👤 stevesoltys
+- **Stars**: ⭐ 1
+### 🛠️ Indeed Ruby SDK by Corey
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/muralisa/indeed-jobs](https://github.com/muralisa/indeed-jobs)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/c1505/indeed-api)
 
-- **Author**: muralisa
-- **Stars**: 1
-### Indeed JavaScript Library by Joe Boutros
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/indeedlabs/indeed-js](https://github.com/indeedlabs/indeed-js)
+- **Author**: 👤 c1505
 
+### 🛠️ Indeed Python SDK by vardhmanrp
 
 
-- **Stars**: 12
-###  Indeed PHP Library by Karl Hughes
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/vardhmanrp/Indeed-Xml-Web-API)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/JobBrander/jobs-indeed](https://github.com/JobBrander/jobs-indeed)
 
+- **Author**: 👤 vardhmanrp
 
+### 🛠️ Indeed Python SDK by fission6
 
-- **Stars**: 18
-### Indeed PHP Library by Fubra Limited
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/fubralimited/indeed-api](https://github.com/fubralimited/indeed-api)
-- **Source**: [https://github.com/fubralimited/indeed-api/blob/master/indeed-api.php](https://github.com/fubralimited/indeed-api/blob/master/indeed-api.php)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/fission6/python-indeed)
 
 
-- **Stars**: 3
-### Indeed PHP Library by indeedlabs
+- **Author**: 👤 fission6
+- **Stars**: ⭐ 17
+### 🛠️ Indeed Node.js SDK by paulrays
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/indeedlabs/indeed-php/blob/master/README.md](https://github.com/indeedlabs/indeed-php/blob/master/README.md)
-- **Source**: [https://github.com/indeedlabs/indeed-php](https://github.com/indeedlabs/indeed-php)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/paulrays/indeed-jobs-api)
 
-- **Stars**: 29
-### Indeed Job Search API Library
 
-- **Platform**: .Net
-- **Docs**: [https://indeed.codeplex.com/](https://indeed.codeplex.com/)
+- **Author**: 👤 paulrays
 
+### 🛠️ Indeed PHP SDK by Lancaster Vermon
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/lanceveru/indeed-api)
 
 
+- **Author**: 👤 lanceveru
 
+### 🛠️ Indeed Node.js SDK by Murali Sangubhatla
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/muralisa/indeed-jobs)
+
+
+- **Author**: 👤 muralisa
+- **Stars**: ⭐ 1
+### 🛠️ Indeed JavaScript Library by Joe Boutros
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/indeedlabs/indeed-js)
+
+
+
+- **Stars**: ⭐ 12
+### 🛠️  Indeed PHP Library by Karl Hughes
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/JobBrander/jobs-indeed)
+
+
+
+- **Stars**: ⭐ 18
+### 🛠️ Indeed PHP Library by Fubra Limited
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/fubralimited/indeed-api)
+- **Source**: [💻 Source Code](https://github.com/fubralimited/indeed-api/blob/master/indeed-api.php)
+
+
+- **Stars**: ⭐ 3
+### 🛠️ Indeed PHP Library by indeedlabs
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/indeedlabs/indeed-php/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/indeedlabs/indeed-php)
+
+
+- **Stars**: ⭐ 29
+### 🛠️ Indeed Job Search API Library
+
+
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://indeed.codeplex.com/)
+
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,26 +1,32 @@
-# [Data.gov](https://api.data.gov/)
+# 📦 [Data.gov](https://api.data.gov/)
 
 
-Our aim is to make it easier for. Signup for a single API key and use it across participating government APIs. About This Service api. data. gov is a free API management service for federal agencies
+> **Our aim is to make it easier for. Signup for a single API key and use it across participating government APIs. About This Service api. data. gov is a free API management service for federal agencies**
 
-## Details
-- **Categories**: Government
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://api.data.gov/)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-dani@daniwebmail.com
+## 📬 Contact
+📧 dani@daniwebmail.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,26 +1,32 @@
-# [Reverb](https://www.reverb-api.com/)
+# 📦 [Reverb](https://www.reverb-api.com/)
 
 
-Sell and buy music related merchandise. Join the millions of music lovers who use Reverb to find everything they need to make music
+> **Sell and buy music related merchandise. Join the millions of music lovers who use Reverb to find everything they need to make music**
 
-## Details
-- **Categories**: Music &amp; Audio, Commerce
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Music &amp; Audio`, `Commerce`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.reverb-api.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-integrations@reverb.com
+## 📬 Contact
+📧 integrations@reverb.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

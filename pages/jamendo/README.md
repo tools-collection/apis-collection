@@ -1,33 +1,40 @@
-# [Jamendo](https://developer.jamendo.com/v3.0/docs)
+# 📦 [Jamendo](https://developer.jamendo.com/v3.0/docs)
 
 
-Jamendo Api Documentation. Jamendo Api Documentation
+> **Jamendo Api Documentation. Jamendo Api Documentation**
 
-## Details
-- **Categories**: Music &amp; Audio
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Music &amp; Audio`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.jamendo.com/v3.0/docs)
 
-## Libraries
-### Jamendo Ratings Python SDK by Jamendo
-
-- **Platform**: Python
-- **Docs**: [https://github.com/jamendo/jamendo-ratings-sdk](https://github.com/jamendo/jamendo-ratings-sdk)
+## 🧰 Libraries
+### 🛠️ Jamendo Ratings Python SDK by Jamendo
 
 
-
-- **Stars**: 6
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/jamendo/jamendo-ratings-sdk)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 6
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,241 +1,274 @@
-# [Telegram Bot](https://core.telegram.org/bots/api)
+# 📦 [Telegram Bot](https://core.telegram.org/bots/api)
 
 
-The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
+> **The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.**
 
-## Details
-- **Categories**: Bots, AI &amp; ML, Chats &amp; Messaging
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Bots`, `AI &amp; ML`, `Chats &amp; Messaging`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://core.telegram.org/bots/api)
 
-## Libraries
-### Telegram Bot PHP SDK by Danilo Spinella
+## 🧰 Libraries
+### 🛠️ Telegram Bot PHP SDK by Danilo Spinella
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/DanySpin97/PhpBotFramework](https://github.com/DanySpin97/PhpBotFramework)
-- **Source**: [https://packagist.org/packages/danyspin97/php-bot-framework](https://packagist.org/packages/danyspin97/php-bot-framework)
 
-- **Author**: DanySpin97
-- **Stars**: 56
-### Telegram Bot .NET SDK by Mohammadreza
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/DanySpin97/PhpBotFramework)
+- **Source**: [💻 Source Code](https://packagist.org/packages/danyspin97/php-bot-framework)
 
-- **Platform**: .Net, C#
-- **Docs**: [https://github.com/mrtaikandi/Telebot](https://github.com/mrtaikandi/Telebot)
-- **Source**: [https://www.nuget.org/packages/Telebot/](https://www.nuget.org/packages/Telebot/)
+- **Author**: 👤 DanySpin97
+- **Stars**: ⭐ 56
+### 🛠️ Telegram Bot .NET SDK by Mohammadreza
 
-- **Author**: mrtaikandi
-- **Stars**: 18
-### Telegram Bot Go SDK by Oleg Lebedev
 
-- **Platform**: Go
-- **Docs**: [https://github.com/olebedev/go-tgbot](https://github.com/olebedev/go-tgbot)
+- **Platform**: `.Net, C#`
+- **Docs**: [📚 Documentation](https://github.com/mrtaikandi/Telebot)
+- **Source**: [💻 Source Code](https://www.nuget.org/packages/Telebot/)
 
+- **Author**: 👤 mrtaikandi
+- **Stars**: ⭐ 18
+### 🛠️ Telegram Bot Go SDK by Oleg Lebedev
 
-- **Author**: olebedev
-- **Stars**: 102
-### Telegram Bot Ruby SDK by Sergey Potapov
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/greyblake/telebot](https://github.com/greyblake/telebot)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/olebedev/go-tgbot)
 
 
-- **Author**: greyblake
-- **Stars**: 29
-### Telegram Bot Nim SDK by Huy Doan
+- **Author**: 👤 olebedev
+- **Stars**: ⭐ 102
+### 🛠️ Telegram Bot Ruby SDK by Sergey Potapov
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/ba0f3/telebot.nim](https://github.com/ba0f3/telebot.nim)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/greyblake/telebot)
 
-- **Author**: ba0f3
-- **Stars**: 91
-### Telegram Bot JavaScript SDK by Pavel Tereschenko
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/bigslycat/tgapi](https://github.com/bigslycat/tgapi)
+- **Author**: 👤 greyblake
+- **Stars**: ⭐ 29
+### 🛠️ Telegram Bot Nim SDK by Huy Doan
 
 
-- **Author**: bigslycat
-- **Stars**: 33
-### Telegram Bot Java SDK by rainu
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/ba0f3/telebot.nim)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/rainu/telegram-bot-api](https://github.com/rainu/telegram-bot-api)
 
+- **Author**: 👤 ba0f3
+- **Stars**: ⭐ 91
+### 🛠️ Telegram Bot JavaScript SDK by Pavel Tereschenko
 
-- **Author**: rainu
-- **Stars**: 16
-### Telegram Bot C++ SDK by slowriot
 
-- **Platform**: C++
-- **Docs**: [https://github.com/slowriot/libtelegram](https://github.com/slowriot/libtelegram)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/bigslycat/tgapi)
 
 
-- **Author**: slowriot
-- **Stars**: 85
-### Telegram Bot Scala SDK by Hüseyin ZENGİN
+- **Author**: 👤 bigslycat
+- **Stars**: ⭐ 33
+### 🛠️ Telegram Bot Java SDK by rainu
 
-- **Platform**: Scala
-- **Docs**: [https://github.com/hzengin/telegrambot](https://github.com/hzengin/telegrambot)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/rainu/telegram-bot-api)
 
-- **Author**: hzengin
-- **Stars**: 38
-### Telegram Bot Go SDK by Sungjin Han
 
-- **Platform**: Go
-- **Docs**: [https://github.com/meinside/telegram-bot-go](https://github.com/meinside/telegram-bot-go)
+- **Author**: 👤 rainu
+- **Stars**: ⭐ 16
+### 🛠️ Telegram Bot C++ SDK by slowriot
 
 
-- **Author**: meinside
-- **Stars**: 18
-### Telegram Bot .NET SDK by Mehrdad Youssefi
+- **Platform**: `C++`
+- **Docs**: [📚 Documentation](https://github.com/slowriot/libtelegram)
 
-- **Platform**: .Net, C#
-- **Docs**: [https://github.com/themehrdad/NetTelebot](https://github.com/themehrdad/NetTelebot)
-- **Source**: [https://www.nuget.org/packages/nettelebot](https://www.nuget.org/packages/nettelebot)
 
-- **Author**: themehrdad
-- **Stars**: 10
-### Telegram Bot Rust SDK by Wesley A. Gahr
+- **Author**: 👤 slowriot
+- **Stars**: ⭐ 85
+### 🛠️ Telegram Bot Scala SDK by Hüseyin ZENGİN
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/voider1/teleborg](https://github.com/voider1/teleborg)
 
+- **Platform**: `Scala`
+- **Docs**: [📚 Documentation](https://github.com/hzengin/telegrambot)
 
-- **Author**: voider1
-- **Stars**: 24
-### Telegram Bot Yii PHP SDK by Mirocow
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/Mirocow/yii2-telegram-api](https://github.com/Mirocow/yii2-telegram-api)
+- **Author**: 👤 hzengin
+- **Stars**: ⭐ 38
+### 🛠️ Telegram Bot Go SDK by Sungjin Han
 
 
-- **Author**: Mirocow
-- **Stars**: 7
-### Telegram Bot Java SDK by Fouad Almalki
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/meinside/telegram-bot-go)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/Eng-Fouad/JTelegramBot](https://github.com/Eng-Fouad/JTelegramBot)
 
+- **Author**: 👤 meinside
+- **Stars**: ⭐ 18
+### 🛠️ Telegram Bot .NET SDK by Mehrdad Youssefi
 
-- **Author**: Eng-Fouad
-- **Stars**: 67
-### Telegram Bot Yii PHP SDK by SonkoDmitry
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/SonkoDmitry/yii2-telegram-bot-api](https://github.com/SonkoDmitry/yii2-telegram-bot-api)
-- **Source**: [https://packagist.org/packages/sonko-dmitry/yii2-telegram-bot-api](https://packagist.org/packages/sonko-dmitry/yii2-telegram-bot-api)
+- **Platform**: `.Net, C#`
+- **Docs**: [📚 Documentation](https://github.com/themehrdad/NetTelebot)
+- **Source**: [💻 Source Code](https://www.nuget.org/packages/nettelebot)
 
-- **Author**: SonkoDmitry
-- **Stars**: 19
-### Telegram Bot NodeJS SDK by bounty0x
+- **Author**: 👤 themehrdad
+- **Stars**: ⭐ 10
+### 🛠️ Telegram Bot Rust SDK by Wesley A. Gahr
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/bounty0x/TelegramBots](https://github.com/bounty0x/TelegramBots)
 
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/voider1/teleborg)
 
 
-- **Stars**: 10
-### Telegram Bot NodeJS SDK by Frederik Ring
+- **Author**: 👤 voider1
+- **Stars**: ⭐ 24
+### 🛠️ Telegram Bot Yii PHP SDK by Mirocow
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/m90/telegram-bot-client](https://github.com/m90/telegram-bot-client)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/Mirocow/yii2-telegram-api)
 
-- **Author**: m90
-- **Stars**: 24
-### Telegram Bot Python SDK by banteg
 
-- **Platform**: Python
-- **Docs**: [https://github.com/banteg/telegram](https://github.com/banteg/telegram)
+- **Author**: 👤 Mirocow
+- **Stars**: ⭐ 7
+### 🛠️ Telegram Bot Java SDK by Fouad Almalki
 
 
-- **Author**: banteg
-- **Stars**: 16
-### Telegram Bot Go SDK by Rock Neurotiko
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/Eng-Fouad/JTelegramBot)
 
-- **Platform**: Go
-- **Docs**: [https://github.com/rockneurotiko/go-tgbot](https://github.com/rockneurotiko/go-tgbot)
 
+- **Author**: 👤 Eng-Fouad
+- **Stars**: ⭐ 67
+### 🛠️ Telegram Bot Yii PHP SDK by SonkoDmitry
 
-- **Author**: rockneurotiko
-- **Stars**: 80
-### Telegram Bot Python SDK by aiogram projects group
 
-- **Platform**: Python
-- **Docs**: [https://github.com/aiogram/aiogram](https://github.com/aiogram/aiogram)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/SonkoDmitry/yii2-telegram-bot-api)
+- **Source**: [💻 Source Code](https://packagist.org/packages/sonko-dmitry/yii2-telegram-bot-api)
 
+- **Author**: 👤 SonkoDmitry
+- **Stars**: ⭐ 19
+### 🛠️ Telegram Bot NodeJS SDK by bounty0x
 
 
-- **Stars**: 1392
-### Telegram Bot PHP SDK by Saeed Moqadam
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/bounty0x/TelegramBots)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/smoqadam/php-telegram-bot](https://github.com/smoqadam/php-telegram-bot)
 
 
-- **Author**: smoqadam
-- **Stars**: 23
-### Telegram Bot Symfony PHP SDK by Borsaco Software Group
+- **Stars**: ⭐ 10
+### 🛠️ Telegram Bot NodeJS SDK by Frederik Ring
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/borsaco/TelegramBotApiBundle](https://github.com/borsaco/TelegramBotApiBundle)
 
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/m90/telegram-bot-client)
 
 
-- **Stars**: 18
-### Telegram Bot Go SDK by Paul Larsen
+- **Author**: 👤 m90
+- **Stars**: ⭐ 24
+### 🛠️ Telegram Bot Python SDK by banteg
 
-- **Platform**: Go
-- **Docs**: [https://github.com/PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/banteg/telegram)
 
-- **Author**: PaulSonOfLars
-- **Stars**: 52
-### Telegram Bot TypeScript SDK by Sergey Sova
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/sergeysova/telegram-typings/tree/master/javascript](https://github.com/sergeysova/telegram-typings/tree/master/javascript)
+- **Author**: 👤 banteg
+- **Stars**: ⭐ 16
+### 🛠️ Telegram Bot Go SDK by Rock Neurotiko
 
 
-- **Author**: sergeysova
-- **Stars**: 38
-### Telegram Bot Rust SDK by Sergey Sova
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/rockneurotiko/go-tgbot)
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/sergeysova/telegram-typings/tree/master/rust](https://github.com/sergeysova/telegram-typings/tree/master/rust)
-- **Source**: [https://crates.io/crates/telegram-typings](https://crates.io/crates/telegram-typings)
 
-- **Author**: sergeysova
-- **Stars**: 38
-### Telegram Bot Ruby SDK by SuHun Han
+- **Author**: 👤 rockneurotiko
+- **Stars**: ⭐ 80
+### 🛠️ Telegram Bot Python SDK by aiogram projects group
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/ssut/telegram-rb/blob/master/README.md](https://github.com/ssut/telegram-rb/blob/master/README.md)
-- **Source**: [https://github.com/ssut/telegram-rb](https://github.com/ssut/telegram-rb)
 
-- **Author**: ssut
-- **Stars**: 78
-### Telegram Bot Node.js Library by Yago
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/aiogram/aiogram)
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 
 
-- **Author**: yagop
-- **Stars**: 4945
+- **Stars**: ⭐ 1392
+### 🛠️ Telegram Bot PHP SDK by Saeed Moqadam
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/smoqadam/php-telegram-bot)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 smoqadam
+- **Stars**: ⭐ 23
+### 🛠️ Telegram Bot Symfony PHP SDK by Borsaco Software Group
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/borsaco/TelegramBotApiBundle)
+
+
+
+- **Stars**: ⭐ 18
+### 🛠️ Telegram Bot Go SDK by Paul Larsen
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/PaulSonOfLars/gotgbot)
+
+
+- **Author**: 👤 PaulSonOfLars
+- **Stars**: ⭐ 52
+### 🛠️ Telegram Bot TypeScript SDK by Sergey Sova
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/sergeysova/telegram-typings/tree/master/javascript)
+
+
+- **Author**: 👤 sergeysova
+- **Stars**: ⭐ 38
+### 🛠️ Telegram Bot Rust SDK by Sergey Sova
+
+
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/sergeysova/telegram-typings/tree/master/rust)
+- **Source**: [💻 Source Code](https://crates.io/crates/telegram-typings)
+
+- **Author**: 👤 sergeysova
+- **Stars**: ⭐ 38
+### 🛠️ Telegram Bot Ruby SDK by SuHun Han
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/ssut/telegram-rb/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/ssut/telegram-rb)
+
+- **Author**: 👤 ssut
+- **Stars**: ⭐ 78
+### 🛠️ Telegram Bot Node.js Library by Yago
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/yagop/node-telegram-bot-api)
+
+
+- **Author**: 👤 yagop
+- **Stars**: ⭐ 4945
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

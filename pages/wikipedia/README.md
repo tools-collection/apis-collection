@@ -1,82 +1,95 @@
-# [Wikipedia](https://en.wikipedia.org/w/api.php)
+# 📦 [Wikipedia](https://en.wikipedia.org/w/api.php)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikipedia/logo_256x256.png" alt="Wikipedia logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikipedia/logo_256x256.png" alt="Wikipedia logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Free multilingual Encyclopedia.
+> **Free multilingual Encyclopedia.**
 
-## Details
-- **Categories**: Content &amp; Dictionaries, Wiki
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Content &amp; Dictionaries`, `Wiki`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://en.wikipedia.org/w/api.php)
 
-## Libraries
-### Wikipedia Python SDK by Martin Majlis
-
-- **Platform**: Python
-- **Docs**: [https://pypi.python.org/pypi/Wikipedia-API/0.3.5](https://pypi.python.org/pypi/Wikipedia-API/0.3.5)
-- **Source**: [https://github.com/martin-majlis/Wikipedia-API/](https://github.com/martin-majlis/Wikipedia-API/)
-
-- **Author**: martin-majlis
-- **Stars**: 217
-### Wikipedia Javascript SDK by Open Knowledge International 
-
-- **Platform**: JavaScript
-- **Docs**: [http://okfnlabs.org/wikipediajs/](http://okfnlabs.org/wikipediajs/)
-- **Source**: [https://github.com/okfn/wikipediajs](https://github.com/okfn/wikipediajs)
+## 🧰 Libraries
+### 🛠️ Wikipedia Python SDK by Martin Majlis
 
 
-- **Stars**: 75
-### Python Wikitools
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://pypi.python.org/pypi/Wikipedia-API/0.3.5)
+- **Source**: [💻 Source Code](https://github.com/martin-majlis/Wikipedia-API/)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/alexz-enwp/wikitools](https://github.com/alexz-enwp/wikitools)
-
-
-- **Author**: alexz-enwp
-- **Stars**: 100
-### Wikipedia Java Library java-mwapi
-
-- **Platform**: Java
-- **Docs**: [https://github.com/wikimedia/java-mwapi](https://github.com/wikimedia/java-mwapi)
-- **Source**: [https://github.com/wikimedia/java-mwapi](https://github.com/wikimedia/java-mwapi)
+- **Author**: 👤 martin-majlis
+- **Stars**: ⭐ 217
+### 🛠️ Wikipedia Javascript SDK by Open Knowledge International 
 
 
-- **Stars**: 1
-### Wikipedia Go Library go-mwclient
-
-- **Platform**: Go
-- **Docs**: [https://github.com/cgt/go-mwclient](https://github.com/cgt/go-mwclient)
-- **Source**: [https://github.com/cgt/go-mwclient](https://github.com/cgt/go-mwclient)
-
-- **Author**: cgt
-- **Stars**: 23
-### Wikipedia Haskell Library mediawiki package
-
-- **Platform**: Haskell
-- **Docs**: [http://hackage.haskell.org/package/mediawiki](http://hackage.haskell.org/package/mediawiki)
-- **Source**: [http://hackage.haskell.org/package/mediawiki](http://hackage.haskell.org/package/mediawiki)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](http://okfnlabs.org/wikipediajs/)
+- **Source**: [💻 Source Code](https://github.com/okfn/wikipediajs)
 
 
+- **Stars**: ⭐ 75
+### 🛠️ Python Wikitools
 
-### Wikipedia by Goldsmith
 
-- **Platform**: Python
-- **Docs**: [https://pypi.python.org/pypi/wikipedia](https://pypi.python.org/pypi/wikipedia)
-- **Source**: [https://github.com/goldsmith/Wikipedia](https://github.com/goldsmith/Wikipedia)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/alexz-enwp/wikitools)
 
-- **Author**: goldsmith
-- **Stars**: 2196
+
+- **Author**: 👤 alexz-enwp
+- **Stars**: ⭐ 100
+### 🛠️ Wikipedia Java Library java-mwapi
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/wikimedia/java-mwapi)
+- **Source**: [💻 Source Code](https://github.com/wikimedia/java-mwapi)
+
+
+- **Stars**: ⭐ 1
+### 🛠️ Wikipedia Go Library go-mwclient
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/cgt/go-mwclient)
+- **Source**: [💻 Source Code](https://github.com/cgt/go-mwclient)
+
+- **Author**: 👤 cgt
+- **Stars**: ⭐ 23
+### 🛠️ Wikipedia Haskell Library mediawiki package
+
+
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](http://hackage.haskell.org/package/mediawiki)
+- **Source**: [💻 Source Code](http://hackage.haskell.org/package/mediawiki)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+### 🛠️ Wikipedia by Goldsmith
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://pypi.python.org/pypi/wikipedia)
+- **Source**: [💻 Source Code](https://github.com/goldsmith/Wikipedia)
+
+- **Author**: 👤 goldsmith
+- **Stars**: ⭐ 2196
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

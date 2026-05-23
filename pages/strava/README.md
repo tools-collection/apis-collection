@@ -1,225 +1,256 @@
-# [Strava](https://strava.github.io/api/)
+# 📦 [Strava](https://strava.github.io/api/)
 
 
-API for accessing and managing data about athletes, activities and segments. Strava API usage is limited on a per-application basis using a short term, 15 minute, limit and a long term, daily, limit. The default rate limit allows 600 requests every 15 minutes, with up to 30
+> **API for accessing and managing data about athletes, activities and segments. Strava API usage is limited on a per-application basis using a short term, 15 minute, limit and a long term, daily, limit. The default rate limit allows 600 requests every 15 minutes, with up to 30**
 
-## Details
-- **Categories**: Maps &amp; Geo, Sport &amp; Fitness, Social
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Maps &amp; Geo`, `Sport &amp; Fitness`, `Social`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://strava.github.io/api/)
 
-## Libraries
-### strava-to-fitbit-api Azure JavaScript SDK by Matt Magurany
+## 🧰 Libraries
+### 🛠️ strava-to-fitbit-api Azure JavaScript SDK by Matt Magurany
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/heymagurany/strava-to-fitbit-api](https://github.com/heymagurany/strava-to-fitbit-api)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/heymagurany/strava-to-fitbit-api)
 
-- **Author**: heymagurany
 
-### meteor-fit-api MeteorJS SDK by Stavros Elaias
+- **Author**: 👤 heymagurany
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/selaias/meteor-fit-api](https://github.com/selaias/meteor-fit-api)
+### 🛠️ meteor-fit-api MeteorJS SDK by Stavros Elaias
 
 
-- **Author**: selaias
-- **Stars**: 3
-### Strava Python SDK by jhavens12
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/selaias/meteor-fit-api)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/jhavens12/Running_Graphs](https://github.com/jhavens12/Running_Graphs)
 
+- **Author**: 👤 selaias
+- **Stars**: ⭐ 3
+### 🛠️ Strava Python SDK by jhavens12
 
-- **Author**: jhavens12
 
-### Strava JavaScript SDK by harryphelps
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/jhavens12/Running_Graphs)
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/harryphelps/SportsDataVisualisation](https://github.com/harryphelps/SportsDataVisualisation)
 
+- **Author**: 👤 jhavens12
 
-- **Author**: harryphelps2
-- **Stars**: 1
-### Strava JavaScript SDK by Maxime
+### 🛠️ Strava JavaScript SDK by harryphelps
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/maximemhd/Maaxstats](https://github.com/maximemhd/Maaxstats)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/harryphelps/SportsDataVisualisation)
 
-- **Author**: maximemhd
 
-### Strava Python SDK by Dan McCombs
+- **Author**: 👤 harryphelps2
+- **Stars**: ⭐ 1
+### 🛠️ Strava JavaScript SDK by Maxime
 
-- **Platform**: Python
-- **Docs**: [https://github.com/dmccombs/everest_climbing](https://github.com/dmccombs/everest_climbing)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/maximemhd/Maaxstats)
 
-- **Author**: dmccombs
 
-### Strava JavaScript SDK by Jake Wiesler
+- **Author**: 👤 maximemhd
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/jakewies/just-chart-it](https://github.com/jakewies/just-chart-it)
+### 🛠️ Strava Python SDK by Dan McCombs
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/dmccombs/everest_climbing)
 
 
-### Strava JavaScript SDK by Peter Strumolo
+- **Author**: 👤 dmccombs
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/pstrum/athletes-dashboard](https://github.com/pstrum/athletes-dashboard)
+### 🛠️ Strava JavaScript SDK by Jake Wiesler
 
 
-- **Author**: pstrum
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/jakewies/just-chart-it)
 
-### Strava AKKA Scala SDK by Blair Garrett
 
-- **Platform**: Scala
-- **Docs**: [https://github.com/blairg/comparemyrace-backend](https://github.com/blairg/comparemyrace-backend)
 
 
-- **Author**: blairg
+### 🛠️ Strava JavaScript SDK by Peter Strumolo
 
-### Strava PHP SDK by Colin Busby
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/cdbusby/activity-tracker](https://github.com/cdbusby/activity-tracker)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/pstrum/athletes-dashboard)
 
 
-- **Author**: cdbusby
+- **Author**: 👤 pstrum
 
-### Strava KoaJS SDK by Lee Powell
+### 🛠️ Strava AKKA Scala SDK by Blair Garrett
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/leepowellcouk/koa-strava-api](https://github.com/leepowellcouk/koa-strava-api)
 
+- **Platform**: `Scala`
+- **Docs**: [📚 Documentation](https://github.com/blairg/comparemyrace-backend)
 
-- **Author**: leepowelldev
 
-### Strava Python SDK by Daniel Clewley
+- **Author**: 👤 blairg
 
-- **Platform**: Python
-- **Docs**: [https://github.com/danclewley/get_pcr_tt_results](https://github.com/danclewley/get_pcr_tt_results)
+### 🛠️ Strava PHP SDK by Colin Busby
 
 
-- **Author**: danclewley
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/cdbusby/activity-tracker)
 
-### Strava R SDK by Michael Pearmain
 
-- **Platform**: R
-- **Docs**: [https://github.com/mpearmain/StravR](https://github.com/mpearmain/StravR)
+- **Author**: 👤 cdbusby
 
+### 🛠️ Strava KoaJS SDK by Lee Powell
 
-- **Author**: mpearmain
 
-### Strava Ruby on Rails SDK by julianGallegos
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/leepowellcouk/koa-strava-api)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/julianGallegos/strava_rails_api](https://github.com/julianGallegos/strava_rails_api)
 
+- **Author**: 👤 leepowelldev
 
-- **Author**: julianGallegos
+### 🛠️ Strava Python SDK by Daniel Clewley
 
-### Strava PHP SDK by Eric Todd
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/dRockolla/GearSpy](https://github.com/dRockolla/GearSpy)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/danclewley/get_pcr_tt_results)
 
 
-- **Author**: dRockolla
-- **Stars**: 1
-### Strava PHP SDK by RapidAPI
+- **Author**: 👤 danclewley
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/RapidSoftwareSolutions/Marketplace-Strava-Package](https://github.com/RapidSoftwareSolutions/Marketplace-Strava-Package)
+### 🛠️ Strava R SDK by Michael Pearmain
 
 
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](https://github.com/mpearmain/StravR)
 
 
-### Strava Flask Python SDK by stolmen
+- **Author**: 👤 mpearmain
 
-- **Platform**: Python
-- **Docs**: [https://github.com/stolmen/strava_flask_derp](https://github.com/stolmen/strava_flask_derp)
+### 🛠️ Strava Ruby on Rails SDK by julianGallegos
 
 
-- **Author**: stolmen
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/julianGallegos/strava_rails_api)
 
-### Strava JavaScript SDK by Isabel Sharp
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/iss7/StravaWaxTracker](https://github.com/iss7/StravaWaxTracker)
+- **Author**: 👤 julianGallegos
 
+### 🛠️ Strava PHP SDK by Eric Todd
 
-- **Author**: iss7
 
-### Strava Python SDK by Sergei Shevlyagin
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/dRockolla/GearSpy)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/sshevlyagin/strava-api-v3.1](https://github.com/sshevlyagin/strava-api-v3.1)
 
+- **Author**: 👤 dRockolla
+- **Stars**: ⭐ 1
+### 🛠️ Strava PHP SDK by RapidAPI
 
-- **Author**: sshevlyagin
-- **Stars**: 5
-### Strava Java SDK by Vlad Berezan
 
-- **Platform**: Java
-- **Docs**: [https://github.com/vberezan/st.utils-strava-api-wrapper](https://github.com/vberezan/st.utils-strava-api-wrapper)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/RapidSoftwareSolutions/Marketplace-Strava-Package)
 
 
 
 
-### Strava Objective-C SDK by martinalex
+### 🛠️ Strava Flask Python SDK by stolmen
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/martinalex/WebServiceCall](https://github.com/martinalex/WebServiceCall)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/stolmen/strava_flask_derp)
 
-- **Author**: martinalex
 
-### Strava Scala SDK by Geraint Jones
+- **Author**: 👤 stolmen
 
-- **Platform**: Scala
-- **Docs**: [https://github.com/city81/strava-service](https://github.com/city81/strava-service)
+### 🛠️ Strava JavaScript SDK by Isabel Sharp
 
 
-- **Author**: city81
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/iss7/StravaWaxTracker)
 
-### Strava NodeJS SDK by Richard Bradley
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/chudley/node-strava](https://github.com/chudley/node-strava)
+- **Author**: 👤 iss7
 
+### 🛠️ Strava Python SDK by Sergei Shevlyagin
 
-- **Author**: chudley
 
-### Strava NodeJS SDK by bjackson1
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/sshevlyagin/strava-api-v3.1)
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/bjackson1/strava_updater](https://github.com/bjackson1/strava_updater)
 
+- **Author**: 👤 sshevlyagin
+- **Stars**: ⭐ 5
+### 🛠️ Strava Java SDK by Vlad Berezan
 
-- **Author**: bjackson1
 
-### Strava Python SDK by Shaun Cloherty
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/vberezan/st.utils-strava-api-wrapper)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/cnuahs/strava-tools](https://github.com/cnuahs/strava-tools)
 
 
-- **Author**: cnuahs
 
+### 🛠️ Strava Objective-C SDK by martinalex
 
 
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/martinalex/WebServiceCall)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 martinalex
+
+### 🛠️ Strava Scala SDK by Geraint Jones
+
+
+- **Platform**: `Scala`
+- **Docs**: [📚 Documentation](https://github.com/city81/strava-service)
+
+
+- **Author**: 👤 city81
+
+### 🛠️ Strava NodeJS SDK by Richard Bradley
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/chudley/node-strava)
+
+
+- **Author**: 👤 chudley
+
+### 🛠️ Strava NodeJS SDK by bjackson1
+
+
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/bjackson1/strava_updater)
+
+
+- **Author**: 👤 bjackson1
+
+### 🛠️ Strava Python SDK by Shaun Cloherty
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/cnuahs/strava-tools)
+
+
+- **Author**: 👤 cnuahs
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

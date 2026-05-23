@@ -1,24 +1,32 @@
-# [LaunchLibrary](https://launchlibrary.net/docs/1.3/api.html)
+# 📦 [LaunchLibrary](https://launchlibrary.net/docs/1.3/api.html)
 
 
-Aggregated info about space launches.
+> **Aggregated info about space launches.**
 
-## Details
-- **Categories**: Space
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Space`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://launchlibrary.net/docs/1.3/api.html)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

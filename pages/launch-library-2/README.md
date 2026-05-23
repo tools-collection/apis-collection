@@ -1,24 +1,32 @@
-# [Launch Library 2](https://ll.thespacedevs.com/2.1.0/swagger)
+# 📦 [Launch Library 2](https://ll.thespacedevs.com/2.1.0/swagger)
 
 
-Upcoming Space Launches
+> **Upcoming Space Launches**
 
-## Details
-- **Categories**: Science &amp; Math
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Science &amp; Math`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://ll.thespacedevs.com/2.1.0/swagger)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

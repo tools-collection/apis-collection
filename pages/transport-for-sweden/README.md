@@ -1,24 +1,32 @@
-# [Transportation in Sweden](https://www.trafiklab.se/api)
+# 📦 [Transportation in Sweden](https://www.trafiklab.se/api)
 
 
-Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm
+> **Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm**
 
-## Details
-- **Categories**: Transportation
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Transportation`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.trafiklab.se/api)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

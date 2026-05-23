@@ -1,26 +1,32 @@
-# [Uebermaps](https://uebermaps.com/api/v2)
+# 📦 [Uebermaps](https://uebermaps.com/api/v2)
 
 
-uebermaps are interactive maps that enable people to. Hello developer. This is the uebermaps JSON REST API v2. uebermaps is a platform for everyone to create and share maps with your favorite spots
+> **uebermaps are interactive maps that enable people to. Hello developer. This is the uebermaps JSON REST API v2. uebermaps is a platform for everyone to create and share maps with your favorite spots**
 
-## Details
-- **Categories**: Social, Maps &amp; Geo
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Social`, `Maps &amp; Geo`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://uebermaps.com/api/v2)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-support@twitter.com
+## 📬 Contact
+📧 support@twitter.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

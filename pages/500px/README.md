@@ -1,66 +1,77 @@
-# [500px](https://github.com/500px/legacy-api-documentation)
+# 📦 [500px](https://github.com/500px/legacy-api-documentation)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/500px/logo_256x256.png" alt="500px logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/500px/logo_256x256.png" alt="500px logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Viewing feature streams, photo information and comments, as well as user profiles. This is the 500px API documentation. Contribute to 500px/legacy-api-documentation development by creating an account on GitHub
+> **Viewing feature streams, photo information and comments, as well as user profiles. This is the 500px API documentation. Contribute to 500px/legacy-api-documentation development by creating an account on GitHub**
 
-## Details
-- **Categories**: Social, Images &amp; Photography
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Social`, `Images &amp; Photography`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://github.com/500px/legacy-api-documentation)
 
-## Libraries
-### 500px iOS SDK by minube
-
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/minube/500px-iOS-api](https://github.com/minube/500px-iOS-api)
+## 🧰 Libraries
+### 🛠️ 500px iOS SDK by minube
 
 
-
-
-### 500px JavaScript SDK by Tye Shavik
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/500px/500px-js-sdk](https://github.com/500px/500px-js-sdk)
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/minube/500px-iOS-api)
 
 
 
-- **Stars**: 70
-### 500px iOS SDK
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/500px/500px-iOS-api](https://github.com/500px/500px-iOS-api)
-- **Source**: [https://github.com/500px/500px-iOS-api](https://github.com/500px/500px-iOS-api)
+### 🛠️ 500px JavaScript SDK by Tye Shavik
 
 
-- **Stars**: 112
-### 500px Android SDK
-
-- **Platform**: Java
-- **Docs**: [https://github.com/500px/500px-android-sdk](https://github.com/500px/500px-android-sdk)
-- **Source**: [https://github.com/500px/500px-android-sdk](https://github.com/500px/500px-android-sdk)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/500px/500px-js-sdk)
 
 
 
-### 500px Ruby Wrapper by Chris Micacchi
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/500px/pooled_curb](https://github.com/500px/pooled_curb)
+- **Stars**: ⭐ 70
+### 🛠️ 500px iOS SDK
 
 
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/500px/500px-iOS-api)
+- **Source**: [💻 Source Code](https://github.com/500px/500px-iOS-api)
 
-- **Stars**: 2
+
+- **Stars**: ⭐ 112
+### 🛠️ 500px Android SDK
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/500px/500px-android-sdk)
+- **Source**: [💻 Source Code](https://github.com/500px/500px-android-sdk)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+### 🛠️ 500px Ruby Wrapper by Chris Micacchi
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/500px/pooled_curb)
+
+
+
+- **Stars**: ⭐ 2
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

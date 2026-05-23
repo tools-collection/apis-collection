@@ -1,24 +1,32 @@
-# [Temporal](https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud)
+# 📦 [Temporal](https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud)
 
 
-IPFS API. Upload files, pin hashes, and send pubsub messages using our proprietary API, or interact directly with our IPFS nodes using the IPFS HTTP API reverse proxy.
+> **IPFS API. Upload files, pin hashes, and send pubsub messages using our proprietary API, or interact directly with our IPFS nodes using the IPFS HTTP API reverse proxy.**
 
-## Details
-- **Categories**: Files &amp; Storage
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Files &amp; Storage`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

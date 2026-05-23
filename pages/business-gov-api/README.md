@@ -1,24 +1,32 @@
-# [Business.Gov API](http://business.usa.gov/apis)
+# 📦 [Business.Gov API](http://business.usa.gov/apis)
 
 
-Create the Uber for anything, a small business API for on-demand fulfillment.
+> **Create the Uber for anything, a small business API for on-demand fulfillment.**
 
-## Details
-- **Categories**: Government, Business
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`, `Business`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://business.usa.gov/apis)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

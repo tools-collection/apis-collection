@@ -1,227 +1,256 @@
-# [Trello](https://developers.trello.com/)
+# 📦 [Trello](https://developers.trello.com/)
 
 
-Trello is a web-based, Kanban-style, list-making application
+> **Trello is a web-based, Kanban-style, list-making application**
 
-## Details
-- **Categories**: Project Management, Documents &amp; Productivity, Collaboration
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Project Management`, `Documents &amp; Productivity`, `Collaboration`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.trello.com/)
 
-## Libraries
-### data_integ_api Laravel PHP SDK by Theodor Georgopoulos
+## 🧰 Libraries
+### 🛠️ data_integ_api Laravel PHP SDK by Theodor Georgopoulos
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/TheodorGeo/data_integ_api](https://github.com/TheodorGeo/data_integ_api)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/TheodorGeo/data_integ_api)
 
-- **Author**: TheodorGeo
-- **Stars**: 1
-### Bitbucket Commit To Trello Cards JavaScript SDK by Norimitsu Yamashita
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/nori3tsu/bitbucket-commit-to-trello-card](https://github.com/nori3tsu/bitbucket-commit-to-trello-card)
+- **Author**: 👤 TheodorGeo
+- **Stars**: ⭐ 1
+### 🛠️ Bitbucket Commit To Trello Cards JavaScript SDK by Norimitsu Yamashita
 
 
-- **Author**: nori3tsu
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/nori3tsu/bitbucket-commit-to-trello-card)
 
-### magento_trello_laravel Laravel PHP SDK by ksly
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/donksly/magento_trello_laravel](https://github.com/donksly/magento_trello_laravel)
+- **Author**: 👤 nori3tsu
 
+### 🛠️ magento_trello_laravel Laravel PHP SDK by ksly
 
-- **Author**: donksly
-- **Stars**: 1
-### trello2kanboard Ruby SDK by Psy-Q
 
-- **Platform**: Ruby
-- **Docs**: [https://gitlab.com/psy-q/trello2kanboard](https://gitlab.com/psy-q/trello2kanboard)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/donksly/magento_trello_laravel)
 
 
+- **Author**: 👤 donksly
+- **Stars**: ⭐ 1
+### 🛠️ trello2kanboard Ruby SDK by Psy-Q
 
 
-### Treller C# SDK by Kontur
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://gitlab.com/psy-q/trello2kanboard)
 
-- **Platform**: C#
-- **Docs**: [https://github.com/skbkontur/Treller](https://github.com/skbkontur/Treller)
 
 
 
+### 🛠️ Treller C# SDK by Kontur
 
-### Trello Python SDK by Jean Jordaan
 
-- **Platform**: Python
-- **Docs**: [https://github.com/jean/trollop](https://github.com/jean/trollop)
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/skbkontur/Treller)
 
 
-- **Author**: jean
 
-### Trello MeteorJS SDK by Warehouseman
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/warehouseman/meteor-node-trello](https://github.com/warehouseman/meteor-node-trello)
+### 🛠️ Trello Python SDK by Jean Jordaan
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/jean/trollop)
 
-- **Stars**: 1
-### Trello Ruby SDK by Chase Southard
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/chaserx/trellist](https://github.com/chaserx/trellist)
+- **Author**: 👤 jean
 
+### 🛠️ Trello MeteorJS SDK by Warehouseman
 
-- **Author**: chaserx
-- **Stars**: 1
-### Trello Python SDK by Jeremy Dean Lakey
 
-- **Platform**: Python
-- **Docs**: [https://github.com/jeremydeanlakey/jello](https://github.com/jeremydeanlakey/jello)
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/warehouseman/meteor-node-trello)
 
 
-- **Author**: jeremydeanlakey
 
-### Trello Python SDK by Dustin Wyatt
+- **Stars**: ⭐ 1
+### 🛠️ Trello Ruby SDK by Chase Southard
 
-- **Platform**: Python
-- **Docs**: [https://github.com/dmwyatt/rose_trellis](https://github.com/dmwyatt/rose_trellis)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/chaserx/trellist)
 
-- **Author**: dmwyatt
 
-### Trello C# SDK by Bruno Fernando Corrêa de Abreu
+- **Author**: 👤 chaserx
+- **Stars**: ⭐ 1
+### 🛠️ Trello Python SDK by Jeremy Dean Lakey
 
-- **Platform**: C#
-- **Docs**: [https://github.com/sathoril/Dashboards](https://github.com/sathoril/Dashboards)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/jeremydeanlakey/jello)
 
-- **Author**: sathoril
 
-### Trello Ruby SDK by Mike Beasley
+- **Author**: 👤 jeremydeanlakey
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/mbeasley/ctrl](https://github.com/mbeasley/ctrl)
+### 🛠️ Trello Python SDK by Dustin Wyatt
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/dmwyatt/rose_trellis)
 
 
-### Trello Laravel PHP SDK by Manu Pijierro
+- **Author**: 👤 dmwyatt
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/mpijierro/laratrell](https://github.com/mpijierro/laratrell)
+### 🛠️ Trello C# SDK by Bruno Fernando Corrêa de Abreu
 
 
-- **Author**: mpijierro
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/sathoril/Dashboards)
 
-### Trello NodeJS SDK by Huanhuan Huang
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/jchappypig/trello-manager-node](https://github.com/jchappypig/trello-manager-node)
+- **Author**: 👤 sathoril
 
+### 🛠️ Trello Ruby SDK by Mike Beasley
 
-- **Author**: jchappypig
-- **Stars**: 1
-### Trello NodeJS SDK by Jasmine Hegman
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/r4j4h/trello-card-lister](https://github.com/r4j4h/trello-card-lister)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/mbeasley/ctrl)
 
 
-- **Author**: r4j4h
 
-### Trello NodeJS SDK by Léa
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/LeaBrb/appli-trello-nodejs](https://github.com/LeaBrb/appli-trello-nodejs)
+### 🛠️ Trello Laravel PHP SDK by Manu Pijierro
 
 
-- **Author**: LeaBrb
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/mpijierro/laratrell)
 
-### Trello Python SDK by mxmader
 
-- **Platform**: Python
-- **Docs**: [https://github.com/mxmader/trello-reporting](https://github.com/mxmader/trello-reporting)
+- **Author**: 👤 mpijierro
 
+### 🛠️ Trello NodeJS SDK by Huanhuan Huang
 
-- **Author**: mxmader
-- **Stars**: 2
-### Trello Perl SDK by lth2h
 
-- **Platform**: PERL
-- **Docs**: [https://github.com/lth2h/perl-trello](https://github.com/lth2h/perl-trello)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/jchappypig/trello-manager-node)
 
 
-- **Author**: lth2h
+- **Author**: 👤 jchappypig
+- **Stars**: ⭐ 1
+### 🛠️ Trello NodeJS SDK by Jasmine Hegman
 
-### Trello Python SDK by Saar Wasserman
 
-- **Platform**: Python
-- **Docs**: [https://github.com/saar-wasserman-bv/trellomanager_project](https://github.com/saar-wasserman-bv/trellomanager_project)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/r4j4h/trello-card-lister)
 
 
-- **Author**: saar-wasserman-bv
+- **Author**: 👤 r4j4h
 
-### Trello Laravel PHP SDK by fsbdev
+### 🛠️ Trello NodeJS SDK by Léa
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/fsbdev/trello-client](https://github.com/fsbdev/trello-client)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/LeaBrb/appli-trello-nodejs)
 
 
+- **Author**: 👤 LeaBrb
 
-### Trello Go SDK by Matt Dietz
+### 🛠️ Trello Python SDK by mxmader
 
-- **Platform**: Go
-- **Docs**: [https://github.com/Cerberus98/trello_go](https://github.com/Cerberus98/trello_go)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/mxmader/trello-reporting)
 
-- **Author**: MattDietz
 
-### Trello JavaScript SDK by Johannes Brodwall
+- **Author**: 👤 mxmader
+- **Stars**: ⭐ 2
+### 🛠️ Trello Perl SDK by lth2h
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/jhannes/wassup-trello](https://github.com/jhannes/wassup-trello)
 
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/lth2h/perl-trello)
 
-- **Author**: jhannes
 
-### Trello NodeJS SDK by Kévin Letupe
+- **Author**: 👤 lth2h
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/KevinL59/trello-export](https://github.com/KevinL59/trello-export)
+### 🛠️ Trello Python SDK by Saar Wasserman
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/saar-wasserman-bv/trellomanager_project)
 
 
-### Trello JavaScript SDK by Andrew Dunn
+- **Author**: 👤 saar-wasserman-bv
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/Andrew-Dunn/trello-burndown](https://github.com/Andrew-Dunn/trello-burndown)
+### 🛠️ Trello Laravel PHP SDK by fsbdev
 
 
-- **Author**: Andrew-Dunn
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/fsbdev/trello-client)
 
-### Trello Shell SDK by erjenkins29
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/erjenkins29/trello-reports](https://github.com/erjenkins29/trello-reports)
 
 
-- **Author**: erjenkins29
+### 🛠️ Trello Go SDK by Matt Dietz
 
 
-## Contact
-support@transitfeeds.com
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/Cerberus98/trello_go)
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Author**: 👤 MattDietz
+
+### 🛠️ Trello JavaScript SDK by Johannes Brodwall
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/jhannes/wassup-trello)
+
+
+- **Author**: 👤 jhannes
+
+### 🛠️ Trello NodeJS SDK by Kévin Letupe
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/KevinL59/trello-export)
+
+
+
+
+### 🛠️ Trello JavaScript SDK by Andrew Dunn
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/Andrew-Dunn/trello-burndown)
+
+
+- **Author**: 👤 Andrew-Dunn
+
+### 🛠️ Trello Shell SDK by erjenkins29
+
+
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/erjenkins29/trello-reports)
+
+
+- **Author**: 👤 erjenkins29
+
+
+## 📬 Contact
+📧 support@transitfeeds.com
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

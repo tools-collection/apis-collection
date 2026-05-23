@@ -1,24 +1,32 @@
-# [Bit.Ly API](https://dev.bitly.com/)
+# 📦 [Bit.Ly API](https://dev.bitly.com/)
 
 
-The Bitly API Bitly is the most widely trusted link management platform in the world. By using the Bitly API, you will exercise the full power of your links through automated link customization, mo. Links are everywhere. Within every channel and every platform. Only Bitlinks are powerful enough to allow you to see clear across the internet
+> **The Bitly API Bitly is the most widely trusted link management platform in the world. By using the Bitly API, you will exercise the full power of your links through automated link customization, mo. Links are everywhere. Within every channel and every platform. Only Bitlinks are powerful enough to allow you to see clear across the internet**
 
-## Details
-- **Categories**: URLs
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `URLs`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://dev.bitly.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

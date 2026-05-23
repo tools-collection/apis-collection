@@ -1,25 +1,33 @@
-# [Tomorrow.io](https://docs.tomorrow.io)
+# 📦 [Tomorrow.io](https://docs.tomorrow.io)
 
 
-Tomorrow.io&#x27;s Weather API delivers hyper-local, minute-by-minute forecasts with 100+ weather data layers including precipitation, wind, air quality, and pollen. Formerly ClimaCell.
+> **Tomorrow.io&#x27;s Weather API delivers hyper-local, minute-by-minute forecasts with 100+ weather data layers including precipitation, wind, air quality, and pollen. Formerly ClimaCell.**
 
-## Details
-- **Categories**: Weather
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Weather`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://docs.tomorrow.io)
 - [API Reference](https://docs.tomorrow.io/reference/api-overview)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,226 +1,257 @@
-# [Postmark](https://postmarkapp.com/developer)
+# 📦 [Postmark](https://postmarkapp.com/developer)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postmark/logo_256x256.png" alt="Postmark logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postmark/logo_256x256.png" alt="Postmark logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-No bulk. That means your app&#x27;s email isn&#x27;t stuck waiting behind 500,000 copies of a marketing campaign. Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark delivers email triggered by an action in your app
+> **No bulk. That means your app&#x27;s email isn&#x27;t stuck waiting behind 500,000 copies of a marketing campaign. Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark delivers email triggered by an action in your app**
 
-## Details
-- **Categories**: Email &amp; SMS, Business
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Email &amp; SMS`, `Business`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://postmarkapp.com/developer)
 
-## Libraries
-### Kanboard PHP SDK by polom
+## 🧰 Libraries
+### 🛠️ Kanboard PHP SDK by polom
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/polom/kanboard-tasksbymail](https://github.com/polom/kanboard-tasksbymail)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/polom/kanboard-tasksbymail)
 
-- **Author**: polom
-- **Stars**: 6
-### Postmark Java SDK by Imaginatio
 
-- **Platform**: Java
-- **Docs**: [https://github.com/Imaginatio/postmark-java](https://github.com/Imaginatio/postmark-java)
+- **Author**: 👤 polom
+- **Stars**: ⭐ 6
+### 🛠️ Postmark Java SDK by Imaginatio
 
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/Imaginatio/postmark-java)
 
-- **Stars**: 9
-### Postmark Go SDK by Mahmud Ridwan
 
-- **Platform**: Go
-- **Docs**: [https://github.com/hjr265/postmark.go](https://github.com/hjr265/postmark.go)
 
+- **Stars**: ⭐ 9
+### 🛠️ Postmark Go SDK by Mahmud Ridwan
 
-- **Author**: hjr265
-- **Stars**: 15
-### Postmark Haskell SDK by markhibberd
 
-- **Platform**: Haskell
-- **Docs**: [https://github.com/markhibberd/postmark](https://github.com/markhibberd/postmark)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/hjr265/postmark.go)
 
 
-- **Author**: markhibberd
-- **Stars**: 18
-### Postmark Go SDK by Kyle Truscott
+- **Author**: 👤 hjr265
+- **Stars**: ⭐ 15
+### 🛠️ Postmark Haskell SDK by markhibberd
 
-- **Platform**: Go
-- **Docs**: [https://github.com/keighl/postmark](https://github.com/keighl/postmark)
 
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](https://github.com/markhibberd/postmark)
 
-- **Author**: keighl
-- **Stars**: 49
-### Postmark PHP SDK by Joffrey JAFFEUX
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/jjaffeux/postmark-inbound-php](https://github.com/jjaffeux/postmark-inbound-php)
+- **Author**: 👤 markhibberd
+- **Stars**: ⭐ 18
+### 🛠️ Postmark Go SDK by Kyle Truscott
 
 
-- **Author**: jjaffeux
-- **Stars**: 82
-### Postmark Ruby SDK by Randy Schmidt
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/keighl/postmark)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/r38y/postmark-mitt](https://github.com/r38y/postmark-mitt)
 
+- **Author**: 👤 keighl
+- **Stars**: ⭐ 49
+### 🛠️ Postmark PHP SDK by Joffrey JAFFEUX
 
-- **Author**: r38y
-- **Stars**: 40
-### Postmark Java SDK by Jared Holdcroft
 
-- **Platform**: Java
-- **Docs**: [https://github.com/jaredholdcroft/postmark-java](https://github.com/jaredholdcroft/postmark-java)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/jjaffeux/postmark-inbound-php)
 
 
-- **Author**: jaredholdcroft
-- **Stars**: 15
-### Postmark Ruby on Rails SDK by Wildbit
+- **Author**: 👤 jjaffeux
+- **Stars**: ⭐ 82
+### 🛠️ Postmark Ruby SDK by Randy Schmidt
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/wildbit/postmark-rails](https://github.com/wildbit/postmark-rails)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/r38y/postmark-mitt)
 
 
-- **Stars**: 276
-### Postmark FeathersJS SDK by feathers-plus
+- **Author**: 👤 r38y
+- **Stars**: ⭐ 40
+### 🛠️ Postmark Java SDK by Jared Holdcroft
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/feathers-plus/feathers-postmark](https://github.com/feathers-plus/feathers-postmark)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/jaredholdcroft/postmark-java)
 
 
-- **Stars**: 7
-### Postmark Laravel PHP SDK by Durham Hale
+- **Author**: 👤 jaredholdcroft
+- **Stars**: ⭐ 15
+### 🛠️ Postmark Ruby on Rails SDK by Wildbit
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/durhamhale/laravel-postmark](https://github.com/durhamhale/laravel-postmark)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/wildbit/postmark-rails)
 
-- **Author**: durhamhale
-- **Stars**: 4
-### Postmark Elixir SDK by Marcel Oomens
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/marceloomens/ExPosta](https://github.com/marceloomens/ExPosta)
 
+- **Stars**: ⭐ 276
+### 🛠️ Postmark FeathersJS SDK by feathers-plus
 
-- **Author**: marceloomens
-- **Stars**: 4
-### Postmark Perl SDK by Ido Perlmuter
 
-- **Platform**: PERL
-- **Docs**: [https://github.com/ido50/WWW-Postmark](https://github.com/ido50/WWW-Postmark)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/feathers-plus/feathers-postmark)
 
 
-- **Author**: ido50
-- **Stars**: 5
-### Postmark NodeJS SDK by Andrew Sliwinski
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/thisandagain/trebuchet](https://github.com/thisandagain/trebuchet)
+- **Stars**: ⭐ 7
+### 🛠️ Postmark Laravel PHP SDK by Durham Hale
 
 
-- **Author**: thisandagain
-- **Stars**: 14
-### Postmark Scala SDK by Seb Richards
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/durhamhale/laravel-postmark)
 
-- **Platform**: Scala
-- **Docs**: [https://github.com/sebrichards/postmark-scala](https://github.com/sebrichards/postmark-scala)
 
+- **Author**: 👤 durhamhale
+- **Stars**: ⭐ 4
+### 🛠️ Postmark Elixir SDK by Marcel Oomens
 
-- **Author**: sebrichards
-- **Stars**: 8
-### Postmark Java SDK by Wildbit
 
-- **Platform**: Java
-- **Docs**: [https://github.com/wildbit/postmark-java](https://github.com/wildbit/postmark-java)
-- **Source**: [http://search.maven.org/#artifactdetails%7Ccom.wildbit.java%7Cpostmark%7C1.1.6%7C](http://search.maven.org/#artifactdetails%7Ccom.wildbit.java%7Cpostmark%7C1.1.6%7C)
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/marceloomens/ExPosta)
 
 
-- **Stars**: 18
-### Postmark Python SDK by Dmitry Dygalo
+- **Author**: 👤 marceloomens
+- **Stars**: ⭐ 4
+### 🛠️ Postmark Perl SDK by Ido Perlmuter
 
-- **Platform**: Python
-- **Docs**: [https://github.com/Stranger6667/postmarker](https://github.com/Stranger6667/postmarker)
-- **Source**: [https://pypi.org/project/postmarker/](https://pypi.org/project/postmarker/)
 
-- **Author**: Stranger6667
-- **Stars**: 76
-### Postmark Go SDK by ChannelMeter
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/ido50/WWW-Postmark)
 
-- **Platform**: Go
-- **Docs**: [https://github.com/ChannelMeter/postmark](https://github.com/ChannelMeter/postmark)
 
+- **Author**: 👤 ido50
+- **Stars**: ⭐ 5
+### 🛠️ Postmark NodeJS SDK by Andrew Sliwinski
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/thisandagain/trebuchet)
 
-### Postmark ColdFusion SDK by Ember Feather
 
-- **Platform**: ColdFusion
-- **Docs**: [https://github.com/emberfeather/postmark4cf](https://github.com/emberfeather/postmark4cf)
+- **Author**: 👤 thisandagain
+- **Stars**: ⭐ 14
+### 🛠️ Postmark Scala SDK by Seb Richards
 
 
+- **Platform**: `Scala`
+- **Docs**: [📚 Documentation](https://github.com/sebrichards/postmark-scala)
 
-- **Stars**: 2
-### Postmark Go SDK by Matt Evans
 
-- **Platform**: Go
-- **Docs**: [https://github.com/mattevans/postmark-go](https://github.com/mattevans/postmark-go)
+- **Author**: 👤 sebrichards
+- **Stars**: ⭐ 8
+### 🛠️ Postmark Java SDK by Wildbit
 
 
-- **Author**: mattevans
-- **Stars**: 4
-### Postmark Go SDK by Diffeo
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/wildbit/postmark-java)
+- **Source**: [💻 Source Code](http://search.maven.org/#artifactdetails%7Ccom.wildbit.java%7Cpostmark%7C1.1.6%7C)
 
-- **Platform**: Go
-- **Docs**: [https://github.com/diffeo/postmark](https://github.com/diffeo/postmark)
 
+- **Stars**: ⭐ 18
+### 🛠️ Postmark Python SDK by Dmitry Dygalo
 
 
-- **Stars**: 2
-### Postmark ColdFusion SDK by Matt Gifford
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/Stranger6667/postmarker)
+- **Source**: [💻 Source Code](https://pypi.org/project/postmarker/)
 
-- **Platform**: ColdFusion
-- **Docs**: [https://github.com/coldfumonkeh/postmark](https://github.com/coldfumonkeh/postmark)
+- **Author**: 👤 Stranger6667
+- **Stars**: ⭐ 76
+### 🛠️ Postmark Go SDK by ChannelMeter
 
 
-- **Author**: coldfumonkeh
-- **Stars**: 5
-### Postmark Laravel PHP SDK by Terry Matula
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/ChannelMeter/postmark)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/matula/laravel-postmark](https://github.com/matula/laravel-postmark)
 
 
-- **Author**: matula
-- **Stars**: 4
-### Postmark PHP SDK by Mark van den Broek
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/mvdnbrk/postmark-inbound](https://github.com/mvdnbrk/postmark-inbound)
-- **Source**: [https://packagist.org/packages/mvdnbrk/postmark-inbound](https://packagist.org/packages/mvdnbrk/postmark-inbound)
+### 🛠️ Postmark ColdFusion SDK by Ember Feather
 
-- **Author**: mvdnbrk
-- **Stars**: 3
-### Postmark Go SDK by Vic Demuzere
 
-- **Platform**: Go
-- **Docs**: [https://github.com/sorcix/go-postmark](https://github.com/sorcix/go-postmark)
+- **Platform**: `ColdFusion`
+- **Docs**: [📚 Documentation](https://github.com/emberfeather/postmark4cf)
 
 
-- **Author**: sorcix
 
+- **Stars**: ⭐ 2
+### 🛠️ Postmark Go SDK by Matt Evans
 
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/mattevans/postmark-go)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 mattevans
+- **Stars**: ⭐ 4
+### 🛠️ Postmark Go SDK by Diffeo
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/diffeo/postmark)
+
+
+
+- **Stars**: ⭐ 2
+### 🛠️ Postmark ColdFusion SDK by Matt Gifford
+
+
+- **Platform**: `ColdFusion`
+- **Docs**: [📚 Documentation](https://github.com/coldfumonkeh/postmark)
+
+
+- **Author**: 👤 coldfumonkeh
+- **Stars**: ⭐ 5
+### 🛠️ Postmark Laravel PHP SDK by Terry Matula
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/matula/laravel-postmark)
+
+
+- **Author**: 👤 matula
+- **Stars**: ⭐ 4
+### 🛠️ Postmark PHP SDK by Mark van den Broek
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/mvdnbrk/postmark-inbound)
+- **Source**: [💻 Source Code](https://packagist.org/packages/mvdnbrk/postmark-inbound)
+
+- **Author**: 👤 mvdnbrk
+- **Stars**: ⭐ 3
+### 🛠️ Postmark Go SDK by Vic Demuzere
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/sorcix/go-postmark)
+
+
+- **Author**: 👤 sorcix
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

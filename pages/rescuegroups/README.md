@@ -1,33 +1,40 @@
-# [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home)
+# 📦 [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home)
 
 
-org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just numbers. you also need to consider reliability, functio. Introduction to the RescueGroups. Introduction to the RescueGroups
+> **org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just numbers. you also need to consider reliability, functio. Introduction to the RescueGroups. Introduction to the RescueGroups**
 
-## Details
-- **Categories**: Animals
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Animals`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home)
 
-## Libraries
-### RescueGroups Ruby SDK by Harsha
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/bornfree/rescuegroups](https://github.com/bornfree/rescuegroups)
+## 🧰 Libraries
+### 🛠️ RescueGroups Ruby SDK by Harsha
 
 
-- **Author**: bornfree
-- **Stars**: 1
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/bornfree/rescuegroups)
 
 
+- **Author**: 👤 bornfree
+- **Stars**: ⭐ 1
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

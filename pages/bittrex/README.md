@@ -1,249 +1,283 @@
-# [Bittrex](https://bittrex.github.io/api/v3)
+# 📦 [Bittrex](https://bittrex.github.io/api/v3)
 
 
-Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
+> **Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates**
 
-## Details
-- **Categories**: Blockchain &amp; Cryptocurrencies
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://bittrex.github.io/api/v3)
 
-## Libraries
-### haxchange Haskell SDK by Sean McGroarty
+## 🧰 Libraries
+### 🛠️ haxchange Haskell SDK by Sean McGroarty
 
-- **Platform**: Haskell
-- **Docs**: [https://github.com/mcgizzle/haxchange](https://github.com/mcgizzle/haxchange)
 
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](https://github.com/mcgizzle/haxchange)
 
-- **Author**: mcgizzle
-- **Stars**: 13
-### Cryptocurrency exchanges connector PHP SDK by WALL
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/wall-one/exchange-connector](https://github.com/wall-one/exchange-connector)
+- **Author**: 👤 mcgizzle
+- **Stars**: ⭐ 13
+### 🛠️ Cryptocurrency exchanges connector PHP SDK by WALL
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/wall-one/exchange-connector)
 
-- **Stars**: 5
-### ExchangeSharp .NET/C# by Jeff Johnson
 
-- **Platform**: .Net, C#
-- **Docs**: [https://github.com/jjxtra/ExchangeSharp](https://github.com/jjxtra/ExchangeSharp)
 
+- **Stars**: ⭐ 5
+### 🛠️ ExchangeSharp .NET/C# by Jeff Johnson
 
-- **Author**: jjxtra
-- **Stars**: 759
-### Bittrex Go SDK by frcr
 
-- **Platform**: Go
-- **Docs**: [https://github.com/frcr/gotrex](https://github.com/frcr/gotrex)
+- **Platform**: `.Net, C#`
+- **Docs**: [📚 Documentation](https://github.com/jjxtra/ExchangeSharp)
 
 
-- **Author**: frcr
+- **Author**: 👤 jjxtra
+- **Stars**: ⭐ 759
+### 🛠️ Bittrex Go SDK by frcr
 
-### Bittrex C# SDK by raghupallavi
 
-- **Platform**: C#
-- **Docs**: [https://github.com/raghupallavi/Bittrex-CSharp-Api](https://github.com/raghupallavi/Bittrex-CSharp-Api)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/frcr/gotrex)
 
 
+- **Author**: 👤 frcr
 
+### 🛠️ Bittrex C# SDK by raghupallavi
 
-### Bittrex PowerShell SDK by byterogues
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/byterogues/powershell-bittrex-api](https://github.com/byterogues/powershell-bittrex-api)
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/raghupallavi/Bittrex-CSharp-Api)
 
 
-- **Author**: byterogues
-- **Stars**: 5
-### Bittrex PHP SDK by Brian Faust
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/faustbrian/Bittrex-PHP-Client](https://github.com/faustbrian/Bittrex-PHP-Client)
 
+### 🛠️ Bittrex PowerShell SDK by byterogues
 
-- **Author**: faustbrian
-- **Stars**: 2
-### Bittrex Python SDK by Luc
 
-- **Platform**: Python
-- **Docs**: [https://github.com/dude24760/bittrex-public-unofficial-api](https://github.com/dude24760/bittrex-public-unofficial-api)
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/byterogues/powershell-bittrex-api)
 
 
-- **Author**: dude24760
+- **Author**: 👤 byterogues
+- **Stars**: ⭐ 5
+### 🛠️ Bittrex PHP SDK by Brian Faust
 
-### Bittrex Ruby SDK by Vizakenjack
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/Vizakenjack/ruby-bittrex-api](https://github.com/Vizakenjack/ruby-bittrex-api)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/faustbrian/Bittrex-PHP-Client)
 
 
-- **Author**: vizakenjack
-- **Stars**: 4
-### Bittrex Java SDK by NinjaNed
+- **Author**: 👤 faustbrian
+- **Stars**: ⭐ 2
+### 🛠️ Bittrex Python SDK by Luc
 
-- **Platform**: Java
-- **Docs**: [https://github.com/NinjaNed/BittrexJavaWrapper](https://github.com/NinjaNed/BittrexJavaWrapper)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/dude24760/bittrex-public-unofficial-api)
 
-- **Author**: NinjaNed
-- **Stars**: 5
-### Bittrex .NET SDK by swtrse
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/swtrse/BittrexClient.net](https://github.com/swtrse/BittrexClient.net)
+- **Author**: 👤 dude24760
 
+### 🛠️ Bittrex Ruby SDK by Vizakenjack
 
-- **Author**: swtrse
 
-### Bittrex PHP SDK by fransyozef
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/Vizakenjack/ruby-bittrex-api)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/fransyozef/php-bittrex](https://github.com/fransyozef/php-bittrex)
 
+- **Author**: 👤 vizakenjack
+- **Stars**: ⭐ 4
+### 🛠️ Bittrex Java SDK by NinjaNed
 
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/NinjaNed/BittrexJavaWrapper)
 
-### Bittrex Laravel PHP SDK by Pepijn Olivier
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/pepijnolivier/laravel-bittrex](https://github.com/pepijnolivier/laravel-bittrex)
+- **Author**: 👤 NinjaNed
+- **Stars**: ⭐ 5
+### 🛠️ Bittrex .NET SDK by swtrse
 
 
-- **Author**: pepijnolivier
-- **Stars**: 23
-### Bittrex PHP SDK by Roman
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/swtrse/BittrexClient.net)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/KielD-01/Bittrex-Reader](https://github.com/KielD-01/Bittrex-Reader)
 
+- **Author**: 👤 swtrse
 
-- **Author**: KielD-01
+### 🛠️ Bittrex PHP SDK by fransyozef
 
-### Bittrex Node.js SDK by Coinsop
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/coinsop/bittrex-wrapper](https://github.com/coinsop/bittrex-wrapper)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/fransyozef/php-bittrex)
 
 
 
-- **Stars**: 8
-### Bittrex Python SDK by Nate George
 
-- **Platform**: Python
-- **Docs**: [https://github.com/nateGeorge/bittrex_tools](https://github.com/nateGeorge/bittrex_tools)
+### 🛠️ Bittrex Laravel PHP SDK by Pepijn Olivier
 
 
-- **Author**: nateGeorge
-- **Stars**: 12
-### Bittrex Node.js SDK by jpstratmanuno
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/pepijnolivier/laravel-bittrex)
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/jpstratmanuno/bittrex-orderbook](https://github.com/jpstratmanuno/bittrex-orderbook)
 
+- **Author**: 👤 pepijnolivier
+- **Stars**: ⭐ 23
+### 🛠️ Bittrex PHP SDK by Roman
 
-- **Author**: jpstratman
 
-### Bittrex Elixir SDK by Andrey Parubets
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/KielD-01/Bittrex-Reader)
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/parubets/bittrex_elixir](https://github.com/parubets/bittrex_elixir)
 
+- **Author**: 👤 KielD-01
 
-- **Author**: parubets
+### 🛠️ Bittrex Node.js SDK by Coinsop
 
-### Bittrex Ruby SDK by Aaron Binford
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/MisterToolbox/bittrex-api](https://github.com/MisterToolbox/bittrex-api)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/coinsop/bittrex-wrapper)
 
 
-- **Author**: MisterToolbox
 
-### Bittrex Elixir SDK by cyberpunk-ventures
+- **Stars**: ⭐ 8
+### 🛠️ Bittrex Python SDK by Nate George
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/cyberpunk-ventures/bittrex_ex](https://github.com/cyberpunk-ventures/bittrex_ex)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/nateGeorge/bittrex_tools)
 
 
+- **Author**: 👤 nateGeorge
+- **Stars**: ⭐ 12
+### 🛠️ Bittrex Node.js SDK by jpstratmanuno
 
-### Bittrex Node.js SDK by Tommy Bergeron
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/tbergeron/bittrex-notifier](https://github.com/tbergeron/bittrex-notifier)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/jpstratmanuno/bittrex-orderbook)
 
 
-- **Author**: tbergeron
-- **Stars**: 2
-### Bittrex Go SDK by Justin
+- **Author**: 👤 jpstratman
 
-- **Platform**: Go
-- **Docs**: [https://github.com/Just1B/Bittrex_ticker](https://github.com/Just1B/Bittrex_ticker)
+### 🛠️ Bittrex Elixir SDK by Andrey Parubets
 
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/parubets/bittrex_elixir)
 
 
-### Bittrex v2 Java SDK by Giorgio Momigliano
+- **Author**: 👤 parubets
 
-- **Platform**: Java
-- **Docs**: [https://github.com/platelminto/java-bittrex-2](https://github.com/platelminto/java-bittrex-2)
+### 🛠️ Bittrex Ruby SDK by Aaron Binford
 
 
-- **Author**: platelminto
-- **Stars**: 17
-### Bittrex PHP SDK by guxal
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/MisterToolbox/bittrex-api)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/guxal/BittrexAPIClient](https://github.com/guxal/BittrexAPIClient)
 
+- **Author**: 👤 MisterToolbox
 
-- **Author**: guxal
-- **Stars**: 5
-### Bittrex Python SDK by ppm0
+### 🛠️ Bittrex Elixir SDK by cyberpunk-ventures
 
-- **Platform**: Python
-- **Docs**: [https://github.com/ppm0/bittrex3](https://github.com/ppm0/bittrex3)
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/cyberpunk-ventures/bittrex_ex)
 
-- **Author**: ppm0
 
-### Python-Bittrex
 
-- **Platform**: Python
-- **Docs**: [https://github.com/ericsomdahl/python-bittrex](https://github.com/ericsomdahl/python-bittrex)
 
+### 🛠️ Bittrex Node.js SDK by Tommy Bergeron
 
-- **Author**: ericsomdahl
-- **Stars**: 580
-### Ruby Gem for Bittrex
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/mwerner/bittrex](https://github.com/mwerner/bittrex)
-- **Source**: [https://github.com/mwerner/bittrex](https://github.com/mwerner/bittrex)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/tbergeron/bittrex-notifier)
 
-- **Author**: mwerner
-- **Stars**: 51
-### Node Bittrex API
 
-- **Platform**: Node.js
-- **Docs**: [https://www.npmjs.org/package/node.bittrex.api](https://www.npmjs.org/package/node.bittrex.api)
-- **Source**: [https://github.com/n0mad01/node.bittrex.api](https://github.com/n0mad01/node.bittrex.api)
+- **Author**: 👤 tbergeron
+- **Stars**: ⭐ 2
+### 🛠️ Bittrex Go SDK by Justin
 
-- **Author**: n0mad01
-- **Stars**: 180
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/Just1B/Bittrex_ticker)
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+
+### 🛠️ Bittrex v2 Java SDK by Giorgio Momigliano
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/platelminto/java-bittrex-2)
+
+
+- **Author**: 👤 platelminto
+- **Stars**: ⭐ 17
+### 🛠️ Bittrex PHP SDK by guxal
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/guxal/BittrexAPIClient)
+
+
+- **Author**: 👤 guxal
+- **Stars**: ⭐ 5
+### 🛠️ Bittrex Python SDK by ppm0
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/ppm0/bittrex3)
+
+
+- **Author**: 👤 ppm0
+
+### 🛠️ Python-Bittrex
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/ericsomdahl/python-bittrex)
+
+
+- **Author**: 👤 ericsomdahl
+- **Stars**: ⭐ 580
+### 🛠️ Ruby Gem for Bittrex
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/mwerner/bittrex)
+- **Source**: [💻 Source Code](https://github.com/mwerner/bittrex)
+
+- **Author**: 👤 mwerner
+- **Stars**: ⭐ 51
+### 🛠️ Node Bittrex API
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.org/package/node.bittrex.api)
+- **Source**: [💻 Source Code](https://github.com/n0mad01/node.bittrex.api)
+
+- **Author**: 👤 n0mad01
+- **Stars**: ⭐ 180
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

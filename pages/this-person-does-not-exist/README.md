@@ -1,24 +1,32 @@
-# [This Person Does not Exist](https://thispersondoesnotexist.com)
+# 📦 [This Person Does not Exist](https://thispersondoesnotexist.com)
 
 
-This Person Does Not Exist
+> **This Person Does Not Exist**
 
-## Details
-- **Categories**: Random, Testing, AI &amp; ML
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Random`, `Testing`, `AI &amp; ML`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://thispersondoesnotexist.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

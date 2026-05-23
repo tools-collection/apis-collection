@@ -1,234 +1,266 @@
-# [Nexmo](https://developer.nexmo.com)
+# 📦 [Nexmo](https://developer.nexmo.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nexmo/logo_256x256.png" alt="Nexmo logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nexmo/logo_256x256.png" alt="Nexmo logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET &amp; Python. Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs
+> **Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET &amp; Python. Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs**
 
-## Details
-- **Categories**: Email &amp; SMS, Voice, Chats &amp; Messaging
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Email &amp; SMS`, `Voice`, `Chats &amp; Messaging`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.nexmo.com)
 
-## Libraries
-### Vonage PHP SDK by Connect Corp
+## 🧰 Libraries
+### 🛠️ Vonage PHP SDK by Connect Corp
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/ConnectCorp/nexmo-client](https://github.com/ConnectCorp/nexmo-client)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/ConnectCorp/nexmo-client)
 
 
-- **Stars**: 16
-### Vonage SMS PHP SDK by Darren Whitlen
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/prawnsalad/Nexmo-PHP-lib](https://github.com/prawnsalad/Nexmo-PHP-lib)
+- **Stars**: ⭐ 16
+### 🛠️ Vonage SMS PHP SDK by Darren Whitlen
 
 
-- **Author**: prawnsalad
-- **Stars**: 122
-### Vonage SMS CodeIgniter PHP SDK by Bo-Yi Wu
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/prawnsalad/Nexmo-PHP-lib)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/appleboy/CodeIgniter-Nexmo-Message](https://github.com/appleboy/CodeIgniter-Nexmo-Message)
 
+- **Author**: 👤 prawnsalad
+- **Stars**: ⭐ 122
+### 🛠️ Vonage SMS CodeIgniter PHP SDK by Bo-Yi Wu
 
-- **Author**: appleboy
-- **Stars**: 49
-### Vonage Ruby SDK
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/Nexmo/nexmo-ruby](https://github.com/Nexmo/nexmo-ruby)
-- **Source**: [https://rubygems.org/gems/nexmo](https://rubygems.org/gems/nexmo)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/appleboy/CodeIgniter-Nexmo-Message)
 
 
+- **Author**: 👤 appleboy
+- **Stars**: ⭐ 49
+### 🛠️ Vonage Ruby SDK
 
-### Vonage NodeJS SDK
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/Nexmo/nexmo-node](https://github.com/Nexmo/nexmo-node)
-- **Source**: [https://www.npmjs.com/package/nexmo](https://www.npmjs.com/package/nexmo)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/Nexmo/nexmo-ruby)
+- **Source**: [💻 Source Code](https://rubygems.org/gems/nexmo)
 
 
-- **Stars**: 1
-### Vonage SMS NodeJS SDK by Aaron Blakely
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/ablakely/node-nexmo](https://github.com/ablakely/node-nexmo)
+### 🛠️ Vonage NodeJS SDK
 
 
-- **Author**: ablakely
-- **Stars**: 24
-### Vonage SMS Python SDK by Marco Londero
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/Nexmo/nexmo-node)
+- **Source**: [💻 Source Code](https://www.npmjs.com/package/nexmo)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/marcuz/libpynexmo](https://github.com/marcuz/libpynexmo)
 
+- **Stars**: ⭐ 1
+### 🛠️ Vonage SMS NodeJS SDK by Aaron Blakely
 
-- **Author**: marcuz
-- **Stars**: 65
-### Vonage SMS Perl SDK by Renee Baecker
 
-- **Platform**: PERL
-- **Docs**: [https://github.com/reneeb/perl-Nexmo-SMS](https://github.com/reneeb/perl-Nexmo-SMS)
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/ablakely/node-nexmo)
 
 
-- **Author**: reneeb
-- **Stars**: 5
-### Nexmo C# Library by Jan Welker
+- **Author**: 👤 ablakely
+- **Stars**: ⭐ 24
+### 🛠️ Vonage SMS Python SDK by Marco Londero
 
-- **Platform**: C#
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/marcuz/libpynexmo)
 
 
+- **Author**: 👤 marcuz
+- **Stars**: ⭐ 65
+### 🛠️ Vonage SMS Perl SDK by Renee Baecker
 
 
-### Nexmo Perl Library by Renee Backer
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/reneeb/perl-Nexmo-SMS)
 
-- **Platform**: PERL
 
+- **Author**: 👤 reneeb
+- **Stars**: ⭐ 5
+### 🛠️ Nexmo C# Library by Jan Welker
 
 
+- **Platform**: `C#`
 
 
-### Nexmo Python Library by Marco Londero
 
-- **Platform**: Python
 
 
+### 🛠️ Nexmo Perl Library by Renee Backer
 
 
+- **Platform**: `PERL`
 
-### Nexmo Node.js Library by Aaron Blakely
 
-- **Platform**: Node.js
 
 
 
+### 🛠️ Nexmo Python Library by Marco Londero
 
 
-### Nexmo Node.js Library by Prabhu Velayutham
+- **Platform**: `Python`
 
-- **Platform**: Node.js
 
 
 
 
+### 🛠️ Nexmo Node.js Library by Aaron Blakely
 
-### Nexmo Ruby Library by Tim Craft
 
-- **Platform**: Ruby
+- **Platform**: `Node.js`
 
 
 
 
 
-### Nexmo PHP Library by Bo-Yi Wu
+### 🛠️ Nexmo Node.js Library by Prabhu Velayutham
 
-- **Platform**: PHP
 
+- **Platform**: `Node.js`
 
 
 
 
-### Nexmo PHP Library by Darren
 
-- **Platform**: PHP
+### 🛠️ Nexmo Ruby Library by Tim Craft
 
 
+- **Platform**: `Ruby`
 
 
 
-### Nexmo PHP Library by Connect Corp
 
-- **Platform**: PHP
 
+### 🛠️ Nexmo PHP Library by Bo-Yi Wu
 
 
+- **Platform**: `PHP`
 
 
-### Nexmo C# Library by Jan Welker
 
-- **Platform**: C#
 
 
+### 🛠️ Nexmo PHP Library by Darren
 
 
+- **Platform**: `PHP`
 
-### Nexmo Perl Library by Renee Backer
 
-- **Platform**: PERL
 
 
 
+### 🛠️ Nexmo PHP Library by Connect Corp
 
 
-### Nexmo Python Library by Marco Londero
+- **Platform**: `PHP`
 
-- **Platform**: Python
 
 
 
 
+### 🛠️ Nexmo C# Library by Jan Welker
 
-### Nexmo Node.js Library by Aaron Blakely
 
-- **Platform**: Node.js
+- **Platform**: `C#`
 
 
 
 
 
-### Nexmo Node.js Library by Prabhu Velayutham
+### 🛠️ Nexmo Perl Library by Renee Backer
 
-- **Platform**: Node.js
 
+- **Platform**: `PERL`
 
 
 
 
-### Nexmo Ruby Library by Tim Craft
 
-- **Platform**: Ruby
+### 🛠️ Nexmo Python Library by Marco Londero
 
 
+- **Platform**: `Python`
 
 
 
-### Nexmo PHP Library by Bo-Yi Wu
 
-- **Platform**: PHP
 
+### 🛠️ Nexmo Node.js Library by Aaron Blakely
 
 
+- **Platform**: `Node.js`
 
 
-### Nexmo PHP Library by Darren
 
-- **Platform**: PHP
 
 
+### 🛠️ Nexmo Node.js Library by Prabhu Velayutham
 
 
+- **Platform**: `Node.js`
 
-### Nexmo PHP Library by Connect Corp
 
-- **Platform**: PHP
 
 
 
+### 🛠️ Nexmo Ruby Library by Tim Craft
 
 
+- **Platform**: `Ruby`
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+
+### 🛠️ Nexmo PHP Library by Bo-Yi Wu
+
+
+- **Platform**: `PHP`
+
+
+
+
+
+### 🛠️ Nexmo PHP Library by Darren
+
+
+- **Platform**: `PHP`
+
+
+
+
+
+### 🛠️ Nexmo PHP Library by Connect Corp
+
+
+- **Platform**: `PHP`
+
+
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

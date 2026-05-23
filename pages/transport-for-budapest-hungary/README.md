@@ -1,24 +1,32 @@
-# [Transportation in Budapest, Hungary](https://bkkfutar.docs.apiary.io)
+# 📦 [Transportation in Budapest, Hungary](https://bkkfutar.docs.apiary.io)
 
 
-A place where APIs are kept. A place where APIs are kept
+> **A place where APIs are kept. A place where APIs are kept**
 
-## Details
-- **Categories**: Transportation
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Transportation`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://bkkfutar.docs.apiary.io)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

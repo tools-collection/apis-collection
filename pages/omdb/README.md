@@ -1,30 +1,34 @@
-# [OMDB](https://www.omdbapi.com/)
+# 📦 [OMDB](https://www.omdbapi.com/)
 
 
-The Open Movie Database. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.
+> **The Open Movie Database. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.**
 
-## Details
-- **Categories**: Search, Entertainment, Video &amp; Media
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Search`, `Entertainment`, `Video &amp; Media`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
-## Specification
-- **Type**: swagger
+## 📖 Specification
+- **Type**: `swagger`
 - **URL**: [http://www.omdbapi.com/swagger.json](http://www.omdbapi.com/swagger.json)
-- **Version**: http://www.omdbapi.com/swagger.json
+- **Version**: `http://www.omdbapi.com/swagger.json`
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.omdbapi.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-bfritz@fadingsignal.com
+## 📬 Contact
+📧 bfritz@fadingsignal.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

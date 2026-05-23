@@ -1,25 +1,33 @@
-# [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
+# 📦 [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newstack/logo_256x256.png" alt="NewStack logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newstack/logo_256x256.png" alt="NewStack logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services. The picture is a bit blurry at the moment, at least in my mind, on …. Internet of Things APIs are gaining a lot of attention lately and companies are jumping into the fray with both feet
+> **Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services. The picture is a bit blurry at the moment, at least in my mind, on …. Internet of Things APIs are gaining a lot of attention lately and companies are jumping into the fray with both feet**
 
-## Details
-- **Categories**: Finance &amp; Economics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Finance &amp; Economics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://thenewstack.io/the-different-flavors-of-iot-apis/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,218 +1,248 @@
-# [Unsplash](https://unsplash.it/)
+# 📦 [Unsplash](https://unsplash.it/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/unsplash/logo_256x256.png" alt="Unsplash logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/unsplash/logo_256x256.png" alt="Unsplash logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-but for photos. Lorem Ipsum. Lorem Ipsum
+> **but for photos. Lorem Ipsum. Lorem Ipsum**
 
-## Details
-- **Categories**: Development, Images &amp; Photography
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Development`, `Images &amp; Photography`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://unsplash.it/)
 
-## Libraries
-### Unsplash Python SDK by salvoventura
+## 🧰 Libraries
+### 🛠️ Unsplash Python SDK by salvoventura
 
-- **Platform**: Python
-- **Docs**: [https://github.com/salvoventura/pyunsplash](https://github.com/salvoventura/pyunsplash)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/salvoventura/pyunsplash)
 
-- **Author**: salvoventura
-- **Stars**: 30
-### Unsplash Android SDK by Jaleel Akbash
 
-- **Platform**: Java, Kotlin
-- **Docs**: [https://github.com/akbashev/KotSplash](https://github.com/akbashev/KotSplash)
+- **Author**: 👤 salvoventura
+- **Stars**: ⭐ 30
+### 🛠️ Unsplash Android SDK by Jaleel Akbash
 
 
+- **Platform**: `Java, Kotlin`
+- **Docs**: [📚 Documentation](https://github.com/akbashev/KotSplash)
 
 
-### Unsplash Ruby SDK by Felipe Luiz Soares
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/felipesoares6/UnplashPhotosAPI](https://github.com/felipesoares6/UnplashPhotosAPI)
 
+### 🛠️ Unsplash Ruby SDK by Felipe Luiz Soares
 
-- **Author**: felipesoares6
 
-### Unsplash Swift SDK by Pintumo
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/felipesoares6/UnplashPhotosAPI)
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/Pintumo/PNTMUnsplash](https://github.com/Pintumo/PNTMUnsplash)
 
+- **Author**: 👤 felipesoares6
 
+### 🛠️ Unsplash Swift SDK by Pintumo
 
 
-### Unsplash Node.js SDK by Fabian Lauer
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/Pintumo/PNTMUnsplash)
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/FabianLauer/unsplash-json](https://github.com/FabianLauer/unsplash-json)
 
 
-- **Author**: FabianLauer
-- **Stars**: 1
-### Unsplash PHP SDK by taduuda
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/taduuda/unsplash-php](https://github.com/taduuda/unsplash-php)
+### 🛠️ Unsplash Node.js SDK by Fabian Lauer
 
 
-- **Author**: cetteup
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/FabianLauer/unsplash-json)
 
-### Unsplash Node.js SDK by Andrew Zhang
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/zhangmhao/node-unsplash](https://github.com/zhangmhao/node-unsplash)
+- **Author**: 👤 FabianLauer
+- **Stars**: ⭐ 1
+### 🛠️ Unsplash PHP SDK by taduuda
 
 
-- **Author**: walkdoer
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/taduuda/unsplash-php)
 
-### Unsplash PHP SDK by Owen Voke
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/PXgamer/splas-php](https://github.com/PXgamer/splas-php)
+- **Author**: 👤 cetteup
 
+### 🛠️ Unsplash Node.js SDK by Andrew Zhang
 
-- **Author**: owenvoke
-- **Stars**: 2
-### Unsplash Java SDK by rye761
 
-- **Platform**: Java
-- **Docs**: [https://github.com/rye761/unsplash-java-unofficial](https://github.com/rye761/unsplash-java-unofficial)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/zhangmhao/node-unsplash)
 
 
-- **Author**: rye761
-- **Stars**: 7
-### Unsplash Go SDK by hardikbagdi
+- **Author**: 👤 walkdoer
 
-- **Platform**: Go
-- **Docs**: [https://github.com/hardikbagdi/go-unsplash](https://github.com/hardikbagdi/go-unsplash)
+### 🛠️ Unsplash PHP SDK by Owen Voke
 
 
-- **Author**: hbagdi
-- **Stars**: 34
-### Unsplash JavaScript SDK by Malik Nurmatov
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/PXgamer/splas-php)
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/maliknurmatov/unsplashify](https://github.com/maliknurmatov/unsplashify)
 
+- **Author**: 👤 owenvoke
+- **Stars**: ⭐ 2
+### 🛠️ Unsplash Java SDK by rye761
 
-- **Author**: maliknurmatov
 
-### Unsplash Python SDK by Yakup Adaklı
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/rye761/unsplash-java-unofficial)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/yakupadakli/python-unsplash](https://github.com/yakupadakli/python-unsplash)
 
+- **Author**: 👤 rye761
+- **Stars**: ⭐ 7
+### 🛠️ Unsplash Go SDK by hardikbagdi
 
-- **Author**: yakupadakli
-- **Stars**: 94
-### Unsplash Elixir SDK by Wayne Hoover
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/waynehoover/unsplash-elixir](https://github.com/waynehoover/unsplash-elixir)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/hardikbagdi/go-unsplash)
 
 
-- **Author**: waynehoover
-- **Stars**: 13
-### Unsplash Android SDK by Keenen Charles
+- **Author**: 👤 hbagdi
+- **Stars**: ⭐ 34
+### 🛠️ Unsplash JavaScript SDK by Malik Nurmatov
 
-- **Platform**: Java
-- **Docs**: [https://github.com/KeenenCharles/AndroidUnplash](https://github.com/KeenenCharles/AndroidUnplash)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/maliknurmatov/unsplashify)
 
-- **Author**: KeenenCharles
-- **Stars**: 81
-### Unsplash Swift SDK by Camden Fullmer
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/camdenfullmer/unsplash-swift](https://github.com/camdenfullmer/unsplash-swift)
+- **Author**: 👤 maliknurmatov
 
+### 🛠️ Unsplash Python SDK by Yakup Adaklı
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/yakupadakli/python-unsplash)
 
-### Unsplash Python SDK by Tzahi Vidas
 
-- **Platform**: Python
-- **Docs**: [https://github.com/kazuar/unsplash](https://github.com/kazuar/unsplash)
+- **Author**: 👤 yakupadakli
+- **Stars**: ⭐ 94
+### 🛠️ Unsplash Elixir SDK by Wayne Hoover
 
 
-- **Author**: kazuar
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/waynehoover/unsplash-elixir)
 
-### Unsplash Swift SDK by Willow Graysen
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/istx25/Unsplash](https://github.com/istx25/Unsplash)
+- **Author**: 👤 waynehoover
+- **Stars**: ⭐ 13
+### 🛠️ Unsplash Android SDK by Keenen Charles
 
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/KeenenCharles/AndroidUnplash)
 
 
-### Unsplash PHP SDK by Unsplash
+- **Author**: 👤 KeenenCharles
+- **Stars**: ⭐ 81
+### 🛠️ Unsplash Swift SDK by Camden Fullmer
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/unsplash/unsplash-php](https://github.com/unsplash/unsplash-php)
 
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/camdenfullmer/unsplash-swift)
 
 
-- **Stars**: 331
-### Unsplash Ruby SDK by Unsplash
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/unsplash/unsplash_rb](https://github.com/unsplash/unsplash_rb)
 
+### 🛠️ Unsplash Python SDK by Tzahi Vidas
 
 
-- **Stars**: 201
-### Unsplash iOS SDK by Don Bytyqi
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/kazuar/unsplash)
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/donbytyqi/Papers](https://github.com/donbytyqi/Papers)
 
+- **Author**: 👤 kazuar
 
-- **Author**: donbytyqi
+### 🛠️ Unsplash Swift SDK by Willow Graysen
 
-### Unsplash Python SDK by Michael Hacker
 
-- **Platform**: Python
-- **Docs**: [https://github.com/michael-hacker/unsplash-python](https://github.com/michael-hacker/unsplash-python)
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/istx25/Unsplash)
 
 
 
 
-### Unsplash Swift SDK by Caramba
+### 🛠️ Unsplash PHP SDK by Unsplash
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/carambalabs/UnsplashKit](https://github.com/carambalabs/UnsplashKit)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/unsplash/unsplash-php)
 
 
-- **Stars**: 183
-###  Unsplash JavaScript SDK by Unsplash
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/unsplash/unsplash-js](https://github.com/unsplash/unsplash-js)
+- **Stars**: ⭐ 331
+### 🛠️ Unsplash Ruby SDK by Unsplash
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/unsplash/unsplash_rb)
 
-- **Stars**: 1481
-### Unsplash PHP SDK by Crew
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/CrewLabs/Unsplash-PHP](https://github.com/CrewLabs/Unsplash-PHP)
 
+- **Stars**: ⭐ 201
+### 🛠️ Unsplash iOS SDK by Don Bytyqi
 
 
-- **Stars**: 331
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/donbytyqi/Papers)
 
 
+- **Author**: 👤 donbytyqi
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+### 🛠️ Unsplash Python SDK by Michael Hacker
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/michael-hacker/unsplash-python)
+
+
+
+
+### 🛠️ Unsplash Swift SDK by Caramba
+
+
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/carambalabs/UnsplashKit)
+
+
+
+- **Stars**: ⭐ 183
+### 🛠️  Unsplash JavaScript SDK by Unsplash
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/unsplash/unsplash-js)
+
+
+
+- **Stars**: ⭐ 1481
+### 🛠️ Unsplash PHP SDK by Crew
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/CrewLabs/Unsplash-PHP)
+
+
+
+- **Stars**: ⭐ 331
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

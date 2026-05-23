@@ -1,24 +1,32 @@
-# [Bay Area Rapid Transit](http://api.bart.gov)
+# 📦 [Bay Area Rapid Transit](http://api.bart.gov)
 
 
-The BART API gives you access to pretty much all of the BART service and station data available on the BART website.
+> **The BART API gives you access to pretty much all of the BART service and station data available on the BART website.**
 
-## Details
-- **Categories**: Transportation
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Transportation`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://api.bart.gov)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

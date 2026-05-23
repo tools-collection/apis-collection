@@ -1,25 +1,33 @@
-# [SendGrid](https://docs.sendgrid.com)
+# 📦 [SendGrid](https://docs.sendgrid.com)
 
 
-SendGrid&#x27;s Email API enables sending transactional and marketing emails at scale. Features include email templates, analytics, bounced email tracking, and inbound email parsing.
+> **SendGrid&#x27;s Email API enables sending transactional and marketing emails at scale. Features include email templates, analytics, bounced email tracking, and inbound email parsing.**
 
-## Details
-- **Categories**: Email &amp; SMS
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Email &amp; SMS`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://docs.sendgrid.com)
 - [API Reference](https://docs.sendgrid.com/api-reference)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

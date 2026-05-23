@@ -1,24 +1,32 @@
-# [Verizon Cloud](http://www.verizon.com/cloudstorageapi)
+# 📦 [Verizon Cloud](http://www.verizon.com/cloudstorageapi)
 
 
-API for accessing stored pictures and other files stored by users of Verizon Cloud app. 403 - Forbidden
+> **API for accessing stored pictures and other files stored by users of Verizon Cloud app. 403 - Forbidden**
 
-## Details
-- **Categories**: Files &amp; Storage
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Files &amp; Storage`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://www.verizon.com/cloudstorageapi)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

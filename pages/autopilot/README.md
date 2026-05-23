@@ -1,24 +1,32 @@
-# [Autopilot](http://developers.autopilothq.com)
+# 📦 [Autopilot](http://developers.autopilothq.com)
 
 
-The Autopilot API documentation, examples and blog for Autopilot REST API. Marketing Automation
+> **The Autopilot API documentation, examples and blog for Autopilot REST API. Marketing Automation**
 
-## Details
-- **Categories**: Forms &amp; Surveys, Marketing &amp; SEO, Email &amp; SMS
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Forms &amp; Surveys`, `Marketing &amp; SEO`, `Email &amp; SMS`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://developers.autopilothq.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,68 +1,77 @@
-# [Eve Online](https://esi.evetech.net/ui)
+# 📦 [Eve Online](https://esi.evetech.net/ui)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eve-online/logo_256x256.png" alt="Eve Online logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eve-online/logo_256x256.png" alt="Eve Online logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-An OpenAPI for EVE Online
+> **An OpenAPI for EVE Online**
 
-## Details
-- **Categories**: Entertainment, Games
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Entertainment`, `Games`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://esi.evetech.net/ui)
 
-## Libraries
-### EVE Online CREST Carbon RESTful Python SDK by PyCrest
-
-- **Platform**: Python
-- **Docs**: [https://github.com/pycrest/PyCrest](https://github.com/pycrest/PyCrest)
+## 🧰 Libraries
+### 🛠️ EVE Online CREST Carbon RESTful Python SDK by PyCrest
 
 
-
-- **Stars**: 35
-### EveLink Python Library
-
-- **Platform**: Python
-- **Docs**: [https://pypi.python.org/pypi/EVELink/0.6.1](https://pypi.python.org/pypi/EVELink/0.6.1)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/pycrest/PyCrest)
 
 
 
+- **Stars**: ⭐ 35
+### 🛠️ EveLink Python Library
 
-### Eve Online CREST Carbon RESTful API PHP Library
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/fuzzysteve/CrestLibrary](https://github.com/fuzzysteve/CrestLibrary)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://pypi.python.org/pypi/EVELink/0.6.1)
 
 
 
 
-### EVE Online CREST Carbon RESTful API Perry PHP Library
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/3rdpartyeve/perry](https://github.com/3rdpartyeve/perry)
+### 🛠️ Eve Online CREST Carbon RESTful API PHP Library
 
 
-
-- **Stars**: 9
-### EVE Online CREST Carbon RESTful API Crespy Python Library
-
-- **Platform**: Python
-- **Docs**: [https://github.com/jgoldshlag/crespy](https://github.com/jgoldshlag/crespy)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/fuzzysteve/CrestLibrary)
 
 
-- **Author**: jgoldshlag
-- **Stars**: 15
-
-## Contact
-hello@edrv.io
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+### 🛠️ EVE Online CREST Carbon RESTful API Perry PHP Library
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/3rdpartyeve/perry)
+
+
+
+- **Stars**: ⭐ 9
+### 🛠️ EVE Online CREST Carbon RESTful API Crespy Python Library
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/jgoldshlag/crespy)
+
+
+- **Author**: 👤 jgoldshlag
+- **Stars**: ⭐ 15
+
+## 📬 Contact
+📧 hello@edrv.io
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

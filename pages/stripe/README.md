@@ -1,201 +1,229 @@
-# [Stripe](https://stripe.com/docs/api)
+# 📦 [Stripe](https://stripe.com/docs/api)
 
 
-Stripe&#x27;s API. Payments, Billing, Business financing, Spend management, Fraud &amp; risk management etc
+> **Stripe&#x27;s API. Payments, Billing, Business financing, Spend management, Fraud &amp; risk management etc**
 
-## Details
-- **Categories**: Commerce, Payments, Finance &amp; Economics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Commerce`, `Payments`, `Finance &amp; Economics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://stripe.com/docs/api)
 
-## Libraries
-### Stripe Android SDK
+## 🧰 Libraries
+### 🛠️ Stripe Android SDK
 
-- **Platform**: Java
-- **Docs**: [https://stripe.com/docs/libraries](https://stripe.com/docs/libraries)
-- **Source**: [https://stripe.com/docs/mobile/android](https://stripe.com/docs/mobile/android)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://stripe.com/docs/libraries)
+- **Source**: [💻 Source Code](https://stripe.com/docs/mobile/android)
 
 
-### tools-sales-ops PHP SDK by Revolve Robotics
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/revolverobotics/tools-sales-ops](https://github.com/revolverobotics/tools-sales-ops)
+### 🛠️ tools-sales-ops PHP SDK by Revolve Robotics
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/revolverobotics/tools-sales-ops)
 
 
-### Stripe iOS SDK by Stripe
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/stripe/stripe-ios](https://github.com/stripe/stripe-ios)
 
+### 🛠️ Stripe iOS SDK by Stripe
 
 
-- **Stars**: 1369
-### Stripe NodeJS SDK by Xavier Carpentier
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/stripe/stripe-ios)
 
-- **Platform**: Node.js
-- **Docs**: [https://www.npmjs.com/package/react-native-stripe-api](https://www.npmjs.com/package/react-native-stripe-api)
 
 
+- **Stars**: ⭐ 1369
+### 🛠️ Stripe NodeJS SDK by Xavier Carpentier
 
 
-### Stripe PHP SDK by Joe Linn
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.com/package/react-native-stripe-api)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/jlinn/stripe-api-php](https://github.com/jlinn/stripe-api-php)
 
 
-- **Author**: jlinn
-- **Stars**: 83
-### Stripe Perl Library by Al Newkirk
 
-- **Platform**: PERL
-- **Docs**: [https://metacpan.org/release/API-Stripe](https://metacpan.org/release/API-Stripe)
-- **Source**: [https://github.com/alnewkirk/API-Stripe](https://github.com/alnewkirk/API-Stripe)
+### 🛠️ Stripe PHP SDK by Joe Linn
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/jlinn/stripe-api-php)
 
-### Stripe Haskell Library by David Johnson
 
-- **Platform**: Haskell
-- **Docs**: [http://hackage.haskell.org/package/stripe-haskell](http://hackage.haskell.org/package/stripe-haskell)
-- **Source**: [https://github.com/dmjio/stripe](https://github.com/dmjio/stripe)
+- **Author**: 👤 jlinn
+- **Stars**: ⭐ 83
+### 🛠️ Stripe Perl Library by Al Newkirk
 
-- **Author**: dmjio
-- **Stars**: 148
-### Stripe .NET Library by ServiceStack
 
-- **Platform**: .Net, C++
-- **Docs**: [https://github.com/ServiceStack/Stripe/blob/master/README.md](https://github.com/ServiceStack/Stripe/blob/master/README.md)
-- **Source**: [https://github.com/ServiceStack/Stripe](https://github.com/ServiceStack/Stripe)
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://metacpan.org/release/API-Stripe)
+- **Source**: [💻 Source Code](https://github.com/alnewkirk/API-Stripe)
 
 
-- **Stars**: 191
-### Stripe .NET Library by Jayme Davis
 
-- **Platform**: .Net, C++
-- **Docs**: [https://github.com/jaymedavis/stripe.net/blob/master/readme.md](https://github.com/jaymedavis/stripe.net/blob/master/readme.md)
-- **Source**: [https://github.com/jaymedavis/stripe.net](https://github.com/jaymedavis/stripe.net)
+### 🛠️ Stripe Haskell Library by David Johnson
 
-- **Author**: jaymedavis
-- **Stars**: 3
-### Stripe Xamarin C++ Library by Xamarin
 
-- **Platform**: C++
-- **Docs**: [https://github.com/xamarin/XamarinStripe](https://github.com/xamarin/XamarinStripe)
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](http://hackage.haskell.org/package/stripe-haskell)
+- **Source**: [💻 Source Code](https://github.com/dmjio/stripe)
 
+- **Author**: 👤 dmjio
+- **Stars**: ⭐ 148
+### 🛠️ Stripe .NET Library by ServiceStack
 
 
-- **Stars**: 133
-### Stripe PHP Library by Cartalyst
+- **Platform**: `.Net, C++`
+- **Docs**: [📚 Documentation](https://github.com/ServiceStack/Stripe/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/ServiceStack/Stripe)
 
-- **Platform**: PHP
-- **Docs**: [https://cartalyst.com/manual/stripe/1.0](https://cartalyst.com/manual/stripe/1.0)
 
+- **Stars**: ⭐ 191
+### 🛠️ Stripe .NET Library by Jayme Davis
 
 
+- **Platform**: `.Net, C++`
+- **Docs**: [📚 Documentation](https://github.com/jaymedavis/stripe.net/blob/master/readme.md)
+- **Source**: [💻 Source Code](https://github.com/jaymedavis/stripe.net)
 
-### Stripe OAuth2 PHP Library by Oliver Nassar
+- **Author**: 👤 jaymedavis
+- **Stars**: ⭐ 3
+### 🛠️ Stripe Xamarin C++ Library by Xamarin
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/onassar/PHP-StripeOAuth/blob/master/README.md](https://github.com/onassar/PHP-StripeOAuth/blob/master/README.md)
-- **Source**: [https://github.com/onassar/PHP-StripeOAuth](https://github.com/onassar/PHP-StripeOAuth)
 
-- **Author**: onassar
-- **Stars**: 44
-### Stripe PHP Library by Laravel Cashier 
+- **Platform**: `C++`
+- **Docs**: [📚 Documentation](https://github.com/xamarin/XamarinStripe)
 
-- **Platform**: PHP
-- **Docs**: [http://laravel.com/docs/4.2/billing](http://laravel.com/docs/4.2/billing)
 
 
+- **Stars**: ⭐ 133
+### 🛠️ Stripe PHP Library by Cartalyst
 
 
-### Stripe Kohana PHP Library by Kohana
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://cartalyst.com/manual/stripe/1.0)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/jnbdz/kohana-stripe/blob/master/README.md](https://github.com/jnbdz/kohana-stripe/blob/master/README.md)
-- **Source**: [https://github.com/jnbdz/kohana-stripe](https://github.com/jnbdz/kohana-stripe)
 
-- **Author**: jnbdz
-- **Stars**: 4
-### Stripe CakePHP-StripeComponent-Plugin Library by Chronon
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/chronon/CakePHP-StripeComponent-Plugin/blob/master/README.markdown](https://github.com/chronon/CakePHP-StripeComponent-Plugin/blob/master/README.markdown)
-- **Source**: [https://github.com/chronon/CakePHP-StripeComponent-Plugin](https://github.com/chronon/CakePHP-StripeComponent-Plugin)
 
-- **Author**: chronon
-- **Stars**: 43
-### Stripe CakePHP Plugin Library by Jeremy Harris
+### 🛠️ Stripe OAuth2 PHP Library by Oliver Nassar
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/jeremyharris/stripe/blob/master/README.md](https://github.com/jeremyharris/stripe/blob/master/README.md)
-- **Source**: [https://github.com/jeremyharris/stripe](https://github.com/jeremyharris/stripe)
 
-- **Author**: jeremyharris
-- **Stars**: 40
-### Stripe Payola Ruby Library by Peter Keen
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/onassar/PHP-StripeOAuth/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/onassar/PHP-StripeOAuth)
 
-- **Platform**: Ruby
-- **Docs**: [https://www.payola.io/](https://www.payola.io/)
-- **Source**: [https://github.com/peterkeen/payola](https://github.com/peterkeen/payola)
+- **Author**: 👤 onassar
+- **Stars**: ⭐ 44
+### 🛠️ Stripe PHP Library by Laravel Cashier 
 
 
-- **Stars**: 831
-### Stripe Node.js Library by Stripe
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](http://laravel.com/docs/4.2/billing)
 
-- **Platform**: Node.js
-- **Docs**: [https://stripe.com/docs/api/node#intro](https://stripe.com/docs/api/node#intro)
 
 
 
+### 🛠️ Stripe Kohana PHP Library by Kohana
 
-### Stripe Java Library by Stripe
 
-- **Platform**: Java
-- **Docs**: [https://stripe.com/docs/api/java](https://stripe.com/docs/api/java)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/jnbdz/kohana-stripe/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/jnbdz/kohana-stripe)
 
+- **Author**: 👤 jnbdz
+- **Stars**: ⭐ 4
+### 🛠️ Stripe CakePHP-StripeComponent-Plugin Library by Chronon
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/chronon/CakePHP-StripeComponent-Plugin/blob/master/README.markdown)
+- **Source**: [💻 Source Code](https://github.com/chronon/CakePHP-StripeComponent-Plugin)
 
-### Stripe API PHP Library by Stripe
+- **Author**: 👤 chronon
+- **Stars**: ⭐ 43
+### 🛠️ Stripe CakePHP Plugin Library by Jeremy Harris
 
-- **Platform**: PHP
-- **Docs**: [https://stripe.com/docs/api/php#intro](https://stripe.com/docs/api/php#intro)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/jeremyharris/stripe/blob/master/README.md)
+- **Source**: [💻 Source Code](https://github.com/jeremyharris/stripe)
 
+- **Author**: 👤 jeremyharris
+- **Stars**: ⭐ 40
+### 🛠️ Stripe Payola Ruby Library by Peter Keen
 
 
-### Stripe API Ruby Library by Stripe
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://www.payola.io/)
+- **Source**: [💻 Source Code](https://github.com/peterkeen/payola)
 
-- **Platform**: Ruby
-- **Docs**: [https://stripe.com/docs/api/ruby](https://stripe.com/docs/api/ruby)
 
+- **Stars**: ⭐ 831
+### 🛠️ Stripe Node.js Library by Stripe
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://stripe.com/docs/api/node#intro)
 
-### Stripe API Python Library by Stripe
 
-- **Platform**: Python
-- **Docs**: [https://stripe.com/docs/api/python#intro](https://stripe.com/docs/api/python#intro)
 
 
+### 🛠️ Stripe Java Library by Stripe
 
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://stripe.com/docs/api/java)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+### 🛠️ Stripe API PHP Library by Stripe
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://stripe.com/docs/api/php#intro)
+
+
+
+
+### 🛠️ Stripe API Ruby Library by Stripe
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://stripe.com/docs/api/ruby)
+
+
+
+
+### 🛠️ Stripe API Python Library by Stripe
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://stripe.com/docs/api/python#intro)
+
+
+
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

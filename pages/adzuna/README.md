@@ -1,24 +1,32 @@
-# [Adzuna](https://developer.adzuna.com/overview)
+# 📦 [Adzuna](https://developer.adzuna.com/overview)
 
 
-Get the very latest ads and data with Adzuna&#x27;s API. Get job ads to display on your own website. Use Adzuna&#x27;s up-to-the-minute employment data to power your own website, reporting and data visualisations.
+> **Get the very latest ads and data with Adzuna&#x27;s API. Get job ads to display on your own website. Use Adzuna&#x27;s up-to-the-minute employment data to power your own website, reporting and data visualisations.**
 
-## Details
-- **Categories**: Business, Jobs, News &amp; Feeds, Marketing &amp; SEO
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Business`, `Jobs`, `News &amp; Feeds`, `Marketing &amp; SEO`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.adzuna.com/overview)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

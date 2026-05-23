@@ -1,58 +1,68 @@
-# [NewsAPI](https://newsapi.org/)
+# 📦 [NewsAPI](https://newsapi.org/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newsapi/logo_256x256.png" alt="NewsAPI logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newsapi/logo_256x256.png" alt="NewsAPI logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Search worldwide news articles and headlines from all over the web in real-time with our free News API. 70+ news sources and their headlines, one API
+> **Search worldwide news articles and headlines from all over the web in real-time with our free News API. 70+ news sources and their headlines, one API**
 
-## Details
-- **Categories**: Search, News &amp; Feeds
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Search`, `News &amp; Feeds`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://newsapi.org/)
 
-## Libraries
-### News CSharp SDK 
-
-- **Platform**: C#
-- **Docs**: [https://newsapi.org/docs/client-libraries/csharp](https://newsapi.org/docs/client-libraries/csharp)
-- **Source**: [https://github.com/News-API-gh/News-API-csharp](https://github.com/News-API-gh/News-API-csharp)
-
-- **Author**: News-API-gh
-- **Stars**: 32
-### News Python SDK by mattlisiv
-
-- **Platform**: Python
-- **Docs**: [https://newsapi.org/docs/client-libraries/python](https://newsapi.org/docs/client-libraries/python)
-- **Source**: [https://github.com/mattlisiv/newsapi-python](https://github.com/mattlisiv/newsapi-python)
-
-- **Author**: mattlisiv
-- **Stars**: 195
-### News Ruby SDK 
-
-- **Platform**: Ruby
-- **Docs**: [https://newsapi.org/docs/client-libraries/ruby](https://newsapi.org/docs/client-libraries/ruby)
-- **Source**: [https://github.com/olegmikhnovich/News-API-ruby](https://github.com/olegmikhnovich/News-API-ruby)
-
-- **Author**: olegmikhnovich
-- **Stars**: 19
-### News Node.js SDK by bzarras
-
-- **Platform**: Node.js
-- **Docs**: [https://newsapi.org/docs/client-libraries/node-js](https://newsapi.org/docs/client-libraries/node-js)
+## 🧰 Libraries
+### 🛠️ News CSharp SDK 
 
 
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://newsapi.org/docs/client-libraries/csharp)
+- **Source**: [💻 Source Code](https://github.com/News-API-gh/News-API-csharp)
+
+- **Author**: 👤 News-API-gh
+- **Stars**: ⭐ 32
+### 🛠️ News Python SDK by mattlisiv
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://newsapi.org/docs/client-libraries/python)
+- **Source**: [💻 Source Code](https://github.com/mattlisiv/newsapi-python)
+
+- **Author**: 👤 mattlisiv
+- **Stars**: ⭐ 195
+### 🛠️ News Ruby SDK 
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://newsapi.org/docs/client-libraries/ruby)
+- **Source**: [💻 Source Code](https://github.com/olegmikhnovich/News-API-ruby)
+
+- **Author**: 👤 olegmikhnovich
+- **Stars**: ⭐ 19
+### 🛠️ News Node.js SDK by bzarras
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://newsapi.org/docs/client-libraries/node-js)
 
 
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

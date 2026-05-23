@@ -1,170 +1,194 @@
-# [Shutterstock](https://www.shutterstock.com/developers/)
+# 📦 [Shutterstock](https://www.shutterstock.com/developers/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shutterstock/logo_256x256.png" alt="Shutterstock logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shutterstock/logo_256x256.png" alt="Shutterstock logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more. Get started with a free image API today. The Shutterstock API provides access to Shutterstock&#x27;s library of media, as well as information about customers&#x27; accounts and the contributors that provide the media. It allows customer platforms to search for media, view information and previews for the media, and license and download media
+> **Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more. Get started with a free image API today. The Shutterstock API provides access to Shutterstock&#x27;s library of media, as well as information about customers&#x27; accounts and the contributors that provide the media. It allows customer platforms to search for media, view information and previews for the media, and license and download media**
 
-## Details
-- **Categories**: Images &amp; Photography, Search, Music &amp; Audio, Video &amp; Media
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Images &amp; Photography`, `Search`, `Music &amp; Audio`, `Video &amp; Media`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.shutterstock.com/developers/)
 
-## Libraries
-### Shutterstock CodeIgniter PHP SDK by Raditya Adi Baskara
+## 🧰 Libraries
+### 🛠️ Shutterstock CodeIgniter PHP SDK by Raditya Adi Baskara
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/raditya-ab/CI-Shutterstock-library](https://github.com/raditya-ab/CI-Shutterstock-library)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/raditya-ab/CI-Shutterstock-library)
 
-- **Author**: raditya-ab
 
-### Shutterstock iOS SDK by Ruslan M.
+- **Author**: 👤 raditya-ab
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/ruslanmusagitov/shutterstock-ios](https://github.com/ruslanmusagitov/shutterstock-ios)
+### 🛠️ Shutterstock iOS SDK by Ruslan M.
 
 
-- **Author**: ruslanmusagitov
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/ruslanmusagitov/shutterstock-ios)
 
-### Shutterstock Python SDK by Lumen5
 
-- **Platform**: Python
-- **Docs**: [https://github.com/Lumen5/shutterstock-api](https://github.com/Lumen5/shutterstock-api)
+- **Author**: 👤 ruslanmusagitov
 
+### 🛠️ Shutterstock Python SDK by Lumen5
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/Lumen5/shutterstock-api)
 
-### Shutterstock Python SDK by Matt
 
-- **Platform**: Python
-- **Docs**: [https://github.com/malero/python-shutterstock-api](https://github.com/malero/python-shutterstock-api)
 
 
-- **Author**: malero
+### 🛠️ Shutterstock Python SDK by Matt
 
-### Shutterstock TypeScript SDK by Ga
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/shvendala/shutterstock](https://github.com/shvendala/shutterstock)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/malero/python-shutterstock-api)
 
 
-- **Author**: egagarin
-- **Stars**: 5
-### Shutterstock R SDK by Metin Yazici
+- **Author**: 👤 malero
 
-- **Platform**: R
-- **Docs**: [https://github.com/strboul/shutterstock-r](https://github.com/strboul/shutterstock-r)
-- **Source**: [https://cran.r-project.org/web/packages/shutterstock/index.html](https://cran.r-project.org/web/packages/shutterstock/index.html)
+### 🛠️ Shutterstock TypeScript SDK by Ga
 
-- **Author**: strboul
-- **Stars**: 4
-### Shutterstock PHP SDK by Jacob Emerick
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/jacobemerick/php-shutterstock-api](https://github.com/jacobemerick/php-shutterstock-api)
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/shvendala/shutterstock)
 
 
-- **Author**: jacobemerick
-- **Stars**: 3
-### Shutterstock Ruby SDK by Erick Schmitt
+- **Author**: 👤 egagarin
+- **Stars**: ⭐ 5
+### 🛠️ Shutterstock R SDK by Metin Yazici
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/ejschmitt/shutterstock](https://github.com/ejschmitt/shutterstock)
 
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](https://github.com/strboul/shutterstock-r)
+- **Source**: [💻 Source Code](https://cran.r-project.org/web/packages/shutterstock/index.html)
 
-- **Author**: ejschmitt
-- **Stars**: 5
-### Shutterstock JavaScript SDK
+- **Author**: 👤 strboul
+- **Stars**: ⭐ 4
+### 🛠️ Shutterstock PHP SDK by Jacob Emerick
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://developers.shutterstock.com/documentation/javascript-sdk](https://developers.shutterstock.com/documentation/javascript-sdk)
-- **Source**: [https://github.com/shutterstock/public-api-javascript-sdk](https://github.com/shutterstock/public-api-javascript-sdk)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/jacobemerick/php-shutterstock-api)
 
-- **Stars**: 11
-### Shutterstock Node.js SDK by Jorma16
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/jorma16/shutter-api-client](https://github.com/jorma16/shutter-api-client)
+- **Author**: 👤 jacobemerick
+- **Stars**: ⭐ 3
+### 🛠️ Shutterstock Ruby SDK by Erick Schmitt
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/ejschmitt/shutterstock)
 
 
-### Shutterstock Java SDK by Yuri Pourre
+- **Author**: 👤 ejschmitt
+- **Stars**: ⭐ 5
+### 🛠️ Shutterstock JavaScript SDK
 
-- **Platform**: Java
-- **Docs**: [https://github.com/yuripourre/shutterstock-java](https://github.com/yuripourre/shutterstock-java)
 
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://developers.shutterstock.com/documentation/javascript-sdk)
+- **Source**: [💻 Source Code](https://github.com/shutterstock/public-api-javascript-sdk)
 
-- **Author**: yuripourre
-- **Stars**: 1
-### Shutterstock Ruby SDK by David Peterson
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/dippysan/shutterstock](https://github.com/dippysan/shutterstock)
+- **Stars**: ⭐ 11
+### 🛠️ Shutterstock Node.js SDK by Jorma16
 
 
-- **Author**: dippysan
-- **Stars**: 1
-### Shutterstock Ruby SDK by Tailor
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/jorma16/shutter-api-client)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/TailorBrands/shutterstock-ruby](https://github.com/TailorBrands/shutterstock-ruby)
 
 
 
-- **Stars**: 3
-### Shutterstock Node.js SDK
+### 🛠️ Shutterstock Java SDK by Yuri Pourre
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/shutterstock/node-shutterstock-api](https://github.com/shutterstock/node-shutterstock-api)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/yuripourre/shutterstock-java)
 
 
-- **Stars**: 9
-### Shutterstock Ruby SDK
+- **Author**: 👤 yuripourre
+- **Stars**: ⭐ 1
+### 🛠️ Shutterstock Ruby SDK by David Peterson
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/shutterstock/ruby-shutterstock-api](https://github.com/shutterstock/ruby-shutterstock-api)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/dippysan/shutterstock)
 
 
-- **Stars**: 7
-### Shutterstock Perl SDK by Brian Phillips
+- **Author**: 👤 dippysan
+- **Stars**: ⭐ 1
+### 🛠️ Shutterstock Ruby SDK by Tailor
 
-- **Platform**: PERL
-- **Docs**: [http://search.cpan.org/~bphillips/WebService-Shutterstock/](http://search.cpan.org/~bphillips/WebService-Shutterstock/)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/TailorBrands/shutterstock-ruby)
 
 
 
-### Shutterstock Node.Js SDK by Silas Sewell
+- **Stars**: ⭐ 3
+### 🛠️ Shutterstock Node.js SDK
 
-- **Platform**: Node.js
-- **Docs**: [https://www.npmjs.com/package/shutterstock](https://www.npmjs.com/package/shutterstock)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/shutterstock/node-shutterstock-api)
 
 
 
-### Shutterstock PHP SDK by Shutterstock
+- **Stars**: ⭐ 9
+### 🛠️ Shutterstock Ruby SDK
 
-- **Platform**: PHP
-- **Docs**: [https://packagist.org/packages/shutterstock/api](https://packagist.org/packages/shutterstock/api)
-- **Source**: [https://github.com/shutterstock/php-shutterstock-api](https://github.com/shutterstock/php-shutterstock-api)
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/shutterstock/ruby-shutterstock-api)
 
-- **Stars**: 7
 
 
+- **Stars**: ⭐ 7
+### 🛠️ Shutterstock Perl SDK by Brian Phillips
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](http://search.cpan.org/~bphillips/WebService-Shutterstock/)
+
+
+
+
+### 🛠️ Shutterstock Node.Js SDK by Silas Sewell
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.com/package/shutterstock)
+
+
+
+
+### 🛠️ Shutterstock PHP SDK by Shutterstock
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://packagist.org/packages/shutterstock/api)
+- **Source**: [💻 Source Code](https://github.com/shutterstock/php-shutterstock-api)
+
+
+- **Stars**: ⭐ 7
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

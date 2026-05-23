@@ -1,24 +1,32 @@
-# [Ecart](https://ecartapi.com/)
+# 📦 [Ecart](https://ecartapi.com/)
 
 
-Data is offered in JSON format. The following marketplaces are available: eBay, PrestaShop, Magento, Kometia, Mercado Libre, WooCommerce, Shopify, and Amazon. Api for developers looking to connect to multiple carts and marketplaces with a single API. Develop all in one ecommerce solutions. Connect with over 12 million e-store owners. The ECart API is an all-in-one solution that connects to several eCommerce platforms, for developers looking to create enterprise grade solutions for stores. The API can be utilized to retrieve products, variants, images, orders, customers, and categories
+> **Data is offered in JSON format. The following marketplaces are available: eBay, PrestaShop, Magento, Kometia, Mercado Libre, WooCommerce, Shopify, and Amazon. Api for developers looking to connect to multiple carts and marketplaces with a single API. Develop all in one ecommerce solutions. Connect with over 12 million e-store owners. The ECart API is an all-in-one solution that connects to several eCommerce platforms, for developers looking to create enterprise grade solutions for stores. The API can be utilized to retrieve products, variants, images, orders, customers, and categories**
 
-## Details
-- **Categories**: Commerce, Business
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Commerce`, `Business`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://ecartapi.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

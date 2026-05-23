@@ -1,24 +1,32 @@
-# [USAspending.gov](https://api.usaspending.gov/)
+# 📦 [USAspending.gov](https://api.usaspending.gov/)
 
 
-Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated. The USAspending Application Programming Interface (API) The USAspending API (Application Programming Interface) all
+> **Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated. The USAspending Application Programming Interface (API) The USAspending API (Application Programming Interface) all**
 
-## Details
-- **Categories**: Government
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://api.usaspending.gov/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

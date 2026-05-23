@@ -1,26 +1,32 @@
-# [Car Registration Api](https://www.carregistrationapi.com/)
+# 📦 [Car Registration Api](https://www.carregistrationapi.com/)
 
 
-Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)
+> **Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)**
 
-## Details
-- **Categories**: Vehicles
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Vehicles`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.carregistrationapi.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-info@infiniteloop.ie
+## 📬 Contact
+📧 info@infiniteloop.ie
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,24 +1,32 @@
-# [V.gd](https://v.gd/developers.php)
+# 📦 [V.gd](https://v.gd/developers.php)
 
 
-Simple URL shortener. Supports custom short link ending. Our main portal for developer documentation
+> **Simple URL shortener. Supports custom short link ending. Our main portal for developer documentation**
 
-## Details
-- **Categories**: URLs
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `URLs`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://v.gd/developers.php)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

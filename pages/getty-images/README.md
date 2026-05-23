@@ -1,123 +1,139 @@
-# [Getty Images](http://developers.gettyimages.com/en/)
+# 📦 [Getty Images](http://developers.gettyimages.com/en/)
 
 
-Page moved here. Page moved here
+> **Page moved here. Page moved here**
 
-## Details
-- **Categories**: Images &amp; Photography, Video &amp; Media, Art &amp; Design
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Images &amp; Photography`, `Video &amp; Media`, `Art &amp; Design`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://developers.gettyimages.com/en/)
 
-## Libraries
-### Getty Images Ruby SDK
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/gettyimages/gettyimages-api_ruby](https://github.com/gettyimages/gettyimages-api_ruby)
+## 🧰 Libraries
+### 🛠️ Getty Images Ruby SDK
 
 
-
-- **Stars**: 12
-### Getty Images Node.js SDK
-
-- **Platform**: Node.js
-- **Docs**: [https://github.com/gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/gettyimages-api_ruby)
 
 
 
-- **Stars**: 22
-### Getty Images Java SDK
-
-- **Platform**: Java
-- **Docs**: [https://github.com/gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java)
+- **Stars**: ⭐ 12
+### 🛠️ Getty Images Node.js SDK
 
 
-
-- **Stars**: 12
-### Getty Images PHP SDK
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/gettyimages-api_nodejs)
 
 
 
-- **Stars**: 14
-### Getty Images .NET SDK
-
-- **Platform**: .Net
-- **Docs**: [https://github.com/gettyimages/gettyimages-api_dotnet](https://github.com/gettyimages/gettyimages-api_dotnet)
+- **Stars**: ⭐ 22
+### 🛠️ Getty Images Java SDK
 
 
-
-- **Stars**: 13
-### Getty Images Connect Objective-C SDK by Getty Images
-
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/gettyimages/gettyimages-api_objective-c](https://github.com/gettyimages/gettyimages-api_objective-c)
-- **Source**: [https://github.com/gettyimages/gettyimages-api_objective-c](https://github.com/gettyimages/gettyimages-api_objective-c)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/gettyimages-api_java)
 
 
 
-### Getty Images Connect Java # SDK
-
-- **Platform**: Java
-- **Docs**: [https://github.com/gettyimages/connect_sdk_java](https://github.com/gettyimages/connect_sdk_java)
+- **Stars**: ⭐ 12
+### 🛠️ Getty Images PHP SDK
 
 
-
-
-### Getty Images Connect Ruby SDK
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/gettyimages/connect_sdk_ruby](https://github.com/gettyimages/connect_sdk_ruby)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/gettyimages-api_php)
 
 
 
+- **Stars**: ⭐ 14
+### 🛠️ Getty Images .NET SDK
 
-### Getty Images Connect Node.js SDK
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/gettyimages/connect_sdk_nodejs](https://github.com/gettyimages/connect_sdk_nodejs)
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/gettyimages-api_dotnet)
+
+
+
+- **Stars**: ⭐ 13
+### 🛠️ Getty Images Connect Objective-C SDK by Getty Images
+
+
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/gettyimages-api_objective-c)
+- **Source**: [💻 Source Code](https://github.com/gettyimages/gettyimages-api_objective-c)
+
+
+
+### 🛠️ Getty Images Connect Java # SDK
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/connect_sdk_java)
 
 
 
 
-### Getty Images Connect PHP SDK
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/gettyimages/connect_sdk_php](https://github.com/gettyimages/connect_sdk_php)
+### 🛠️ Getty Images Connect Ruby SDK
 
 
-
-
-### Getty Images Connect Objective-C SDK
-
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/gettyimages/connect_sdk_objective-c](https://github.com/gettyimages/connect_sdk_objective-c)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/connect_sdk_ruby)
 
 
 
 
-### Getty Images Connect API C# SDK
-
-- **Platform**: C#
-- **Docs**: [https://github.com/gettyimages/connect_sdk_csharp](https://github.com/gettyimages/connect_sdk_csharp)
+### 🛠️ Getty Images Connect Node.js SDK
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/connect_sdk_nodejs)
 
 
 
-## Contact
-info@getthedata.com
+
+### 🛠️ Getty Images Connect PHP SDK
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/connect_sdk_php)
+
+
+
+
+### 🛠️ Getty Images Connect Objective-C SDK
+
+
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/connect_sdk_objective-c)
+
+
+
+
+### 🛠️ Getty Images Connect API C# SDK
+
+
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/gettyimages/connect_sdk_csharp)
+
+
+
+
+
+## 📬 Contact
+📧 info@getthedata.com
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,225 +1,256 @@
-# [CircleCI](https://circleci.com/docs/api/v1-reference/)
+# 📦 [CircleCI](https://circleci.com/docs/api/v1-reference/)
 
 
-CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI.
+> **CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI.**
 
-## Details
-- **Categories**: Testing, Development
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Testing`, `Development`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://circleci.com/docs/api/v1-reference/)
 
-## Libraries
-### CircleCI Go SDK by Alec Holmes
+## 🧰 Libraries
+### 🛠️ CircleCI Go SDK by Alec Holmes
 
-- **Platform**: Go
-- **Docs**: [https://github.com/alecholmez/GoDash](https://github.com/alecholmez/GoDash)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/alecholmez/GoDash)
 
-- **Author**: alecholmez
 
-### CircleCI JavaScript SDK by Divya
+- **Author**: 👤 alecholmez
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/shortdiv/circle-cli](https://github.com/shortdiv/circle-cli)
+### 🛠️ CircleCI JavaScript SDK by Divya
 
 
-- **Author**: shortdiv
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/shortdiv/circle-cli)
 
-### CircleCI Ruby SDK by Alex Kalinin
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/AlexKalinin/circle-ci-rspec-downloader](https://github.com/AlexKalinin/circle-ci-rspec-downloader)
+- **Author**: 👤 shortdiv
 
+### 🛠️ CircleCI Ruby SDK by Alex Kalinin
 
-- **Author**: AlexKalinin
 
-### CircleCI Flask Python SDK by Matthew F Johnson
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/AlexKalinin/circle-ci-rspec-downloader)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/trips2821/flask-api](https://github.com/trips2821/flask-api)
 
+- **Author**: 👤 AlexKalinin
 
-- **Author**: trips2821
+### 🛠️ CircleCI Flask Python SDK by Matthew F Johnson
 
-### CircleCI Go SDK by Josh Komoroske
 
-- **Platform**: Go
-- **Docs**: [https://github.com/joshdk/circleci-go](https://github.com/joshdk/circleci-go)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/trips2821/flask-api)
 
 
-- **Author**: joshdk
-- **Stars**: 1
-### CircleCI Go SDK by Ryan Lower
+- **Author**: 👤 trips2821
 
-- **Platform**: Go
-- **Docs**: [https://github.com/ryanlower/go-circleci](https://github.com/ryanlower/go-circleci)
+### 🛠️ CircleCI Go SDK by Josh Komoroske
 
 
-- **Author**: ryanlower
-- **Stars**: 1
-### CircleCI Ruby SDK by Hiroyuki Takamura
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/joshdk/circleci-go)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/yukimura1227/circleci_trimmer](https://github.com/yukimura1227/circleci_trimmer)
 
+- **Author**: 👤 joshdk
+- **Stars**: ⭐ 1
+### 🛠️ CircleCI Go SDK by Ryan Lower
 
-- **Author**: yukimura1227
 
-### CircleCI Elixir SDK by Yann VERY
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/ryanlower/go-circleci)
 
-- **Platform**: Elixir
-- **Docs**: [https://hexdocs.pm/circler/api-reference.html](https://hexdocs.pm/circler/api-reference.html)
-- **Source**: [https://github.com/yannvery/circler](https://github.com/yannvery/circler)
 
-- **Author**: yannvery
+- **Author**: 👤 ryanlower
+- **Stars**: ⭐ 1
+### 🛠️ CircleCI Ruby SDK by Hiroyuki Takamura
 
-### CircleCI Go SDK by Phil Morgan
 
-- **Platform**: Go
-- **Docs**: [https://github.com/psmorgan/go-circleci-api](https://github.com/psmorgan/go-circleci-api)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/yukimura1227/circleci_trimmer)
 
 
-- **Author**: psmorgan
+- **Author**: 👤 yukimura1227
 
-### CircleCI Go SDK by Chavez
+### 🛠️ CircleCI Elixir SDK by Yann VERY
 
-- **Platform**: Go
-- **Docs**: [https://github.com/mtchavez/circlecigo](https://github.com/mtchavez/circlecigo)
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://hexdocs.pm/circler/api-reference.html)
+- **Source**: [💻 Source Code](https://github.com/yannvery/circler)
 
-- **Author**: mtchavez
+- **Author**: 👤 yannvery
 
-### CircleCI TypeScript SDK by Jordon de Hoog
+### 🛠️ CircleCI Go SDK by Phil Morgan
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/jordond/circleci-api](https://github.com/jordond/circleci-api)
-- **Source**: [https://www.npmjs.com/package/circleci-api](https://www.npmjs.com/package/circleci-api)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/psmorgan/go-circleci-api)
 
-- **Stars**: 15
-### CircleCI Ruby SDK by Les Aker
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/akerl/circular](https://github.com/akerl/circular)
-- **Source**: [https://rubygems.org/gems/circular](https://rubygems.org/gems/circular)
+- **Author**: 👤 psmorgan
 
-- **Author**: akerl
-- **Stars**: 1
-### CircleCI Clojure SDK by Daniel Gregoire
+### 🛠️ CircleCI Go SDK by Chavez
 
-- **Platform**: Clojure
-- **Docs**: [https://github.com/semperos/cci](https://github.com/semperos/cci)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/mtchavez/circlecigo)
 
-- **Author**: semperos
-- **Stars**: 2
-### CircleCI Clojure SDK by Reid D McKenzie
 
-- **Platform**: Clojure
-- **Docs**: [https://github.com/arrdem/circleci.api](https://github.com/arrdem/circleci.api)
+- **Author**: 👤 mtchavez
 
+### 🛠️ CircleCI TypeScript SDK by Jordon de Hoog
 
-- **Author**: arrdem
 
-### CircleCI Tapioca Python SDK by George Kussumoto
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/jordond/circleci-api)
+- **Source**: [💻 Source Code](https://www.npmjs.com/package/circleci-api)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/georgeyk/tapioca-circleci](https://github.com/georgeyk/tapioca-circleci)
 
+- **Stars**: ⭐ 15
+### 🛠️ CircleCI Ruby SDK by Les Aker
 
-- **Author**: georgeyk
 
-### CircleCI JavaScript SDK by Rafael Schettino
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/akerl/circular)
+- **Source**: [💻 Source Code](https://rubygems.org/gems/circular)
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/rcschettino/circleci-rest-sdk](https://github.com/rcschettino/circleci-rest-sdk)
+- **Author**: 👤 akerl
+- **Stars**: ⭐ 1
+### 🛠️ CircleCI Clojure SDK by Daniel Gregoire
 
 
+- **Platform**: `Clojure`
+- **Docs**: [📚 Documentation](https://github.com/semperos/cci)
 
 
-### CircleCI Elixir SDK by Justin Schneck
+- **Author**: 👤 semperos
+- **Stars**: ⭐ 2
+### 🛠️ CircleCI Clojure SDK by Reid D McKenzie
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/mobileoverlord/circleci](https://github.com/mobileoverlord/circleci)
-- **Source**: [https://hex.pm/packages/circle_ci](https://hex.pm/packages/circle_ci)
 
-- **Author**: mobileoverlord
-- **Stars**: 1
-### CircleCI Go SDK by Betacraft
+- **Platform**: `Clojure`
+- **Docs**: [📚 Documentation](https://github.com/arrdem/circleci.api)
 
-- **Platform**: Go
-- **Docs**: [https://github.com/betacraft/circleci](https://github.com/betacraft/circleci)
 
+- **Author**: 👤 arrdem
 
+### 🛠️ CircleCI Tapioca Python SDK by George Kussumoto
 
 
-### CircleCI Kotlin SDK by Yuji Ueki
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/georgeyk/tapioca-circleci)
 
-- **Platform**: Kotlin
-- **Docs**: [https://github.com/unhappychoice/CircleCI](https://github.com/unhappychoice/CircleCI)
-- **Source**: [https://jitpack.io/#unhappychoice/circleci](https://jitpack.io/#unhappychoice/circleci)
 
-- **Author**: unhappychoice
-- **Stars**: 2
-### CircleCI Python SDK by Harper Reed
+- **Author**: 👤 georgeyk
 
-- **Platform**: Python
-- **Docs**: [https://github.com/harperreed/simple-circleci](https://github.com/harperreed/simple-circleci)
+### 🛠️ CircleCI JavaScript SDK by Rafael Schettino
 
 
-- **Author**: harperreed
-- **Stars**: 3
-### CircleCI Haskell SDK by Denis Shevchenko
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/rcschettino/circleci-rest-sdk)
 
-- **Platform**: Haskell
-- **Docs**: [https://github.com/denisshevchenko/circlehs](https://github.com/denisshevchenko/circlehs)
-- **Source**: [http://hackage.haskell.org/package/circlehs](http://hackage.haskell.org/package/circlehs)
 
-- **Author**: denisshevchenko
-- **Stars**: 11
-### CircleCI Python SDK by Lev Lazinskiy
 
-- **Platform**: Python
-- **Docs**: [https://github.com/levlaz/circleci.py](https://github.com/levlaz/circleci.py)
-- **Source**: [https://pypi.org/project/circleci/1.1.1/](https://pypi.org/project/circleci/1.1.1/)
 
-- **Author**: levlaz
-- **Stars**: 48
-### CircleCI Go SDK by Jesse Szwedko
+### 🛠️ CircleCI Elixir SDK by Justin Schneck
 
-- **Platform**: Go
-- **Docs**: [https://github.com/jszwedko/circleci-cli](https://github.com/jszwedko/circleci-cli)
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/mobileoverlord/circleci)
+- **Source**: [💻 Source Code](https://hex.pm/packages/circle_ci)
 
-- **Author**: jszwedko
-- **Stars**: 65
-### CircleCI NodeJS SDK by Lei Pan
+- **Author**: 👤 mobileoverlord
+- **Stars**: ⭐ 1
+### 🛠️ CircleCI Go SDK by Betacraft
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/superpan/node-circleci](https://github.com/superpan/node-circleci)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/betacraft/circleci)
 
-- **Author**: superpan
 
-### CircleCI JavaScript SDK by Koujirou Ishii
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/kjirou/torus](https://github.com/kjirou/torus)
 
+### 🛠️ CircleCI Kotlin SDK by Yuji Ueki
 
-- **Author**: kjirou
 
+- **Platform**: `Kotlin`
+- **Docs**: [📚 Documentation](https://github.com/unhappychoice/CircleCI)
+- **Source**: [💻 Source Code](https://jitpack.io/#unhappychoice/circleci)
 
+- **Author**: 👤 unhappychoice
+- **Stars**: ⭐ 2
+### 🛠️ CircleCI Python SDK by Harper Reed
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/harperreed/simple-circleci)
+
+
+- **Author**: 👤 harperreed
+- **Stars**: ⭐ 3
+### 🛠️ CircleCI Haskell SDK by Denis Shevchenko
+
+
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](https://github.com/denisshevchenko/circlehs)
+- **Source**: [💻 Source Code](http://hackage.haskell.org/package/circlehs)
+
+- **Author**: 👤 denisshevchenko
+- **Stars**: ⭐ 11
+### 🛠️ CircleCI Python SDK by Lev Lazinskiy
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/levlaz/circleci.py)
+- **Source**: [💻 Source Code](https://pypi.org/project/circleci/1.1.1/)
+
+- **Author**: 👤 levlaz
+- **Stars**: ⭐ 48
+### 🛠️ CircleCI Go SDK by Jesse Szwedko
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/jszwedko/circleci-cli)
+
+
+- **Author**: 👤 jszwedko
+- **Stars**: ⭐ 65
+### 🛠️ CircleCI NodeJS SDK by Lei Pan
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/superpan/node-circleci)
+
+
+- **Author**: 👤 superpan
+
+### 🛠️ CircleCI JavaScript SDK by Koujirou Ishii
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/kjirou/torus)
+
+
+- **Author**: 👤 kjirou
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

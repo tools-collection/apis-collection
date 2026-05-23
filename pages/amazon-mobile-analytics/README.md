@@ -1,30 +1,34 @@
-# [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/)
+# 📦 [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/)
 
 
-Service for collecting, visualizing, and understanding app usage data at scale
+> **Service for collecting, visualizing, and understanding app usage data at scale**
 
-## Details
-- **Categories**: Analytics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Analytics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
-## Specification
-- **Type**: 
+## 📖 Specification
+- **Type**: ``
 - **URL**: [https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json](https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json)
-- **Version**: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json
+- **Version**: `https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json`
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://aws.amazon.com/documentation/mobileanalytics/)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-mike.ralphson@gmail.com
+## 📬 Contact
+📧 mike.ralphson@gmail.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

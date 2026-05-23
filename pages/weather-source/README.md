@@ -1,25 +1,33 @@
-# [Weather Source](http://weathersource.com/weather-api)
+# 📦 [Weather Source](http://weathersource.com/weather-api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weather-source/logo_256x256.png" alt="Weather Source logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weather-source/logo_256x256.png" alt="Weather Source logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Powerful Weather API built for systems that demand speed, reliability and heavy load. On-demand access to Hyper-local Global Weather History, Forecast, Nowcast, Climate, Hazards &amp; Astronomical data. Analytics-grade, Built for enterprises
+> **Powerful Weather API built for systems that demand speed, reliability and heavy load. On-demand access to Hyper-local Global Weather History, Forecast, Nowcast, Climate, Hazards &amp; Astronomical data. Analytics-grade, Built for enterprises**
 
-## Details
-- **Categories**: Space, Weather
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Space`, `Weather`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://weathersource.com/weather-api)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

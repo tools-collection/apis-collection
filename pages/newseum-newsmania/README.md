@@ -1,24 +1,32 @@
-# [Newseum NewsMania](https://www.newseum.org/newsmania/)
+# 📦 [Newseum NewsMania](https://www.newseum.org/newsmania/)
 
 
-Gives you access to 1000s of Trivia questions. Your browser will redirect to your requested content shortly. This process is automatic. Please allow
+> **Gives you access to 1000s of Trivia questions. Your browser will redirect to your requested content shortly. This process is automatic. Please allow**
 
-## Details
-- **Categories**: Games
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Games`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.newseum.org/newsmania/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

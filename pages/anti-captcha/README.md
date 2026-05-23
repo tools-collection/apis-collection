@@ -1,162 +1,185 @@
-# [Anti-Captcha](https://anti-captcha.com/apidoc)
+# 📦 [Anti-Captcha](https://anti-captcha.com/apidoc)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anti-captcha/logo_256x256.png" alt="Anti-Captcha logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anti-captcha/logo_256x256.png" alt="Anti-Captcha logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Access to Anti-Captcha’s API. Bypass reCAPTCHA, solve image captchas, hCaptcha, FunCaptcha, GeeTest for the cheapest price
+> **Access to Anti-Captcha’s API. Bypass reCAPTCHA, solve image captchas, hCaptcha, FunCaptcha, GeeTest for the cheapest price**
 
-## Details
-- **Categories**: Captcha, Recognition
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Captcha`, `Recognition`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://anti-captcha.com/apidoc)
 
-## Libraries
-### Anti Captcha PHP SDK by Tymchyk Maksym
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/m-tymchyk/php-anticaptcha-v2](https://github.com/m-tymchyk/php-anticaptcha-v2)
+## 🧰 Libraries
+### 🛠️ Anti Captcha PHP SDK by Tymchyk Maksym
 
 
-- **Author**: m-tymchyk
-
-### Anti Captcha NodeJS SDK by Tymchyk Maksym
-
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/m-tymchyk/resolve-anticaptcha](https://github.com/m-tymchyk/resolve-anticaptcha)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/m-tymchyk/php-anticaptcha-v2)
 
 
-- **Author**: m-tymchyk
-- **Stars**: 1
-### Anti Captcha Python SDK by Andrey Perelygin
+- **Author**: 👤 m-tymchyk
 
-- **Platform**: Python
-- **Docs**: [https://github.com/AndreyPerelygin/anticaptcha](https://github.com/AndreyPerelygin/anticaptcha)
+### 🛠️ Anti Captcha NodeJS SDK by Tymchyk Maksym
 
 
-- **Author**: AndreyPerelygin
-- **Stars**: 1
-### Anti Captcha Laravel PHP SDK by Volodymyr Chukh
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/vovarpd/laravel-anticaptcha](https://github.com/vovarpd/laravel-anticaptcha)
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/m-tymchyk/resolve-anticaptcha)
 
 
-- **Author**: vovarpd
-- **Stars**: 3
-### Anti Captcha .NET SDK by Mikhail
-
-- **Platform**: .Net, C#
-- **Docs**: [https://github.com/Shifu462/AnticaptchaNet](https://github.com/Shifu462/AnticaptchaNet)
+- **Author**: 👤 m-tymchyk
+- **Stars**: ⭐ 1
+### 🛠️ Anti Captcha Python SDK by Andrey Perelygin
 
 
-- **Author**: Shifu462
-- **Stars**: 2
-### Anti Captcha Python SDK by jakestrouse00
-
-- **Platform**: Python
-- **Docs**: [https://github.com/jakestrouse00/AntiCaptcha-python-wrapper](https://github.com/jakestrouse00/AntiCaptcha-python-wrapper)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/AndreyPerelygin/anticaptcha)
 
 
-- **Author**: jakestrouse00
-- **Stars**: 1
-### Anti Captcha Yii 2 PHP SDK by Dmitry
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/sabirov/yii2-AntiCaptcha](https://github.com/sabirov/yii2-AntiCaptcha)
+- **Author**: 👤 AndreyPerelygin
+- **Stars**: ⭐ 1
+### 🛠️ Anti Captcha Laravel PHP SDK by Volodymyr Chukh
 
 
-- **Author**: sabirov
-- **Stars**: 1
-### Anti Captcha Perl SDK by Fayland Lam
-
-- **Platform**: PERL
-- **Docs**: [https://github.com/fayland/perl-WebService-AntiCaptcha](https://github.com/fayland/perl-WebService-AntiCaptcha)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/vovarpd/laravel-anticaptcha)
 
 
-- **Author**: fayland
-- **Stars**: 2
-### Anti Captcha Go SDK by Andrew Druzhinin
-
-- **Platform**: Go
-- **Docs**: [https://github.com/drzhnin/go-anti-captcha](https://github.com/drzhnin/go-anti-captcha)
+- **Author**: 👤 vovarpd
+- **Stars**: ⭐ 3
+### 🛠️ Anti Captcha .NET SDK by Mikhail
 
 
-- **Author**: drzhnin
-- **Stars**: 6
-### Anti Captcha PHP SDK by Majesko
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/Majesko/anti-captcha](https://github.com/Majesko/anti-captcha)
+- **Platform**: `.Net, C#`
+- **Docs**: [📚 Documentation](https://github.com/Shifu462/AnticaptchaNet)
 
 
-- **Author**: Majesko
-- **Stars**: 3
-### Anti Captcha Ruby SDK by Infosimples
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/infosimples/anti_captcha](https://github.com/infosimples/anti_captcha)
+- **Author**: 👤 Shifu462
+- **Stars**: ⭐ 2
+### 🛠️ Anti Captcha Python SDK by jakestrouse00
 
 
-
-- **Stars**: 19
-### Anti Captcha Python SDK by Andrei Drang
-
-- **Platform**: Python
-- **Docs**: [https://github.com/AndreiDrang/python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha)
-- **Source**: [https://pypi.org/project/python3-anticaptcha/1.2.5/](https://pypi.org/project/python3-anticaptcha/1.2.5/)
-
-- **Author**: AndreiDrang
-- **Stars**: 92
-### Anti Captcha NodeJS SDK by Andréas Hanss
-
-- **Platform**: Node.js
-- **Docs**: [https://github.com/ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/jakestrouse00/AntiCaptcha-python-wrapper)
 
 
-- **Author**: ScreamZ
-- **Stars**: 20
-### Anti Captcha Java SDK by Anti Captcha
+- **Author**: 👤 jakestrouse00
+- **Stars**: ⭐ 1
+### 🛠️ Anti Captcha Yii 2 PHP SDK by Dmitry
 
-- **Platform**: Java
-- **Docs**: [https://code.google.com/archive/p/java-antigate/](https://code.google.com/archive/p/java-antigate/)
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/sabirov/yii2-AntiCaptcha)
+
+
+- **Author**: 👤 sabirov
+- **Stars**: ⭐ 1
+### 🛠️ Anti Captcha Perl SDK by Fayland Lam
+
+
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/fayland/perl-WebService-AntiCaptcha)
+
+
+- **Author**: 👤 fayland
+- **Stars**: ⭐ 2
+### 🛠️ Anti Captcha Go SDK by Andrew Druzhinin
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/drzhnin/go-anti-captcha)
+
+
+- **Author**: 👤 drzhnin
+- **Stars**: ⭐ 6
+### 🛠️ Anti Captcha PHP SDK by Majesko
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/Majesko/anti-captcha)
+
+
+- **Author**: 👤 Majesko
+- **Stars**: ⭐ 3
+### 🛠️ Anti Captcha Ruby SDK by Infosimples
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/infosimples/anti_captcha)
 
 
 
-
-### Anti Captcha C++ SDK by Anti Captcha
-
-- **Platform**: C++
-- **Docs**: [https://anti-captcha.com/apidoc](https://anti-captcha.com/apidoc)
+- **Stars**: ⭐ 19
+### 🛠️ Anti Captcha Python SDK by Andrei Drang
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/AndreiDrang/python3-anticaptcha)
+- **Source**: [💻 Source Code](https://pypi.org/project/python3-anticaptcha/1.2.5/)
+
+- **Author**: 👤 AndreiDrang
+- **Stars**: ⭐ 92
+### 🛠️ Anti Captcha NodeJS SDK by Andréas Hanss
 
 
-### Anti Captcha Node.js SDK by Anti Captcha
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/ScreamZ/anti-captcha)
 
-- **Platform**: Node.js
-- **Docs**: [https://www.npmjs.com/package/antigate](https://www.npmjs.com/package/antigate)
+
+- **Author**: 👤 ScreamZ
+- **Stars**: ⭐ 20
+### 🛠️ Anti Captcha Java SDK by Anti Captcha
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://code.google.com/archive/p/java-antigate/)
 
 
 
 
-### Anti Captcha Python SDK by Anti Captcha
-
-- **Platform**: Python
-- **Docs**: [https://github.com/gotlium/antigate/tree/master/docs](https://github.com/gotlium/antigate/tree/master/docs)
+### 🛠️ Anti Captcha C++ SDK by Anti Captcha
 
 
-- **Author**: gotlium
-- **Stars**: 92
+- **Platform**: `C++`
+- **Docs**: [📚 Documentation](https://anti-captcha.com/apidoc)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+### 🛠️ Anti Captcha Node.js SDK by Anti Captcha
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://www.npmjs.com/package/antigate)
+
+
+
+
+### 🛠️ Anti Captcha Python SDK by Anti Captcha
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/gotlium/antigate/tree/master/docs)
+
+
+- **Author**: 👤 gotlium
+- **Stars**: ⭐ 92
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

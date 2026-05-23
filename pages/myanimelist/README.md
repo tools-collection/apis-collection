@@ -1,226 +1,257 @@
-# [MyAnimeList](https://myanimelist.net/clubs.php?cid&#x3D;13727)
+# 📦 [MyAnimeList](https://myanimelist.net/clubs.php?cid&#x3D;13727)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myanimelist/logo_256x256.png" alt="MyAnimeList logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myanimelist/logo_256x256.png" alt="MyAnimeList logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-MyAnimeList.net official API
+> **MyAnimeList.net official API**
 
-## Details
-- **Categories**: Comics &amp; Anime
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Comics &amp; Anime`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://myanimelist.net/clubs.php?cid&#x3D;13727)
 
-## Libraries
-### Minoshiro Python SDK by Minoshiro
+## 🧰 Libraries
+### 🛠️ Minoshiro Python SDK by Minoshiro
 
-- **Platform**: Python
-- **Docs**: [https://github.com/Mino-shiro/Minoshiro](https://github.com/Mino-shiro/Minoshiro)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/Mino-shiro/Minoshiro)
 
 
-- **Stars**: 13
-### Hakuchou iOS SDK by MAL Updater OS X
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/Atelier-Shiori/Hakuchou](https://github.com/Atelier-Shiori/Hakuchou)
+- **Stars**: ⭐ 13
+### 🛠️ Hakuchou iOS SDK by MAL Updater OS X
 
 
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/Atelier-Shiori/Hakuchou)
 
-- **Stars**: 2
-### MyAnimeList Java SDK by Chris Allen
 
-- **Platform**: Java
-- **Docs**: [https://github.com/thegreatchrispy/mal4j](https://github.com/thegreatchrispy/mal4j)
 
+- **Stars**: ⭐ 2
+### 🛠️ MyAnimeList Java SDK by Chris Allen
 
-- **Author**: thegreatchrispy
 
-### MyAnimeList Java SDK by Ben Doerr
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/thegreatchrispy/mal4j)
 
-- **Platform**: Java
-- **Docs**: [https://github.com/bendoerr/mal-java-client](https://github.com/bendoerr/mal-java-client)
 
+- **Author**: 👤 thegreatchrispy
 
-- **Author**: bendoerr
-- **Stars**: 3
-### MyAnimeList Node.js SDK by Josselin BUILS
+### 🛠️ MyAnimeList Java SDK by Ben Doerr
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/josselinbuils/MALVApi](https://github.com/josselinbuils/MALVApi)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/bendoerr/mal-java-client)
 
-- **Author**: josselinbuils
 
-### MyAnimeList Node.js SDK by Vaughan Hilts
+- **Author**: 👤 bendoerr
+- **Stars**: ⭐ 3
+### 🛠️ MyAnimeList Node.js SDK by Josselin BUILS
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/hilts-vaughan/otaku-scraper](https://github.com/hilts-vaughan/otaku-scraper)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/josselinbuils/MALVApi)
 
-- **Author**: hilts-vaughan
-- **Stars**: 2
-### MyAnimeList Python SDK by lofdat
 
-- **Platform**: Python
-- **Docs**: [https://github.com/lofdat/YetAnotherMALAPI](https://github.com/lofdat/YetAnotherMALAPI)
+- **Author**: 👤 josselinbuils
 
+### 🛠️ MyAnimeList Node.js SDK by Vaughan Hilts
 
-- **Author**: lofdat
-- **Stars**: 1
-### MyAnimeList Node.js SDK by Pratik Chaudhary
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/abs-zero/node-mal](https://github.com/abs-zero/node-mal)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/hilts-vaughan/otaku-scraper)
 
 
-- **Author**: aeruhxi
-- **Stars**: 2
-### MyAnimeList Java SDK by bunuble
+- **Author**: 👤 hilts-vaughan
+- **Stars**: ⭐ 2
+### 🛠️ MyAnimeList Python SDK by lofdat
 
-- **Platform**: Java
-- **Docs**: [https://github.com/bunuble/MAL-Java-Wrapper](https://github.com/bunuble/MAL-Java-Wrapper)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/lofdat/YetAnotherMALAPI)
 
 
+- **Author**: 👤 lofdat
+- **Stars**: ⭐ 1
+### 🛠️ MyAnimeList Node.js SDK by Pratik Chaudhary
 
-### MyAnimeList Node.js SDK by Julien
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/jballanger/chinmei](https://github.com/jballanger/chinmei)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/abs-zero/node-mal)
 
 
-- **Author**: jballanger
-- **Stars**: 3
-### MyAnimeList Java SDK by Barracuda72
+- **Author**: 👤 aeruhxi
+- **Stars**: ⭐ 2
+### 🛠️ MyAnimeList Java SDK by bunuble
 
-- **Platform**: Java
-- **Docs**: [https://github.com/Barracuda72/MALApi](https://github.com/Barracuda72/MALApi)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/bunuble/MAL-Java-Wrapper)
 
-- **Author**: Barracuda72
 
-### MyAnimeList Swift SDK by nktn
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/nktn/MalKit](https://github.com/nktn/MalKit)
 
+### 🛠️ MyAnimeList Node.js SDK by Julien
 
-- **Author**: nktn
-- **Stars**: 5
-### MyAnimeList Node.js SDK by Chris Alderson
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/ChrisAlderson/mal-api](https://github.com/ChrisAlderson/mal-api)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/jballanger/chinmei)
 
 
-- **Author**: ChrisAlderson
-- **Stars**: 8
-### MyAnimeList C# SDK by William Santana
+- **Author**: 👤 jballanger
+- **Stars**: ⭐ 3
+### 🛠️ MyAnimeList Java SDK by Barracuda72
 
-- **Platform**: C#
-- **Docs**: [https://github.com/wmer/MyAnimeListApiConsumer](https://github.com/wmer/MyAnimeListApiConsumer)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/Barracuda72/MALApi)
 
-- **Author**: wmer
 
-### MyAnimeList PHP SDK by animelist
+- **Author**: 👤 Barracuda72
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/animelist/mal-api](https://github.com/animelist/mal-api)
+### 🛠️ MyAnimeList Swift SDK by nktn
 
 
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/nktn/MalKit)
 
-- **Stars**: 1
-### MyAnimeList Go SDK by Anime Notifier
 
-- **Platform**: Go
-- **Docs**: [https://github.com/animenotifier/mal](https://github.com/animenotifier/mal)
+- **Author**: 👤 nktn
+- **Stars**: ⭐ 5
+### 🛠️ MyAnimeList Node.js SDK by Chris Alderson
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/ChrisAlderson/mal-api)
 
-- **Stars**: 5
-### MyAnimeList Ruby SDK by Oli4242
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/Oli4242/myanimelist_client](https://github.com/Oli4242/myanimelist_client)
+- **Author**: 👤 ChrisAlderson
+- **Stars**: ⭐ 8
+### 🛠️ MyAnimeList C# SDK by William Santana
 
 
-- **Author**: Oli4242
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/wmer/MyAnimeListApiConsumer)
 
-### MyAnimeList Java SDK by Joel Rousseau
 
-- **Platform**: Java
-- **Docs**: [https://github.com/v4lproik/myanimelist-api](https://github.com/v4lproik/myanimelist-api)
+- **Author**: 👤 wmer
 
+### 🛠️ MyAnimeList PHP SDK by animelist
 
-- **Author**: v4lproik
 
-### MyAnimeList .NET SDK by Sung Kim
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/animelist/mal-api)
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/dance2die/MyAnimeListSharp](https://github.com/dance2die/MyAnimeListSharp)
 
 
-- **Author**: dance2die
-- **Stars**: 13
-### MyAnimeList Python SDK by Byron Vanstien
+- **Stars**: ⭐ 1
+### 🛠️ MyAnimeList Go SDK by Anime Notifier
 
-- **Platform**: Python
-- **Docs**: [https://github.com/GetRektByMe/Pyanimelist](https://github.com/GetRektByMe/Pyanimelist)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/animenotifier/mal)
 
-- **Author**: byronvanstien
-- **Stars**: 9
-### MyAnimeList Ruby SDK by Corey Roberts
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/croberts22/railgun](https://github.com/croberts22/railgun)
 
+- **Stars**: ⭐ 5
+### 🛠️ MyAnimeList Ruby SDK by Oli4242
 
-- **Author**: croberts22
-- **Stars**: 9
-### MyAnimeList Node.js SDK by João Ferreira
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/lubien/popura](https://github.com/lubien/popura)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/Oli4242/myanimelist_client)
 
 
-- **Author**: lubien
-- **Stars**: 30
-### MyAnimeList Go SDK by Stratos Neiros
+- **Author**: 👤 Oli4242
 
-- **Platform**: Go
-- **Docs**: [https://github.com/nstratos/go-myanimelist](https://github.com/nstratos/go-myanimelist)
+### 🛠️ MyAnimeList Java SDK by Joel Rousseau
 
 
-- **Author**: nstratos
-- **Stars**: 19
-### MyAnimeList Ruby SDK by Harvey Ico
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/v4lproik/myanimelist-api)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/harveyico/myanimelist](https://github.com/harveyico/myanimelist)
 
+- **Author**: 👤 v4lproik
 
-- **Author**: harveyico
-- **Stars**: 22
-### MyAnimeList Python SDK by May
+### 🛠️ MyAnimeList .NET SDK by Sung Kim
 
-- **Platform**: Python
-- **Docs**: [https://pypi.python.org/pypi/spice-api/1.0.3](https://pypi.python.org/pypi/spice-api/1.0.3)
-- **Source**: [https://github.com/Utagai/spice](https://github.com/Utagai/spice)
 
-- **Author**: Utagai
-- **Stars**: 29
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/dance2die/MyAnimeListSharp)
 
 
+- **Author**: 👤 dance2die
+- **Stars**: ⭐ 13
+### 🛠️ MyAnimeList Python SDK by Byron Vanstien
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/GetRektByMe/Pyanimelist)
+
+
+- **Author**: 👤 byronvanstien
+- **Stars**: ⭐ 9
+### 🛠️ MyAnimeList Ruby SDK by Corey Roberts
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/croberts22/railgun)
+
+
+- **Author**: 👤 croberts22
+- **Stars**: ⭐ 9
+### 🛠️ MyAnimeList Node.js SDK by João Ferreira
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/lubien/popura)
+
+
+- **Author**: 👤 lubien
+- **Stars**: ⭐ 30
+### 🛠️ MyAnimeList Go SDK by Stratos Neiros
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/nstratos/go-myanimelist)
+
+
+- **Author**: 👤 nstratos
+- **Stars**: ⭐ 19
+### 🛠️ MyAnimeList Ruby SDK by Harvey Ico
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/harveyico/myanimelist)
+
+
+- **Author**: 👤 harveyico
+- **Stars**: ⭐ 22
+### 🛠️ MyAnimeList Python SDK by May
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://pypi.python.org/pypi/spice-api/1.0.3)
+- **Source**: [💻 Source Code](https://github.com/Utagai/spice)
+
+- **Author**: 👤 Utagai
+- **Stars**: ⭐ 29
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

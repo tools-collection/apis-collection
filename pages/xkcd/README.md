@@ -1,59 +1,67 @@
-# [xkcd](https://xkcd.com/json.html)
+# 📦 [xkcd](https://xkcd.com/json.html)
 
 
-xkcd API
+> **xkcd API**
 
-## Details
-- **Categories**: Comics &amp; Anime, Fun, Entertainment
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Comics &amp; Anime`, `Fun`, `Entertainment`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://xkcd.com/json.html)
 
-## Libraries
-### xkcd Elixir SDK by Devin Clark
-
-- **Platform**: Elixir
-- **Docs**: [https://libraries.io/hex/xkcd](https://libraries.io/hex/xkcd)
-- **Source**: [https://github.com/notdevinclark/xkcd](https://github.com/notdevinclark/xkcd)
-
-- **Author**: notdevinclark
-
-### xkcd Python SDK by Ben Rosser
-
-- **Platform**: Python
-- **Docs**: [https://pypi.python.org/pypi/xkcd/](https://pypi.python.org/pypi/xkcd/)
+## 🧰 Libraries
+### 🛠️ xkcd Elixir SDK by Devin Clark
 
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://libraries.io/hex/xkcd)
+- **Source**: [💻 Source Code](https://github.com/notdevinclark/xkcd)
+
+- **Author**: 👤 notdevinclark
+
+### 🛠️ xkcd Python SDK by Ben Rosser
 
 
-### xkcd Python SDK by JacobLandau
-
-- **Platform**: Python
-- **Docs**: [https://github.com/JacobLandau/pykcd](https://github.com/JacobLandau/pykcd)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://pypi.python.org/pypi/xkcd/)
 
 
-- **Author**: JacobLandau
-- **Stars**: 33
-### xkcd Go SDK by nishanths
-
-- **Platform**: Go
-- **Docs**: [https://github.com/nishanths/go-xkcd](https://github.com/nishanths/go-xkcd)
 
 
-- **Author**: nishanths
-- **Stars**: 43
-
-## Contact
-contact@wordassociations.net
+### 🛠️ xkcd Python SDK by JacobLandau
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/JacobLandau/pykcd)
+
+
+- **Author**: 👤 JacobLandau
+- **Stars**: ⭐ 33
+### 🛠️ xkcd Go SDK by nishanths
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/nishanths/go-xkcd)
+
+
+- **Author**: 👤 nishanths
+- **Stars**: ⭐ 43
+
+## 📬 Contact
+📧 contact@wordassociations.net
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,25 +1,33 @@
-# [SimpleGeo API](https://simplegeo.com)
+# 📦 [SimpleGeo API](https://simplegeo.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/simplegeo-api/logo_256x256.png" alt="SimpleGeo API logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/simplegeo-api/logo_256x256.png" alt="SimpleGeo API logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Offers an API that allows developers to build location-aware applications for mobile devices
+> **Offers an API that allows developers to build location-aware applications for mobile devices**
 
-## Details
-- **Categories**: Maps &amp; Geo
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Maps &amp; Geo`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://simplegeo.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

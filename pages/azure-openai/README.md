@@ -1,25 +1,33 @@
-# [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai)
+# 📦 [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai)
 
 
-Azure OpenAI Service provides REST API access to OpenAI&#x27;s GPT-4, DALL-E, and Whisper models with enterprise-grade security, compliance, and regional availability through Microsoft Azure.
+> **Azure OpenAI Service provides REST API access to OpenAI&#x27;s GPT-4, DALL-E, and Whisper models with enterprise-grade security, compliance, and regional availability through Microsoft Azure.**
 
-## Details
-- **Categories**: AI &amp; ML
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `AI &amp; ML`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://learn.microsoft.com/en-us/azure/ai-services/openai)
 - [API Reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

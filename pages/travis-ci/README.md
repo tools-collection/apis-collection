@@ -1,57 +1,67 @@
-# [Travis CI](https://docs.travis-ci.com/api/)
+# 📦 [Travis CI](https://docs.travis-ci.com/api/)
 
 
-If you’re new to the Travis CI API, you should be using API V3. The API V2 described on this page will be deprecated so. Overview API V3 Our most recent API is V3, which is has its own API Explorer
+> **If you’re new to the Travis CI API, you should be using API V3. The API V2 described on this page will be deprecated so. Overview API V3 Our most recent API is V3, which is has its own API Explorer**
 
-## Details
-- **Categories**: Development
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Development`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://docs.travis-ci.com/api/)
 
-## Libraries
-### Travis CI Elixir SDK by Hugo Duksis
-
-- **Platform**: Elixir
-- **Docs**: [https://github.com/duksis/travis_ex](https://github.com/duksis/travis_ex)
+## 🧰 Libraries
+### 🛠️ Travis CI Elixir SDK by Hugo Duksis
 
 
-- **Author**: duksis
-
-### Travis CI Python SDK by Fabio Menegazzo
-
-- **Platform**: Python
-- **Docs**: [https://github.com/menegazzo/travispy](https://github.com/menegazzo/travispy)
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/duksis/travis_ex)
 
 
-- **Author**: menegazzo
-- **Stars**: 74
-### Travis CI Ruby SDK
+- **Author**: 👤 duksis
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/travis-ci/travis.rb](https://github.com/travis-ci/travis.rb)
+### 🛠️ Travis CI Python SDK by Fabio Menegazzo
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/menegazzo/travispy)
 
-- **Stars**: 1547
-### Travis CI Ember Web JavaScript SDK
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/travis-ci/travis-web](https://github.com/travis-ci/travis-web)
+- **Author**: 👤 menegazzo
+- **Stars**: ⭐ 74
+### 🛠️ Travis CI Ruby SDK
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/travis-ci/travis.rb)
 
 
 
-- **Stars**: 585
+- **Stars**: ⭐ 1547
+### 🛠️ Travis CI Ember Web JavaScript SDK
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/travis-ci/travis-web)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 585
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

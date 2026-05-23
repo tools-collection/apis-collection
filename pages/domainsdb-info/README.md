@@ -1,26 +1,32 @@
-# [Domainsdb.info](https://domainsdb.info)
+# 📦 [Domainsdb.info](https://domainsdb.info)
 
 
-Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols
+> **Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols**
 
-## Details
-- **Categories**: Development
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Development`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://domainsdb.info)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-dhieber@umail.ucsb.edu
+## 📬 Contact
+📧 dhieber@umail.ucsb.edu
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,26 +1,32 @@
-# [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description)
+# 📦 [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description)
 
 
-Current and historical NBA Statistics
+> **Current and historical NBA Statistics**
 
-## Details
-- **Categories**: Sport &amp; Fitness
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Sport &amp; Fitness`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://any-api.com/nba_com/nba_com/docs/API_Description)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-contact@namsor.com
+## 📬 Contact
+📧 contact@namsor.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

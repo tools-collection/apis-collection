@@ -1,25 +1,33 @@
-# [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
+# 📦 [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-skills/logo_256x256.png" alt="Open Skills logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-skills/logo_256x256.png" alt="Open Skills logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Skills API. Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub. Skills API
+> **Skills API. Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub. Skills API**
 
-## Details
-- **Categories**: Jobs
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Jobs`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

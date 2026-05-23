@@ -1,25 +1,33 @@
-# [Sakari](https://developer.sakari.io)
+# 📦 [Sakari](https://developer.sakari.io)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sakari/logo_256x256.png" alt="Sakari logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sakari/logo_256x256.png" alt="Sakari logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Integrates with 1000+ applications with no code. Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call
+> **Integrates with 1000+ applications with no code. Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call**
 
-## Details
-- **Categories**: Email &amp; SMS
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Email &amp; SMS`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.sakari.io)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

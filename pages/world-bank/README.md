@@ -1,30 +1,38 @@
-# [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)
+# 📦 [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)
 
 
-World Bank APIs.
+> **World Bank APIs.
 World Bank APIs provide access to various types of data and databases:
 - The Indicators API provides programmatic access to time series development data and metadata. Most of the articles in this section are devoted to the Indicators API.
 - The Data Catalog API provides information about the thousands of development-relevant datasets available through the World Bank Data Catalog. Learn More
 - The Projects API provides access to World Bank operations data, i.e., active, pipeline and closed projects implemented in countries and around the world. Learn More
 - The Finances API provides programmatic access to World Bank financial data (loans, credits, financial statements, etc) delivered on the World Bank Finances platform. Learn More
-- The Climate Data API provides access to historical and modelled climate data from the Climate Knowledge Portal. Learn More
+- The Climate Data API provides access to historical and modelled climate data from the Climate Knowledge Portal. Learn More**
 
-## Details
-- **Categories**: Government, Finance &amp; Economics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`, `Finance &amp; Economics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

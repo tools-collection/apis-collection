@@ -1,210 +1,239 @@
-# [Gfycat](https://developers.gfycat.com/api/)
+# 📦 [Gfycat](https://developers.gfycat.com/api/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gfycat/logo_256x256.png" alt="Gfycat logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gfycat/logo_256x256.png" alt="Gfycat logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Gfycat’s API - collection of GIFs
+> **Gfycat’s API - collection of GIFs**
 
-## Details
-- **Categories**: Fun, Social, Art &amp; Design, Images &amp; Photography
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Fun`, `Social`, `Art &amp; Design`, `Images &amp; Photography`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.gfycat.com/api/)
 
-## Libraries
-### Gfycat npm JavaScript SDK
+## 🧰 Libraries
+### 🛠️ Gfycat npm JavaScript SDK
 
-- **Platform**: JavaScript
-- **Docs**: [https://developers.gfycat.com/jssdk/](https://developers.gfycat.com/jssdk/)
-- **Source**: [https://www.npmjs.com/package/gfycat-sdk](https://www.npmjs.com/package/gfycat-sdk)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://developers.gfycat.com/jssdk/)
+- **Source**: [💻 Source Code](https://www.npmjs.com/package/gfycat-sdk)
 
 
-### Gfycat APIKit iOS SDK
 
-- **Platform**: Objective-C
-- **Docs**: [https://developers.gfycat.com/iossdk/](https://developers.gfycat.com/iossdk/)
-- **Source**: [https://github.com/gfycat/GfycatApiKit](https://github.com/gfycat/GfycatApiKit)
+### 🛠️ Gfycat APIKit iOS SDK
 
 
-- **Stars**: 7
-### Gfycat Core SDK
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://developers.gfycat.com/iossdk/)
+- **Source**: [💻 Source Code](https://github.com/gfycat/GfycatApiKit)
 
-- **Platform**: Java
-- **Docs**: [https://developers.gfycat.com/androidsdk/](https://developers.gfycat.com/androidsdk/)
 
+- **Stars**: ⭐ 7
+### 🛠️ Gfycat Core SDK
 
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://developers.gfycat.com/androidsdk/)
 
-### Gfycat Python SDK by Tom Kranenburg
 
-- **Platform**: Python
-- **Docs**: [https://github.com/TomKranenburg/gfywrapper](https://github.com/TomKranenburg/gfywrapper)
 
 
-- **Author**: TomKranenburg
+### 🛠️ Gfycat Python SDK by Tom Kranenburg
 
-### Gfycat PHP SDK by Aaron Chang
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/mistayam/gfyScript](https://github.com/mistayam/gfyScript)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/TomKranenburg/gfywrapper)
 
 
+- **Author**: 👤 TomKranenburg
 
+### 🛠️ Gfycat PHP SDK by Aaron Chang
 
-### Gfycat PHP SDK by Stefano
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/steoo/php-gfy-api-interface](https://github.com/steoo/php-gfy-api-interface)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/mistayam/gfyScript)
 
 
-- **Author**: steoo
 
-### Gfycat NodeJS SDK by Butterscotch Stallion
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/butterscotchstallion/gfyapi](https://github.com/butterscotchstallion/gfyapi)
+### 🛠️ Gfycat PHP SDK by Stefano
 
 
-- **Author**: butterscotchstallion
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/steoo/php-gfy-api-interface)
 
-### Gfycat NodeJS SDK by Shadowfacts
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/shadowfacts/gfy](https://github.com/shadowfacts/gfy)
+- **Author**: 👤 steoo
 
+### 🛠️ Gfycat NodeJS SDK by Butterscotch Stallion
 
-- **Author**: shadowfacts
-- **Stars**: 2
-### Gfycat Go SDK by hashworks
 
-- **Platform**: Go
-- **Docs**: [https://github.com/hashworks/go-gfycat](https://github.com/hashworks/go-gfycat)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/butterscotchstallion/gfyapi)
 
 
-- **Author**: hashworks
+- **Author**: 👤 butterscotchstallion
 
-### Gfycat JavaScript SDK by Nikita Savyolov
+### 🛠️ Gfycat NodeJS SDK by Shadowfacts
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/ga2mer/gfycatjs](https://github.com/ga2mer/gfycatjs)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/shadowfacts/gfy)
 
-- **Author**: ga2mer
 
-### Gfycat Go SDK by Krognol
+- **Author**: 👤 shadowfacts
+- **Stars**: ⭐ 2
+### 🛠️ Gfycat Go SDK by hashworks
 
-- **Platform**: Go
-- **Docs**: [https://github.com/Krognol/gofycat](https://github.com/Krognol/gofycat)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/hashworks/go-gfycat)
 
-- **Author**: Krognol
 
-### Gfycat Objective-C SDK by Akshay Easwaran
+- **Author**: 👤 hashworks
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/akeaswaran/AEGfycatHandler](https://github.com/akeaswaran/AEGfycatHandler)
+### 🛠️ Gfycat JavaScript SDK by Nikita Savyolov
 
 
-- **Author**: akeaswaran
-- **Stars**: 2
-### Gfycat PHP SDK by Pulkit Kathuria
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/ga2mer/gfycatjs)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/kevincobain2000/gfycat](https://github.com/kevincobain2000/gfycat)
 
+- **Author**: 👤 ga2mer
 
-- **Author**: kevincobain2000
-- **Stars**: 1
-### Gfycat Perl SDK by Chankey Pathak
+### 🛠️ Gfycat Go SDK by Krognol
 
-- **Platform**: PERL
-- **Docs**: [https://github.com/chankeypathak/WWW-Gfycat](https://github.com/chankeypathak/WWW-Gfycat)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/Krognol/gofycat)
 
-- **Author**: chankeypathak
 
-### Gfycat JavaScript SDK by Josh Kang
+- **Author**: 👤 Krognol
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/kngroo/gfycat-sdk](https://github.com/kngroo/gfycat-sdk)
+### 🛠️ Gfycat Objective-C SDK by Akshay Easwaran
 
 
-- **Author**: kngroo
-- **Stars**: 1
-### Gfycat Ruby SDK by Martin Häger
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/akeaswaran/AEGfycatHandler)
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/vrcsix/gfycat](https://github.com/vrcsix/gfycat)
 
+- **Author**: 👤 akeaswaran
+- **Stars**: ⭐ 2
+### 🛠️ Gfycat PHP SDK by Pulkit Kathuria
 
-- **Author**: haegrr
-- **Stars**: 1
-### Gfycat Go SDK by orijtech
 
-- **Platform**: Go
-- **Docs**: [https://github.com/orijtech/gfycat](https://github.com/orijtech/gfycat)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/kevincobain2000/gfycat)
 
 
+- **Author**: 👤 kevincobain2000
+- **Stars**: ⭐ 1
+### 🛠️ Gfycat Perl SDK by Chankey Pathak
 
 
-### Gfycat Swift SDK by Trung Nguyen
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://github.com/chankeypathak/WWW-Gfycat)
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/geek1706/gfycat-swift](https://github.com/geek1706/gfycat-swift)
 
+- **Author**: 👤 chankeypathak
 
-- **Author**: geek1706
-- **Stars**: 5
-### Gfycat .NET SDK by Sydney Acksman
+### 🛠️ Gfycat JavaScript SDK by Josh Kang
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/ObsidianMinor/Gfycat.Net](https://github.com/ObsidianMinor/Gfycat.Net)
-- **Source**: [https://www.nuget.org/packages/Gfycat.Net](https://www.nuget.org/packages/Gfycat.Net)
 
-- **Author**: ObsidianMinor
-- **Stars**: 12
-### Gfycat PHP SDK by Nehal Patel
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/kngroo/gfycat-sdk)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/nehalvpatel/gfycat-php](https://github.com/nehalvpatel/gfycat-php)
 
+- **Author**: 👤 kngroo
+- **Stars**: ⭐ 1
+### 🛠️ Gfycat Ruby SDK by Martin Häger
 
-- **Author**: nehalvpatel
-- **Stars**: 8
-### Gfycat Python SDK by Ankesh Anand
 
-- **Platform**: Python
-- **Docs**: [https://github.com/ankeshanand/py-gfycat](https://github.com/ankeshanand/py-gfycat)
-- **Source**: [https://pypi.org/project/gfycat/0.1.4/](https://pypi.org/project/gfycat/0.1.4/)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/vrcsix/gfycat)
 
-- **Author**: ankeshanand
-- **Stars**: 19
-### Gfycat JavaScript SDK
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/gfycat/gfycat-sdk](https://github.com/gfycat/gfycat-sdk)
-- **Source**: [https://www.npmjs.com/package/gfycat-sdk](https://www.npmjs.com/package/gfycat-sdk)
+- **Author**: 👤 haegrr
+- **Stars**: ⭐ 1
+### 🛠️ Gfycat Go SDK by orijtech
 
 
-- **Stars**: 17
-### Gfycat iOS SDK
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/orijtech/gfycat)
 
-- **Platform**: Objective-C
-- **Docs**: [https://github.com/gfycat/GfycatApiKit](https://github.com/gfycat/GfycatApiKit)
 
 
 
-- **Stars**: 7
+### 🛠️ Gfycat Swift SDK by Trung Nguyen
 
 
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/geek1706/gfycat-swift)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 geek1706
+- **Stars**: ⭐ 5
+### 🛠️ Gfycat .NET SDK by Sydney Acksman
+
+
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/ObsidianMinor/Gfycat.Net)
+- **Source**: [💻 Source Code](https://www.nuget.org/packages/Gfycat.Net)
+
+- **Author**: 👤 ObsidianMinor
+- **Stars**: ⭐ 12
+### 🛠️ Gfycat PHP SDK by Nehal Patel
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/nehalvpatel/gfycat-php)
+
+
+- **Author**: 👤 nehalvpatel
+- **Stars**: ⭐ 8
+### 🛠️ Gfycat Python SDK by Ankesh Anand
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/ankeshanand/py-gfycat)
+- **Source**: [💻 Source Code](https://pypi.org/project/gfycat/0.1.4/)
+
+- **Author**: 👤 ankeshanand
+- **Stars**: ⭐ 19
+### 🛠️ Gfycat JavaScript SDK
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/gfycat/gfycat-sdk)
+- **Source**: [💻 Source Code](https://www.npmjs.com/package/gfycat-sdk)
+
+
+- **Stars**: ⭐ 17
+### 🛠️ Gfycat iOS SDK
+
+
+- **Platform**: `Objective-C`
+- **Docs**: [📚 Documentation](https://github.com/gfycat/GfycatApiKit)
+
+
+
+- **Stars**: ⭐ 7
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

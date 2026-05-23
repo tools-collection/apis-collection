@@ -1,25 +1,33 @@
-# [monday.com](https://developer.monday.com/api-reference/docs)
+# 📦 [monday.com](https://developer.monday.com/api-reference/docs)
 
 
-monday.com&#x27;s GraphQL API provides access to boards, items, columns, updates, and automations. Build work management integrations and sync data with monday.com&#x27;s platform.
+> **monday.com&#x27;s GraphQL API provides access to boards, items, columns, updates, and automations. Build work management integrations and sync data with monday.com&#x27;s platform.**
 
-## Details
-- **Categories**: Project Management, Development
-- **Type**: GraphQL
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Project Management`, `Development`
+- **🔌 Type**: `GraphQL`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.monday.com/api-reference/docs)
 - [API Reference](https://developer.monday.com/api-reference/reference/about-the-api-reference)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

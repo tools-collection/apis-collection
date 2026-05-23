@@ -1,24 +1,32 @@
-# [City, Prague Opendata](http://opendata.praha.eu/en)
+# 📦 [City, Prague Opendata](http://opendata.praha.eu/en)
 
 
-Welcome to the city-wide port. Here the municipality of the capital, contributory organizations, city districts and other related entities publish the data in machine readable format
+> **Welcome to the city-wide port. Here the municipality of the capital, contributory organizations, city districts and other related entities publish the data in machine readable format**
 
-## Details
-- **Categories**: Government, Statistics &amp; Data
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`, `Statistics &amp; Data`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://opendata.praha.eu/en)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

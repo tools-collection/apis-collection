@@ -1,226 +1,257 @@
-# [Cisco Spark](https://developer.ciscospark.com)
+# 📦 [Cisco Spark](https://developer.ciscospark.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cisco-spark/logo_256x256.png" alt="Cisco Spark logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cisco-spark/logo_256x256.png" alt="Cisco Spark logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Build the future of business collaboration with Webex!
+> **Build the future of business collaboration with Webex!**
 
-## Details
-- **Categories**: Video &amp; Media, Social, Chats &amp; Messaging, Collaboration
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Video &amp; Media`, `Social`, `Chats &amp; Messaging`, `Collaboration`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.ciscospark.com)
 
-## Libraries
-### Cisco Spark Bash SDK by patglanz
+## 🧰 Libraries
+### 🛠️ Cisco Spark Bash SDK by patglanz
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/patglanz/Cisco-Spark-API-with-bash](https://github.com/patglanz/Cisco-Spark-API-with-bash)
 
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/patglanz/Cisco-Spark-API-with-bash)
 
-- **Author**: patglanz
-- **Stars**: 1
-### Cisco Spark Python SDK by Madumal Sameera Piyasundara
 
-- **Platform**: Python
-- **Docs**: [https://github.com/SamPiy93/Python-Bot-Integration](https://github.com/SamPiy93/Python-Bot-Integration)
+- **Author**: 👤 patglanz
+- **Stars**: ⭐ 1
+### 🛠️ Cisco Spark Python SDK by Madumal Sameera Piyasundara
 
 
-- **Author**: SamPiy93
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/SamPiy93/Python-Bot-Integration)
 
-### Cisco Spark Python SDK by Martin Ertsås
 
-- **Platform**: Python
-- **Docs**: [https://github.com/martiert/aiosparkapi](https://github.com/martiert/aiosparkapi)
+- **Author**: 👤 SamPiy93
 
+### 🛠️ Cisco Spark Python SDK by Martin Ertsås
 
-- **Author**: martiert
 
-### Cisco Spark Python SDK by devinchappell
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/martiert/aiosparkapi)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/devinchappell/pyspark](https://github.com/devinchappell/pyspark)
 
+- **Author**: 👤 martiert
 
-- **Author**: devinchappell
+### 🛠️ Cisco Spark Python SDK by devinchappell
 
-### Cisco Spark Python SDK by Antoine
 
-- **Platform**: Python
-- **Docs**: [https://github.com/Bassintag551/spark-python-sdk](https://github.com/Bassintag551/spark-python-sdk)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/devinchappell/pyspark)
 
 
-- **Author**: Bassintag
-- **Stars**: 1
-### Cisco Spark Python SDK by Andriy Hrytskiv
+- **Author**: 👤 devinchappell
 
-- **Platform**: Python
-- **Docs**: [https://github.com/andriyko/aiociscospark](https://github.com/andriyko/aiociscospark)
+### 🛠️ Cisco Spark Python SDK by Antoine
 
 
-- **Author**: andriyko
-- **Stars**: 7
-### Cisco Spark Python SDK by imapex
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/Bassintag551/spark-python-sdk)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/imapex/spark-python](https://github.com/imapex/spark-python)
 
+- **Author**: 👤 Bassintag
+- **Stars**: ⭐ 1
+### 🛠️ Cisco Spark Python SDK by Andriy Hrytskiv
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/andriyko/aiociscospark)
 
-### Cisco Spark Python SDK by Aglagane Abdelbar
 
-- **Platform**: Python
-- **Docs**: [https://github.com/Abdellbar/sparkapi](https://github.com/Abdellbar/sparkapi)
+- **Author**: 👤 andriyko
+- **Stars**: ⭐ 7
+### 🛠️ Cisco Spark Python SDK by imapex
 
 
-- **Author**: Abdellbar
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/imapex/spark-python)
 
-### Cisco Spark Haskell SDK by Naoto Shimazaki
 
-- **Platform**: Haskell
-- **Docs**: [https://github.com/nshimaza/cisco-spark-api](https://github.com/nshimaza/cisco-spark-api)
 
 
-- **Author**: nshimaza
-- **Stars**: 7
-### Cisco Spark jQuery SDK by Tuan Hoang
+### 🛠️ Cisco Spark Python SDK by Aglagane Abdelbar
 
-- **Platform**: jQuery
-- **Docs**: [https://github.com/tuanchoang/Cisco-Spark-API-Wrapper](https://github.com/tuanchoang/Cisco-Spark-API-Wrapper)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/Abdellbar/sparkapi)
 
-- **Author**: tuanchoang
 
-### Cisco Spark Python SDK by spirrello
+- **Author**: 👤 Abdellbar
 
-- **Platform**: Python
-- **Docs**: [https://github.com/spirrello/spark](https://github.com/spirrello/spark)
+### 🛠️ Cisco Spark Haskell SDK by Naoto Shimazaki
 
 
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](https://github.com/nshimaza/cisco-spark-api)
 
 
-### Cisco Spark Go SDK by Vallard Benincosa
+- **Author**: 👤 nshimaza
+- **Stars**: ⭐ 7
+### 🛠️ Cisco Spark jQuery SDK by Tuan Hoang
 
-- **Platform**: Go
-- **Docs**: [https://github.com/vallard/spark](https://github.com/vallard/spark)
 
+- **Platform**: `jQuery`
+- **Docs**: [📚 Documentation](https://github.com/tuanchoang/Cisco-Spark-API-Wrapper)
 
-- **Author**: vallard
-- **Stars**: 1
-### Cisco Spark Python SDK by Johannes Krohn
 
-- **Platform**: Python
-- **Docs**: [https://github.com/jeokrohn/cisco_spark](https://github.com/jeokrohn/cisco_spark)
+- **Author**: 👤 tuanchoang
 
+### 🛠️ Cisco Spark Python SDK by spirrello
 
-- **Author**: jeokrohn
-- **Stars**: 4
-### Cisco Spark Node.js SDK by Marcello Federico
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/marchfederico/node-sparkclient](https://github.com/marchfederico/node-sparkclient)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/spirrello/spark)
 
 
-- **Author**: marchfederico
-- **Stars**: 7
-### Cisco Spark Python SDK by Scott Henning
 
-- **Platform**: Python
-- **Docs**: [https://github.com/shenning00/pyCiscoSparkAPI](https://github.com/shenning00/pyCiscoSparkAPI)
 
+### 🛠️ Cisco Spark Go SDK by Vallard Benincosa
 
-- **Author**: shenning00
 
-### Cisco Spark JavaScript SDK by Miles Oldenburg
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/vallard/spark)
 
-- **Platform**: JavaScript, jQuery
-- **Docs**: [https://github.com/milesoldenburg/spark](https://github.com/milesoldenburg/spark)
 
+- **Author**: 👤 vallard
+- **Stars**: ⭐ 1
+### 🛠️ Cisco Spark Python SDK by Johannes Krohn
 
-- **Author**: milesoldenburg
-- **Stars**: 3
-### Cisco Spark .NET SDK by Darren Parkinson
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/darrenparkinson/SparkDotNet](https://github.com/darrenparkinson/SparkDotNet)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/jeokrohn/cisco_spark)
 
 
-- **Author**: darrenparkinson
-- **Stars**: 13
-### Cisco Spark Webhook Node.js SDK by Cumberland Group
+- **Author**: 👤 jeokrohn
+- **Stars**: ⭐ 4
+### 🛠️ Cisco Spark Node.js SDK by Marcello Federico
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/CumberlandGroup/node-spark-webhook](https://github.com/CumberlandGroup/node-spark-webhook)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/marchfederico/node-sparkclient)
 
 
+- **Author**: 👤 marchfederico
+- **Stars**: ⭐ 7
+### 🛠️ Cisco Spark Python SDK by Scott Henning
 
-### Cisco Spark Node.js SDK by Cumberland Group
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/CumberlandGroup/node-spark](https://github.com/CumberlandGroup/node-spark)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/shenning00/pyCiscoSparkAPI)
 
 
+- **Author**: 👤 shenning00
 
+### 🛠️ Cisco Spark JavaScript SDK by Miles Oldenburg
 
-### Cisco Spark Node-RED Node.js SDK by Cumberland Group
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/CumberlandGroup/node-red-contrib-spark](https://github.com/CumberlandGroup/node-red-contrib-spark)
+- **Platform**: `JavaScript, jQuery`
+- **Docs**: [📚 Documentation](https://github.com/milesoldenburg/spark)
 
 
-- **Author**: nmarus
-- **Stars**: 4
-### Cisco Spark JavaScript SDK by Joseph Lee
+- **Author**: 👤 milesoldenburg
+- **Stars**: ⭐ 3
+### 🛠️ Cisco Spark .NET SDK by Darren Parkinson
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/joelee/ciscospark](https://github.com/joelee/ciscospark)
 
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/darrenparkinson/SparkDotNet)
 
-- **Author**: joelee
 
-### Cisco Spark Java SDK
+- **Author**: 👤 darrenparkinson
+- **Stars**: ⭐ 13
+### 🛠️ Cisco Spark Webhook Node.js SDK by Cumberland Group
 
-- **Platform**: Java
-- **Docs**: [https://github.com/ciscospark/spark-java-sdk](https://github.com/ciscospark/spark-java-sdk)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/CumberlandGroup/node-spark-webhook)
 
 
-- **Stars**: 67
-### Cisco Spark Python SDK by Brad Bester
 
-- **Platform**: Python
-- **Docs**: [https://github.com/brbester/pyCiscoSpark](https://github.com/brbester/pyCiscoSpark)
 
+### 🛠️ Cisco Spark Node.js SDK by Cumberland Group
 
-- **Author**: brbester
-- **Stars**: 30
-### Cisco Spark Python SDK
 
-- **Platform**: Python
-- **Docs**: [https://github.com/CiscoDevNet/ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/CumberlandGroup/node-spark)
 
 
 
-- **Stars**: 256
-### Cisco Spark Node.js SDK by Flint Bot
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/flint-bot/sparky](https://github.com/flint-bot/sparky)
+### 🛠️ Cisco Spark Node-RED Node.js SDK by Cumberland Group
 
 
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/CumberlandGroup/node-red-contrib-spark)
 
-- **Stars**: 17
 
+- **Author**: 👤 nmarus
+- **Stars**: ⭐ 4
+### 🛠️ Cisco Spark JavaScript SDK by Joseph Lee
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/joelee/ciscospark)
+
+
+- **Author**: 👤 joelee
+
+### 🛠️ Cisco Spark Java SDK
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/ciscospark/spark-java-sdk)
+
+
+
+- **Stars**: ⭐ 67
+### 🛠️ Cisco Spark Python SDK by Brad Bester
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/brbester/pyCiscoSpark)
+
+
+- **Author**: 👤 brbester
+- **Stars**: ⭐ 30
+### 🛠️ Cisco Spark Python SDK
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/CiscoDevNet/ciscosparkapi)
+
+
+
+- **Stars**: ⭐ 256
+### 🛠️ Cisco Spark Node.js SDK by Flint Bot
+
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/flint-bot/sparky)
+
+
+
+- **Stars**: ⭐ 17
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

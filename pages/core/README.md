@@ -1,26 +1,32 @@
-# [CORE](https://core.ac.uk/services#api)
+# 📦 [CORE](https://core.ac.uk/services#api)
 
 
-CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories.
+> **CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories.**
 
-## Details
-- **Categories**: Science &amp; Math, Education, News &amp; Feeds
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Science &amp; Math`, `Education`, `News &amp; Feeds`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://core.ac.uk/services#api)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-support@configcat.com
+## 📬 Contact
+📧 support@configcat.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

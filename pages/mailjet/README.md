@@ -1,155 +1,177 @@
-# [Mailjet](https://dev.mailjet.com)
+# 📦 [Mailjet](https://dev.mailjet.com)
 
 
-Reliable and scalable email delivery platform with SMTP and API. 
+> **Reliable and scalable email delivery platform with SMTP and API. 
 Real-time monitoring service for all your email traffic. 
-Responsive email design with MJML and Passport
+Responsive email design with MJML and Passport**
 
-## Details
-- **Categories**: Email &amp; SMS, Marketing &amp; SEO, Analytics
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Email &amp; SMS`, `Marketing &amp; SEO`, `Analytics`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://dev.mailjet.com)
 
-## Libraries
-### Mailjet Symfony PHP SDK by Marc Galoyer
+## 🧰 Libraries
+### 🛠️ Mailjet Symfony PHP SDK by Marc Galoyer
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/uneak/MailjetBundle](https://github.com/uneak/MailjetBundle)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/uneak/MailjetBundle)
 
-- **Author**: uneak
-- **Stars**: 1
-### Mailjet Node.js SDK by Clément Delafargue
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/divarvel/node-mailjet-v3](https://github.com/divarvel/node-mailjet-v3)
+- **Author**: 👤 uneak
+- **Stars**: ⭐ 1
+### 🛠️ Mailjet Node.js SDK by Clément Delafargue
 
 
-- **Author**: divarvel
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/divarvel/node-mailjet-v3)
 
-### Mailjet Node.js SDK by psolbach
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/psolbach/node-mailjet](https://github.com/psolbach/node-mailjet)
+- **Author**: 👤 divarvel
 
+### 🛠️ Mailjet Node.js SDK by psolbach
 
-- **Author**: psolbach
 
-### Mailjet Symfony PHP SDK by Mehdi ZOGHLAMI
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/psolbach/node-mailjet)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/Vooodoo/MailJetBundle](https://github.com/Vooodoo/MailJetBundle)
 
+- **Author**: 👤 psolbach
 
+### 🛠️ Mailjet Symfony PHP SDK by Mehdi ZOGHLAMI
 
 
-### Mailjet Node.js SDK by panosru
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/Vooodoo/MailJetBundle)
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/panosru/node-mailjet](https://github.com/panosru/node-mailjet)
 
 
-- **Author**: panosru
-- **Stars**: 6
-### Mailjet Symfony PHP SDK by KNP Labs
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/KnpLabs/KnpMailjetBundle](https://github.com/KnpLabs/KnpMailjetBundle)
+### 🛠️ Mailjet Node.js SDK by panosru
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/panosru/node-mailjet)
 
-- **Stars**: 10
-### Mailjet Python SDK by Rick van Hattem
 
-- **Platform**: Python
-- **Docs**: [https://github.com/WoLpH/mailjet](https://github.com/WoLpH/mailjet)
+- **Author**: 👤 panosru
+- **Stars**: ⭐ 6
+### 🛠️ Mailjet Symfony PHP SDK by KNP Labs
 
 
-- **Author**: WoLpH
-- **Stars**: 18
-### Mailjet PHP SDK by Arnaud Ligny
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/KnpLabs/KnpMailjetBundle)
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/Narno/Mailjet-API](https://github.com/Narno/Mailjet-API)
 
 
+- **Stars**: ⭐ 10
+### 🛠️ Mailjet Python SDK by Rick van Hattem
 
-- **Stars**: 1
-### Mailjet Node.js SDK by Ryan Flanagan
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/Ranagan/node-mailjet-api](https://github.com/Ranagan/node-mailjet-api)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/WoLpH/mailjet)
 
 
-- **Author**: Ranagan
+- **Author**: 👤 WoLpH
+- **Stars**: ⭐ 18
+### 🛠️ Mailjet PHP SDK by Arnaud Ligny
 
-### Mailjet Elixir SDK by PiggyPot
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/PiggyPot/mailjex](https://github.com/PiggyPot/mailjex)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/Narno/Mailjet-API)
 
 
 
-- **Stars**: 7
-### Mailjet Go SDK by Mailjet
+- **Stars**: ⭐ 1
+### 🛠️ Mailjet Node.js SDK by Ryan Flanagan
 
-- **Platform**: Go
-- **Docs**: [https://github.com/mailjet/mailjet-apiv3-go](https://github.com/mailjet/mailjet-apiv3-go)
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/Ranagan/node-mailjet-api)
 
 
-- **Stars**: 51
-### Mailjet Python SDK by Mailjet
+- **Author**: 👤 Ranagan
 
-- **Platform**: Python
-- **Docs**: [https://github.com/mailjet/mailjet-apiv3-python](https://github.com/mailjet/mailjet-apiv3-python)
+### 🛠️ Mailjet Elixir SDK by PiggyPot
 
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/PiggyPot/mailjex)
 
-- **Stars**: 70
-### Mailjet Node.js SDK by Mailjet
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/mailjet/mailjet-apiv3-nodejs](https://github.com/mailjet/mailjet-apiv3-nodejs)
-- **Source**: [https://github.com/mailjet/mailjet-apiv3-nodejs](https://github.com/mailjet/mailjet-apiv3-nodejs)
 
+- **Stars**: ⭐ 7
+### 🛠️ Mailjet Go SDK by Mailjet
 
-- **Stars**: 134
-### Mailjet Ruby SDK by Mailjet
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/mailjet/mailjet-gem](https://github.com/mailjet/mailjet-gem)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-go)
 
 
 
-- **Stars**: 119
-### Mailjet Java SDK by Mailjet
+- **Stars**: ⭐ 51
+### 🛠️ Mailjet Python SDK by Mailjet
 
-- **Platform**: Java
-- **Docs**: [https://github.com/mailjet/mailjet-apiv3-java](https://github.com/mailjet/mailjet-apiv3-java)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-python)
 
 
-- **Stars**: 51
-### Mailjet PHP SDK by Mailjet
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/mailjet/mailjet-apiv3-php-simple](https://github.com/mailjet/mailjet-apiv3-php-simple)
+- **Stars**: ⭐ 70
+### 🛠️ Mailjet Node.js SDK by Mailjet
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-nodejs)
+- **Source**: [💻 Source Code](https://github.com/mailjet/mailjet-apiv3-nodejs)
 
-- **Stars**: 56
 
+- **Stars**: ⭐ 134
+### 🛠️ Mailjet Ruby SDK by Mailjet
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-gem)
+
+
+
+- **Stars**: ⭐ 119
+### 🛠️ Mailjet Java SDK by Mailjet
+
+
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-java)
+
+
+
+- **Stars**: ⭐ 51
+### 🛠️ Mailjet PHP SDK by Mailjet
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-php-simple)
+
+
+
+- **Stars**: ⭐ 56
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

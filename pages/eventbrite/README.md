@@ -1,114 +1,131 @@
-# [EventBrite](https://www.eventbrite.com/platform/)
+# 📦 [EventBrite](https://www.eventbrite.com/platform/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eventbrite/logo_256x256.png" alt="EventBrite logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eventbrite/logo_256x256.png" alt="EventBrite logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on GitHub. Eventbrite Python SDK
+> **Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on GitHub. Eventbrite Python SDK**
 
-## Details
-- **Categories**: Authentication &amp; User Management, Social, Events, Marketing &amp; SEO
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Authentication &amp; User Management`, `Social`, `Events`, `Marketing &amp; SEO`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.eventbrite.com/platform/)
 
-## Libraries
-### Eventbrite Python SDK
-
-- **Platform**: Python
-- **Docs**: [https://github.com/eventbrite/eventbrite-sdk-python](https://github.com/eventbrite/eventbrite-sdk-python)
+## 🧰 Libraries
+### 🛠️ Eventbrite Python SDK
 
 
-
-- **Stars**: 5
-### Eventbrite PHP SDK by Jamie Hollern
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/jamiehollern/eventbrite](https://github.com/jamiehollern/eventbrite)
-
-
-- **Author**: jamiehollern
-- **Stars**: 20
-### Eventbrite PHP SDK by ryan jarvinen
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/ryanjarvinen/eventbrite.php](https://github.com/ryanjarvinen/eventbrite.php)
-
-
-- **Author**: ryanjarvinen
-- **Stars**: 45
-### Eventbrite Node.js SDK by DataHero
-
-- **Platform**: Node.js
-- **Docs**: [https://github.com/Datahero/node-eventbrite](https://github.com/Datahero/node-eventbrite)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/eventbrite/eventbrite-sdk-python)
 
 
 
-- **Stars**: 25
-### Eventbrite .NET Client Library
-
-- **Platform**: .Net
-- **Docs**: [https://github.com/penguinboy/Eventbrite.NET](https://github.com/penguinboy/Eventbrite.NET)
+- **Stars**: ⭐ 5
+### 🛠️ Eventbrite PHP SDK by Jamie Hollern
 
 
-- **Author**: penguinboy
-- **Stars**: 26
-### Eventbrite C# Client Library
-
-- **Platform**: C#
-- **Docs**: [https://github.com/ghurlman/EventBrite.WinStore](https://github.com/ghurlman/EventBrite.WinStore)
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/jamiehollern/eventbrite)
 
 
-- **Author**: ghurlman
-- **Stars**: 5
-### Eventbrite JavaScript Client Library
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/eventbrite/Eventbrite.jquery.js](https://github.com/eventbrite/Eventbrite.jquery.js)
+- **Author**: 👤 jamiehollern
+- **Stars**: ⭐ 20
+### 🛠️ Eventbrite PHP SDK by ryan jarvinen
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/ryanjarvinen/eventbrite.php)
 
 
-### Eventbrite Node.js Client Library
+- **Author**: 👤 ryanjarvinen
+- **Stars**: ⭐ 45
+### 🛠️ Eventbrite Node.js SDK by DataHero
 
-- **Platform**: Node.js
-- **Docs**: [https://github.com/eventbrite/eventbrite.npm](https://github.com/eventbrite/eventbrite.npm)
+
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/Datahero/node-eventbrite)
 
 
 
+- **Stars**: ⭐ 25
+### 🛠️ Eventbrite .NET Client Library
 
-### Eventbrite Ruby Client Library
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/eventbrite/eventbrite-client.rb](https://github.com/eventbrite/eventbrite-client.rb)
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/penguinboy/Eventbrite.NET)
+
+
+- **Author**: 👤 penguinboy
+- **Stars**: ⭐ 26
+### 🛠️ Eventbrite C# Client Library
+
+
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/ghurlman/EventBrite.WinStore)
+
+
+- **Author**: 👤 ghurlman
+- **Stars**: ⭐ 5
+### 🛠️ Eventbrite JavaScript Client Library
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/eventbrite/Eventbrite.jquery.js)
 
 
 
 
-### Eventbrite Python Client Library
-
-- **Platform**: Python
-- **Docs**: [https://github.com/eventbrite/eventbrite-client-py](https://github.com/eventbrite/eventbrite-client-py)
+### 🛠️ Eventbrite Node.js Client Library
 
 
-
-- **Stars**: 1
-### Eventbrite PHP Client Library
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/eventbrite/eventbrite.php](https://github.com/eventbrite/eventbrite.php)
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/eventbrite/eventbrite.npm)
 
 
 
-- **Stars**: 1
+
+### 🛠️ Eventbrite Ruby Client Library
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/eventbrite/eventbrite-client.rb)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+### 🛠️ Eventbrite Python Client Library
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/eventbrite/eventbrite-client-py)
+
+
+
+- **Stars**: ⭐ 1
+### 🛠️ Eventbrite PHP Client Library
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/eventbrite/eventbrite.php)
+
+
+
+- **Stars**: ⭐ 1
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

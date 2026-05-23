@@ -1,226 +1,257 @@
-# [Quandl](https://www.quandl.com/)
+# 📦 [Quandl](https://www.quandl.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quandl/logo_256x256.png" alt="Quandl logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quandl/logo_256x256.png" alt="Quandl logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-The source for financial, economic, and alternative datasets, serving investment professionals.
+> **The source for financial, economic, and alternative datasets, serving investment professionals.**
 
-## Details
-- **Categories**: Finance &amp; Economics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Finance &amp; Economics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.quandl.com/)
 
-## Libraries
-### QuandlAPIClient Swift SDK by suzhoupanda
+## 🧰 Libraries
+### 🛠️ QuandlAPIClient Swift SDK by suzhoupanda
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/suzhoupanda/QuandlAPIClient](https://github.com/suzhoupanda/QuandlAPIClient)
 
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/suzhoupanda/QuandlAPIClient)
 
-- **Author**: suzhoupanda
 
-### Quandl Python SDK by Samvaran Sharma
+- **Author**: 👤 suzhoupanda
 
-- **Platform**: Python
-- **Docs**: [https://github.com/samvaran/historical_stock_data](https://github.com/samvaran/historical_stock_data)
+### 🛠️ Quandl Python SDK by Samvaran Sharma
 
 
-- **Author**: samvaran
-- **Stars**: 2
-### Quandl .NET SDK by Marissa
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/samvaran/historical_stock_data)
 
-- **Platform**: .Net
-- **Docs**: [https://github.com/paranoidTwitch/DotNetConnect.Quandl](https://github.com/paranoidTwitch/DotNetConnect.Quandl)
 
+- **Author**: 👤 samvaran
+- **Stars**: ⭐ 2
+### 🛠️ Quandl .NET SDK by Marissa
 
 
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/paranoidTwitch/DotNetConnect.Quandl)
 
-### Quandl Python SDK by Jyoti_Shambho
 
-- **Platform**: Python
-- **Docs**: [https://github.com/JSidh/legendary-ttf](https://github.com/JSidh/legendary-ttf)
 
 
-- **Author**: JSidh
+### 🛠️ Quandl Python SDK by Jyoti_Shambho
 
-### Quandl Python SDK by Beiwen Liu
 
-- **Platform**: Python
-- **Docs**: [https://github.com/BeiwenLiu/StockUp](https://github.com/BeiwenLiu/StockUp)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/JSidh/legendary-ttf)
 
 
-- **Author**: BeiwenLiu
+- **Author**: 👤 JSidh
 
-### Quandl Java SDK by Thomas Schlabra
+### 🛠️ Quandl Python SDK by Beiwen Liu
 
-- **Platform**: Java
-- **Docs**: [https://github.com/TexanBackpacker/securities-data-calculator](https://github.com/TexanBackpacker/securities-data-calculator)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/BeiwenLiu/StockUp)
 
 
+- **Author**: 👤 BeiwenLiu
 
-### Quandl JavaScript SDK by dlimx
+### 🛠️ Quandl Java SDK by Thomas Schlabra
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/dlimx/stock-vis](https://github.com/dlimx/stock-vis)
 
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/TexanBackpacker/securities-data-calculator)
 
-- **Author**: dlimx
 
-### Quandl Annual Company Data Python SDK by adubashi
 
-- **Platform**: Python
-- **Docs**: [https://github.com/adubashi/annualCompanyData](https://github.com/adubashi/annualCompanyData)
 
+### 🛠️ Quandl JavaScript SDK by dlimx
 
-- **Author**: adubashi
 
-### Quandl Python SDK by Spencer Delcore
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/dlimx/stock-vis)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/sdelcore/quandl-retriever](https://github.com/sdelcore/quandl-retriever)
 
+- **Author**: 👤 dlimx
 
-- **Author**: sdelcore
+### 🛠️ Quandl Annual Company Data Python SDK by adubashi
 
-### Quandl Go SDK by tchitchikov
 
-- **Platform**: Go
-- **Docs**: [https://github.com/tchitchikov/instant_cocoa](https://github.com/tchitchikov/instant_cocoa)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/adubashi/annualCompanyData)
 
 
-- **Author**: tchitchikov
+- **Author**: 👤 adubashi
 
-### Quandl Scala SDK by Kaiwalya Kher
+### 🛠️ Quandl Python SDK by Spencer Delcore
 
-- **Platform**: Scala
-- **Docs**: [https://github.com/kaiwalya/scandl](https://github.com/kaiwalya/scandl)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/sdelcore/quandl-retriever)
 
 
+- **Author**: 👤 sdelcore
 
-### Quandl JavaScript SDK by Ian Halverson
+### 🛠️ Quandl Go SDK by tchitchikov
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/IDHalverson/quandl-eod-helper](https://github.com/IDHalverson/quandl-eod-helper)
-- **Source**: [https://www.npmjs.com/package/quandl-eod-helper](https://www.npmjs.com/package/quandl-eod-helper)
 
-- **Author**: IDHalverson
-- **Stars**: 1
-### Quandl JavaScript SDK by Jerry Hamlet
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/tchitchikov/instant_cocoa)
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/jhamlet/quandler](https://github.com/jhamlet/quandler)
 
+- **Author**: 👤 tchitchikov
 
-- **Author**: jhamlet
-- **Stars**: 1
-### Quandl React Native SDK by azaleas
+### 🛠️ Quandl Scala SDK by Kaiwalya Kher
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/azaleas/react-native-stockticker](https://github.com/azaleas/react-native-stockticker)
 
+- **Platform**: `Scala`
+- **Docs**: [📚 Documentation](https://github.com/kaiwalya/scandl)
 
-- **Author**: azaleas
 
-### Quandl Python SDK by TommyRedblue
 
-- **Platform**: Python
-- **Docs**: [https://github.com/TommyRedblue/quandl_viewer](https://github.com/TommyRedblue/quandl_viewer)
 
+### 🛠️ Quandl JavaScript SDK by Ian Halverson
 
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/IDHalverson/quandl-eod-helper)
+- **Source**: [💻 Source Code](https://www.npmjs.com/package/quandl-eod-helper)
 
-### Quandl PHP SDK by wells5609
+- **Author**: 👤 IDHalverson
+- **Stars**: ⭐ 1
+### 🛠️ Quandl JavaScript SDK by Jerry Hamlet
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/wells5609/Quandl-PHP](https://github.com/wells5609/Quandl-PHP)
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/jhamlet/quandler)
 
-- **Author**: wells5609
-- **Stars**: 1
-### Quandl Go SDK by Cédric
 
-- **Platform**: Go
-- **Docs**: [https://github.com/cedricmar/go-quandl](https://github.com/cedricmar/go-quandl)
+- **Author**: 👤 jhamlet
+- **Stars**: ⭐ 1
+### 🛠️ Quandl React Native SDK by azaleas
 
 
-- **Author**: cedricmar
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/azaleas/react-native-stockticker)
 
-### Quandl Haskell SDK by Rogério Chaves
 
-- **Platform**: Haskell
-- **Docs**: [https://github.com/rogeriochaves/quandl-downloader](https://github.com/rogeriochaves/quandl-downloader)
+- **Author**: 👤 azaleas
 
+### 🛠️ Quandl Python SDK by TommyRedblue
 
-- **Author**: rogeriochaves
 
-### Quandl Go SDK by twold
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/TommyRedblue/quandl_viewer)
 
-- **Platform**: Go
-- **Docs**: [https://github.com/twold/go-quandl](https://github.com/twold/go-quandl)
 
 
-- **Author**: twold
 
-### Quandl Python SDK by Steven Gao
+### 🛠️ Quandl PHP SDK by wells5609
 
-- **Platform**: Python
-- **Docs**: [https://github.com/stevenlusonggao/Quandl-Python-API-Wrapper](https://github.com/stevenlusonggao/Quandl-Python-API-Wrapper)
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/wells5609/Quandl-PHP)
 
-- **Author**: stevenlusonggao
 
-### Quandl JavaScript SDK by Yash Paliwal
+- **Author**: 👤 wells5609
+- **Stars**: ⭐ 1
+### 🛠️ Quandl Go SDK by Cédric
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/ypaliwal/quandlVisualizer](https://github.com/ypaliwal/quandlVisualizer)
 
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/cedricmar/go-quandl)
 
-- **Author**: ypaliwal
 
-### Quandl Ruby SDK by erikwjonsson
+- **Author**: 👤 cedricmar
 
-- **Platform**: Ruby
-- **Docs**: [https://github.com/erikwjonsson/quandl_api_client](https://github.com/erikwjonsson/quandl_api_client)
+### 🛠️ Quandl Haskell SDK by Rogério Chaves
 
 
-- **Author**: std6566
+- **Platform**: `Haskell`
+- **Docs**: [📚 Documentation](https://github.com/rogeriochaves/quandl-downloader)
 
-### Quandl Clojure SDK by keorn
 
-- **Platform**: Clojure
-- **Docs**: [https://github.com/keorn/clj-quandl-api](https://github.com/keorn/clj-quandl-api)
+- **Author**: 👤 rogeriochaves
 
+### 🛠️ Quandl Go SDK by twold
 
-- **Author**: keorn
-- **Stars**: 2
-### Quandl Python SDK by Carlos Christian Salazar
 
-- **Platform**: Python
-- **Docs**: [https://github.com/ccsalazar/quandl-api](https://github.com/ccsalazar/quandl-api)
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/twold/go-quandl)
 
 
+- **Author**: 👤 twold
 
+### 🛠️ Quandl Python SDK by Steven Gao
 
-### Quandl C++ SDK by Daniel Cardenas
 
-- **Platform**: C++
-- **Docs**: [https://github.com/danielcardeenas/quandl-cpp](https://github.com/danielcardeenas/quandl-cpp)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/stevenlusonggao/Quandl-Python-API-Wrapper)
 
 
-- **Author**: danielcardeenas
+- **Author**: 👤 stevenlusonggao
 
+### 🛠️ Quandl JavaScript SDK by Yash Paliwal
 
 
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/ypaliwal/quandlVisualizer)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 ypaliwal
+
+### 🛠️ Quandl Ruby SDK by erikwjonsson
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/erikwjonsson/quandl_api_client)
+
+
+- **Author**: 👤 std6566
+
+### 🛠️ Quandl Clojure SDK by keorn
+
+
+- **Platform**: `Clojure`
+- **Docs**: [📚 Documentation](https://github.com/keorn/clj-quandl-api)
+
+
+- **Author**: 👤 keorn
+- **Stars**: ⭐ 2
+### 🛠️ Quandl Python SDK by Carlos Christian Salazar
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/ccsalazar/quandl-api)
+
+
+
+
+### 🛠️ Quandl C++ SDK by Daniel Cardenas
+
+
+- **Platform**: `C++`
+- **Docs**: [📚 Documentation](https://github.com/danielcardeenas/quandl-cpp)
+
+
+- **Author**: 👤 danielcardeenas
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

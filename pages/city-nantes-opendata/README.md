@@ -1,24 +1,32 @@
-# [City, Nantes Opendata](https://data.nantesmetropole.fr/pages/home/)
+# 📦 [City, Nantes Opendata](https://data.nantesmetropole.fr/pages/home/)
 
 
-Open public data (Open data) made available by the City of Nantes and Nantes Métropole
+> **Open public data (Open data) made available by the City of Nantes and Nantes Métropole**
 
-## Details
-- **Categories**: Government
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Government`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://data.nantesmetropole.fr/pages/home/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

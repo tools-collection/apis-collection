@@ -1,41 +1,49 @@
-# [Sharedcount](http://docs.sharedcount.com/)
+# 📦 [Sharedcount](http://docs.sharedcount.com/)
 
 
-Social media like and share data for any URL.
+> **Social media like and share data for any URL.**
 
-## Details
-- **Categories**: Social, Analytics
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Social`, `Analytics`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](http://docs.sharedcount.com/)
 
-## Libraries
-### SharedCount Ruby SDK by Cristian Rasch
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/wecodeio/shared_count_api](https://github.com/wecodeio/shared_count_api)
+## 🧰 Libraries
+### 🛠️ SharedCount Ruby SDK by Cristian Rasch
 
 
-
-- **Stars**: 4
-### SharedCount Python SDK by Benjamin Estes
-
-- **Platform**: Python
-- **Docs**: [https://github.com/benjaminestes/countgrab-client](https://github.com/benjaminestes/countgrab-client)
-
-
-- **Author**: benjaminestes
-- **Stars**: 1
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/wecodeio/shared_count_api)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 4
+### 🛠️ SharedCount Python SDK by Benjamin Estes
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/benjaminestes/countgrab-client)
+
+
+- **Author**: 👤 benjaminestes
+- **Stars**: ⭐ 1
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

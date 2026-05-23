@@ -1,52 +1,59 @@
-# [YNAB](https://api.youneedabudget.com/)
+# 📦 [YNAB](https://api.youneedabudget.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png" alt="YNAB logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png" alt="YNAB logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-You Need A Budget API. YNAB is a budgeting app that helps you confidently spend your money, get out of debt, and take control of your financial freedom.
+> **You Need A Budget API. YNAB is a budgeting app that helps you confidently spend your money, get out of debt, and take control of your financial freedom.**
 
-## Details
-- **Categories**: Finance &amp; Economics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Finance &amp; Economics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://api.youneedabudget.com/)
 
-## Libraries
-### YNAB PowerShell SDK by Connor Griffin
-
-- **Platform**: .Net
-- **Docs**: [https://api.youneedabudget.com/#clients-community](https://api.youneedabudget.com/#clients-community)
-- **Source**: [https://github.com/ConnorGriffin/Posh-YNAB](https://github.com/ConnorGriffin/Posh-YNAB)
-
-- **Author**: ConnorGriffin
-- **Stars**: 12
-### YNAB JavaScript SDK
-
-- **Platform**: JavaScript
-- **Docs**: [https://api.youneedabudget.com/#client-javascript](https://api.youneedabudget.com/#client-javascript)
-- **Source**: [https://github.com/ynab/ynab-sdk-js](https://github.com/ynab/ynab-sdk-js)
+## 🧰 Libraries
+### 🛠️ YNAB PowerShell SDK by Connor Griffin
 
 
-- **Stars**: 164
-### YNAB Ruby SDK
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://api.youneedabudget.com/#clients-community)
+- **Source**: [💻 Source Code](https://github.com/ConnorGriffin/Posh-YNAB)
 
-- **Platform**: Ruby
-- **Docs**: [https://api.youneedabudget.com/#client-ruby](https://api.youneedabudget.com/#client-ruby)
-- **Source**: [https://github.com/ynab/ynab-sdk-ruby](https://github.com/ynab/ynab-sdk-ruby)
-
-
-- **Stars**: 49
-
-## Contact
-contact@wordassociations.net
+- **Author**: 👤 ConnorGriffin
+- **Stars**: ⭐ 12
+### 🛠️ YNAB JavaScript SDK
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://api.youneedabudget.com/#client-javascript)
+- **Source**: [💻 Source Code](https://github.com/ynab/ynab-sdk-js)
+
+
+- **Stars**: ⭐ 164
+### 🛠️ YNAB Ruby SDK
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://api.youneedabudget.com/#client-ruby)
+- **Source**: [💻 Source Code](https://github.com/ynab/ynab-sdk-ruby)
+
+
+- **Stars**: ⭐ 49
+
+## 📬 Contact
+📧 contact@wordassociations.net
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

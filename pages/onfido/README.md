@@ -1,114 +1,131 @@
-# [Onfido](https://documentation.onfido.com)
+# 📦 [Onfido](https://documentation.onfido.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/onfido/logo_256x256.png" alt="Onfido logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/onfido/logo_256x256.png" alt="Onfido logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime. Document report: Object Results The result field indicates the overall report result. Possible values for Document reports are clear and consider: Report resultclearIf all underlying verifications. Identity verification at the speed of life. It’s as simple as an ID and a selfie
+> **Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime. Document report: Object Results The result field indicates the overall report result. Possible values for Document reports are clear and consider: Report resultclearIf all underlying verifications. Identity verification at the speed of life. It’s as simple as an ID and a selfie**
 
-## Details
-- **Categories**: Security, Validation &amp; Verification, Authentication &amp; User Management, AI &amp; ML
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Security`, `Validation &amp; Verification`, `Authentication &amp; User Management`, `AI &amp; ML`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://documentation.onfido.com)
 
-## Libraries
-### Onfido Background Checks Android SDK
-
-- **Platform**: Java
-- **Docs**: [https://github.com/onfido/onfido-android-sdk](https://github.com/onfido/onfido-android-sdk)
+## 🧰 Libraries
+### 🛠️ Onfido Background Checks Android SDK
 
 
-
-- **Stars**: 85
-### Onfido Background Checks .Net SDK
-
-- **Platform**: .Net
-- **Docs**: [https://github.com/onfido/onfido.net](https://github.com/onfido/onfido.net)
-- **Source**: [https://www.nuget.org/packages/Onfido.NET](https://www.nuget.org/packages/Onfido.NET)
-
-
-- **Stars**: 3
-### Onfido Background Checks Java SDK
-
-- **Platform**: Java
-- **Docs**: [https://github.com/onfido/api-java-client](https://github.com/onfido/api-java-client)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/onfido/onfido-android-sdk)
 
 
 
-- **Stars**: 4
-### Onfido Background Checks JavaScript SDK
-
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/onfido/api-javascript-client](https://github.com/onfido/api-javascript-client)
+- **Stars**: ⭐ 85
+### 🛠️ Onfido Background Checks .Net SDK
 
 
-
-- **Stars**: 3
-### Onfido Background Checks C# SDK
-
-- **Platform**: C#
-- **Docs**: [https://github.com/onfido/api-csharp-client](https://github.com/onfido/api-csharp-client)
+- **Platform**: `.Net`
+- **Docs**: [📚 Documentation](https://github.com/onfido/onfido.net)
+- **Source**: [💻 Source Code](https://www.nuget.org/packages/Onfido.NET)
 
 
+- **Stars**: ⭐ 3
+### 🛠️ Onfido Background Checks Java SDK
 
 
-### Onfido Background Checks iOS SDK
-
-- **Platform**: Swift
-- **Docs**: [https://github.com/onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)
+- **Platform**: `Java`
+- **Docs**: [📚 Documentation](https://github.com/onfido/api-java-client)
 
 
 
-- **Stars**: 63
-###  Onfido Background Checks Go SDK by Outdoorsy
-
-- **Platform**: Go
-- **Docs**: [https://onfido.com/documentation#client-libraries](https://onfido.com/documentation#client-libraries)
-- **Source**: [https://github.com/outdoorsy/onfido](https://github.com/outdoorsy/onfido)
+- **Stars**: ⭐ 4
+### 🛠️ Onfido Background Checks JavaScript SDK
 
 
-
-### Onfido Background Checks Go SDK
-
-- **Platform**: Go
-- **Docs**: [https://onfido.com/documentation#go](https://onfido.com/documentation#go)
-- **Source**: [https://github.com/outdoorsy/onfido](https://github.com/outdoorsy/onfido)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/onfido/api-javascript-client)
 
 
 
-### Onfido Background Checks PHP SDK
-
-- **Platform**: PHP
-- **Docs**: [https://onfido.com/documentation#php](https://onfido.com/documentation#php)
-- **Source**: [https://github.com/onfido/php-onfido](https://github.com/onfido/php-onfido)
+- **Stars**: ⭐ 3
+### 🛠️ Onfido Background Checks C# SDK
 
 
-- **Stars**: 3
-###  Onfido Background Checks Python SDK
-
-- **Platform**: Python
-- **Docs**: [https://onfido.com/documentation#python](https://onfido.com/documentation#python)
-- **Source**: [https://github.com/onfido/pyonfido](https://github.com/onfido/pyonfido)
-
-
-- **Stars**: 11
-### Onfido Background Checks Ruby SDK by Hassle
-
-- **Platform**: Ruby
-- **Docs**: [https://onfido.com/documentation#ruby](https://onfido.com/documentation#ruby)
-- **Source**: [https://github.com/hvssle/onfido](https://github.com/hvssle/onfido)
-
-
-- **Stars**: 23
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/onfido/api-csharp-client)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+### 🛠️ Onfido Background Checks iOS SDK
+
+
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/onfido/onfido-ios-sdk)
+
+
+
+- **Stars**: ⭐ 63
+### 🛠️  Onfido Background Checks Go SDK by Outdoorsy
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://onfido.com/documentation#client-libraries)
+- **Source**: [💻 Source Code](https://github.com/outdoorsy/onfido)
+
+
+
+### 🛠️ Onfido Background Checks Go SDK
+
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://onfido.com/documentation#go)
+- **Source**: [💻 Source Code](https://github.com/outdoorsy/onfido)
+
+
+
+### 🛠️ Onfido Background Checks PHP SDK
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://onfido.com/documentation#php)
+- **Source**: [💻 Source Code](https://github.com/onfido/php-onfido)
+
+
+- **Stars**: ⭐ 3
+### 🛠️  Onfido Background Checks Python SDK
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://onfido.com/documentation#python)
+- **Source**: [💻 Source Code](https://github.com/onfido/pyonfido)
+
+
+- **Stars**: ⭐ 11
+### 🛠️ Onfido Background Checks Ruby SDK by Hassle
+
+
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://onfido.com/documentation#ruby)
+- **Source**: [💻 Source Code](https://github.com/hvssle/onfido)
+
+
+- **Stars**: ⭐ 23
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

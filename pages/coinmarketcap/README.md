@@ -1,226 +1,257 @@
-# [CoinMarketCap](https://coinmarketcap.com/api/)
+# 📦 [CoinMarketCap](https://coinmarketcap.com/api/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinmarketcap/logo_256x256.png" alt="CoinMarketCap logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinmarketcap/logo_256x256.png" alt="CoinMarketCap logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Cryptocurrencies Prices. Use CoinMarketCap&#x27;s free crypto API to get the best, most accurate real-time, historical cryptocurrency and exchange trade data for Bitcoin, Ethereum and more
+> **Cryptocurrencies Prices. Use CoinMarketCap&#x27;s free crypto API to get the best, most accurate real-time, historical cryptocurrency and exchange trade data for Bitcoin, Ethereum and more**
 
-## Details
-- **Categories**: Blockchain &amp; Cryptocurrencies
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://coinmarketcap.com/api/)
 
-## Libraries
-### Cryptocurrencies API Laravel Manager PHP SDK by Mattia Clementi
+## 🧰 Libraries
+### 🛠️ Cryptocurrencies API Laravel Manager PHP SDK by Mattia Clementi
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/ilCleme/cryptocurrencies-laravel](https://github.com/ilCleme/cryptocurrencies-laravel)
-- **Source**: [https://packagist.org/packages/ilcleme/cryptocurrencies-laravel](https://packagist.org/packages/ilcleme/cryptocurrencies-laravel)
 
-- **Author**: ilCleme
-- **Stars**: 3
-### CoinMarketCap Python SDK by Miguel Mota
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/ilCleme/cryptocurrencies-laravel)
+- **Source**: [💻 Source Code](https://packagist.org/packages/ilcleme/cryptocurrencies-laravel)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/CoinCircle/go-coinmarketcap](https://github.com/CoinCircle/go-coinmarketcap)
+- **Author**: 👤 ilCleme
+- **Stars**: ⭐ 3
+### 🛠️ CoinMarketCap Python SDK by Miguel Mota
 
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/CoinCircle/go-coinmarketcap)
 
-- **Stars**: 64
-### CoinMarketCap JavaScript SDK by Abhinav Kasamsetty
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/tiaanduplessis/coinmarketcap-api](https://github.com/tiaanduplessis/coinmarketcap-api)
 
+- **Stars**: ⭐ 64
+### 🛠️ CoinMarketCap JavaScript SDK by Abhinav Kasamsetty
 
-- **Author**: tiaanduplessis
-- **Stars**: 119
-### Crypto2discord Python SDK by Azerpas
 
-- **Platform**: Python
-- **Docs**: [https://github.com/azerpas/Crypto2discord](https://github.com/azerpas/Crypto2discord)
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/tiaanduplessis/coinmarketcap-api)
 
 
-- **Author**: azerpas
-- **Stars**: 7
-### R-Cryptocurrencies R SDK by GinzaLion
+- **Author**: 👤 tiaanduplessis
+- **Stars**: ⭐ 119
+### 🛠️ Crypto2discord Python SDK by Azerpas
 
-- **Platform**: R
-- **Docs**: [https://github.com/GinzaLion/R-Cryptocurrencies](https://github.com/GinzaLion/R-Cryptocurrencies)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/azerpas/Crypto2discord)
 
 
+- **Author**: 👤 azerpas
+- **Stars**: ⭐ 7
+### 🛠️ R-Cryptocurrencies R SDK by GinzaLion
 
-### Cryptex iOS SDK by Sathya Rajaraman
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/trsathya/Cryptex](https://github.com/trsathya/Cryptex)
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](https://github.com/GinzaLion/R-Cryptocurrencies)
 
 
-- **Author**: trsathya
-- **Stars**: 65
-### BitcoinAverage Python PIP SDK
 
-- **Platform**: Python
-- **Docs**: [https://github.com/bitcoinaverage/api-integration-examples/](https://github.com/bitcoinaverage/api-integration-examples/)
 
+### 🛠️ Cryptex iOS SDK by Sathya Rajaraman
 
 
-- **Stars**: 63
-### Crypto-Grabber Python SDK by Brandon Jew
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/trsathya/Cryptex)
 
-- **Platform**: Python
-- **Docs**: [https://github.com/brandonjew/crypto-grabber](https://github.com/brandonjew/crypto-grabber)
 
+- **Author**: 👤 trsathya
+- **Stars**: ⭐ 65
+### 🛠️ BitcoinAverage Python PIP SDK
 
-- **Author**: brandonjew
 
-### CoinMarketCap Elixir SDK by Arthur M. Collé
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/bitcoinaverage/api-integration-examples/)
 
-- **Platform**: Elixir
-- **Docs**: [https://github.com/arthurcolle/CoinMarketCap.ex](https://github.com/arthurcolle/CoinMarketCap.ex)
 
 
-- **Author**: stochastic-thread
+- **Stars**: ⭐ 63
+### 🛠️ Crypto-Grabber Python SDK by Brandon Jew
 
-### CoinMarketCap Go SDK by Shaun Morrow
 
-- **Platform**: Go
-- **Docs**: [https://github.com/shaunmza/coinmarketcap](https://github.com/shaunmza/coinmarketcap)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/brandonjew/crypto-grabber)
 
 
-- **Author**: shaunmza
+- **Author**: 👤 brandonjew
 
-### CoinMarketCap Python SDK by mharvilla
+### 🛠️ CoinMarketCap Elixir SDK by Arthur M. Collé
 
-- **Platform**: Python
-- **Docs**: [https://github.com/mharvilla/crypto](https://github.com/mharvilla/crypto)
 
+- **Platform**: `Elixir`
+- **Docs**: [📚 Documentation](https://github.com/arthurcolle/CoinMarketCap.ex)
 
-- **Author**: mharvilla
 
-### CoinMarketCap .NET SDK by Ryan L.
+- **Author**: 👤 stochastic-thread
 
-- **Platform**: .Net, C#
-- **Docs**: [https://github.com/MTS11648/Dogecoin-Live-Updater](https://github.com/MTS11648/Dogecoin-Live-Updater)
+### 🛠️ CoinMarketCap Go SDK by Shaun Morrow
 
 
-- **Author**: RyanLaFauci
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/shaunmza/coinmarketcap)
 
-### CoinMarketCap Swift SDK by Kuyawa Kata
 
-- **Platform**: Swift
-- **Docs**: [https://github.com/kuyawa/Altcoins](https://github.com/kuyawa/Altcoins)
+- **Author**: 👤 shaunmza
 
+### 🛠️ CoinMarketCap Python SDK by mharvilla
 
-- **Author**: kuyawa
-- **Stars**: 5
-### CoinMarketCap Wordpress PHP SDK by alpual
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/alpual/coinvis](https://github.com/alpual/coinvis)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/mharvilla/crypto)
 
 
-- **Author**: alpual
-- **Stars**: 3
-### CoinMarketCap Python SDK by bobbysto
+- **Author**: 👤 mharvilla
 
-- **Platform**: Python
-- **Docs**: [https://github.com/bobbysto/python-coinmarketcap](https://github.com/bobbysto/python-coinmarketcap)
+### 🛠️ CoinMarketCap .NET SDK by Ryan L.
 
 
+- **Platform**: `.Net, C#`
+- **Docs**: [📚 Documentation](https://github.com/MTS11648/Dogecoin-Live-Updater)
 
 
-### CoinMarketCap Python SDK by Ruan Bekker
+- **Author**: 👤 RyanLaFauci
 
-- **Platform**: Python
-- **Docs**: [https://github.com/ruanbekker/faas-coinmarketcap](https://github.com/ruanbekker/faas-coinmarketcap)
+### 🛠️ CoinMarketCap Swift SDK by Kuyawa Kata
 
 
-- **Author**: ruanbekker
-- **Stars**: 5
-### CoinMarketCap C# SDK by raghupallavi
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/kuyawa/Altcoins)
 
-- **Platform**: C#
-- **Docs**: [https://github.com/raghupallavi/CoinMarketCap-CSharp-Api](https://github.com/raghupallavi/CoinMarketCap-CSharp-Api)
 
+- **Author**: 👤 kuyawa
+- **Stars**: ⭐ 5
+### 🛠️ CoinMarketCap Wordpress PHP SDK by alpual
 
 
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/alpual/coinvis)
 
-### CoinMarketCap Python SDK by stephen-l
 
-- **Platform**: Python
-- **Docs**: [https://github.com/stephen-l/CryptoTicker](https://github.com/stephen-l/CryptoTicker)
+- **Author**: 👤 alpual
+- **Stars**: ⭐ 3
+### 🛠️ CoinMarketCap Python SDK by bobbysto
 
 
-- **Author**: stephen-l
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/bobbysto/python-coinmarketcap)
 
-### CoinMarketCap Python SDK by Cryptodroid
 
-- **Platform**: Python
-- **Docs**: [https://github.com/cryptodroid-litecoin/Coinmarketcap-graph](https://github.com/cryptodroid-litecoin/Coinmarketcap-graph)
 
 
-- **Author**: cryptodroid-litecoin
-- **Stars**: 1
-### CoinMarketCap ReactJS SDK by gwolf2
+### 🛠️ CoinMarketCap Python SDK by Ruan Bekker
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/gwolf2/crypto-prices](https://github.com/gwolf2/crypto-prices)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/ruanbekker/faas-coinmarketcap)
 
-- **Author**: gwolf2
 
-### CoinMarketCap Go SDK by Decarium
+- **Author**: 👤 ruanbekker
+- **Stars**: ⭐ 5
+### 🛠️ CoinMarketCap C# SDK by raghupallavi
 
-- **Platform**: Go
-- **Docs**: [https://github.com/Decarium/go-coinmarketcap](https://github.com/Decarium/go-coinmarketcap)
 
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/raghupallavi/CoinMarketCap-CSharp-Api)
 
 
-- **Stars**: 1
-### CoinMarketCap .NET SDK by Scott Christian
 
-- **Platform**: .Net, C#
-- **Docs**: [https://github.com/dezryth/ccticker](https://github.com/dezryth/ccticker)
 
+### 🛠️ CoinMarketCap Python SDK by stephen-l
 
-- **Author**: dezryth
 
-### CoinMarketCap GraphQL SDK by Arnaud Christ
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/stephen-l/CryptoTicker)
 
-- **Platform**: Unspecified
-- **Docs**: [https://github.com/Onra/graphql-coinmarketcap](https://github.com/Onra/graphql-coinmarketcap)
 
+- **Author**: 👤 stephen-l
 
-- **Author**: Onra
-- **Stars**: 2
-### CoinMarketCap PHP SDK by Joshua Cidoni-Walker
+### 🛠️ CoinMarketCap Python SDK by Cryptodroid
 
-- **Platform**: PHP
-- **Docs**: [https://github.com/jcidoniwalker/coinmarket_json_parser](https://github.com/jcidoniwalker/coinmarket_json_parser)
 
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/cryptodroid-litecoin/Coinmarketcap-graph)
 
-- **Author**: jcidoniwalker
-- **Stars**: 8
-### CoinMarketCap Node.js SDK by haakym
 
-- **Platform**: JavaScript, Node.js
-- **Docs**: [https://github.com/haakym/coinme](https://github.com/haakym/coinme)
+- **Author**: 👤 cryptodroid-litecoin
+- **Stars**: ⭐ 1
+### 🛠️ CoinMarketCap ReactJS SDK by gwolf2
 
 
-- **Author**: haakym
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/gwolf2/crypto-prices)
 
 
+- **Author**: 👤 gwolf2
 
+### 🛠️ CoinMarketCap Go SDK by Decarium
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Platform**: `Go`
+- **Docs**: [📚 Documentation](https://github.com/Decarium/go-coinmarketcap)
+
+
+
+- **Stars**: ⭐ 1
+### 🛠️ CoinMarketCap .NET SDK by Scott Christian
+
+
+- **Platform**: `.Net, C#`
+- **Docs**: [📚 Documentation](https://github.com/dezryth/ccticker)
+
+
+- **Author**: 👤 dezryth
+
+### 🛠️ CoinMarketCap GraphQL SDK by Arnaud Christ
+
+
+- **Platform**: `Unspecified`
+- **Docs**: [📚 Documentation](https://github.com/Onra/graphql-coinmarketcap)
+
+
+- **Author**: 👤 Onra
+- **Stars**: ⭐ 2
+### 🛠️ CoinMarketCap PHP SDK by Joshua Cidoni-Walker
+
+
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/jcidoniwalker/coinmarket_json_parser)
+
+
+- **Author**: 👤 jcidoniwalker
+- **Stars**: ⭐ 8
+### 🛠️ CoinMarketCap Node.js SDK by haakym
+
+
+- **Platform**: `JavaScript, Node.js`
+- **Docs**: [📚 Documentation](https://github.com/haakym/coinme)
+
+
+- **Author**: 👤 haakym
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

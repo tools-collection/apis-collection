@@ -1,41 +1,49 @@
-# [Amadeus Travel Innovation Sandbox](https://sandbox.amadeus.com/)
+# 📦 [Amadeus Travel Innovation Sandbox](https://sandbox.amadeus.com/)
 
 
-Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel.
+> **Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel.**
 
-## Details
-- **Categories**: Travel
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Travel`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://sandbox.amadeus.com/)
 
-## Libraries
-### Amadeus Python SDK
-
-- **Platform**: Python
-- **Docs**: [https://github.com/amadeus4dev/amadeus-python](https://github.com/amadeus4dev/amadeus-python)
-- **Source**: [https://pypi.org/project/amadeus/](https://pypi.org/project/amadeus/)
+## 🧰 Libraries
+### 🛠️ Amadeus Python SDK
 
 
-- **Stars**: 75
-### Amadeus Ruby SDK
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/amadeus4dev/amadeus-ruby](https://github.com/amadeus4dev/amadeus-ruby)
-- **Source**: [https://rubygems.org/gems/amadeus](https://rubygems.org/gems/amadeus)
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/amadeus4dev/amadeus-python)
+- **Source**: [💻 Source Code](https://pypi.org/project/amadeus/)
 
 
-- **Stars**: 15
+- **Stars**: ⭐ 75
+### 🛠️ Amadeus Ruby SDK
 
 
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/amadeus4dev/amadeus-ruby)
+- **Source**: [💻 Source Code](https://rubygems.org/gems/amadeus)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Stars**: ⭐ 15
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

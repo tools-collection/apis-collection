@@ -1,25 +1,33 @@
-# [Geoapify](https://www.geoapify.com/api-docs)
+# 📦 [Geoapify](https://www.geoapify.com/api-docs)
 
 
-Geoapify provides geocoding, reverse geocoding, routing, isoline, and place search APIs. Privacy-focused, open-data based, and free tier available for location-based applications.
+> **Geoapify provides geocoding, reverse geocoding, routing, isoline, and place search APIs. Privacy-focused, open-data based, and free tier available for location-based applications.**
 
-## Details
-- **Categories**: Maps &amp; Geo
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Maps &amp; Geo`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.geoapify.com/api-docs)
 - [API Reference](https://apidocs.geoapify.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

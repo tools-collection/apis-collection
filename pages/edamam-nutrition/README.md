@@ -1,24 +1,32 @@
-# [Edamam nutrition &amp; recipes](https://developer.edamam.com)
+# 📦 [Edamam nutrition &amp; recipes](https://developer.edamam.com)
 
 
-API for Nutrition Analysis, Food Database Lookup, Recipe Search and other.
+> **API for Nutrition Analysis, Food Database Lookup, Recipe Search and other.**
 
-## Details
-- **Categories**: Health, Food &amp; Drinks
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Health`, `Food &amp; Drinks`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developer.edamam.com)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

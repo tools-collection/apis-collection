@@ -1,24 +1,32 @@
-# [Choppingboard.Recipes](http://choppingboard.recipes/)
+# 📦 [Choppingboard.Recipes](http://choppingboard.recipes/)
 
 
+> ****
 
+## 📝 Details
+- **🏷️ Categories**: `Scrapers &amp; Data Mining`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
-## Details
-- **Categories**: Scrapers &amp; Data Mining
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-
-## Links
+## 🔗 Links
 - [Docs / Website](http://choppingboard.recipes/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

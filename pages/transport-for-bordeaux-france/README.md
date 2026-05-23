@@ -1,24 +1,32 @@
-# [Transportation in Bordeaux, France](https://opendata.bordeaux-metropole.fr/explore/)
+# 📦 [Transportation in Bordeaux, France](https://opendata.bordeaux-metropole.fr/explore/)
 
 
-Bordeaux Transportion Data
+> **Bordeaux Transportion Data**
 
-## Details
-- **Categories**: Transportation
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Transportation`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://opendata.bordeaux-metropole.fr/explore/)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

@@ -1,25 +1,33 @@
-# [Resend](https://resend.com/docs)
+# 📦 [Resend](https://resend.com/docs)
 
 
-Resend is an email API built for developers. Send transactional emails with React components, track deliverability, manage domains, and view analytics via a simple REST API.
+> **Resend is an email API built for developers. Send transactional emails with React components, track deliverability, manage domains, and view analytics via a simple REST API.**
 
-## Details
-- **Categories**: Email &amp; SMS, Development
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Email &amp; SMS`, `Development`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://resend.com/docs)
 - [API Reference](https://resend.com/docs/api-reference/introduction)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

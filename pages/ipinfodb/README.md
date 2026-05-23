@@ -1,25 +1,33 @@
-# [IPInfoDB](https://ipinfodb.com/api)
+# 📦 [IPInfoDB](https://ipinfodb.com/api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipinfodb/logo_256x256.png" alt="IPInfoDB logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipinfodb/logo_256x256.png" alt="IPInfoDB logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address. Supported both IPv4 and IPv6 address
+> **Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address. Supported both IPv4 and IPv6 address**
 
-## Details
-- **Categories**: Maps &amp; Geo
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Maps &amp; Geo`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://ipinfodb.com/api)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

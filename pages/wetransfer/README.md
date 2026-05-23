@@ -1,42 +1,50 @@
-# [Wetransfer](https://developers.wetransfer.com)
+# 📦 [Wetransfer](https://developers.wetransfer.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wetransfer/logo_256x256.png" alt="Wetransfer logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wetransfer/logo_256x256.png" alt="Wetransfer logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Put us in unexpected places, challenge the traditional creative flow, think big, go wild. File Sharing. Integrate WeTransfer into your product, your platform, your life
+> **Put us in unexpected places, challenge the traditional creative flow, think big, go wild. File Sharing. Integrate WeTransfer into your product, your platform, your life**
 
-## Details
-- **Categories**: Documents &amp; Productivity, Files &amp; Storage
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Documents &amp; Productivity`, `Files &amp; Storage`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.wetransfer.com)
 
-## Libraries
-### WeTransfer WeScan Swift SDK
-
-- **Platform**: Swift
-- **Docs**: [https://github.com/WeTransfer/WeScan](https://github.com/WeTransfer/WeScan)
+## 🧰 Libraries
+### 🛠️ WeTransfer WeScan Swift SDK
 
 
-
-- **Stars**: 2219
-### WeTransfer JavaScript SDK
-
-- **Platform**: JavaScript
-- **Docs**: [https://wetransfer.github.io/wt-api-docs/index.html#sdks](https://wetransfer.github.io/wt-api-docs/index.html#sdks)
-- **Source**: [https://github.com/WeTransfer/wt-js-sdk](https://github.com/WeTransfer/wt-js-sdk)
-
-
-- **Stars**: 37
+- **Platform**: `Swift`
+- **Docs**: [📚 Documentation](https://github.com/WeTransfer/WeScan)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 2219
+### 🛠️ WeTransfer JavaScript SDK
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://wetransfer.github.io/wt-api-docs/index.html#sdks)
+- **Source**: [💻 Source Code](https://github.com/WeTransfer/wt-js-sdk)
+
+
+- **Stars**: ⭐ 37
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

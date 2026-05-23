@@ -1,41 +1,49 @@
-# [GoodReads](https://www.goodreads.com/api)
+# 📦 [GoodReads](https://www.goodreads.com/api)
 
 
-The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social.
+> **The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social.**
 
-## Details
-- **Categories**: Social, Books
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Social`, `Books`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://www.goodreads.com/api)
 
-## Libraries
-### Goodreads Python SDK by Michelle D Zhang
-
-- **Platform**: Python
-- **Docs**: [https://pypi.python.org/pypi/goodreads-api-client/0.1.0.dev2](https://pypi.python.org/pypi/goodreads-api-client/0.1.0.dev2)
-- **Source**: [https://github.com/mdzhang/goodreads-api-client-python](https://github.com/mdzhang/goodreads-api-client-python)
-
-- **Author**: mdzhang
-- **Stars**: 51
-### Goodreads C# Library by Jason Kulatunga
-
-- **Platform**: C#
-- **Docs**: [https://github.com/AnalogJ/GoodReadsSharp](https://github.com/AnalogJ/GoodReadsSharp)
+## 🧰 Libraries
+### 🛠️ Goodreads Python SDK by Michelle D Zhang
 
 
-- **Author**: AnalogJ
-- **Stars**: 4
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://pypi.python.org/pypi/goodreads-api-client/0.1.0.dev2)
+- **Source**: [💻 Source Code](https://github.com/mdzhang/goodreads-api-client-python)
+
+- **Author**: 👤 mdzhang
+- **Stars**: ⭐ 51
+### 🛠️ Goodreads C# Library by Jason Kulatunga
 
 
+- **Platform**: `C#`
+- **Docs**: [📚 Documentation](https://github.com/AnalogJ/GoodReadsSharp)
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+- **Author**: 👤 AnalogJ
+- **Stars**: ⭐ 4
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

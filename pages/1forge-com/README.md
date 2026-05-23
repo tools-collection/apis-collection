@@ -1,30 +1,34 @@
-# [1Forge.com](https://1forge.com/)
+# 📦 [1Forge.com](https://1forge.com/)
 
 
-Real-time forex and crypto quotes via JSON and WebSocket
+> **Real-time forex and crypto quotes via JSON and WebSocket**
 
-## Details
-- **Categories**: Finance &amp; Economics
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Finance &amp; Economics`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
-## Specification
-- **Type**: swagger
+## 📖 Specification
+- **Type**: `swagger`
 - **URL**: [http://1forge.com/openapi.json](http://1forge.com/openapi.json)
-- **Version**: http://1forge.com/openapi.json
+- **Version**: `http://1forge.com/openapi.json`
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://1forge.com/)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-contact@1forge.com
+## 📬 Contact
+📧 contact@1forge.com
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

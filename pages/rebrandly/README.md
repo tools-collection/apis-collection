@@ -1,33 +1,40 @@
-# [Rebrandly](https://developers.rebrandly.com/v1/docs)
+# 📦 [Rebrandly](https://developers.rebrandly.com/v1/docs)
 
 
-Rebrandly is the link management platform to brand, track and share short URLs using a custom domain name
+> **Rebrandly is the link management platform to brand, track and share short URLs using a custom domain name**
 
-## Details
-- **Categories**: URLs
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `URLs`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.rebrandly.com/v1/docs)
 
-## Libraries
-### Rebrandly PHP SDK by Partnermarketing
-
-- **Platform**: PHP
-- **Docs**: [https://github.com/partnermarketing/rebrandly-sdk](https://github.com/partnermarketing/rebrandly-sdk)
+## 🧰 Libraries
+### 🛠️ Rebrandly PHP SDK by Partnermarketing
 
 
-
-- **Stars**: 3
+- **Platform**: `PHP`
+- **Docs**: [📚 Documentation](https://github.com/partnermarketing/rebrandly-sdk)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Stars**: ⭐ 3
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

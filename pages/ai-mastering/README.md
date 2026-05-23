@@ -1,33 +1,40 @@
-# [AI Mastering](https://aimastering.com/api_docs/)
+# 📦 [AI Mastering](https://aimastering.com/api_docs/)
 
 
-AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
+> **AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.**
 
-## Details
-- **Categories**: Music &amp; Audio
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Music &amp; Audio`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://aimastering.com/api_docs/)
 
-## Libraries
-### AI Mastering Javascript SDK
-
-- **Platform**: JavaScript
-- **Docs**: [https://aimastering.com/api_docs/](https://aimastering.com/api_docs/)
-- **Source**: [https://github.com/ai-mastering/aimastering-js](https://github.com/ai-mastering/aimastering-js)
+## 🧰 Libraries
+### 🛠️ AI Mastering Javascript SDK
 
 
-- **Stars**: 10
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://aimastering.com/api_docs/)
+- **Source**: [💻 Source Code](https://github.com/ai-mastering/aimastering-js)
 
 
+- **Stars**: ⭐ 10
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

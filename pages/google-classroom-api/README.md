@@ -1,27 +1,33 @@
-# [Google Classroom API](https://developers.google.com/classroom/?hl&#x3D;en)
+# 📦 [Google Classroom API](https://developers.google.com/classroom/?hl&#x3D;en)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-classroom-api/logo_256x256.png" alt="Google Classroom API logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-classroom-api/logo_256x256.png" alt="Google Classroom API logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-Provision and manage your Classroom courses
+> **Provision and manage your Classroom courses**
 
-## Details
-- **Categories**: Education
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Education`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.google.com/classroom/?hl&#x3D;en)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-support@goog.io
+## 📬 Contact
+📧 support@goog.io
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

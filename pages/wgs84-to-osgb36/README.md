@@ -1,26 +1,32 @@
-# [Wgs84 To Osgb36](https://quicksold.co.uk/swagger)
+# 📦 [Wgs84 To Osgb36](https://quicksold.co.uk/swagger)
 
 
-Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
+> **Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)**
 
-## Details
-- **Categories**: Maps &amp; Geo, Post &amp; Logistics
-- **Type**: N/A
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Maps &amp; Geo`, `Post &amp; Logistics`
+- **🔌 Type**: `N/A`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://quicksold.co.uk/swagger)
 
+## 🧰 Libraries
+*No libraries available*
 
-## Contact
-info@quicksold.co.uk
+## 📬 Contact
+📧 info@quicksold.co.uk
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

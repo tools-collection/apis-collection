@@ -1,66 +1,77 @@
-# [Data Science Toolkit](https://github.com/petewarden/dstk)
+# 📦 [Data Science Toolkit](https://github.com/petewarden/dstk)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/data-science-toolkit/logo_256x256.png" alt="Data Science Toolkit logo" width="200"/>
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/data-science-toolkit/logo_256x256.png" alt="Data Science Toolkit logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
-A collection of the best open data sets and open-source tools for data science.
+> **A collection of the best open data sets and open-source tools for data science.**
 
-## Details
-- **Categories**: Statistics &amp; Data
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Statistics &amp; Data`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://github.com/petewarden/dstk)
 
-## Libraries
-### Geocoder Ruby SDK by Alex Reisner
-
-- **Platform**: Ruby
-- **Docs**: [https://github.com/alexreisner/geocoder](https://github.com/alexreisner/geocoder)
-- **Source**: [https://rubygems.org/gems/geocoder](https://rubygems.org/gems/geocoder)
-
-- **Author**: alexreisner
-- **Stars**: 5834
-### Data Science Toolkit R Library by Ryan Elmore
-
-- **Platform**: R
-- **Docs**: [http://cran.r-project.org/web/packages/RDSTK/index.html](http://cran.r-project.org/web/packages/RDSTK/index.html)
-- **Source**: [https://github.com/rtelmore/RDSTK](https://github.com/rtelmore/RDSTK)
-
-- **Author**: rtelmore
-- **Stars**: 26
-###  Geocoder Node.js Library by Nicolas Chaulet
-
-- **Platform**: Node.js
-- **Docs**: [https://github.com/nchaulet/node-geocoder](https://github.com/nchaulet/node-geocoder)
+## 🧰 Libraries
+### 🛠️ Geocoder Ruby SDK by Alex Reisner
 
 
-- **Author**: nchaulet
-- **Stars**: 954
-### Data Science Toolkit JavaScript Library by Pete Warden
+- **Platform**: `Ruby`
+- **Docs**: [📚 Documentation](https://github.com/alexreisner/geocoder)
+- **Source**: [💻 Source Code](https://rubygems.org/gems/geocoder)
 
-- **Platform**: JavaScript
-- **Docs**: [https://github.com/petewarden/dstk](https://github.com/petewarden/dstk)
-
-
-- **Author**: petewarden
-- **Stars**: 1140
-### Data Science Toolkit Python Library by CloverHealth
-
-- **Platform**: Python
-- **Docs**: [https://github.com/CloverHealth/pydstk](https://github.com/CloverHealth/pydstk)
+- **Author**: 👤 alexreisner
+- **Stars**: ⭐ 5834
+### 🛠️ Data Science Toolkit R Library by Ryan Elmore
 
 
-- **Author**: gwax
+- **Platform**: `R`
+- **Docs**: [📚 Documentation](http://cran.r-project.org/web/packages/RDSTK/index.html)
+- **Source**: [💻 Source Code](https://github.com/rtelmore/RDSTK)
+
+- **Author**: 👤 rtelmore
+- **Stars**: ⭐ 26
+### 🛠️  Geocoder Node.js Library by Nicolas Chaulet
 
 
+- **Platform**: `Node.js`
+- **Docs**: [📚 Documentation](https://github.com/nchaulet/node-geocoder)
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+- **Author**: 👤 nchaulet
+- **Stars**: ⭐ 954
+### 🛠️ Data Science Toolkit JavaScript Library by Pete Warden
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://github.com/petewarden/dstk)
+
+
+- **Author**: 👤 petewarden
+- **Stars**: ⭐ 1140
+### 🛠️ Data Science Toolkit Python Library by CloverHealth
+
+
+- **Platform**: `Python`
+- **Docs**: [📚 Documentation](https://github.com/CloverHealth/pydstk)
+
+
+- **Author**: 👤 gwax
+
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

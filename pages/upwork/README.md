@@ -1,43 +1,51 @@
-# [Upwork](https://developers.upwork.com/)
+# 📦 [Upwork](https://developers.upwork.com/)
 
 
-Upwork Developers Site offers you access to Upwork&#x27;s web services
+> **Upwork Developers Site offers you access to Upwork&#x27;s web services
 to build your own applications and to integrate it&#x27;s features and workflow
-to your dashboards, websites and management systems.
+to your dashboards, websites and management systems.**
 
-## Details
-- **Categories**: Search, Jobs, Commerce
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: No
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Search`, `Jobs`, `Commerce`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `No` 💰
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://developers.upwork.com/)
 
-## Libraries
-### Upwork PERL SDK by Upwork
-
-- **Platform**: PERL
-- **Docs**: [https://metacpan.org/release/Net-Upwork-API](https://metacpan.org/release/Net-Upwork-API)
+## 🧰 Libraries
+### 🛠️ Upwork PERL SDK by Upwork
 
 
-
-
-### Upwork JavaScript SDK by Upwork
-
-- **Platform**: JavaScript
-- **Docs**: [https://developers.upwork.com/?lang&#x3D;python#getting-started_libraries-and-tools](https://developers.upwork.com/?lang&#x3D;python#getting-started_libraries-and-tools)
-- **Source**: [https://github.com/upwork/node-upwork](https://github.com/upwork/node-upwork)
-
-
-- **Stars**: 57
+- **Platform**: `PERL`
+- **Docs**: [📚 Documentation](https://metacpan.org/release/Net-Upwork-API)
 
 
 
-Supported by [Online Tools Collection](https://tools-collection.net)
+
+### 🛠️ Upwork JavaScript SDK by Upwork
+
+
+- **Platform**: `JavaScript`
+- **Docs**: [📚 Documentation](https://developers.upwork.com/?lang&#x3D;python#getting-started_libraries-and-tools)
+- **Source**: [💻 Source Code](https://github.com/upwork/node-upwork)
+
+
+- **Stars**: ⭐ 57
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

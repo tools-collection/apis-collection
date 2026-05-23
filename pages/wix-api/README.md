@@ -1,25 +1,33 @@
-# [Wix REST API](https://dev.wix.com/docs/rest)
+# 📦 [Wix REST API](https://dev.wix.com/docs/rest)
 
 
-Wix&#x27;s REST API provides access to site data, members, contacts, orders, bookings, and blog posts. Build integrations and extend Wix-powered websites programmatically.
+> **Wix&#x27;s REST API provides access to site data, members, contacts, orders, bookings, and blog posts. Build integrations and extend Wix-powered websites programmatically.**
 
-## Details
-- **Categories**: Development, Commerce
-- **Type**: REST
-- **Auth**: `none`
-- **Free**: Yes 🆓
-- **Status**: Graveyard 🪦
+## 📝 Details
+- **🏷️ Categories**: `Development`, `Commerce`
+- **🔌 Type**: `REST`
+- **🔐 Auth**: `none`
+- **💸 Free**: `Yes` 🆓
+- **📊 Status**: `Graveyard` 🪦
 
+## 🚦 Rate Limits
+*Not specified*
 
+## 📖 Specification
+*Not specified*
 
-## Links
+## 🔗 Links
 - [Docs / Website](https://dev.wix.com/docs/rest)
 - [API Reference](https://dev.wix.com/docs/rest/api-reference/wix-data/items/introduction)
 
+## 🧰 Libraries
+*No libraries available*
 
+## 📬 Contact
+*Not provided*
 
-
-Supported by [Online Tools Collection](https://tools-collection.net)
+## 💬 Discussion
+*Not provided*
 
 ---
-[Back to README](../../README.md)
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)
