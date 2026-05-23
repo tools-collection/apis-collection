@@ -1,0 +1,16 @@
+name: SnapAPI
+slug: snapapi
+description: Multi-tool REST API for developers. 13+ endpoints for QR code generation, screenshot capture, image resize, HTML-to-PDF conversion, hash generation, UUID/nanoid creation, URL metadata extraction, Base64 encode/decode, JWT decode, color conversion, Lorem ipsum, Markdown to HTML, and placeholder images. One API key, free tier with 100 calls/month.
+categories:
+  - Development
+  - Bar & QR Codes
+  - Images & Photography
+  - Documents & Productivity
+type: REST
+is_free: true
+auth_type: api_key
+links:
+  - name: Docs / Website
+    url: https://snapapi-production-3fa2.up.railway.app/docs
+  - name: Pricing
+    url: https://snapapi-production-3fa2.up.railway.app/pricing
