@@ -1868,6 +1868,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Google reCAPTCHA](./pages/google-recaptcha/README.md) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
 - [Google Safe Browsing](./pages/google-safe-browsing/README.md) - APIs to access the Google Safe Browsing lists of unsafe web resources
 - [HaveIBeenPwned](./pages/haveibeenpwned/README.md) - Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised
+- [IPASIS](./pages/ipasis/README.md) - Real-time bot detection and fraud prevention API with IP reputation, email validation, and interaction trust scoring
 - [Intelligence X](./pages/intelligence-x/README.md) - Public SDK for Intelligence X
 - [IPinfo](./pages/ipinfo-io/README.md) - IPinfo&#x27;s API provides accurate IP geolocation, ASN, carrier, privacy detection, and abuse contact data 🆓
 - [ipstack](./pages/ipstack/README.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
