@@ -5,7 +5,7 @@
 > **Scraping Service API. Simple and ultrafast web crawler, webpages Javascript rendering**
 
 ## 📝 Details
-- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

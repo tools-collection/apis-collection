@@ -4,7 +4,7 @@
 > **n8n&#x27;s REST API manages workflows, executions, credentials, and users on the open-source workflow automation platform. Self-host or use n8n Cloud for fair-code automation.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Business`](../../README.md#business-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

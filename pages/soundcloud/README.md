@@ -4,7 +4,7 @@
 > **Using the SoundCloud API, you can build applications that take sound on the web to the next level. Latest Updates Twitter Build applications that allow users to upload and share sounds across the web. The SDKs will make it easier to access the SoundCloud API on your framework of choice. Learn ho**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-), [`Social`](../../README.md#social-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

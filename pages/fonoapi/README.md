@@ -4,7 +4,7 @@
 > **Mobile Device Description Api**
 
 ## 📝 Details
-- **Categories**: [`Hardware`](../../README.md#hardware-)
+- **Categories**: [Hardware](https://github.com/tools-collection/apis-collection#hardware-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

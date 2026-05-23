@@ -4,7 +4,7 @@
 > **Access metadata, user’s entire library of music and do much more. The Napster API enables legal on-demand playback of millions of songs. Start building something awesome with the original streaming service**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

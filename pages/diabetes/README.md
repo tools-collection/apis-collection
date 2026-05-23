@@ -4,7 +4,7 @@
 > **Welcome to the PredictBGL API The PredictBGL API allows you to build the power of PredictBGL&#x27;s diabetes management, coaching and analysis dire. For general information on PredictBGL. com, click here**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

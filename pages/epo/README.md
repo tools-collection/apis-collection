@@ -4,7 +4,7 @@
 > **Open Patent Services (OPS) is a web service which provides access to the EPO&#x27;s raw data via a standardised XML interface. It does this using RESTful architecture**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

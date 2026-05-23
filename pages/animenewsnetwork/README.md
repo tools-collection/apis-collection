@@ -4,7 +4,7 @@
 > **ANN provides a direct feed to the Encyclopedia data in XML format**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Translate from imperial language ( English that is ) to one of the Starwars language. Yoda, Sith, Gungan ( Jar Jar Binks ), Cheunh, Huttese, Mandalorian etc**
 
 ## 📝 Details
-- **Categories**: [`Translation`](../../README.md#translation-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Translation](https://github.com/tools-collection/apis-collection#translation-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

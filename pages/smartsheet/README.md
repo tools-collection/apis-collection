@@ -4,7 +4,7 @@
 > **Smartsheet&#x27;s API provides access to sheets, rows, columns, reports, and automations. Build integrations for project tracking, resource management, and workflow automation.**
 
 ## 📝 Details
-- **Categories**: [`Project Management`](../../README.md#project-management-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Project Management](https://github.com/tools-collection/apis-collection#project-management-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

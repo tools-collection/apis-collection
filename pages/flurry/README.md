@@ -4,7 +4,7 @@
 > **Yahoo’s Flurry provides you with a number of APIs enabling you to export your data. Flurry provides two main APIs that are designed to get the same data about your applications as the data reported on the Flurry Dev Portal**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

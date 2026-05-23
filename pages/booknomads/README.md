@@ -5,7 +5,7 @@
 > **5 million), book covers and related data. Books published in the Netherlands and Flanders (about 2**
 
 ## 📝 Details
-- **Categories**: [`Books`](../../README.md#books-)
+- **Categories**: [Books](https://github.com/tools-collection/apis-collection#books-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

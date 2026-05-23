@@ -4,7 +4,7 @@
 > **A simple API to return the meta tags of any site in a digestable JSON format.**
 
 ## 📝 Details
-- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

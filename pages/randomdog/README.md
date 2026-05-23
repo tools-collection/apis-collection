@@ -4,7 +4,7 @@
 > **Random dog image API**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-), [`Fun`](../../README.md#fun-), [`Random`](../../README.md#random-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Get the very latest ads and data with Adzuna&#x27;s API. Get job ads to display on your own website. Use Adzuna&#x27;s up-to-the-minute employment data to power your own website, reporting and data visualisations.**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Jobs`](../../README.md#jobs-), [`News & Feeds`](../../README.md#news--feeds-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Jobs](https://github.com/tools-collection/apis-collection#jobs-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

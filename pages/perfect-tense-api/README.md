@@ -4,7 +4,7 @@
 > **Automated. Perfect Tense gives you error-free content in seconds. The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

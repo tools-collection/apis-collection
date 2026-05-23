@@ -4,7 +4,7 @@
 > **Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering. Free for personal use.**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Validation & Verification`](../../README.md#validation--verification-), [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

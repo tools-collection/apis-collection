@@ -4,7 +4,7 @@
 > **Easily detect possible bad users and act upon them. Simple and free to use IP lookup service. Get basic and detailed data on IP addresses. Two free endpoints available. IPLegit provides access to known bad IPs**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **KBB.com gives you everything you need to research a new, certified (CPO) or used car, compare cars, find cars for sale and make a well-informed decision**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

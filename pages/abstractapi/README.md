@@ -4,7 +4,7 @@
 > **Abstract API provides a suite of utility APIs including email validation, phone validation, IP geolocation, VAT validation, currency exchange, and holiday data via simple REST endpoints.**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`Development`](../../README.md#development-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

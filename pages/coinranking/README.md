@@ -4,7 +4,7 @@
 > **Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides. They provides data about coins, exchanges, markets &amp; more**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

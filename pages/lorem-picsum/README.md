@@ -4,7 +4,7 @@
 > **Lorem Ipsum, but for photos.**
 
 ## 📝 Details
-- **Categories**: [`Art & Design`](../../README.md#art--design-), [`Random`](../../README.md#random-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Random](https://github.com/tools-collection/apis-collection#random-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **A check-in made to a location-based Page**
 
 ## 📝 Details
-- **Categories**: [`Point of Interest`](../../README.md#point-of-interest-)
+- **Categories**: [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

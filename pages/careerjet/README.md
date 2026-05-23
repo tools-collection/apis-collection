@@ -4,7 +4,7 @@
 > **Careerjet public search API**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

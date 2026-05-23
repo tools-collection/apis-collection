@@ -5,7 +5,7 @@
 Use biometric and demographic data to search the same medical references used by healthcare professionals**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

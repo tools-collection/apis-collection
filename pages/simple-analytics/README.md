@@ -4,7 +4,7 @@
 > **Simple, clean, and friendly analytics for developers (privacy focused alternative to Google Analytics). Simple Analytics does not own your data. Most analytics companies do not give you access to your raw data. Simple Analytics believes it should be easy for customers to get their raw data**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

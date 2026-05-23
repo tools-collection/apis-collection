@@ -4,7 +4,7 @@
 > **imgix&#x27;s Image Processing API transforms, optimizes, and delivers images on-the-fly via URL parameters. Resize, crop, format-convert, and apply filters to images globally via CDN.**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

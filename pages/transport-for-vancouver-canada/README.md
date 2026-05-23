@@ -4,7 +4,7 @@
 > **The TransLink Open API provides access to data associated with the regional bus network, bus service operations, and major road network**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

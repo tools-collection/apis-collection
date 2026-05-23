@@ -4,7 +4,7 @@
 > **Summarize articles, text, websites, essays and documents online for free with SMMRY.**
 
 ## 📝 Details
-- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

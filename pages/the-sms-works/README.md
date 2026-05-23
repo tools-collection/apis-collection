@@ -4,7 +4,7 @@
 > **The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

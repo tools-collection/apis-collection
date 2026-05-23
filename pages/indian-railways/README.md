@@ -4,7 +4,7 @@
 > **Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport Germany Transport India Transport Australia Transport Argentina Transport Brazil Transport France Transport China Transport**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

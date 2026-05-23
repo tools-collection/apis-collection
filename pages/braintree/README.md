@@ -4,7 +4,7 @@
 > **Specializes in mobile and web payment systems for ecommerce companies. Braintree resources and tools for developers to integrate Braintree&#x27;s global payments platform**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Commerce`](../../README.md#commerce-), [`Payments`](../../README.md#payments-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

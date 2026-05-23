@@ -4,7 +4,7 @@
 > **Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts**
 
 ## 📝 Details
-- **Categories**: [`Events`](../../README.md#events-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Events](https://github.com/tools-collection/apis-collection#events-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

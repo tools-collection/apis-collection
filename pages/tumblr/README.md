@@ -4,7 +4,7 @@
 > **Create new ways to use Tumblr with access to content, likes, followers, and drafts. Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It&#x27;s where your interests connect you with your people**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

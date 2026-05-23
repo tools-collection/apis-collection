@@ -4,7 +4,7 @@
 > **Strapi is an open-source headless CMS with auto-generated REST and GraphQL APIs. Manage content types and entries with a customizable admin panel and plugin ecosystem.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

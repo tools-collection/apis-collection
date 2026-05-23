@@ -4,7 +4,7 @@
 > **Free IP Geolocation API with no registration required. 15000 requests per hour ✓ JSON, XML and CSV output ✓ Fast response times**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

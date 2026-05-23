@@ -4,7 +4,7 @@
 > **Access to Bitly’s API. The Bitly API Bitly is the most widely trusted link management platform in the world. By using the Bitly API, you will exercise the full power of your links through automated link customization, mo**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

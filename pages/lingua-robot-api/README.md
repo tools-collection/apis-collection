@@ -4,7 +4,7 @@
 > **English dictionary API providing an access to the data of over 800 000 English lexical entries, such as words, phrasal verbs, multiword expressions etc. Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation.**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

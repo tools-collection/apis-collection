@@ -4,7 +4,7 @@
 > **Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications.**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Vehicles`](../../README.md#vehicles-), [`Government`](../../README.md#government-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-), [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

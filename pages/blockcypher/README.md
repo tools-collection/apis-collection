@@ -4,7 +4,7 @@
 > **Build blockchain applications easily with our web APIs and callbacks. High throughputs, linear scaling, low-latency. BlockCypher is the infrastructure fabric for blockchain applications**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

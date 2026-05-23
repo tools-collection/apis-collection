@@ -5,7 +5,7 @@
 > **All the Star Wars data you&#x27;ve ever wanted: Planets, Spaceships, Vehicles, People, Films and Species**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

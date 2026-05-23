@@ -4,7 +4,7 @@
 > **Access to Anti-Captcha’s API. Bypass reCAPTCHA, solve image captchas, hCaptcha, FunCaptcha, GeeTest for the cheapest price**
 
 ## 📝 Details
-- **Categories**: [`Captcha`](../../README.md#captcha-), [`Recognition`](../../README.md#recognition-)
+- **Categories**: [Captcha](https://github.com/tools-collection/apis-collection#captcha-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

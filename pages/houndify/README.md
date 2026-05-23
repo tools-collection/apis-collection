@@ -4,7 +4,7 @@
 > **The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships. Integrate voice and conversational intelligence into your products through an independent platform that is always learning**
 
 ## 📝 Details
-- **Categories**: [`Voice`](../../README.md#voice-), [`AI & ML`](../../README.md#ai--ml-), [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Categories**: [Voice](https://github.com/tools-collection/apis-collection#voice-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

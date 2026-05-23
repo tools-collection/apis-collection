@@ -4,7 +4,7 @@
 > **JokeAPI is a RESTful API that serves jokes from many categories while also offering a lot of filtering methods**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

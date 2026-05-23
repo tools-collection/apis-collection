@@ -5,7 +5,7 @@
 > **Offers an API that allows developers to build location-aware applications for mobile devices**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Ghost&#x27;s Content and Admin APIs provide access to posts, pages, authors, tags, and settings. Build headless blogs, automate publishing, and integrate with the Ghost publishing platform.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

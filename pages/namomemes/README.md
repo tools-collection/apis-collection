@@ -4,7 +4,7 @@
 > **Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

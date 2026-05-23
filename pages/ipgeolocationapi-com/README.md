@@ -4,7 +4,7 @@
 > **IP Geolocation API is a free JSON REST API service for locating your visitors in real-time with detailed country information**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

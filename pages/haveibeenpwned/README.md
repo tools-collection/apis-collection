@@ -4,7 +4,7 @@
 > **Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

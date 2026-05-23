@@ -4,7 +4,7 @@
 > **KuCoin&#x27;s API supports spot, margin, and futures trading with market data, order management, and account endpoints. One of the largest crypto exchanges with 700+ listed assets.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-), [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

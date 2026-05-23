@@ -4,7 +4,7 @@
 > **Clerk&#x27;s API handles authentication and user management including sign-up, sign-in, MFA, SSO, and user profiles. Provides embeddable UI components and backend SDKs.**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Development`](../../README.md#development-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

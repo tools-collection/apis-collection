@@ -4,7 +4,7 @@
 > **💎 Like Pinterest, for Music**
 
 ## 📝 Details
-- **Categories**: [`Bookmarks`](../../README.md#bookmarks-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Bookmarks](https://github.com/tools-collection/apis-collection#bookmarks-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

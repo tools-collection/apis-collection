@@ -4,7 +4,7 @@
 > **The Wordnik API Docs. Dictionary functions**
 
 ## 📝 Details
-- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

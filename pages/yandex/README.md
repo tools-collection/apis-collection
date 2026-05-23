@@ -4,7 +4,7 @@
 > **Maps and the necessary tools for working it on your web app or site**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Search`](../../README.md#search-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Access to Oxford Dictionary services with several different subscription options including a free tier. The Oxford Dictionaries API gives you access to our world-renowned dictionary data, including definitions, translations, synonyms, and audio pronunciations**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

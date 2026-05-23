@@ -4,7 +4,7 @@
 > **Sell tickets directly from your app or website. The ticketing and event management platform that puts the power in your hands**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-), [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Events`](../../README.md#events-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Events](https://github.com/tools-collection/apis-collection#events-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

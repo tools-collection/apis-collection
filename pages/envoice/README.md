@@ -4,7 +4,7 @@
 > **Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. The simplest app for doing business online. Sell online, send invoices, track invoice activities, get fast credit card payment with Paypal, Payoneer or Stripe. IT’S FREE!**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Payments`](../../README.md#payments-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

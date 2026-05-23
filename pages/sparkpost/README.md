@@ -4,7 +4,7 @@
 > **SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails. Emails are delivered to the inbox quickly via a RESTful API or SMTP.**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Analytics`](../../README.md#analytics-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

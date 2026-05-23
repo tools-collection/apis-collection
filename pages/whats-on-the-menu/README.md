@@ -4,7 +4,7 @@
 > **Historical menu data**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

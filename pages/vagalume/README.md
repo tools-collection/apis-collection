@@ -4,7 +4,7 @@
 > **Vagalume » API » Documentação Documentação Conteúdo disponível na API do Vagalume Artistas Letras de Músicas Buscas Artista Música/Trecho Músicas/Artistas Álbuns Discografia Hot Spot Notícias Ranki**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

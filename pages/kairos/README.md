@@ -4,7 +4,7 @@
 > **Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Recognition`](../../README.md#recognition-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

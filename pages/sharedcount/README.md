@@ -4,7 +4,7 @@
 > **Social media like and share data for any URL.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

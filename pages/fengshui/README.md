@@ -4,7 +4,7 @@
 > **Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility &amp; chances of successful love relationship.**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

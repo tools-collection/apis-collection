@@ -4,7 +4,7 @@
 > **Access to MapBox’s API**
 
 ## 📝 Details
-- **Categories**: [`Visualizations`](../../README.md#visualizations-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Visualizations](https://github.com/tools-collection/apis-collection#visualizations-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **A hosted REST-API ready to respond to AJAX requests**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Testing`](../../README.md#testing-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Testing](https://github.com/tools-collection/apis-collection#testing-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

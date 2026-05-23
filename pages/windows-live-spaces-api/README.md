@@ -5,7 +5,7 @@
 > **Included a blogging system, photo gallery, lists, friends, a guestbook, and a social profile. A Spaces page can be personalized with &quot;gadgets&quot;, modules that can be placed to enable further customization, HTML code, and media playlists**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

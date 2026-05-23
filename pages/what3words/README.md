@@ -4,7 +4,7 @@
 > **what3words API converts between 3-word addresses and GPS coordinates. Every 3m square on Earth has a unique 3-word address for precise, human-friendly location sharing.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

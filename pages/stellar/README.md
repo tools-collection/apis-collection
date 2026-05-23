@@ -4,7 +4,7 @@
 > **Stellar&#x27;s Horizon API provides access to accounts, transactions, payments, offers, and assets on the Stellar blockchain network. Build cross-border payment and token issuance applications.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-), [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

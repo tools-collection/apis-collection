@@ -4,7 +4,7 @@
 > **Tableau&#x27;s REST API manages workbooks, views, data sources, projects, and users on Tableau Server and Tableau Cloud. Automate publishing, permissions, and data refresh workflows.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

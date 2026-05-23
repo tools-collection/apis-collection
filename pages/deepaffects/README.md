@@ -4,7 +4,7 @@
 > **DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs. Supports apis like: Interaction Analytics, Speaker Diarization, Emotion Recognition, Speech to Text etc. DeepAffects speech analysis platform supports automated multi-speaker recognition, voiceprints, emotions &amp; intents from natural conversations**
 
 ## 📝 Details
-- **Categories**: [`Recognition`](../../README.md#recognition-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-)
+- **Categories**: [Recognition](https://github.com/tools-collection/apis-collection#recognition-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Voice](https://github.com/tools-collection/apis-collection#voice-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Tracks United States drone strikes. Real-time and historical data about every reported covert US drone strike**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

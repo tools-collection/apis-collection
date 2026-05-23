@@ -4,7 +4,7 @@
 > **Say hello to your website visitors in their native language**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

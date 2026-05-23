@@ -4,7 +4,7 @@
 > **AWS Simple Notification Service API enables pub/sub messaging, mobile push notifications, and SMS delivery. Create topics, manage subscriptions, and publish messages at scale.**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Development`](../../README.md#development-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

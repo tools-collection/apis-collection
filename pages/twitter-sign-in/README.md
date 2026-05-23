@@ -4,7 +4,7 @@
 > **Works on websites, iOS, mobile and desktop applications. The browser log in flow is appropriate for websites and applications which are able to open or embed a web browser.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

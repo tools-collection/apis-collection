@@ -4,7 +4,7 @@
 > **Make it convenient for your users to sign in with their professional identity. Learn how to leverage LinkedIn&#x27;s API to Sign In with LinkedIn**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Social`](../../README.md#social-), [`Business`](../../README.md#business-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Social](https://github.com/tools-collection/apis-collection#social-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **APIs for products and store information**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

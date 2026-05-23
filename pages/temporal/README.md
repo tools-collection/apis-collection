@@ -4,7 +4,7 @@
 > **IPFS API. Upload files, pin hashes, and send pubsub messages using our proprietary API, or interact directly with our IPFS nodes using the IPFS HTTP API reverse proxy.**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The simplest way to cost effectively store, serve, backup, and archive a virtually infinite amount of media, content, images, and static files for your apps. API that provides easy access to store and receive files as simple object storage with easy to understand pricing.**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

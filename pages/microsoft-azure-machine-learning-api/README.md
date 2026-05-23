@@ -4,7 +4,7 @@
 > **Azure Cognitive Services brings AI within reach of every developer through a family of APIs that don’t require machine-learning expertise. Helps data scientists publish in minutes which once used to take days after they had developed a feasible model**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

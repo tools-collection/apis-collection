@@ -4,7 +4,7 @@
 > **Check phone number validity, location and timezones**
 
 ## 📝 Details
-- **Categories**: [`CRM`](../../README.md#crm-), [`Validation & Verification`](../../README.md#validation--verification-), [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [CRM](https://github.com/tools-collection/apis-collection#crm-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

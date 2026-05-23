@@ -4,7 +4,7 @@
 > **An API all about dogs. A public service API all about Dogs, free to use when making your fancy new App, Website or Service**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-), [`Fun`](../../README.md#fun-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-), [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

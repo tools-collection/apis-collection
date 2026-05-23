@@ -4,7 +4,7 @@
 > **Dashboards for developers. WakaTime is committed to making time tracking fully automatic for every programmer. By creating open source plugins for IDEs and text editors, we give powerful insights about how you code, and let you get back to what matters most: creating amazing software.**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

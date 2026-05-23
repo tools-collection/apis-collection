@@ -5,7 +5,7 @@
 > **Extract relevant content from articles. ContentXtractor automatically extracts relevant content from articles/blog with a simple API call**
 
 ## 📝 Details
-- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

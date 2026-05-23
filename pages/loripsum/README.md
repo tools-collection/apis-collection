@@ -4,7 +4,7 @@
 > **This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Development`](../../README.md#development-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

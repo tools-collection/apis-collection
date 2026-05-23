@@ -4,7 +4,7 @@
 > **Fly.io API enables programmatic management of applications, machines, volumes, and networking on the Fly.io global platform. Deploy Docker containers close to users worldwide.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

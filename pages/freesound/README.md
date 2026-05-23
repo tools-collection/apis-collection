@@ -4,7 +4,7 @@
 > **With the Freesound API you can browse, search, and retrieve information about Freesound users, packs, and the sounds themselves.**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

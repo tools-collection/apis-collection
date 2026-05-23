@@ -4,7 +4,7 @@
 > **io detects nudity in images and helps to recognise and filter undesired content. uploadfilter. io offers you a powerful &amp; realtime JSON REST API that detects nudity in images and helps you to moderate user generated content**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Recognition`](../../README.md#recognition-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

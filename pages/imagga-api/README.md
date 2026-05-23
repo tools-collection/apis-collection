@@ -4,7 +4,7 @@
 > **identifies the content of images and videos, classify images based on content, extracts colors, moderates NSFW content. Imagga Image Recognition API provides solutions for image tagging &amp; categorization, visual search, content moderation. Available in the Cloud and On-Premise**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Images & Photography`](../../README.md#images--photography-), [`Recognition`](../../README.md#recognition-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service. JPEG, PNG or PDF output available**
 
 ## 📝 Details
-- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

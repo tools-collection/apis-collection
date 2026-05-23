@@ -4,7 +4,7 @@
 > **Enable users to sign into apps and authorize apps to use Google services**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

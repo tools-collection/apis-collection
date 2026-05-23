@@ -4,7 +4,7 @@
 > **Collaborative chatbot software. Recast.AI provides an NLP API for text analysis and entity extraction. The leading platform to build, connect and monitor bots**
 
 ## 📝 Details
-- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`Bots`](../../README.md#bots-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [Bots](https://github.com/tools-collection/apis-collection#bots-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

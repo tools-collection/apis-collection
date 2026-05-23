@@ -4,7 +4,7 @@
 > **A randomized set of category-specific cat images.**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Animals`](../../README.md#animals-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Animals](https://github.com/tools-collection/apis-collection#animals-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis. Definition of the public APIs exposed by Amazon Machine Learning**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

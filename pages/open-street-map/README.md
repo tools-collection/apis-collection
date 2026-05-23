@@ -4,7 +4,7 @@
 > **Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry. API access to OSM**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The Belgian Open Data Initiative. The Belgian Open Data Initiative**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Open API for the maker community. WIP is a community of makers who help each other ship products**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

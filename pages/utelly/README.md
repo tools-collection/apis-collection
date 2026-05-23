@@ -4,7 +4,7 @@
 > **Check where a tv show or movie is available**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Entertainment`](../../README.md#entertainment-), [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

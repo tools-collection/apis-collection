@@ -4,7 +4,7 @@
 > **Cloudflare Workers API manages serverless functions deployed to Cloudflare&#x27;s global edge network, including KV storage, D1 databases, R2 object storage, and Queues.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

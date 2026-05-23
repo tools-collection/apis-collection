@@ -4,7 +4,7 @@
 > **fm. Allows anyone to build their own programs using Last. fm data, whether they&#x27;re on the web, the desktop or mobile devices. The world&#x27;s largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

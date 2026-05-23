@@ -4,7 +4,7 @@
 > **Sell and buy music related merchandise. Join the millions of music lovers who use Reverb to find everything they need to make music**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

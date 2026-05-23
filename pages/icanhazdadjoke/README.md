@@ -4,7 +4,7 @@
 > **The largest collection of dad jokes on the internet.**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

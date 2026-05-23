@@ -4,7 +4,7 @@
 > **Gives you a random quote per click.**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-), [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Random`](../../README.md#random-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-), [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

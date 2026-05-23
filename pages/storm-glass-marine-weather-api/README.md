@@ -4,7 +4,7 @@
 > **Read More. Global marine weather data from multiple sources in one single API!**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

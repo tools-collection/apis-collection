@@ -4,7 +4,7 @@
 > **It can also detect multiple barcodes at once. It reads the following barcode formats: 1D barcodes: EAN-13, EAN-8, UPC-A. The Barcode API detects barcodes in real-time, on device, in any orientation**
 
 ## 📝 Details
-- **Categories**: [`Bar & QR Codes`](../../README.md#bar--qr-codes-)
+- **Categories**: [Bar & QR Codes](https://github.com/tools-collection/apis-collection#bar--qr-codes-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

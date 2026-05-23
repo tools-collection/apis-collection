@@ -4,7 +4,7 @@
 > **Amplitude&#x27;s API enables sending events, managing user properties, and querying behavioral analytics. Build product analytics integrations and automate data pipelines.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

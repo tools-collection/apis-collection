@@ -4,7 +4,7 @@
 > **Trademark search API to search the US trademarks database (USPTO) based on a search string. API allows to search by serial number, trademark, owner, upcoming expiration date, and product/service description.**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

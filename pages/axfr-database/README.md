@@ -5,7 +5,7 @@
 > **AXFR public database**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

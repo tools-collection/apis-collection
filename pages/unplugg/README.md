@@ -4,7 +4,7 @@
 > **Add intelligence to your energy products. Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. Forecast timeseries with Unplugg’s API**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Analytics`](../../README.md#analytics-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

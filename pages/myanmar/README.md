@@ -4,7 +4,7 @@
 > **Central bank of New Myanmar**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

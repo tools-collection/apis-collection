@@ -4,7 +4,7 @@
 > **API for making cross-protocol realtime communication between devices easy. Ably documentation for 40+ web, mobile, and IoT SDKs, quickstart guides and tutorials, and realtime concepts and design patterns**
 
 ## 📝 Details
-- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

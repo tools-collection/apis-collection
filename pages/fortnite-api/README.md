@@ -4,7 +4,7 @@
 > **A fortnite tracker api that returns data about and account**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

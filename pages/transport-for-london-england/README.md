@@ -4,7 +4,7 @@
 > **Transport for London open data. All public TfL data (or &#x27;open data&#x27;) is freely released here for developers to use in their own software and services. We encourage software developers to use these feeds to present customer travel information in innovative ways**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

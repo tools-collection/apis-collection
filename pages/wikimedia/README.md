@@ -4,7 +4,7 @@
 > **Wikimedia&#x27;s REST API provides access to Wikipedia articles, summaries, page metadata, media files, and editing history across all Wikimedia projects in multiple formats.**
 
 ## 📝 Details
-- **Categories**: [`Wiki`](../../README.md#wiki-), [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Wiki](https://github.com/tools-collection/apis-collection#wiki-), [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

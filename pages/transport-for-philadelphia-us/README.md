@@ -4,7 +4,7 @@
 > **Southeastern Pennsylvania Transportation Authority API**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-), [`Government`](../../README.md#government-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-), [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

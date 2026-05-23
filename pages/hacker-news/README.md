@@ -4,7 +4,7 @@
 > **Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub. Anything that good hackers would find interesting**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Social`](../../README.md#social-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Extract USPS addresses from any text with our easy-to-use API**
 
 ## 📝 Details
-- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-)
+- **Categories**: [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

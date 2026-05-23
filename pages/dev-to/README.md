@@ -4,7 +4,7 @@
 > **DEV.to&#x27;s API provides access to articles, comments, users, tags, and organizations on the developer community platform. Read and publish developer content programmatically.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Social`](../../README.md#social-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

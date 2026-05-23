@@ -4,7 +4,7 @@
 > **Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, URLs, domains and other IOCs from OSINT feeds or submit your own**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

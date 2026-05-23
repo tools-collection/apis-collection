@@ -4,7 +4,7 @@
 > **io. Document, mock, test, and more, with the StopLight API Designer. Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powered by Stoplight**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Health`](../../README.md#health-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

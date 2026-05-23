@@ -6,7 +6,7 @@ API documentation, developer support resources, and access
 the Box Developer Console.**
 
 ## 📝 Details
-- **Categories**: [`Collaboration`](../../README.md#collaboration-), [`Business`](../../README.md#business-), [`Files & Storage`](../../README.md#files--storage-)
+- **Categories**: [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [Business](https://github.com/tools-collection/apis-collection#business-), [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

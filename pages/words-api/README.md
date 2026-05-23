@@ -4,7 +4,7 @@
 > **An API for the english language. Definitions, related words, rhymes, and more. Use it to find definitions for more than 150,000 words**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

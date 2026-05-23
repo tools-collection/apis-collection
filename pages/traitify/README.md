@@ -17,7 +17,7 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 - Suggestions**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

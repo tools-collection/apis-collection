@@ -4,7 +4,7 @@
 > **This page lists the objects exposed by the Google Visualization API, and the standard methods exposed by all visualizations.**
 
 ## 📝 Details
-- **Categories**: [`Visualizations`](../../README.md#visualizations-)
+- **Categories**: [Visualizations](https://github.com/tools-collection/apis-collection#visualizations-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

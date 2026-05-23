@@ -4,7 +4,7 @@
 > **Unified REST APIs for world-wide astronomy data**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Space`](../../README.md#space-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Space](https://github.com/tools-collection/apis-collection#space-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

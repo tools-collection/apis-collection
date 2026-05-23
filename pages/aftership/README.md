@@ -4,7 +4,7 @@
 > **Provides multi-carrier shipment tracking APIs.**
 
 ## 📝 Details
-- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

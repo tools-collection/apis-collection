@@ -4,7 +4,7 @@
 > **Netherland&#x27;s post codes search**
 
 ## 📝 Details
-- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

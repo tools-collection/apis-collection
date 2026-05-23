@@ -4,7 +4,7 @@
 > **Take your ML projects to production, quickly and cost-effectively. Cloud-based machine learning and pattern matching tool. A development platform to build AI applications that run on GCP and on-premises**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

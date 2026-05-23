@@ -5,7 +5,7 @@
 > **A social platform that both users and developers can interact with, the company has faced some difficulty in gaining ongoing traction**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

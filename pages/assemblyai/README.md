@@ -4,7 +4,7 @@
 > **AssemblyAI&#x27;s API provides speech-to-text transcription, speaker diarization, sentiment analysis, topic detection, and summarization from audio and video files.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

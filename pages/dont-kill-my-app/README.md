@@ -4,7 +4,7 @@
 > **Android vendors, don&#x27;t kill my app! dontkillmyapp.com official API**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-), [`Hardware`](../../README.md#hardware-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-), [Hardware](https://github.com/tools-collection/apis-collection#hardware-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

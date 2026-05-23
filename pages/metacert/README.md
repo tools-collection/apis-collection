@@ -4,7 +4,7 @@
 > **MetaCert reduces the risk of identity theft, data breaches, phishing, malware and ransomware attacks, by more than 98%**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

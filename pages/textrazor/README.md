@@ -4,7 +4,7 @@
 > **TextRazor is the world&#x27;s fastest and most accurate Natural Language Processing API. Helps you extract and understand the Who, What, Why, and How from your research with unprecedented accuracy and speed.**
 
 ## 📝 Details
-- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

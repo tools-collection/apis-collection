@@ -4,7 +4,7 @@
 > **Refuge Restrooms**
 
 ## 📝 Details
-- **Categories**: [`Point of Interest`](../../README.md#point-of-interest-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

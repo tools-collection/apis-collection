@@ -4,7 +4,7 @@
 > **Leverage the power of our Open APIs and our FHIR capabilities to enable the best applications to be developed for every healthcare scenario**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

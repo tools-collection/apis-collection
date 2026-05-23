@@ -4,7 +4,7 @@
 > **Exchange rates API is a free service for current and historical foreign exchange rates published by the European Central Bank.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

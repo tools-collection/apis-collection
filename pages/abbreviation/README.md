@@ -5,7 +5,7 @@
 > **Get abbreviations and meanings**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

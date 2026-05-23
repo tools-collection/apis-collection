@@ -4,7 +4,7 @@
 > **Solar radiation and forecasting data globally available and free for researchers, hobbyists. Produces real-time estimates of solar radiation and solar power globally, and forecasts based on where cloud cover will move next**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

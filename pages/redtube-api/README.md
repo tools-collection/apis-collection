@@ -4,7 +4,7 @@
 > **The Redtube API. RedTube API Documentation Welcome to the RedTube API developer documentation! Here you can find detailed information needed to get data and integrate RedTube videos on your website or application**
 
 ## 📝 Details
-- **Categories**: [`Adult`](../../README.md#adult-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Adult](https://github.com/tools-collection/apis-collection#adult-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

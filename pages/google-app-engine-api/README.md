@@ -4,7 +4,7 @@
 > **Build scalable web and mobile backends in any language on Google’s infrastructure. Offers users the ability to build and host web applications on Google&#x27;s infrastructure**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

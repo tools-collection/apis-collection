@@ -4,7 +4,7 @@
 > **A free API for sentiment analysis**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

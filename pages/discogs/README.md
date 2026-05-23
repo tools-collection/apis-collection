@@ -4,7 +4,7 @@
 > **Access database of artists, labels, releases, marketplace and more. Here’s your place to code all things Discogs! The Discogs API lets developers build their own Discogs-powered applications for the web, desktop, and mobile devices.**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

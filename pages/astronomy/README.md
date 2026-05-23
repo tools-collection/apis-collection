@@ -4,7 +4,7 @@
 > **Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date.**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Space`](../../README.md#space-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Space](https://github.com/tools-collection/apis-collection#space-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

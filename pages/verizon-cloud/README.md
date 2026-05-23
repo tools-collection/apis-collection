@@ -4,7 +4,7 @@
 > **API for accessing stored pictures and other files stored by users of Verizon Cloud app. 403 - Forbidden**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

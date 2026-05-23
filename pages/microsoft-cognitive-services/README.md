@@ -4,7 +4,7 @@
 > **A comprehensive family of AI services and cognitive APIs to help you build intelligent apps. Text analytics, speech convertor, image &amp; video AI services, anomaly detector etc**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-), [`Recognition`](../../README.md#recognition-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

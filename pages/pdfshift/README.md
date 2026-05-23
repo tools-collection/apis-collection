@@ -5,7 +5,7 @@
 The service is focused to help developers set up the conversion quickly and focus on their core problem. Advanced features are available, like watermarking and encryption, and you can see all the available options on the**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

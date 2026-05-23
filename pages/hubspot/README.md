@@ -4,7 +4,7 @@
 > **HubSpot&#x27;s API provides access to CRM contacts, companies, deals, tickets, marketing emails, and automation workflows. Build integrations with HubSpot&#x27;s all-in-one CRM platform.**
 
 ## 📝 Details
-- **Categories**: [`CRM`](../../README.md#crm-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [CRM](https://github.com/tools-collection/apis-collection#crm-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

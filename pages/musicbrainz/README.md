@@ -4,7 +4,7 @@
 > **The API discussed here is an interface to the MusicBrainz Database. It is aimed at developers of media players, CD rippers, taggers, and other applications requiring music metadata. The API&#x27;s archi**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

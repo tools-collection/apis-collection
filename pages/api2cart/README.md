@@ -4,7 +4,7 @@
 > **Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once. Strengthen your business with shopping cart API integration. API2Cart provides a unified shopping cart API for interaction between the eCommerce software and 30+ shopping carts including Magento, Shopify, WooCommerce, BigCommerce, OpenCart, PrestaShop and others**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

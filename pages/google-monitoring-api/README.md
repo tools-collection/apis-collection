@@ -4,7 +4,7 @@
 > **This page describes some of the features of the Cloud Monitoring API v3. For the API reference documentation, see either of the following pages: API resources Metrics The Monitoring API v3 gives yo**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

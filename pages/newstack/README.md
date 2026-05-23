@@ -4,7 +4,7 @@
 > **Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services. The picture is a bit blurry at the moment, at least in my mind, on …. Internet of Things APIs are gaining a lot of attention lately and companies are jumping into the fray with both feet**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

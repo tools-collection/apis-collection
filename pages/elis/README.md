@@ -4,7 +4,7 @@
 > **Automate data extraction from your documents with Artificial Intelligence**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Payments`](../../README.md#payments-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Payments](https://github.com/tools-collection/apis-collection#payments-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

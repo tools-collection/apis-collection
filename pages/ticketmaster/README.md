@@ -4,7 +4,7 @@
 > **Everything you need to start playing with the Ticketmaster API**
 
 ## 📝 Details
-- **Categories**: [`Events`](../../README.md#events-)
+- **Categories**: [Events](https://github.com/tools-collection/apis-collection#events-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

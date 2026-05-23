@@ -4,7 +4,7 @@
 > **Yo API Documentation. Programmatically send Yos (contextual messages) through API**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

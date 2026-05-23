@@ -5,7 +5,7 @@
 > **It pumps your life in and out of your friends, family and colleagues. Runs pump. io, the high-performance Open Source social engine**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

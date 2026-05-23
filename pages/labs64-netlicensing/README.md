@@ -4,7 +4,7 @@
 > **Innovative License Management Solution. NetLicensing RESTful APIis for developers integrating NetLicensing with applications and administrators who want to script interactions with the NetLicensing server**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

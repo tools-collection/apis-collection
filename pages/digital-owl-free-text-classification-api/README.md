@@ -4,7 +4,7 @@
 > **Free for use text classification, sentiment analysis, semantic similarity and word analysis api.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

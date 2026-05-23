@@ -4,7 +4,7 @@
 > **Add YouTube functionality to your sites and apps. Add YouTube functionality to your sites and apps**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Social`](../../README.md#social-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

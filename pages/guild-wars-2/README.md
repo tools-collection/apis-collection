@@ -4,7 +4,7 @@
 > **The current version of the API. The Guild Wars 2 API (application programming interface) is an interface that enables third-party applications to access data directly from the Guild Wars 2 servers**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

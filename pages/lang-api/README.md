@@ -5,7 +5,7 @@
 > **LangAPI exists to help developers rapidly translate and localize their apps for users worldwide. It automates translation between a huge number of languages, including Spanish, French etc.**
 
 ## 📝 Details
-- **Categories**: [`Translation`](../../README.md#translation-)
+- **Categories**: [Translation](https://github.com/tools-collection/apis-collection#translation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

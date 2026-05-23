@@ -4,7 +4,7 @@
 > **Find random activities to fight boredom**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

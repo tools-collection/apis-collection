@@ -4,7 +4,7 @@
 > **OSF is a free, open platform to support your research and enable collaboration.**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-), [`Science & Math`](../../README.md#science--math-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-), [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

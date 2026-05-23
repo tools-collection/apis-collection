@@ -4,7 +4,7 @@
 > **Viewing feature streams, photo information and comments, as well as user profiles. This is the 500px API documentation. Contribute to 500px/legacy-api-documentation development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

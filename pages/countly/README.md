@@ -4,7 +4,7 @@
 > **Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications. Countly securely processes billions of data points every day in the cloud and on-premises in order to help companies across the globe grow their business.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Open Source`](../../README.md#open-source-), [`Analytics`](../../README.md#analytics-), [`Marketing & SEO`](../../README.md#marketing--seo-), [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Open Source](https://github.com/tools-collection/apis-collection#open-source-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

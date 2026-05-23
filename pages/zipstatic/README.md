@@ -4,7 +4,7 @@
 > **Ziptastic API is a super easy to use API that returns the Country, State, City of the zip code you supply.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

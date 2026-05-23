@@ -5,7 +5,7 @@
 > **Music**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

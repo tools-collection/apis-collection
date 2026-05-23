@@ -4,7 +4,7 @@
 > **Accurate &amp; reliable Exchange Rates API trusted by tens of thousands of developers since 2010. Free access, all world currencies, helpful support &amp;amp; easy to integrate JSON API**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency API for prices, stats, coinheat, conversion, and more**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

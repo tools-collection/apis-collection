@@ -4,7 +4,7 @@
 > **Transitland is a community-edited open data service aggregating transit networks across metropolitan and rural around the world. Transitland collects over a thousand GTFS and GTFS Realtime feeds from over 50 countries. It provides an API and other ways to explore and use transit data**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

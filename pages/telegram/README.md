@@ -4,7 +4,7 @@
 > **The Bot API allows you to easily create programs that use Telegram. The Telegram API allows you to build your own customized Telegram clients**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Video & Media`](../../README.md#video--media-), [`Social`](../../README.md#social-), [`Chats & Messaging`](../../README.md#chats--messaging-), [`Bots`](../../README.md#bots-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Social](https://github.com/tools-collection/apis-collection#social-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Bots](https://github.com/tools-collection/apis-collection#bots-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

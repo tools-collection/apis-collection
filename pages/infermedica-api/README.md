@@ -4,7 +4,7 @@
 > **The most advanced Symptom Checker and Patient Triage API. Infermedica provides an API for patient triage and preliminary medical diagnosis that can help you implement an intelligent symptom checker or an adaptive patient intake form for your health application**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-), [`Bots`](../../README.md#bots-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-), [Bots](https://github.com/tools-collection/apis-collection#bots-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

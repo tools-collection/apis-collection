@@ -4,7 +4,7 @@
 > **Threads API by Meta enables publishing posts, replies, and media, retrieving user profiles, and accessing insights for Threads accounts. Build integrations with Meta&#x27;s text-based social platform.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

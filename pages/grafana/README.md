@@ -4,7 +4,7 @@
 > **Grafana&#x27;s HTTP API enables management of dashboards, datasources, alerts, users, and organizations programmatically. Integrate with CI/CD pipelines and automate observability workflows.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Development`](../../README.md#development-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

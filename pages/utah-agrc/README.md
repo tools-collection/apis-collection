@@ -4,7 +4,7 @@
 > **Geocoding API Methods API methods for finding a geolocation (x,y) for addresses. Important Note: matchAddress returns the name of the address grid system for the address. For example, &quot;matchAddress**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

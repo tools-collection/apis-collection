@@ -4,7 +4,7 @@
 > **FraudLabs Pro Rest API to screen the order transaction for online fraud.**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

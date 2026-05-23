@@ -5,7 +5,7 @@
 > **Speech Recognition, Broadcast Monitoring, Lecture and Seminar Transcription, Video Subtitling, Conference Call and Voicemail Transcription, Speech Analytics**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

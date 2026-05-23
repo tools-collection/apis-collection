@@ -4,7 +4,7 @@
 > **Build forms easily, autocomplete and validate data. using gender api and zip code api**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`Post & Logistics`](../../README.md#post--logistics-), [`Forms & Surveys`](../../README.md#forms--surveys-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-), [Forms & Surveys](https://github.com/tools-collection/apis-collection#forms--surveys-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

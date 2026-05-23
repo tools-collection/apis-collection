@@ -4,7 +4,7 @@
 > **Free to use, user-contributed trivia questions!**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **a RDF graph database as a service with W3C SPARQL query and SPARQL update apis**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

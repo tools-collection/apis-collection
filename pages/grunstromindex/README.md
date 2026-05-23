@@ -4,7 +4,7 @@
 > **The green electricity index shows when a lot of renewable electricity is in the grid and can be used in the household. This means that everyone can support the energy transition in Germany and help ensure that green electricity is expanded efficiently**
 
 ## 📝 Details
-- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Environment & Nature](https://github.com/tools-collection/apis-collection#environment--nature-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

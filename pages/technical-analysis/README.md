@@ -4,7 +4,7 @@
 > **Coin predictions as a service. Automatically fetch coin data from various exchanges and put it though our strategies. Cryptocurrency prices, technical analysis and sentiment detection**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

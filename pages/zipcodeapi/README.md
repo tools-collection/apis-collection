@@ -4,7 +4,7 @@
 > **Zip Codes to Location The API can convert a zip code to the primary location for the zip code. This includes the city, state, latitude, longitude, time zone information, and NPA area codes for the**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

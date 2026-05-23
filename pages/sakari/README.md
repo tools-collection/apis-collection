@@ -4,7 +4,7 @@
 > **Integrates with 1000+ applications with no code. Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

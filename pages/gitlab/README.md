@@ -4,7 +4,7 @@
 > **Access to GitLab&#x27;s API. Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner**
 
 ## 📝 Details
-- **Categories**: [`Open Source`](../../README.md#open-source-), [`Project Management`](../../README.md#project-management-), [`Development`](../../README.md#development-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Open Source](https://github.com/tools-collection/apis-collection#open-source-), [Project Management](https://github.com/tools-collection/apis-collection#project-management-), [Development](https://github.com/tools-collection/apis-collection#development-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **OpenAI&#x27;s API provides access to GPT-4o, o-series reasoning models, DALL-E, Whisper, and Embeddings. Build AI-powered applications for text generation, image generation, speech recognition, real-time audio, and web search.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

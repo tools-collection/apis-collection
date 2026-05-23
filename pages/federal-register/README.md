@@ -4,7 +4,7 @@
 > **SFederal Register 2.0 is the unofficial daily publication for rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other presidential documents.**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

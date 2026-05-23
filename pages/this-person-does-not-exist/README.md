@@ -4,7 +4,7 @@
 > **This Person Does Not Exist**
 
 ## 📝 Details
-- **Categories**: [`Random`](../../README.md#random-), [`Testing`](../../README.md#testing-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Random](https://github.com/tools-collection/apis-collection#random-), [Testing](https://github.com/tools-collection/apis-collection#testing-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

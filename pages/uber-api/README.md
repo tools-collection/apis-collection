@@ -4,7 +4,7 @@
 > **API to request Uber rides. Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

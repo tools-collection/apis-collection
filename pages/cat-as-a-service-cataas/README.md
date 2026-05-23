@@ -4,7 +4,7 @@
 > **Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks to cats.**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-), [`Fun`](../../README.md#fun-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-), [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

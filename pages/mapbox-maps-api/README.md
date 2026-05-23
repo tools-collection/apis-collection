@@ -4,7 +4,7 @@
 > **The Mapbox Maps API reads and renders raster map tilesets and vector map tilesets. Tilesets can be retrieved as images, TileJSON, or HTML slippy maps for embedding**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

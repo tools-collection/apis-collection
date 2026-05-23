@@ -4,7 +4,7 @@
 > **Embed codes of videos of the goals and highlights from a number of football leagues and tournaments including the Premier League, Champions League, La Liga, Serie A, Bundesliga and many more. ScoreBat**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

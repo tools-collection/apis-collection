@@ -4,7 +4,7 @@
 > **A time series analysis API. Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data.**
 
 ## 📝 Details
-- **Categories**: [`Databases`](../../README.md#databases-), [`Development`](../../README.md#development-)
+- **Categories**: [Databases](https://github.com/tools-collection/apis-collection#databases-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Testing`](../../README.md#testing-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Testing](https://github.com/tools-collection/apis-collection#testing-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

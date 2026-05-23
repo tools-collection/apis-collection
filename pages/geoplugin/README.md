@@ -4,7 +4,7 @@
 > **geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your visitors based on their IP address**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

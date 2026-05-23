@@ -4,7 +4,7 @@
 > **qKast API documentation and examples. Contribute to egfx/qKast development by creating an account on GitHub. Access live content collections sourced from any page around the web**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

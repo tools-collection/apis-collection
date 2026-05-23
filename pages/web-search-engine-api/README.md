@@ -4,7 +4,7 @@
 > **QMeta offers a free, uncensored and unlimited web search engine API**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -6,7 +6,7 @@ to build your own applications and to integrate it&#x27;s features and workflow
 to your dashboards, websites and management systems.**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Jobs`](../../README.md#jobs-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Jobs](https://github.com/tools-collection/apis-collection#jobs-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

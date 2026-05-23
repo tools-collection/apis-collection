@@ -4,7 +4,7 @@
 > **Token Added. Token Added**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

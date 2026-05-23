@@ -4,7 +4,7 @@
 > **Let’s you search and lookup metadata about artists, tracks and albums. Spotify’s Web API lets your applications fetch data from the Spotify music catalog, manage users&#x27; playlists and saved music, get recommendations, control Spotify Connect, and more. Simply put, your app receives Spotify content through the Spotify Web API**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

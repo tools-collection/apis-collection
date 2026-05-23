@@ -4,7 +4,7 @@
 > **Render&#x27;s API lets you manage web services, static sites, databases, cron jobs, and private services on the Render cloud platform programmatically.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

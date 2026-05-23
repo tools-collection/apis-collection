@@ -4,7 +4,7 @@
 > **Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more. Task humans from software. Task humans from software**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Business`](../../README.md#business-), [`Jobs`](../../README.md#jobs-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Business](https://github.com/tools-collection/apis-collection#business-), [Jobs](https://github.com/tools-collection/apis-collection#jobs-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

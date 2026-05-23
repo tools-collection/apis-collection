@@ -4,7 +4,7 @@
 > **A consensus driven API for national, federal and public holidays servicing over 166 countries and 300 subdivisions worldwide. Holiday and business day data API for app and blockchain developers**
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

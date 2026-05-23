@@ -4,7 +4,7 @@
 > **Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more. Generate API Key Loading signup form**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The aim is to provide every bit of information which is felt required for a user to know about a furniture store**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

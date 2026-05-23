@@ -5,7 +5,7 @@
 > **Return developer friendly JSON data for almost any article**
 
 ## 📝 Details
-- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

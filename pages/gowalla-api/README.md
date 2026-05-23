@@ -5,7 +5,7 @@
 > **Gather and compare all kinds of interesting data, they weren&#x27;t really interactive with Gowalla itself**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Social`](../../README.md#social-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Contribute to AlbertSuarez/searchly development by creating an account on GitHub. 🎶 Song similarity search API based on lyrics**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

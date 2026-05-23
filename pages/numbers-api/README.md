@@ -4,7 +4,7 @@
 > **Numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers.**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Education`](../../README.md#education-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Education](https://github.com/tools-collection/apis-collection#education-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

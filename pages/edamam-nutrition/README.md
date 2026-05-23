@@ -4,7 +4,7 @@
 > **API for Nutrition Analysis, Food Database Lookup, Recipe Search and other.**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-), [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-), [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

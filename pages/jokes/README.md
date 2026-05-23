@@ -4,7 +4,7 @@
 > **Full featured Jokes API**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

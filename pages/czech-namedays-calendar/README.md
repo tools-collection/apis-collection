@@ -4,7 +4,7 @@
 > **Czech Holidays API**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

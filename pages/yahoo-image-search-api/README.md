@@ -5,7 +5,7 @@
 > **Web Service allows you to search the Internet for images**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Search`](../../README.md#search-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

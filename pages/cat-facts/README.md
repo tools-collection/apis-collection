@@ -4,7 +4,7 @@
 > **Daily cat facts! 🐱**
 
 ## 📝 Details
-- **Categories**: [`Bots`](../../README.md#bots-), [`Education`](../../README.md#education-), [`Fun`](../../README.md#fun-), [`Animals`](../../README.md#animals-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Bots](https://github.com/tools-collection/apis-collection#bots-), [Education](https://github.com/tools-collection/apis-collection#education-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Animals](https://github.com/tools-collection/apis-collection#animals-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

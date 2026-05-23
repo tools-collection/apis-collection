@@ -4,7 +4,7 @@
 > **BetterDoctor API is the most frequently updated and trusted source of doctor data. BetterDoctor delivers accurate provider directory data to ensure health plans, health systems, provider groups, and doctors are regulation-compliant and can provide patients with care they’re looking for.**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

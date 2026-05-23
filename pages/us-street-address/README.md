@@ -4,7 +4,7 @@
 > **Verify one or more addresses using the SmartyStreets US Street Address API**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

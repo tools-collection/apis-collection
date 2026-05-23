@@ -4,7 +4,7 @@
 > **Figma&#x27;s API provides access to files, components, styles, comments, and team projects. Extract design tokens, automate design-to-code workflows, and build design system tooling.**
 
 ## 📝 Details
-- **Categories**: [`Art & Design`](../../README.md#art--design-), [`Development`](../../README.md#development-)
+- **Categories**: [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **OpenSea&#x27;s API provides NFT metadata, collection stats, listings, offers, and transaction history from the world&#x27;s largest NFT marketplace across Ethereum, Polygon, and other chains.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

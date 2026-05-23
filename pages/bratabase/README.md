@@ -4,7 +4,7 @@
 > **Bratabase API Widget. Hello Developers! Welcome to the developers corner of Bratabase. On this site you should find information regarding the tools that the platform provides for you to build up on**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

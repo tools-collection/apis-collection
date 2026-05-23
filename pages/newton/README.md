@@ -4,7 +4,7 @@
 > **A really micro micro-service for advanced math**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

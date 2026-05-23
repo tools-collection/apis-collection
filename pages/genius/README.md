@@ -4,7 +4,7 @@
 > **Allows users to find details about Genius artists and songs. Use our API and help build the world&#x27;s greatest public knowledge project since Wikipedia**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-), [`Open Source`](../../README.md#open-source-), [`Wiki`](../../README.md#wiki-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-), [Open Source](https://github.com/tools-collection/apis-collection#open-source-), [Wiki](https://github.com/tools-collection/apis-collection#wiki-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

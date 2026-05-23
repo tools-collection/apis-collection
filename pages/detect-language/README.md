@@ -4,7 +4,7 @@
 > **Detects 164 languages. Supports short texts, batch requests, JavaScript, Python, C#, Java, PHP, Go, Ruby and more. Fast, reliable text language identification API.**
 
 ## 📝 Details
-- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

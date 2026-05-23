@@ -4,7 +4,7 @@
 > **United States Environmental Protection Agency API**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Environment & Nature`](../../README.md#environment--nature-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Environment & Nature](https://github.com/tools-collection/apis-collection#environment--nature-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

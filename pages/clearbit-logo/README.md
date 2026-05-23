@@ -4,7 +4,7 @@
 > **If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Business`](../../README.md#business-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Business](https://github.com/tools-collection/apis-collection#business-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

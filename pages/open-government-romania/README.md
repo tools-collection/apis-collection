@@ -4,7 +4,7 @@
 > **2123 SETURI DE DATE 26000 FIȘIERE CORELATE 106 INSTITUȚII 14 GRUPURI 3873 ADRESE DE LEGĂTURĂ EXTERNE**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **fal.ai provides fast inference for generative media models including FLUX, Stable Diffusion, Kling, and others. Optimized for real-time image and video generation use cases.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

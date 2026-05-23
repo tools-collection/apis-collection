@@ -4,7 +4,7 @@
 > **Scheduler lets you share your availability with contacts no matter what application you use. Cronofy provides a single API for Apple, Exchange, Google, Office 365, and Outlook.com calendars for real-time scheduling. Enterprise-ready scheduling tools, UI Elements and APIs**
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

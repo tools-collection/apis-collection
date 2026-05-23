@@ -4,7 +4,7 @@
 > **Google&#x27;s Gemini API provides access to Gemini 2.5 Pro, Gemini 2.5 Flash, and Gemini 3 series multimodal models for text, image, video, and audio understanding, generation, and agentic tasks.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

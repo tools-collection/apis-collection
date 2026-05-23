@@ -4,7 +4,7 @@
 > **Perplexity&#x27;s API provides search-augmented language model responses. Models have real-time web access and cite sources, making them ideal for research and fact-checking applications.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Search`](../../README.md#search-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

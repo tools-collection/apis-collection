@@ -4,7 +4,7 @@
 > **The FBI Wanted API is designed to help developers easily get information on the FBI wanted program**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

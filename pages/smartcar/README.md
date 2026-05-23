@@ -4,7 +4,7 @@
 > **Build web and mobile apps that communicate with vehicles**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

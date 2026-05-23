@@ -4,7 +4,7 @@
 > **Official website of the MBTA -- schedules, maps, and fare information for Greater Boston&#x27;s public transportation system, including subway, commuter rail, bus routes, and boat lines**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

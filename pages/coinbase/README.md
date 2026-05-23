@@ -5,7 +5,7 @@
 Coinbase’s APIs enable a variety of capabilities; from simply gathering read-only data, to building something that’s never been done before**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-), [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-), [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

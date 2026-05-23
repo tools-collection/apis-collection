@@ -4,7 +4,7 @@
 > **Set of fully hosted APIs, modules and &#x27;out of the box&#x27; tools built to serve developers, providers and investors**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

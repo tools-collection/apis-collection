@@ -4,7 +4,7 @@
 > **Free, comprehensive cryptocurrency API. Access free crypto API such as real-time market price, historical trading, tickers, and exchange data for cryptocurrencies**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

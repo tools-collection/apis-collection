@@ -4,7 +4,7 @@
 > **Gfycat’s API - collection of GIFs**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-), [`Social`](../../README.md#social-), [`Art & Design`](../../README.md#art--design-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-), [Social](https://github.com/tools-collection/apis-collection#social-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

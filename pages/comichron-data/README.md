@@ -4,7 +4,7 @@
 > **com - comichron-data/api. JSON API for monthly sales data from comichron**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

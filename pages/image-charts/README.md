@@ -4,7 +4,7 @@
 > **A drop-in-replacement for the deprecated Google Image Charts. Easiest way to embed charts as image in emails, pdfs etc.**
 
 ## 📝 Details
-- **Categories**: [`Visualizations`](../../README.md#visualizations-), [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Visualizations](https://github.com/tools-collection/apis-collection#visualizations-), [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

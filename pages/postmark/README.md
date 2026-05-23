@@ -4,7 +4,7 @@
 > **No bulk. That means your app&#x27;s email isn&#x27;t stuck waiting behind 500,000 copies of a marketing campaign. Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark delivers email triggered by an action in your app**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Business`](../../README.md#business-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

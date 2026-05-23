@@ -4,7 +4,7 @@
 > **Access to Cambridge’s custom-developed API. License our data. Use Cambridge Dictionary data for language processing, or other applications**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Education`](../../README.md#education-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [Education](https://github.com/tools-collection/apis-collection#education-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

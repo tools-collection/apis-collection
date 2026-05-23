@@ -4,7 +4,7 @@
 > **Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more. API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Collaboration`](../../README.md#collaboration-), [`Files & Storage`](../../README.md#files--storage-), [`Calendar & Time`](../../README.md#calendar--time-), [`CRM`](../../README.md#crm-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-), [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-), [CRM](https://github.com/tools-collection/apis-collection#crm-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

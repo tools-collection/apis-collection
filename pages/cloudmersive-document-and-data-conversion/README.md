@@ -5,7 +5,7 @@
 Convert files and content between file formats. Convert data between file formats. Instantly.**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Images & Photography`](../../README.md#images--photography-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

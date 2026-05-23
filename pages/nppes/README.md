@@ -4,7 +4,7 @@
 > **National Plan &amp; Provider Enumeration System, info on healthcare providers registered in US**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

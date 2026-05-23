@@ -4,7 +4,7 @@
 > **Here’s a categorized list of all the Music APIs. Notice one that is missing or miscategorized? Let me know. Music Metadata ArtistLink Decibel Discogs FreeDB Gracenote Last. fm MusicBrainz Mus…**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

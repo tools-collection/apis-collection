@@ -4,7 +4,7 @@
 > **Affordable Soccer Stats API for making football predictions. Includes stats such as: Over and Unders, BTTS, Corners, Cards, Goals and so much more. Over 300 leagues bursting with data. 522 Origin Connection Time-out cloudflare-nginx**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

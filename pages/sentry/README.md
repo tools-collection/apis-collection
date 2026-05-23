@@ -4,7 +4,7 @@
 > **Sentry&#x27;s API provides access to error events, issues, projects, organizations, and releases. Integrate Sentry&#x27;s error monitoring and performance tracking into CI/CD pipelines.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

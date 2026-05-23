@@ -4,7 +4,7 @@
 > **Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powered by Stoplight.io. Document, mock, test, and more, with the StopLight API Designer**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

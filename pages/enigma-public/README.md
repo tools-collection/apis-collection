@@ -4,7 +4,7 @@
 > **Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time.**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Bannerbear API auto-generates social media images, banners, and PDFs from templates. Integrate dynamic image creation into workflows for marketing, e-commerce, and content automation.**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Generate fake data and get by REST API requests. Collection of completely free APIs that helps web developers and web designers with generating fake data**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Random`](../../README.md#random-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

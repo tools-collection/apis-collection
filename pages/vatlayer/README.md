@@ -4,7 +4,7 @@
 > **Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers &amp; businesses**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-), [`Validation & Verification`](../../README.md#validation--verification-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

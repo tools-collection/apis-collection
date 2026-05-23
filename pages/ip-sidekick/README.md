@@ -4,7 +4,7 @@
 > **IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor&#x27;s location or display their country.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

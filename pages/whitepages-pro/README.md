@@ -4,7 +4,7 @@
 > **Global Identity Verification API. Get a clearer picture of your customer. Instantly know if a name, address, phone number, email, and IP all belong to the same person**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`CRM`](../../README.md#crm-), [`Maps & Geo`](../../README.md#maps--geo-), [`Business`](../../README.md#business-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [CRM](https://github.com/tools-collection/apis-collection#crm-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

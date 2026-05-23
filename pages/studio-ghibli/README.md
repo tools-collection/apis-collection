@@ -4,7 +4,7 @@
 > **Resources from Studio Ghibli films**
 
 ## 📝 Details
-- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

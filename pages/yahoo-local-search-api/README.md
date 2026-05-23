@@ -4,7 +4,7 @@
 > **Join the 200,000 developers using Yahoo tools to build their app businesses. Local Web Services. Measure, monetize, advertise and improve your apps with Yahoo tools**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

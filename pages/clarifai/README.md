@@ -4,7 +4,7 @@
 > **Whether you have one input or billions, you are only steps away from using AI to power your business applications. AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography. Clarifai provides a complete platform to deploy, maintain, and manage your AI models**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`AI & ML`](../../README.md#ai--ml-), [`Video & Media`](../../README.md#video--media-), [`Validation & Verification`](../../README.md#validation--verification-), [`Recognition`](../../README.md#recognition-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

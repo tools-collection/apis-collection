@@ -4,7 +4,7 @@
 > **Introduction Hello Developers Welcome to the YNAB API! (If you aren&#x27;t a developer or you have no idea what an &quot;API&quot; is and you just want to sign in to your YNAB account, you can do that here. ) The. The you need a budget official API**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

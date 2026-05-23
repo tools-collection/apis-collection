@@ -4,7 +4,7 @@
 > **Sample XML response Sample JSON response**
 
 ## 📝 Details
-- **Categories**: [`Books`](../../README.md#books-)
+- **Categories**: [Books](https://github.com/tools-collection/apis-collection#books-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

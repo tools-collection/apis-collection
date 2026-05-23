@@ -4,7 +4,7 @@
 > **Shorten long URLs and optionally protect them with passwords or captcha. No registration required**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

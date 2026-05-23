@@ -4,7 +4,7 @@
 > **MessageBird&#x27;s API provides SMS, voice, WhatsApp, email, and live chat communications. Send messages globally, build IVR flows, and manage omnichannel customer interactions.**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Voice`](../../README.md#voice-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

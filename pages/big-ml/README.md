@@ -4,7 +4,7 @@
 > **BigML removes the complexities of Machine Learning so you can focus on what matters most, enhancing and automating decision making. BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

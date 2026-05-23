@@ -4,7 +4,7 @@
 > **A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. Kitten-themed placeholder images for developers :3**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Animals`](../../README.md#animals-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Animals](https://github.com/tools-collection/apis-collection#animals-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

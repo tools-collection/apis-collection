@@ -4,7 +4,7 @@
 > **Enables easy integration of Google natural language understanding technologies into developer applications.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

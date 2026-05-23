@@ -4,7 +4,7 @@
 > **An API for interesting facts about numbers. An API for interesting facts about numbers**
 
 ## 📝 Details
-- **Categories**: [`Random`](../../README.md#random-), [`Fun`](../../README.md#fun-), [`Science & Math`](../../README.md#science--math-)
+- **Categories**: [Random](https://github.com/tools-collection/apis-collection#random-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Science & Math](https://github.com/tools-collection/apis-collection#science--math-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

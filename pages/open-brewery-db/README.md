@@ -4,7 +4,7 @@
 > **The goal of Open Brewery DB is to maintain an open-source, community-driven database on breweries, cideries, brewpubs, and bottleshops**
 
 ## 📝 Details
-- **Categories**: [`Point of Interest`](../../README.md#point-of-interest-), [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-), [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

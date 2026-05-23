@@ -4,7 +4,7 @@
 > **Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-), [`Statistics & Data`](../../README.md#statistics--data-), [`Sport & Fitness`](../../README.md#sport--fitness-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

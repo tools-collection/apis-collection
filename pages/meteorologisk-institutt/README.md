@@ -4,7 +4,7 @@
 > **A. Q. Available products: LegendMeani. Introduction This is version 3 of the MET Weather API. For additional information, please read our Getting Started tutorial, Usage guide, Terms of Service and F**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

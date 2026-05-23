@@ -4,7 +4,7 @@
 > **By Collin M. Barrett. FilterLists is the independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

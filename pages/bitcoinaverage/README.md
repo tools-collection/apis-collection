@@ -4,7 +4,7 @@
 > **The world&#x27;s best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

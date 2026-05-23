@@ -4,7 +4,7 @@
 > **Cloudflare Workers AI provides serverless inference for LLMs, text embedding, image classification, speech recognition, and translation models running on Cloudflare&#x27;s global edge network.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Development`](../../README.md#development-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

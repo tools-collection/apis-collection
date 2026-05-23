@@ -4,7 +4,7 @@
 > **The Pokémon TCG API allows developers to easily consume Pokémon card and set data in JSON format**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Games`](../../README.md#games-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

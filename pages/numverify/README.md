@@ -4,7 +4,7 @@
 > **Free, powerful JSON API offering international and national phone number validation and carrier, location and line type lookup for developers and businesses.**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

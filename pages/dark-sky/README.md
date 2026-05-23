@@ -4,7 +4,7 @@
 > **Weather API**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

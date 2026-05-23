@@ -4,7 +4,7 @@
 > ****
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

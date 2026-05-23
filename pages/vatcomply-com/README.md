@@ -4,7 +4,7 @@
 > **VAT Number Validation API, Geolocation API, Exchange rates API**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

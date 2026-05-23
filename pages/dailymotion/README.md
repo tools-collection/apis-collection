@@ -4,7 +4,7 @@
 > **Build applications centered around DailyMotion. Explore Dailymotion API documentation to create your video apps and websites**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Social`](../../README.md#social-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Social](https://github.com/tools-collection/apis-collection#social-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

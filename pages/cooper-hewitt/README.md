@@ -4,7 +4,7 @@
 > **Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style application programming interface (API) for developers to use in their products and services. API requests are made by**
 
 ## 📝 Details
-- **Categories**: [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

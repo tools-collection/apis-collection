@@ -4,7 +4,7 @@
 > **Stop bots and manual spam from reaching you or your customer. All with high accuracy and privacy**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

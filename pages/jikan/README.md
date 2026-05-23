@@ -4,7 +4,7 @@
 > **Jikan is an unofficial MyAnimeList REST based API. Jikan is an unofficial MyAnimeList REST based API**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

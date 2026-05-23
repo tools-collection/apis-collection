@@ -4,7 +4,7 @@
 > **Powerful Weather API built for systems that demand speed, reliability and heavy load. On-demand access to Hyper-local Global Weather History, Forecast, Nowcast, Climate, Hazards &amp; Astronomical data. Analytics-grade, Built for enterprises**
 
 ## 📝 Details
-- **Categories**: [`Space`](../../README.md#space-), [`Weather`](../../README.md#weather-)
+- **Categories**: [Space](https://github.com/tools-collection/apis-collection#space-), [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

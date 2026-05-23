@@ -4,7 +4,7 @@
 > **Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available. Compute instant valuations spanning property and land values, home equity, and more, and report on the data density behind this conclusions**
 
 ## 📝 Details
-- **Categories**: [`Real Estate`](../../README.md#real-estate-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Real Estate](https://github.com/tools-collection/apis-collection#real-estate-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

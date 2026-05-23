@@ -4,7 +4,7 @@
 > **Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site&#x27;s traffic in real time. Allows you to extract your web site&#x27;s traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

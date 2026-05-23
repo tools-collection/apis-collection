@@ -5,7 +5,7 @@
 > **Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

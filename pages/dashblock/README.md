@@ -4,7 +4,7 @@
 > **The easiest way to access websites programmatically and collect structured data. With Dashblock you can turn any website into an API. Offers 1000 free API calls per month.**
 
 ## 📝 Details
-- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

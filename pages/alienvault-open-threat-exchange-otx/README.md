@@ -4,7 +4,7 @@
 > **Share and collaborate in developing threat intelligence. Protect yourself and the community against today&#x27;s latest threats. Learn about the latest online threats**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

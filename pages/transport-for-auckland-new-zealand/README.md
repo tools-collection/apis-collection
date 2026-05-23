@@ -4,7 +4,7 @@
 > **The Auckland Transport developer portal is a platform that exposes a diverse range of API&#x27;s and transport data**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

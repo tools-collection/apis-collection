@@ -4,7 +4,7 @@
 > **Zapier&#x27;s API enables creating and managing Zaps (automated workflows), accessing connected app data, and triggering automations programmatically across 6,000+ integrated apps.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Business`](../../README.md#business-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

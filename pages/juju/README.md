@@ -4,7 +4,7 @@
 > **Juju.com is a job search engine, not a job board. Juju&#x27;s comprehensive search results link to millions of jobs found on thousands employer career portals, recruiter websites, job boards, and other employment sites all over the Internet, rather than to a limited set of job postings hosted directly on our own site.**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

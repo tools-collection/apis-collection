@@ -4,7 +4,7 @@
 > **It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend. eCommerce APIs for developers**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Development`](../../README.md#development-), [`Payments`](../../README.md#payments-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Development](https://github.com/tools-collection/apis-collection#development-), [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

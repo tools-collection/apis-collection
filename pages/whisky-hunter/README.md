@@ -4,7 +4,7 @@
 > **Explore lots from the past online whisky auctions. Whisky Hunter have collected the results from whisky auction sites into a single up-to-date database.**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **Checkout.com&#x27;s Unified Payments API processes global card payments, digital wallets, and local payment methods with fraud detection, 3D Secure, and real-time reporting.**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

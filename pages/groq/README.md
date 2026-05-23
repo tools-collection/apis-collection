@@ -4,7 +4,7 @@
 > **Groq&#x27;s API provides ultra-fast inference for open-source language models like Llama 3, Mixtral, and Gemma using custom LPU hardware. Optimized for low-latency applications.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

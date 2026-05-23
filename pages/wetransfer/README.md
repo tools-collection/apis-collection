@@ -4,7 +4,7 @@
 > **Put us in unexpected places, challenge the traditional creative flow, think big, go wild. File Sharing. Integrate WeTransfer into your product, your platform, your life**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Files & Storage`](../../README.md#files--storage-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

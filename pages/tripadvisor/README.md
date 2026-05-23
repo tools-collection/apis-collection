@@ -4,7 +4,7 @@
 > **TripAdvisor&#x27;s Content API provides access to hotel, restaurant, and attraction reviews, photos, ratings, and location details from the world&#x27;s largest travel platform.**
 
 ## 📝 Details
-- **Categories**: [`Travel`](../../README.md#travel-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Categories**: [Travel](https://github.com/tools-collection/apis-collection#travel-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

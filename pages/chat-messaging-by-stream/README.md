@@ -8,7 +8,7 @@
 * Flexible API - Proven reliability that is flexible enough to build any chat experience. Stream provides an easy to use API, React components and UI kit for Chat**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Chats & Messaging`](../../README.md#chats--messaging-), [`Development`](../../README.md#development-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

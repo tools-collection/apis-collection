@@ -5,7 +5,7 @@
 > **Persistent counting and A/B testing**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

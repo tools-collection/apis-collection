@@ -4,7 +4,7 @@
 > **Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Commerce`](../../README.md#commerce-), [`Finance & Economics`](../../README.md#finance--economics-), [`Payments`](../../README.md#payments-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-), [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **&lt;div class&#x3D;&quot;homepage-wrap&quot;&gt;**
 
 ## 📝 Details
-- **Categories**: [`Chats & Messaging`](../../README.md#chats--messaging-), [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Categories**: [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

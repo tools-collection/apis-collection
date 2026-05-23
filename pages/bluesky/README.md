@@ -4,7 +4,7 @@
 > **Bluesky&#x27;s AT Protocol API provides access to decentralized social networking including posts, profiles, follows, feeds, and notifications. Build apps on the open, federated social web.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

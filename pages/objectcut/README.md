@@ -4,7 +4,7 @@
 > **Automatic background removal real-time service powered by AI. Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

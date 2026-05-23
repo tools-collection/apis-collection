@@ -14,7 +14,7 @@ Get your users current timezone without forcing them to fill-in any forms.
 Assess potential risks and threats coming from certain IP addresses by detecting crawlers, proxies and tor users. With SmartIP you can enrich any IP address with geolocation data, ASN and hostname information, enforce GDPR compliance, assess potential risks and much more.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

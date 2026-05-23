@@ -4,7 +4,7 @@
 > **CurrencyAPI provides real-time and historical foreign exchange rates for 170+ currencies. Features include currency conversion, historical rates, and fluctuation data with high update frequency.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

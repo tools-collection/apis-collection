@@ -4,7 +4,7 @@
 > **Get real-time ETAs, availability, price estimates, ride status through the Lyft API. Learn more about how you can create delightful experiences that transport people —leveraging the power of Lyft&#x27;s API.**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

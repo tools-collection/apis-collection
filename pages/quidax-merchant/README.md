@@ -4,7 +4,7 @@
 > **Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin &amp; other cryptocurrencies with Naira. Quidax is simple, secure and safe. . Our API makes it easy to integrate fiat currencies and cryptocurrencies such as; Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), XRP and several others into new and existing applications**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

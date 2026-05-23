@@ -4,7 +4,7 @@
 > **Brex&#x27;s API provides access to corporate card transactions, expenses, budgets, vendors, and reimbursements. Automate expense management and financial workflows for businesses.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-), [`Payments`](../../README.md#payments-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-), [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

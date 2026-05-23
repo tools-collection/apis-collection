@@ -4,7 +4,7 @@
 > **CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI.**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Development`](../../README.md#development-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

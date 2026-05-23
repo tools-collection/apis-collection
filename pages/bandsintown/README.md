@@ -7,7 +7,7 @@ artist info: returns the link to the Bandsintown artist page, the link to the ar
 artist events: returns the list of events including their date and time, venue name and location, ticket links, lineup, description and the link to the Bandsintown event page**
 
 ## 📝 Details
-- **Categories**: [`Events`](../../README.md#events-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Events](https://github.com/tools-collection/apis-collection#events-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **WhatsApp Business Platform API enables sending and receiving WhatsApp messages, managing message templates, and handling webhooks for business-to-customer communications at scale.**
 
 ## 📝 Details
-- **Categories**: [`Chats & Messaging`](../../README.md#chats--messaging-), [`Social`](../../README.md#social-)
+- **Categories**: [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

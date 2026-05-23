@@ -4,7 +4,7 @@
 > **Currents - Capture the world news through simple json News API.**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

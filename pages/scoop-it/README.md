@@ -4,7 +4,7 @@
 > **Enables professionals and businesses to research and publish content through its content curation tool**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

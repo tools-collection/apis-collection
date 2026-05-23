@@ -4,7 +4,7 @@
 > **ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse**
 
 ## 📝 Details
-- **Categories**: [`Captcha`](../../README.md#captcha-), [`Security`](../../README.md#security-)
+- **Categories**: [Captcha](https://github.com/tools-collection/apis-collection#captcha-), [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

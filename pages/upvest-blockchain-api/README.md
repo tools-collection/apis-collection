@@ -4,7 +4,7 @@
 > **The Upvest Blockchain API is a multi-protocol blockchain API for building blockchain-interacting applications. Get started using the Upvest APIs. Get familiar with an overview of quickstarts, client libraries and tutorials to start building on blockchain in no time**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

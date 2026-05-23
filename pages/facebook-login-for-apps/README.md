@@ -4,7 +4,7 @@
 > **Secure, fast, convenient way to login in your app/website. A secure, quick, and easy way to log users into your app or website**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

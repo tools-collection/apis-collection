@@ -4,7 +4,7 @@
 > **More information is available here. Pleas. The Regulations. gov API is not accepting applications for new API keys at this time to prepare for the upcoming transition to a modernized Regulations. gov**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

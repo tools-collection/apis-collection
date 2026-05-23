@@ -4,7 +4,7 @@
 > **Freshservice&#x27;s ITSM API manages IT service desk tickets, assets, changes, problems, and releases. Build IT operations integrations on Freshservice&#x27;s cloud-based service management platform.**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Development`](../../README.md#development-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

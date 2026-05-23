@@ -4,7 +4,7 @@
 > **The Graph is an indexing protocol for querying blockchain data via GraphQL. Access indexed data from Ethereum, Polygon, and other networks through community-built subgraphs.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-), [`Development`](../../README.md#development-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `GraphQL`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

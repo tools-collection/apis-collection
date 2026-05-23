@@ -4,7 +4,7 @@
 > **Simple URL shortener. Supports custom short link ending. Our main portal for developer documentation**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

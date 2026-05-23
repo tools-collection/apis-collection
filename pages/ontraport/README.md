@@ -4,7 +4,7 @@
 > **Marketing automation**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`CRM`](../../README.md#crm-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [CRM](https://github.com/tools-collection/apis-collection#crm-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. Start accepting bitcoin, store and spend bitcoin securely, or get the BitPay Card**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-), [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-), [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Here you will find everything you need to get started with your integration of oyur SMS services. Send and recieve SMS messages worldwide**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

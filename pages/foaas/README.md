@@ -4,7 +4,7 @@
 > **FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-), [`Adult`](../../README.md#adult-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-), [Adult](https://github.com/tools-collection/apis-collection#adult-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -5,7 +5,7 @@
 > **Celebrity information**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

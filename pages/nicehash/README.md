@@ -4,7 +4,7 @@
 > **Largest Crypto Mining Marketplace**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&amp;#039;s systems. Access over 70 years of comic data with Marvel&#x27;s official developer API**
 
 ## 📝 Details
-- **Categories**: [`Art & Design`](../../README.md#art--design-), [`Entertainment`](../../README.md#entertainment-), [`Comics & Anime`](../../README.md#comics--anime-)
+- **Categories**: [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

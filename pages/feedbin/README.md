@@ -4,7 +4,7 @@
 > **Feedbin API Documentation. Contribute to feedbin/feedbin-api development by creating an account on GitHub. Feedbin API Documentation**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

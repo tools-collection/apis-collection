@@ -4,7 +4,7 @@
 > **A collection of the best open data sets and open-source tools for data science.**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

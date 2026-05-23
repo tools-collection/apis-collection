@@ -5,7 +5,7 @@
 > **Todo Lists**
 
 ## 📝 Details
-- **Categories**: [`Project Management`](../../README.md#project-management-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Project Management](https://github.com/tools-collection/apis-collection#project-management-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

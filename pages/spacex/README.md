@@ -4,7 +4,7 @@
 > **Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/SpaceX-API.**
 
 ## 📝 Details
-- **Categories**: [`Space`](../../README.md#space-)
+- **Categories**: [Space](https://github.com/tools-collection/apis-collection#space-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

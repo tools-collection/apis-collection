@@ -4,7 +4,7 @@
 > **Railway&#x27;s API enables programmatic management of projects, services, deployments, and environments on the Railway cloud platform.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `GraphQL`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

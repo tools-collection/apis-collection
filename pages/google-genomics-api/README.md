@@ -4,7 +4,7 @@
 > **Beta This product or feature is covered by the Pre-GA Offerings Terms of the Google Cloud Platform Terms of Service. Pre-GA products and features may have limited support, and changes to pre-GA pro**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

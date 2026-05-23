@@ -4,7 +4,7 @@
 > **Table FIPE Consultation API provides average vehicle prices in the brazilian market through a RESTful HTTP Json service. Updated monthly with data extracted from the FIPE table**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

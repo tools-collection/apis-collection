@@ -6,7 +6,7 @@ Real-time monitoring service for all your email traffic.
 Responsive email design with MJML and Passport**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Marketing & SEO`](../../README.md#marketing--seo-), [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

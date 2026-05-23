@@ -4,7 +4,7 @@
 > **Welcome to the Mastodon documentation!. Welcome to the Mastodon documentation!**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

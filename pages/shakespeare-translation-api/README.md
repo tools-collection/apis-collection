@@ -4,7 +4,7 @@
 > **Translate from English to Shakespeare English**
 
 ## 📝 Details
-- **Categories**: [`Translation`](../../README.md#translation-)
+- **Categories**: [Translation](https://github.com/tools-collection/apis-collection#translation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

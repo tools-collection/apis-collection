@@ -4,7 +4,7 @@
 > **Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a free, simple-to-use, enterprise-grade geocoding, geoparsing and maps api that allows you to build location aware applications**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

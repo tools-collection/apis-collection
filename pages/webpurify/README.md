@@ -4,7 +4,7 @@
 > **Provides live image moderation by humans or AI-based image moderation service.**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`Security`](../../README.md#security-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Security](https://github.com/tools-collection/apis-collection#security-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

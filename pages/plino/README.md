@@ -4,7 +4,7 @@
 > **Plino - A responsive spam filtering system**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Development`](../../README.md#development-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

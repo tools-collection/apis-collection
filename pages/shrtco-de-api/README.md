@@ -4,7 +4,7 @@
 > **Secure and reliable Online Tools. Free URL Shortener API without limits**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

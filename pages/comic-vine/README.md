@@ -4,7 +4,7 @@
 > **An extremely mature, well organized and continuely updated resource of comic information. The largest comic database online, Comic Vine features Comic Reviews, News, Videos, and Forums for the latest in and more!**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Comics & Anime`](../../README.md#comics--anime-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

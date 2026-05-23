@@ -4,7 +4,7 @@
 > **Convex is a backend-as-a-service platform offering a reactive database, serverless functions, file storage, and real-time subscriptions accessible via TypeScript SDK and HTTP actions.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Databases](https://github.com/tools-collection/apis-collection#databases-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

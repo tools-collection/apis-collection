@@ -4,7 +4,7 @@
 > **Adobe Commerce (Magento) REST and GraphQL APIs manage products, orders, customers, carts, and inventory for enterprise e-commerce stores. Supports both cloud and self-hosted deployments.**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

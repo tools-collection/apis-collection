@@ -4,7 +4,7 @@
 > **Weather for boating**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

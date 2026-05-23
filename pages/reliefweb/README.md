@@ -5,7 +5,7 @@
 and much much more**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Environment & Nature`](../../README.md#environment--nature-), [`Government`](../../README.md#government-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [Environment & Nature](https://github.com/tools-collection/apis-collection#environment--nature-), [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

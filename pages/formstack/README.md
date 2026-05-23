@@ -4,7 +4,7 @@
 > **The Formstack API allows users and 3rd-party applications to access Formstack resources programmatically. This API conforms to REST principles. Webhooks allow you. Form creator for online forms. Welcome to Formstack Developer Central. Here you&#x27;ll find all the resources you need to create services that rely on the Formstack platform**
 
 ## 📝 Details
-- **Categories**: [`Forms & Surveys`](../../README.md#forms--surveys-), [`Business`](../../README.md#business-)
+- **Categories**: [Forms & Surveys](https://github.com/tools-collection/apis-collection#forms--surveys-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

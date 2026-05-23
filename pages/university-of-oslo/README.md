@@ -4,7 +4,7 @@
 > **University of Oslo**
 
 ## 📝 Details
-- **Categories**: [`Education`](../../README.md#education-)
+- **Categories**: [Education](https://github.com/tools-collection/apis-collection#education-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

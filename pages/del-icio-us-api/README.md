@@ -5,7 +5,7 @@
 > **Keep, share, and discover the best of the Web using Delicious, the world&#x27;s leading social bookmarking service**
 
 ## 📝 Details
-- **Categories**: [`Bookmarks`](../../README.md#bookmarks-), [`Social`](../../README.md#social-)
+- **Categories**: [Bookmarks](https://github.com/tools-collection/apis-collection#bookmarks-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

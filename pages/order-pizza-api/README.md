@@ -4,7 +4,7 @@
 > **A RESTful API as pizza restaurant ordering system. swagger Explore**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

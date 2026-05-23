@@ -4,7 +4,7 @@
 > **The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. Twitch Developer Documentation**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

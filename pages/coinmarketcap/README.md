@@ -4,7 +4,7 @@
 > **Cryptocurrencies Prices. Use CoinMarketCap&#x27;s free crypto API to get the best, most accurate real-time, historical cryptocurrency and exchange trade data for Bitcoin, Ethereum and more**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

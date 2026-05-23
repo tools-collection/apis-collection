@@ -4,7 +4,7 @@
 > **The Final Space API is a RESTful API based on the television show Final Space.e**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

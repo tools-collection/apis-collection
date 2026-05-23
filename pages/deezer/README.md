@@ -4,7 +4,7 @@
 > **Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer&#x27;s music catalogue. You have to login to accept the terms and conditions of the simple API. Login Back to top Follow @deezer Terms of use Contact &amp; Support**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Video & Media`](../../README.md#video--media-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

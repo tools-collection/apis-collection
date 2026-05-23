@@ -4,7 +4,7 @@
 > **Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name. The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`Bar & QR Codes`](../../README.md#bar--qr-codes-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [Bar & QR Codes](https://github.com/tools-collection/apis-collection#bar--qr-codes-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

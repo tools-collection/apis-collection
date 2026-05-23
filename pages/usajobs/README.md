@@ -4,7 +4,7 @@
 > **USAJOBS API. USAJOBS is a United States Office of Personnel Management website**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-), [`Government`](../../README.md#government-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-), [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

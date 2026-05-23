@@ -4,7 +4,7 @@
 > **Our aim is to make it easier for. Signup for a single API key and use it across participating government APIs. About This Service api. data. gov is a free API management service for federal agencies**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

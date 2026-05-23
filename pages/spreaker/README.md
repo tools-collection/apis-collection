@@ -4,7 +4,7 @@
 > **Enables developers to read and write data to Spreaker. Get started with one of our guides, or jump straight into the API documentation**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

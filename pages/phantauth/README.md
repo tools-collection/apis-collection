@@ -4,7 +4,7 @@
 > **Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **OpenRouteService API provides routing, isochrones, geocoding, matrix calculations, and elevation data based on OpenStreetMap. Free and open-source geospatial services globally.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

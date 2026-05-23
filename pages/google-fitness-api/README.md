@@ -4,7 +4,7 @@
 > **Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

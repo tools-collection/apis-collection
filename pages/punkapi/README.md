@@ -4,7 +4,7 @@
 > **Brewdog&#x27;s DIY Dog as a searchable, filterable API. Brewdog&#x27;s DIY Dog as a searchable, filterable API**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Preview Web links with our reliable API service. Get Detailed JSON Response for any URL. RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL. Free &amp; paid plans**
 
 ## 📝 Details
-- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`URLs`](../../README.md#urls-)
+- **Categories**: [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-), [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

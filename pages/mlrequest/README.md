@@ -5,7 +5,7 @@
 > **Serverless, high-performance machine learning contained in a simple API. Models are duplicated across 5 data centers around the world with latency-routed requests at less than 60ms response time. No servers, dependencies, or maintenance - simply make a request to a /predict or /learn endpoint to get started.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

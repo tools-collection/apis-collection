@@ -5,7 +5,7 @@
 > **Live cricket scores**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th**
 
 ## 📝 Details
-- **Categories**: [`Events`](../../README.md#events-), [`Calendar & Time`](../../README.md#calendar--time-), [`Development`](../../README.md#development-)
+- **Categories**: [Events](https://github.com/tools-collection/apis-collection#events-), [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

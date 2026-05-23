@@ -4,7 +4,7 @@
 > **Choose Google Maps Platform to create immersive location experiences and make better business decisions with accurate real time data &amp; dynamic imagery.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

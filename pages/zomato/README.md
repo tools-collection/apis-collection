@@ -4,7 +4,7 @@
 > **Zomato API. 5 million restaurants across 10,000 cities globally.**
 
 ## 📝 Details
-- **Categories**: [`Point of Interest`](../../README.md#point-of-interest-), [`Social`](../../README.md#social-), [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-), [Social](https://github.com/tools-collection/apis-collection#social-), [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

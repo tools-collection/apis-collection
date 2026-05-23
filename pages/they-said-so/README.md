@@ -4,7 +4,7 @@
 > **They Said So Quotes API offers a complete feature rich REST API access to its quotes platform.**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

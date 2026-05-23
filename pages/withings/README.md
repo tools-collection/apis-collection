@@ -4,7 +4,7 @@
 > **Access to data from Withings activity trackers and body measures**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-), [`Health`](../../README.md#health-), [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-), [Health](https://github.com/tools-collection/apis-collection#health-), [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Crime, school and transportation data for US cities.**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-), [`Education`](../../README.md#education-), [`Real Estate`](../../README.md#real-estate-), [`Maps & Geo`](../../README.md#maps--geo-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-), [Education](https://github.com/tools-collection/apis-collection#education-), [Real Estate](https://github.com/tools-collection/apis-collection#real-estate-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

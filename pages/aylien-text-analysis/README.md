@@ -4,7 +4,7 @@
 > **Explore AYLIEN’s advanced NLP APIs. Explore AYLIEN’s advanced NLP APIs**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`AI & ML`](../../README.md#ai--ml-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

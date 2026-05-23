@@ -4,7 +4,7 @@
 > **Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate. Access to Vimeo’s API**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Social`](../../README.md#social-), [`Video & Media`](../../README.md#video--media-), [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Social](https://github.com/tools-collection/apis-collection#social-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

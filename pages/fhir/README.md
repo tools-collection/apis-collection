@@ -5,7 +5,7 @@
 > **Fast Healthcare Interoperability Resources test data**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Health`](../../README.md#health-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform. Get the Temboo SDK in the programming language of your choice**
 
 ## 📝 Details
-- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Categories**: [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

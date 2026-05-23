@@ -4,7 +4,7 @@
 > **Webcams.Travel aggregates and distributes landscape webcams worldwide. Add webcams to your app or website — Browse through the webcams. Wind map and weather forecast.**
 
 ## 📝 Details
-- **Categories**: [`Travel`](../../README.md#travel-), [`Weather`](../../README.md#weather-)
+- **Categories**: [Travel](https://github.com/tools-collection/apis-collection#travel-), [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The API returns maximum 3 detected languages and a numeric confidences between 0 and 1**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Access demographic, economic and population data from the U.S. Census Bureau. Explore census data with visualizations and view tutorials.**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

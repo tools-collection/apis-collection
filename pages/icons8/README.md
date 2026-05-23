@@ -4,7 +4,7 @@
 > **Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

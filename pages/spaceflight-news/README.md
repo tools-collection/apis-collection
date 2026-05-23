@@ -4,7 +4,7 @@
 > **The Spaceflight News API lets you add space related news to your apps**
 
 ## 📝 Details
-- **Categories**: [`Space`](../../README.md#space-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Space](https://github.com/tools-collection/apis-collection#space-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

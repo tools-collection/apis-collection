@@ -4,7 +4,7 @@
 > **Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities. Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Travel`](../../README.md#travel-), [`Transportation`](../../README.md#transportation-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Travel](https://github.com/tools-collection/apis-collection#travel-), [Transportation](https://github.com/tools-collection/apis-collection#transportation-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

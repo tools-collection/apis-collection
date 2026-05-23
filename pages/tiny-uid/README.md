@@ -4,7 +4,7 @@
 > **API Documentation tinyuid. com exposes its data via an Application Programming Interface (API), so developers can interact in a programmatic way with application. This document is the official refer. API for shortening long URLs**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

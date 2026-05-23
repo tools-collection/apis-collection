@@ -4,7 +4,7 @@
 > **Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. Collect, configure, and analyze your data to reach the right audience**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

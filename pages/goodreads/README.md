@@ -4,7 +4,7 @@
 > **The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Books`](../../README.md#books-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Books](https://github.com/tools-collection/apis-collection#books-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

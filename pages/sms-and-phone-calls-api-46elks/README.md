@@ -4,7 +4,7 @@
 > **Integrate SMS, MMS and Phone calls into your applications with just a few lines of code. Transparent pricing, no startup fees, no minimum monthly costs. API for telephony (phone calls, sms, mms, viop)**
 
 ## 📝 Details
-- **Categories**: [`Voice`](../../README.md#voice-), [`Email & SMS`](../../README.md#email--sms-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Voice](https://github.com/tools-collection/apis-collection#voice-), [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

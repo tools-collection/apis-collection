@@ -4,7 +4,7 @@
 > **Mollie&#x27;s Payments API supports iDEAL, credit cards, SEPA, PayPal, and 30+ other payment methods. Designed for European businesses with easy integration and transparent pricing.**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

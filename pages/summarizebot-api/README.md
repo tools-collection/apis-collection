@@ -4,7 +4,7 @@
 > **Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. Integrate our premium text and image analysis APIs into applications that may require artificial intelligence features.**
 
 ## 📝 Details
-- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`Images & Photography`](../../README.md#images--photography-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`AI & ML`](../../README.md#ai--ml-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

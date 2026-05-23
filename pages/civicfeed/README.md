@@ -4,7 +4,7 @@
 > **Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

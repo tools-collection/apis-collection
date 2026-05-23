@@ -4,7 +4,7 @@
 > **Open public data (Open data) made available by the City of Nantes and Nantes Métropole**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

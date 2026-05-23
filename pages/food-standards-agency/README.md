@@ -4,7 +4,7 @@
 > **Find out if a restaurant, takeaway or food shop you want to visit has good food hygiene standards. Eating out? Getting food in? Check the food hygiene rating**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

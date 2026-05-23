@@ -4,7 +4,7 @@
 > **Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding &amp; Place Search APIs**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

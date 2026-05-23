@@ -4,7 +4,7 @@
 > **Web Analytics, open sourced. Open Web Analytics is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or application. Provides a way to request and work with your data outside of the OWA reporting interface**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

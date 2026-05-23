@@ -4,7 +4,7 @@
 > **Zoho Analytics API Zoho Analytics API offers wide range of functions to help developers build &amp; manage powerful reporting and analytical capabilities for their business application needs**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Business`](../../README.md#business-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Typesense is an open-source, typo-tolerant search engine with a REST API. Self-host or use Typesense Cloud for fast, relevant full-text search with faceting and vector search support.**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Development`](../../README.md#development-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

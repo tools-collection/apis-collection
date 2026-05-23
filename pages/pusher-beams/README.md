@@ -4,7 +4,7 @@
 > **Get realtime delivery and transparency to develop your iOS and Android apps. Pusher Beams is a hosted push notifications API designed for developers who need critical transactional information delivered every time**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

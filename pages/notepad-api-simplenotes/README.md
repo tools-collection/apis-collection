@@ -4,7 +4,7 @@
 > **Share the notes with everyone you want.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

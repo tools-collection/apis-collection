@@ -4,7 +4,7 @@
 > **Integration developer utility APIs. By API Name [Default] By API Provider [ Syntax - provider:xxxx ] or By API Version [ Syntax - version:xxxx ] or By Context [ Syntax - context:xxxx ] or By Description [ Syntax - description:xxxx ]**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

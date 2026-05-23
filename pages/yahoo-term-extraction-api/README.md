@@ -4,7 +4,7 @@
 > **Join the 200,000 developers using Yahoo tools to build their app businesses. Content Analysis detects, ranks, and resolves entities in unstructured content and classifies a document against our taxonomy. Measure, monetize, advertise and improve your apps with Yahoo tools**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

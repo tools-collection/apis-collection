@@ -4,7 +4,7 @@
 > **The Old Reader API. The Old Reader API. Contribute to theoldreader/api development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

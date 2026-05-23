@@ -4,7 +4,7 @@
 > **From both the universe, and more. Biography. Powerstats. Connections. Images. Introduction What is this? The superhero API, is a quantifi. API is for all the superhero data you&#x27;ve needed. Work. Appearance**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

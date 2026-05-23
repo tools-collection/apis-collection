@@ -4,7 +4,7 @@
 > **ClickUp&#x27;s API provides access to tasks, lists, folders, spaces, goals, and time tracking. Build integrations and automate project management workflows on the ClickUp platform.**
 
 ## 📝 Details
-- **Categories**: [`Project Management`](../../README.md#project-management-), [`Development`](../../README.md#development-)
+- **Categories**: [Project Management](https://github.com/tools-collection/apis-collection#project-management-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

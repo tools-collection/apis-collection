@@ -4,7 +4,7 @@
 > **MyAnimeList.net official API**
 
 ## 📝 Details
-- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-)
+- **Categories**: [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **A real-time API for verifying an identity by name, address, date of birth, and social security number**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Payments`](../../README.md#payments-), [`Commerce`](../../README.md#commerce-), [`Validation & Verification`](../../README.md#validation--verification-), [`Security`](../../README.md#security-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Payments](https://github.com/tools-collection/apis-collection#payments-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

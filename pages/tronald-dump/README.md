@@ -4,7 +4,7 @@
 > **Tronald Dump Api &amp; web archive for the dumbest things Donald Trump has ever said**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Hundereds of lottery games from various countries are supported. Generate lottery numbers**
 
 ## 📝 Details
-- **Categories**: [`Random`](../../README.md#random-), [`Casino & Gambling`](../../README.md#casino--gambling-)
+- **Categories**: [Random](https://github.com/tools-collection/apis-collection#random-), [Casino & Gambling](https://github.com/tools-collection/apis-collection#casino--gambling-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

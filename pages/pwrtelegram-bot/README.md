@@ -4,7 +4,7 @@
 > **The PWRTelegram MTProto API. Boosted version of the Telegram bot API**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

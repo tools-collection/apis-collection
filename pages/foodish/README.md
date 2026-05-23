@@ -4,7 +4,7 @@
 > **- surhud004/Foodish. A Node. A Node. js/Express. js REST API to GET a random picture of food dishes**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

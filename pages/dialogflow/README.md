@@ -4,7 +4,7 @@
 > **Natural Language Interactions for Bots, Applications, Services, and Devices. Virtual agents for bots, applications, services, and devices**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

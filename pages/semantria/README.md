@@ -4,7 +4,7 @@
 > **Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams. SAAS API based on Lexalytics engine. #Paid**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Analytics`](../../README.md#analytics-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

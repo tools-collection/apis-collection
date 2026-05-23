@@ -4,7 +4,7 @@
 > **Simple &amp; no-nonsense podcast search &amp; directory API. Search the meta data of all podcasts and episodes on the Internet by people, places, or topics. Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 podcasts and 91,498,333 episodes by people or topics**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

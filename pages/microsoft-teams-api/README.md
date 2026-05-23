@@ -4,7 +4,7 @@
 > **Microsoft Teams API via Microsoft Graph provides access to chats, channels, messages, meetings, and team membership. Build bots, tabs, and integrations for the Teams collaboration platform.**
 
 ## 📝 Details
-- **Categories**: [`Chats & Messaging`](../../README.md#chats--messaging-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

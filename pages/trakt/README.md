@@ -4,7 +4,7 @@
 > **Trakt collect lots of information about what tv shows and movies everyone is watching. A place where APIs are kept**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

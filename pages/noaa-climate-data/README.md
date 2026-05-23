@@ -4,7 +4,7 @@
 > **Climate Data Online (CDO) provides free access to NCDC&#x27;s archive of global historical weather and climate data in addition to station history information**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

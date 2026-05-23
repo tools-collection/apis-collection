@@ -4,7 +4,7 @@
 > **Battlefield 4 Information. P-Stats Player Stats Network As of October 27, 2019 the P-Stats Network has shutdown. In 2005 the first website started and in 2011 the P-Stats Network was formed to provide the most detailed playe**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

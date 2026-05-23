@@ -4,7 +4,7 @@
 > **You can GET to retrieve your text and you can POST to change your stored text. Store up to 2000 ASCII chararacters.**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

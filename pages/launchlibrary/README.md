@@ -4,7 +4,7 @@
 > **Aggregated info about space launches.**
 
 ## 📝 Details
-- **Categories**: [`Space`](../../README.md#space-)
+- **Categories**: [Space](https://github.com/tools-collection/apis-collection#space-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

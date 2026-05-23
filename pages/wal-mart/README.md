@@ -4,7 +4,7 @@
 > **Product Lookup API gives access to item price and availability in real-time. Item id needs to be specified for doing a lookup. Response type returned is full response.**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

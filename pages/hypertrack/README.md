@@ -4,7 +4,7 @@
 > **Build applications that track the movement of your business. HyperTrack is the API for anything that moves with commercial value. From startups to enterprises worldwide, product development teams build live location use cases with HyperTrack to power business efficiency and product experience.**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-), [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

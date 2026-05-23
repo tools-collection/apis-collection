@@ -4,7 +4,7 @@
 > **Post your jobs on Indeed, the #1 job site worldwide.**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-), [`Search`](../../README.md#search-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-), [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

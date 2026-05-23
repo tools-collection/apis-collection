@@ -4,7 +4,7 @@
 > **A simple API to request a user&#x27;s real-time approval on any device or platform via Email, SMS, Slack, and in-app mobile Push. I found a great domain name for sale. Check it out!**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

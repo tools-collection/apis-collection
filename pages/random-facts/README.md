@@ -4,7 +4,7 @@
 > **Random Facts API**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-), [`Random`](../../README.md#random-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

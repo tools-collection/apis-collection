@@ -4,7 +4,7 @@
 > **com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs. mp4. webm and . com player, a compressed. The gifs. gif,. to gifinity and beyond!**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

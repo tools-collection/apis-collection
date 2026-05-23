@@ -4,7 +4,7 @@
 > **Skills API. Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub. Skills API**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

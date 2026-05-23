@@ -4,7 +4,7 @@
 > **OC Transpo next bus arrival API**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

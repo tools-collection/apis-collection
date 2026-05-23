@@ -4,7 +4,7 @@
 > **Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanwright/ron-swanson-quotes development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-), [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

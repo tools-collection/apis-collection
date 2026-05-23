@@ -5,7 +5,7 @@
 > **Let’s you detect the information of a given photo (face location, age, race, gender etc.)**
 
 ## 📝 Details
-- **Categories**: [`Recognition`](../../README.md#recognition-), [`Security`](../../README.md#security-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Recognition](https://github.com/tools-collection/apis-collection#recognition-), [Security](https://github.com/tools-collection/apis-collection#security-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

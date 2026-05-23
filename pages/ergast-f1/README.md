@@ -4,7 +4,7 @@
 > **Please read the terms and conditions of use. The API pro. The Ergast Developer API is an experimental web service which provides a historical record of motor racing data for non-commercial purposes**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

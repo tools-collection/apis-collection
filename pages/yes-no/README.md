@@ -4,7 +4,7 @@
 > **Yes or No**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

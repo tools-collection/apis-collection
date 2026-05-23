@@ -4,7 +4,7 @@
 > **Get data about characters, episodes, quotes, and deaths**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

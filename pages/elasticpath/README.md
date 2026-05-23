@@ -4,7 +4,7 @@
 > **Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast. It&#x27;s called Composable Commerce-as-a-Service**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-), [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Business`](../../README.md#business-), [`Maps & Geo`](../../README.md#maps--geo-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-), [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [Business](https://github.com/tools-collection/apis-collection#business-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

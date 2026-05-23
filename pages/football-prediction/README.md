@@ -4,7 +4,7 @@
 > **he API supports competitions in over 90 countries and over 140 national leagues. Predictions for upcoming football matches, odds, results and stats. Football Prediction API provides predictions for upcoming football matches, average bookie odds, results for past matches and performance monitoring for the statistical models**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

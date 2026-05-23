@@ -4,7 +4,7 @@
 > **Parameters callback string To define your own callback function name and return the. HTTP Method GET URL https://api. adviceslip. com/advice Description Returns a random advice slip as a slip object**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

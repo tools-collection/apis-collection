@@ -4,7 +4,7 @@
 > **Airtable&#x27;s API allows reading and writing records, managing tables, and handling attachments in Airtable bases. Use it to build automations and integrations with the flexible spreadsheet-database.**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Databases`](../../README.md#databases-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Databases](https://github.com/tools-collection/apis-collection#databases-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

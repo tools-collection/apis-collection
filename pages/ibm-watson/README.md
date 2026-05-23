@@ -5,7 +5,7 @@
 A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with**
 
 ## 📝 Details
-- **Categories**: [`Chats & Messaging`](../../README.md#chats--messaging-), [`Voice`](../../README.md#voice-), [`Games`](../../README.md#games-), [`Social`](../../README.md#social-)
+- **Categories**: [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [Games](https://github.com/tools-collection/apis-collection#games-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

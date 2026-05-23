@@ -4,7 +4,7 @@
 > **Harry Potter API**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Entertainment`](../../README.md#entertainment-), [`Books`](../../README.md#books-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Books](https://github.com/tools-collection/apis-collection#books-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

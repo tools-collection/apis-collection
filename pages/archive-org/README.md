@@ -4,7 +4,7 @@
 > **The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization committed to Universal Access of Knowledge. The Archive runs several services including the Archive.org search engine, OpenLibrary, and the Wayback Machine. In alignment with its mission, the Archive encourages developers to add media to archive.org, as well as to consume and re-purpose media and its metadata, for the great good of our community and beyond.**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

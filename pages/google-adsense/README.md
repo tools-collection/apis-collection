@@ -4,7 +4,7 @@
 > **Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads.**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

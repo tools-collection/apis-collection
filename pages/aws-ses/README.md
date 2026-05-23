@@ -4,7 +4,7 @@
 > **AWS Simple Email Service API enables sending transactional and marketing emails at scale with high deliverability. Manage verified identities, sending quotas, and bounce/complaint handling.**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Development`](../../README.md#development-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

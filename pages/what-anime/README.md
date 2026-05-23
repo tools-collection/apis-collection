@@ -4,7 +4,7 @@
 > **trace.moe is a test-of-concept prototype search engine that helps users trace back the original anime by screenshot.**
 
 ## 📝 Details
-- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-)
+- **Categories**: [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

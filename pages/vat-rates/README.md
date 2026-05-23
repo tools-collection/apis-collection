@@ -5,7 +5,7 @@
 > **A collection of all VAT rates for EU countries**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

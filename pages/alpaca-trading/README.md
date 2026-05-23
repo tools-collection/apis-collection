@@ -4,7 +4,7 @@
 > **Alpaca&#x27;s Trading API provides commission-free stock and crypto trading, market data, and portfolio management. Build algorithmic trading bots and fintech apps with broker-dealer infrastructure.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

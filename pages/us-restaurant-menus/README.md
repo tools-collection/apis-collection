@@ -4,7 +4,7 @@
 > **Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Business`](../../README.md#business-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-), [Business](https://github.com/tools-collection/apis-collection#business-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

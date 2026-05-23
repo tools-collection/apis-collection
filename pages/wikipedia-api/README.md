@@ -4,7 +4,7 @@
 > **A web service that provides convenient access to wiki features, data, and meta-data over HTTP, via a URL usually at api.**
 
 ## 📝 Details
-- **Categories**: [`Wiki`](../../README.md#wiki-)
+- **Categories**: [Wiki](https://github.com/tools-collection/apis-collection#wiki-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

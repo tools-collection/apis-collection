@@ -4,7 +4,7 @@
 > **Integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Analytics`](../../README.md#analytics-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

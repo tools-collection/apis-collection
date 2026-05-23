@@ -4,7 +4,7 @@
 > **Build a clearer picture of your customers in minutes with our data-focused APIs. Build a clearer picture of your customers in minutes with our data-focused APIs**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

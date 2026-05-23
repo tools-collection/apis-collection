@@ -4,7 +4,7 @@
 > **Get a rank for any of 385 million domains. Visit Rank tells how popular and influential a web domain is**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-), [`Search`](../../README.md#search-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

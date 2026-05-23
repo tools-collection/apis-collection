@@ -4,7 +4,7 @@
 > **The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research&#x27;s results regarding the given MAC address or the OUI.**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Hardware`](../../README.md#hardware-), [`Development`](../../README.md#development-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Hardware](https://github.com/tools-collection/apis-collection#hardware-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

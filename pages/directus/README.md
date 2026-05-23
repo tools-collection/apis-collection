@@ -4,7 +4,7 @@
 > **Directus is an open-source headless CMS with a dynamic REST and GraphQL API automatically generated from any SQL database schema. Self-host or use Directus Cloud.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Databases](https://github.com/tools-collection/apis-collection#databases-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

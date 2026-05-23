@@ -4,7 +4,7 @@
 > **Enhance your projects with free trusted historical, real-time and forecast air quality data. Air pollution and weather data for more than 60 countries worldwide**
 
 ## 📝 Details
-- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-), [`Weather`](../../README.md#weather-)
+- **Categories**: [Environment & Nature](https://github.com/tools-collection/apis-collection#environment--nature-), [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Weather API Documentation. Use our Weather API to access weather forecasts, and historical weather data to power your applications!. Access forecasts, current weather, and historical weather data for any point on the Earth!**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

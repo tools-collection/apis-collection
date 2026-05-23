@@ -4,7 +4,7 @@
 > **Easily integrate Okta SAML, Google OAuth, and more. Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin). Documentation on integrating WorkOS API for Single Sign-On (SSO), Directory Sync (SCIM), Audit Trail (SIEM), and more**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Business`](../../README.md#business-), [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Business](https://github.com/tools-collection/apis-collection#business-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

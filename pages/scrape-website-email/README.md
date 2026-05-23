@@ -5,7 +5,7 @@
 > **Grabs email addresses from a URL**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Development`](../../README.md#development-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Development](https://github.com/tools-collection/apis-collection#development-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

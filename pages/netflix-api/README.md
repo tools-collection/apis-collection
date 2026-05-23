@@ -4,7 +4,7 @@
 > **The service that handles the (sign-up, discovery and playback) traffic from all devices from all users. Netflix Open Source**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Philips Hue, smart home lighting**
 
 ## 📝 Details
-- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-), [`Hardware`](../../README.md#hardware-)
+- **Categories**: [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-), [Hardware](https://github.com/tools-collection/apis-collection#hardware-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

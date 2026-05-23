@@ -4,7 +4,7 @@
 > **Wide range of APIs available through JavaScript, iOS, Android, or REST services. Build apps with HERE Maps API and SDK Platform Access - HERE Developer High-quality location APIs and SDKs from HERE Technologies, including documentation, code samples and developer support**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

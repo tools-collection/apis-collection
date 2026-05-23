@@ -4,7 +4,7 @@
 > **Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

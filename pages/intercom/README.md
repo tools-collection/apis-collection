@@ -4,7 +4,7 @@
 > **Intercom&#x27;s API provides access to conversations, contacts, companies, and events. Build customer messaging integrations, automate support workflows, and sync customer data.**
 
 ## 📝 Details
-- **Categories**: [`CRM`](../../README.md#crm-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [CRM](https://github.com/tools-collection/apis-collection#crm-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

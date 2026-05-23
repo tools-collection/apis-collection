@@ -4,7 +4,7 @@
 > **Get current weather information, historical data and forecasts using weatherstack - a free world weather REST API supporting millions of global locations**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

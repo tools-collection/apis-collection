@@ -4,7 +4,7 @@
 > **A data platform for customers to create, manage, share and query data.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Databases](https://github.com/tools-collection/apis-collection#databases-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

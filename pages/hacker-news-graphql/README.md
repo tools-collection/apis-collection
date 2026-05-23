@@ -4,7 +4,7 @@
 > **Convenient HackerNews GraphQL wrapper API. Filter, sort, search and relations**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `GraphQL`
 - **Auth**: `none`
 - **Free**: `No`

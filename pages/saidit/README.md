@@ -4,7 +4,7 @@
 > **Raw Saidit API Wrapper. Raw Saidit API Wrapper. Contribute to IThinkImOKAY/rsaw development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

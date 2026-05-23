@@ -4,7 +4,7 @@
 > **Exchange between cryptocurrencies without an account. Well documented API for easy use. The all-new ShapeShift is your complete crypto management platform: send, receive, trade, track, and hodl bitcoin and other major cryptos**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Work calendar service. Contribute to egno/work-calendar development by creating an account on GitHub. Work calendar service**
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

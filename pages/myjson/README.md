@@ -5,7 +5,7 @@
 > **A simple JSON store for your web or mobile app**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-), [`Development`](../../README.md#development-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

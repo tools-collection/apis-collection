@@ -4,7 +4,7 @@
 > **Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **NPR&#x27;s API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way. NPR One is 21st-century radio: apersonalized news listening experience that gets better everyday**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

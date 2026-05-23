@@ -4,7 +4,7 @@
 > **Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Open Source`](../../README.md#open-source-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Open Source](https://github.com/tools-collection/apis-collection#open-source-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

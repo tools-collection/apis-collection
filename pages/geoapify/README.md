@@ -4,7 +4,7 @@
 > **Geoapify provides geocoding, reverse geocoding, routing, isoline, and place search APIs. Privacy-focused, open-data based, and free tier available for location-based applications.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

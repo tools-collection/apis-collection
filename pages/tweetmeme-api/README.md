@@ -5,7 +5,7 @@
 > **Provides third-party integration with the TweetMeme web service, used to track popular links on Twitter**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

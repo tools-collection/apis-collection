@@ -4,7 +4,7 @@
 > **geocode. xyz - A geoparser, geocoder and batch geocoder for the world. Map your data. geocode**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

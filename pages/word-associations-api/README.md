@@ -4,7 +4,7 @@
 > **Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception. Word Association API - Word Associations Network**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

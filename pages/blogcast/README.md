@@ -4,7 +4,7 @@
 > **Generate audio versions of your articles. Create realistic voice overs for blogs, videos, podcasts and more from your content using AI text-to-speech software**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Voice`](../../README.md#voice-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-), [Voice](https://github.com/tools-collection/apis-collection#voice-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

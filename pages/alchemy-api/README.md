@@ -4,7 +4,7 @@
 > **Alchemy&#x27;s Web3 API provides enhanced node access, NFT data, transaction history, token balances, and webhook notifications across Ethereum, Polygon, Solana, and other blockchains.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-), [`Development`](../../README.md#development-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

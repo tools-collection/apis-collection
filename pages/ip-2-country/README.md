@@ -4,7 +4,7 @@
 > **JSON API returns the country of an IP address. Simple, fast, free. For open source projects only. JSON API returns the country of an IP address**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

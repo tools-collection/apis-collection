@@ -4,7 +4,7 @@
 > **The largest social networking website for artists and art enthusiasts. Find out how applications and websites integrate with DeviantArt and get started with oAuth 2. 0**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-), [`Social`](../../README.md#social-), [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-), [Social](https://github.com/tools-collection/apis-collection#social-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

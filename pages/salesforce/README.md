@@ -5,7 +5,7 @@
 This simple RESTful interface is powerful, convenient, and great for writing mobile and web apps. Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials. Build versatile and lightweight solutions that integrate your Salesforce data using REST API**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-), [`CRM`](../../README.md#crm-), [`Business`](../../README.md#business-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [CRM](https://github.com/tools-collection/apis-collection#crm-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

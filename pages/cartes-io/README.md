@@ -4,7 +4,7 @@
 > **Allows anyone to create maps and markers for anything. Initially used to report incidents that may be dangerous during times of unrest or protest.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

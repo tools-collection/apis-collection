@@ -4,7 +4,7 @@
 > **APIs for SMS, Voice, Video and more. With Twilio, unite communications and strengthen customer relationships across your business from marketing and sales to customer service and operations**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Voice`](../../README.md#voice-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Voice](https://github.com/tools-collection/apis-collection#voice-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

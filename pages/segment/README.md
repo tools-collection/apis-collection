@@ -4,7 +4,7 @@
 > **Segment&#x27;s API is a customer data platform that collects, unifies, and routes user events to analytics, marketing, and data warehouse tools from a single source of truth.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

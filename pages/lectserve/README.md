@@ -4,7 +4,7 @@
 > **Your daily lectionary readings…. Your daily lectionary readings…**
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

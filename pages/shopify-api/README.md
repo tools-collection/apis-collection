@@ -4,7 +4,7 @@
 > **Shopify&#x27;s Admin API provides programmatic access to store data including products, orders, customers, inventory, and fulfillments. Build custom storefronts and commerce integrations.**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

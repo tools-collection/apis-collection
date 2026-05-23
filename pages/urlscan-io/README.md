@@ -4,7 +4,7 @@
 > **urlscan. io - Website scanner for suspicious and malicious URLs. urlscan**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **GoCardless Bank Account Data API (formerly Nordigen) provides free open banking access to transaction data and account information from 2,500+ European banks via PSD2.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

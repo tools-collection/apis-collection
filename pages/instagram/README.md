@@ -4,7 +4,7 @@
 > **How to use the Instagram Graph API. Access to Instagram’s OAuth API**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Social`](../../README.md#social-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Social](https://github.com/tools-collection/apis-collection#social-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

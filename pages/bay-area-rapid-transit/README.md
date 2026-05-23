@@ -4,7 +4,7 @@
 > **The BART API gives you access to pretty much all of the BART service and station data available on the BART website.**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

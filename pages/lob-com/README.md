@@ -4,7 +4,7 @@
 > **Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

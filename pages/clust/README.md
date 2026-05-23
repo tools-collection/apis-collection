@@ -4,7 +4,7 @@
 > **The best way to gather anyone’s documents, directly from your app &amp; without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Collaboration`](../../README.md#collaboration-), [`CRM`](../../README.md#crm-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`Forms & Surveys`](../../README.md#forms--surveys-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [CRM](https://github.com/tools-collection/apis-collection#crm-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Forms & Surveys](https://github.com/tools-collection/apis-collection#forms--surveys-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

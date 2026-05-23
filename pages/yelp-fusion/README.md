@@ -4,7 +4,7 @@
 > **Yelp Fusion API provides business search, reviews, photos, and events data from Yelp&#x27;s local business directory. Find and display restaurant, bar, and service business information.**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **IP Address API free service provides country name, 2 symbol code and 3 symbol code for free. Examples in CURL, JSON and php format with https support**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

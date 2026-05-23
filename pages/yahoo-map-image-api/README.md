@@ -4,7 +4,7 @@
 > **Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 200,000 developers using Yahoo tools to build their app businesses. . Web Services**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

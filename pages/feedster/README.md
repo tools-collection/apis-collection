@@ -5,7 +5,7 @@
 > **Searchable and categorized collections of RSS feeds**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

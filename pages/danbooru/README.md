@@ -4,7 +4,7 @@
 > **Danbooru Imageboard API. Get images cartegorized by tags.**
 
 ## 📝 Details
-- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-), [`Social`](../../README.md#social-), [`Adult`](../../README.md#adult-)
+- **Categories**: [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-), [Social](https://github.com/tools-collection/apis-collection#social-), [Adult](https://github.com/tools-collection/apis-collection#adult-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

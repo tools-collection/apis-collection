@@ -4,7 +4,7 @@
 > **With this API, you can use RESTful req. Create a search engine for your website, your blog, or a collection of websites. You can configure your search engine to search both web pages and images. The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Programmable Search Engine programmatically**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

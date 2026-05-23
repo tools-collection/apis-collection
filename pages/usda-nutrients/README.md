@@ -4,7 +4,7 @@
 > **FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research.**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-), [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-), [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

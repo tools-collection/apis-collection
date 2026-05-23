@@ -4,7 +4,7 @@
 > **You can use it to track page hits, and specific events among other things. CountAPI is a free counting service. . CountAPI is a free counting service**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

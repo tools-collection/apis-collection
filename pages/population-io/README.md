@@ -5,7 +5,7 @@
 > **Open demographic data such as population tables, population rank and life expectancy**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The open product database.**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`Bar & QR Codes`](../../README.md#bar--qr-codes-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [Bar & QR Codes](https://github.com/tools-collection/apis-collection#bar--qr-codes-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

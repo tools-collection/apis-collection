@@ -4,7 +4,7 @@
 > **Documentation for Medium&#x27;s OAuth2 API. Documentation for Medium&#x27;s OAuth2 API. Contribute to Medium/medium-api-docs development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

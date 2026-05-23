@@ -4,7 +4,7 @@
 > **An open, programmatic interface for controlling smart devices The SmartThings platform has the largest coverage of competitive IoT devices on the market, including Samsung devices and appliances. I. . API for Samsung SmartThings Smart Home Hub products (ZigBee, Z-Wave, IP)**
 
 ## 📝 Details
-- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Categories**: [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

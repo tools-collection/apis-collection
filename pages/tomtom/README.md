@@ -4,7 +4,7 @@
 > **TomTom&#x27;s Maps APIs provide routing, geocoding, traffic, search, and map tiles. Build navigation, fleet tracking, and location-based applications with real-time traffic data.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

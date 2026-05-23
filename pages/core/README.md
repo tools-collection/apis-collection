@@ -4,7 +4,7 @@
 > **CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories.**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Education`](../../README.md#education-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Education](https://github.com/tools-collection/apis-collection#education-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

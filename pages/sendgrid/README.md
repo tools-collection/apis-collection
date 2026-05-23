@@ -4,7 +4,7 @@
 > **SendGrid&#x27;s Email API enables sending transactional and marketing emails at scale. Features include email templates, analytics, bounced email tracking, and inbound email parsing.**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

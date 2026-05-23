@@ -4,7 +4,7 @@
 > **Wikidata is a free and open knowledge base that can be read and edited by both humans and machines.**
 
 ## 📝 Details
-- **Categories**: [`Wiki`](../../README.md#wiki-)
+- **Categories**: [Wiki](https://github.com/tools-collection/apis-collection#wiki-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

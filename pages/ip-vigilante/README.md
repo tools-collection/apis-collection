@@ -4,7 +4,7 @@
 > **IP Vigilante provides a free geographical IP locator API, so the developers can obtain geographical information of an IP in various formats: JSON and CSV**
 
 ## 📝 Details
-- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

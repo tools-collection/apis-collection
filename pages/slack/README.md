@@ -4,7 +4,7 @@
 > **Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Chats & Messaging`](../../README.md#chats--messaging-), [`Collaboration`](../../README.md#collaboration-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

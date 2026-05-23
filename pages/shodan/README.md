@@ -4,7 +4,7 @@
 > **Shodan API, the easiest way to access the Shodan search engine on your own terms. Shodan is the world&#x27;s first search engine for Internet-connected devices.**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Search`](../../README.md#search-), [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Search](https://github.com/tools-collection/apis-collection#search-), [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

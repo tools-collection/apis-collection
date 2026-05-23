@@ -4,7 +4,7 @@
 > **Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the publishing activity of the United Kingdom and the Republic of Ireland and has been doing so since the 1950s. This has t**
 
 ## 📝 Details
-- **Categories**: [`Books`](../../README.md#books-)
+- **Categories**: [Books](https://github.com/tools-collection/apis-collection#books-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

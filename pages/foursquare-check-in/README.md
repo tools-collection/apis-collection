@@ -4,7 +4,7 @@
 > **Allows you to check in to a place**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

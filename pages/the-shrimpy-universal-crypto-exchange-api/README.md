@@ -4,7 +4,7 @@
 > **Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange. The industry leading API for crypto trading, real-time data collection, and exchange account management. Shrimpy’s Universal Crypto Exchange APIs are the only unified APIs for crypto exchanges that are specifically designed for application developers**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

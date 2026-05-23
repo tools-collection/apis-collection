@@ -4,7 +4,7 @@
 > **API to query zip codes and orders in an easy, fast and free way.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Pocket proportionally rewards the participating nodes with native cryptographic tokens POKT. Reliability: Pocket allows a developer to constantly keep their DApp running with confidence and wit. . Pocket provides a trustless API Layer, allowing easy access to any blockchain. Pocket is a distributed network that relays data requests and responses to and from any blockchain system**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

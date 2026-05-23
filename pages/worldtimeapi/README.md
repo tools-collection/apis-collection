@@ -5,7 +5,7 @@
  time in, and related data about, a timezone**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

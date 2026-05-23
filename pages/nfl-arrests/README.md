@@ -4,7 +4,7 @@
 > **NFL Arrest provides an interactive visualized database of National Football League player Arrests &amp; Charges.**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Lufthansa Developer Network. Use the data of Europe&#x27;s biggest airline group! Fight status,inflight amenities, partner program**
 
 ## 📝 Details
-- **Categories**: [`Travel`](../../README.md#travel-)
+- **Categories**: [Travel](https://github.com/tools-collection/apis-collection#travel-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

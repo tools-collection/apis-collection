@@ -4,7 +4,7 @@
 > **Typeform&#x27;s APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. With Typeform&#x27;s APIs and developer tools, you can do everything from the basics, like tweak your themes and add new images to your account, to the most powerful features Typeform offers**
 
 ## 📝 Details
-- **Categories**: [`Forms & Surveys`](../../README.md#forms--surveys-)
+- **Categories**: [Forms & Surveys](https://github.com/tools-collection/apis-collection#forms--surveys-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

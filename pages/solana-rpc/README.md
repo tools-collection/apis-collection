@@ -4,7 +4,7 @@
 > **Solana&#x27;s JSON-RPC API provides access to account data, transaction history, block info, and program interactions on the high-performance Solana blockchain network.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

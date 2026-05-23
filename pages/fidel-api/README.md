@@ -4,7 +4,7 @@
 > **FIDEL is a card-linked API that lets developers create web and mobile applications for linking banks cards with reward services. FIDEL API lets you connect your applications to credit and debit cards and monitor transactions in-store and online, chip &amp; pin or contactless. Power your applications with real-time payment data. Build innovative card-linking applications by connecting Visa, Mastercard and Amex cards to loyalty and marketing services all in one place**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -5,7 +5,7 @@
 . The RushTranslate API enables human-powered translation services in applications. The API is used to create orders, retrieve files, request revisions, and more. Responses are JSON formatted**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`Translation`](../../README.md#translation-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Translation](https://github.com/tools-collection/apis-collection#translation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

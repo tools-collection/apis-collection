@@ -4,7 +4,7 @@
 > **Screenshot API, HTML to PDF API, Content Extraction API**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Development`](../../README.md#development-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Development](https://github.com/tools-collection/apis-collection#development-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

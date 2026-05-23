@@ -5,7 +5,7 @@
 > **With this API you can easily create a full Texas Holdem game, just create the graphic and associate it with the results**
 
 ## 📝 Details
-- **Categories**: [`Casino & Gambling`](../../README.md#casino--gambling-), [`Games`](../../README.md#games-)
+- **Categories**: [Casino & Gambling](https://github.com/tools-collection/apis-collection#casino--gambling-), [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

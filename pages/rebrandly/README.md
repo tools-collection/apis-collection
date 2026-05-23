@@ -4,7 +4,7 @@
 > **Rebrandly is the link management platform to brand, track and share short URLs using a custom domain name**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

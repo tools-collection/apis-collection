@@ -4,7 +4,7 @@
 > **Learn more today!. Transactional Email API Service For Developers. Free first 10000 emails per month. Powerful Transactional Email APIs that enable you to send, receive, and track emails, built with developers in mind**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

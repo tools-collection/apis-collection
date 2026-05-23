@@ -4,7 +4,7 @@
 > **Make screenshots from web pages and HTML**
 
 ## 📝 Details
-- **Categories**: [`Collaboration`](../../README.md#collaboration-), [`Development`](../../README.md#development-)
+- **Categories**: [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

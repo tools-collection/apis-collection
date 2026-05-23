@@ -4,7 +4,7 @@
 > **Crawl and scrape websites without the need of proxies, infrastructure or browsers. ProxyCrawl solve captchas for you and prevent you being blocked while speeding up your development. ProxyCrawl all in one data crawling and scraping platform for business developers**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Captcha`](../../README.md#captcha-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-), [Captcha](https://github.com/tools-collection/apis-collection#captcha-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

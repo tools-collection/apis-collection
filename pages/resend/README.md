@@ -4,7 +4,7 @@
 > **Resend is an email API built for developers. Send transactional emails with React components, track deliverability, manage domains, and view analytics via a simple REST API.**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Development`](../../README.md#development-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

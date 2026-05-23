@@ -4,7 +4,7 @@
 > **API for community-driven, object-oriented taco recipe repo - https://github.com/sinker/tacofancy. Please fork and submit your own recipes, because the more there are, the more delicious it gets.**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Fun`](../../README.md#fun-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-), [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

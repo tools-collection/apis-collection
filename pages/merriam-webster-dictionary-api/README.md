@@ -4,7 +4,7 @@
 > **A comprehensive resource of dictionary and thesaurus data powered by Merriam-Webster&#x27;s trusted references. Affordable, comprehensive, and easy to use. Free for non-commercial use. Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **xAI&#x27;s API provides access to the Grok family of language models for text generation and reasoning. Grok has real-time access to X (Twitter) data and is optimized for conversational tasks.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects. The API provides direct access to the data that powers the museums&#x27; website and many other aspects of the museums.**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Point of Interest`](../../README.md#point-of-interest-), [`Art & Design`](../../README.md#art--design-), [`Education`](../../README.md#education-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Education](https://github.com/tools-collection/apis-collection#education-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Detect language(s) from pieces of text**
 
 ## 📝 Details
-- **Categories**: [`Recognition`](../../README.md#recognition-)
+- **Categories**: [Recognition](https://github.com/tools-collection/apis-collection#recognition-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

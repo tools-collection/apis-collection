@@ -4,7 +4,7 @@
 > **Find groups that host online or in person events and meet people in your local community who share your interests**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Events`](../../README.md#events-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Events](https://github.com/tools-collection/apis-collection#events-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

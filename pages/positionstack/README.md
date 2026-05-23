@@ -4,7 +4,7 @@
 > **Positionstack&#x27;s geocoding API converts addresses to coordinates and vice versa with global coverage. Supports forward and reverse geocoding with structured address components and confidence scores.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

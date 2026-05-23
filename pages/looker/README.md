@@ -4,7 +4,7 @@
 > **Looker&#x27;s REST API manages dashboards, looks, queries, users, and data connections. Embed analytics, run reports programmatically, and integrate with Looker&#x27;s BI platform.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

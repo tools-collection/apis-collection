@@ -4,7 +4,7 @@
 > **Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms. SeekStorm - Search as a Service: Affordable, high performance search &amp; crawling**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

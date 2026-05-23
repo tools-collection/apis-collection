@@ -4,7 +4,7 @@
 > **Together AI provides fast inference for 100+ open-source models including Llama 3, Mistral, and FLUX image models. Offers fine-tuning and dedicated deployment options.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

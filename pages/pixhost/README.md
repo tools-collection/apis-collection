@@ -5,7 +5,7 @@
 > **Upload images, photos, galleries**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

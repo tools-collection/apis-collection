@@ -5,7 +5,7 @@
 > **Generates Hipster Ipsum text**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Random`](../../README.md#random-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -5,7 +5,7 @@
 > **This translates text to ERMAHGERD**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-), [`Translation`](../../README.md#translation-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Translation](https://github.com/tools-collection/apis-collection#translation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

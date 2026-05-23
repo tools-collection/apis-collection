@@ -4,7 +4,7 @@
 > **Provide the League of Legends developer community with access to game data in a secure and reliable way.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Entertainment`](../../README.md#entertainment-), [`Games`](../../README.md#games-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

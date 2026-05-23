@@ -4,7 +4,7 @@
 > **BitMEX is the world&#x27;s most advanced P2P crypto-products trading platform and API. Trade with up to 100x leverage with only Bitcoin as collateral**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

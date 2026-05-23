@@ -4,7 +4,7 @@
 > **The MTG API allows developers to easily consume MTG card and set data in JSON format**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

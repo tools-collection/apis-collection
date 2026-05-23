@@ -4,7 +4,7 @@
 > **Easily create custom HTTP resources complete with fake data. fakeJSON&#x27;s API scales with your development needs, helping you test and develop more efficiently. Mock an entire backend with minimal coding. Mock an entire backend with minimal coding**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-), [`Development`](../../README.md#development-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

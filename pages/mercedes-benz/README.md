@@ -4,7 +4,7 @@
 > **Mercedes-Benz&#x27;s live API products**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

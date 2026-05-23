@@ -4,7 +4,7 @@
 > **ICObench Data API allows you to get various information and data from the platform including ICO listings, ratings, and stats. This tutorial provides instructions on how to identify the API calls, and walks you through a simple scenario using the API**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

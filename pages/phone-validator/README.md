@@ -4,7 +4,7 @@
 > **Free phone number validation provided by PhoneValidator. Check phone numbers to verify if they are cell phones or landlines. Use the official API to determine the line-type, phone company and service location of any US phone numbers**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

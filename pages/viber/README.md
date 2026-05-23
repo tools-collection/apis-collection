@@ -4,7 +4,7 @@
 > **Millions of Viber users call, text, and send photos to each other, worldwide - for free. With Viber’s APIs, can create unique experiences for users at scale. Viber lets everyone in the world connect. Freely**
 
 ## 📝 Details
-- **Categories**: [`Voice`](../../README.md#voice-), [`Social`](../../README.md#social-), [`Chats & Messaging`](../../README.md#chats--messaging-), [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Voice](https://github.com/tools-collection/apis-collection#voice-), [Social](https://github.com/tools-collection/apis-collection#social-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

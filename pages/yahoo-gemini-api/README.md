@@ -4,7 +4,7 @@
 > **Developer tools and the support you need to leverage Verizon Media&#x27;s powerful data and advertising solutions. Allows advertisers to manage complex Gemini accounts and campaigns more efficiently**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

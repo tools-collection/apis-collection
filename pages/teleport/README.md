@@ -4,7 +4,7 @@
 > **Welcome to Teleport for Developers! Largest and most up-to-date quality of life database for Planet Earth using 300+ different data dimensions from 70+ different sources**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Images & Photography`](../../README.md#images--photography-), [`Video & Media`](../../README.md#video--media-), [`Environment & Nature`](../../README.md#environment--nature-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Environment & Nature](https://github.com/tools-collection/apis-collection#environment--nature-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

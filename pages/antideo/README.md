@@ -4,7 +4,7 @@
 > **API for IP and Email Intelligence &amp; Phone Number Validation. API for email validation &amp; IP reputation check for better email list hygiene. Antideo maintains large database with spam and scam records, IP locations and infected ranges, proxy records and many more. They are keeping their database updated regularly from various sources, as well as collecting some of the data themselves**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

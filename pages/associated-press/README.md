@@ -4,7 +4,7 @@
 > **AP Media API Get all your AP multimedia content in one place Access the content programmatically via the API or use the AP Media Agent to download content automatically. Currently using AP WebFeeds**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

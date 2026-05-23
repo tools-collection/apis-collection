@@ -4,7 +4,7 @@
 > **A dataset containing all the car makes. Edmunds has detailed specs, customer ratings, photos &amp; videos, pricing, etc**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **You can embed Hebcal. com content directly onto your synagogue website with our. Our mission at Hebcal. com is to increase awareness of Jewish holidays and to help Jews to be observant of the mitzvot**
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

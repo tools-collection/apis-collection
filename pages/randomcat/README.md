@@ -4,7 +4,7 @@
 > **Random cat image API**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

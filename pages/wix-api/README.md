@@ -4,7 +4,7 @@
 > **Wix&#x27;s REST API provides access to site data, members, contacts, orders, bookings, and blog posts. Build integrations and extend Wix-powered websites programmatically.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

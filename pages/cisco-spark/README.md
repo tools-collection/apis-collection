@@ -4,7 +4,7 @@
 > **Build the future of business collaboration with Webex!**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Social`](../../README.md#social-), [`Chats & Messaging`](../../README.md#chats--messaging-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Social](https://github.com/tools-collection/apis-collection#social-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

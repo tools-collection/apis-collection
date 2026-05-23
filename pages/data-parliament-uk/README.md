@@ -4,7 +4,7 @@
 > **UK&#x27;s parliament Open Data**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

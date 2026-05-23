@@ -4,7 +4,7 @@
 > **The npm Registry API provides access to package metadata, versions, download counts, and search. Query package information, resolve dependencies, and automate npm package workflows.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

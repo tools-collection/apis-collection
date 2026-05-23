@@ -4,7 +4,7 @@
 > **Used by Google products to create short URLs that can be easily shared, tweeted, or emailed to friends.**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Deno Deploy API manages projects and deployments on Deno&#x27;s edge JavaScript/TypeScript runtime. Deploy serverless functions globally with built-in TypeScript support and no configuration.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -5,7 +5,7 @@
 > **API for travel search**
 
 ## 📝 Details
-- **Categories**: [`Travel`](../../README.md#travel-)
+- **Categories**: [Travel](https://github.com/tools-collection/apis-collection#travel-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The Licenses API returns metadata about popular open source licenses and information about a particular project&#x27;s license file.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **DeepL API provides high-quality machine translation for 30+ languages. Known for producing more natural translations than competitors, with support for documents and glossaries.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Translation`](../../README.md#translation-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Translation](https://github.com/tools-collection/apis-collection#translation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

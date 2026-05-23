@@ -4,7 +4,7 @@
 > **The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies. Market Prices and exchanges rates api.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

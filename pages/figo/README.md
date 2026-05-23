@@ -5,7 +5,7 @@
 > **Banking API that allows you to extract financial data such as transaction history, account balance, account owner name and others to extract from any financial account**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-), [`Payments`](../../README.md#payments-), [`Development`](../../README.md#development-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-), [Payments](https://github.com/tools-collection/apis-collection#payments-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Helps developers build, grow and monetize their business. Code to connect people with Facebook for Developers. Explore AI, business tools, gaming, open source, publishing, social hardware, social integration, and virtual reality. Learn about Facebook’s global programs to educate and connect developers**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Virtual & Augmented Reality`](../../README.md#virtual--augmented-reality-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Virtual & Augmented Reality](https://github.com/tools-collection/apis-collection#virtual--augmented-reality-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

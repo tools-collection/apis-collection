@@ -4,7 +4,7 @@
 > **Hugging Face Inference API gives access to thousands of open-source ML models hosted on the Hub. Run NLP, computer vision, audio, and multimodal models via a simple REST API.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

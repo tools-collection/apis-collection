@@ -4,7 +4,7 @@
 > **They Said So. Quotes API with lot of features**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Open repository of non-working days ics files. Open repository of non-working days ics files. Contribute to gadael/icsdb development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

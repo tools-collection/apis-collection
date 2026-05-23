@@ -4,7 +4,7 @@
 > **A. callsign lookups. Look up information about United States ham radio callsigns. No-nonsense amateur radio U. S**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

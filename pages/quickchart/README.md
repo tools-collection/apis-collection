@@ -4,7 +4,7 @@
 > **Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms**
 
 ## 📝 Details
-- **Categories**: [`Visualizations`](../../README.md#visualizations-)
+- **Categories**: [Visualizations](https://github.com/tools-collection/apis-collection#visualizations-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

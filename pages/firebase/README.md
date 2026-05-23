@@ -4,7 +4,7 @@
 > **Authentication, analytics, cloud messaging, crash reporting, ads and more**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Databases`](../../README.md#databases-), [`Development`](../../README.md#development-), [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Databases](https://github.com/tools-collection/apis-collection#databases-), [Development](https://github.com/tools-collection/apis-collection#development-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

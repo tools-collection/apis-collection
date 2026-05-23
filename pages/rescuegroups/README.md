@@ -4,7 +4,7 @@
 > **org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just numbers. you also need to consider reliability, functio. Introduction to the RescueGroups. Introduction to the RescueGroups**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

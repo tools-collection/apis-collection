@@ -4,7 +4,7 @@
 > **Amazon Bedrock is a fully managed service that provides access to foundation models from Anthropic, Meta, Mistral, Stability AI, and Amazon via a single API with enterprise security.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

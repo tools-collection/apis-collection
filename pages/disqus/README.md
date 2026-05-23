@@ -4,7 +4,7 @@
 > **Disqus is a global comment system that improves discussion on websites and connects conversations across the web.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

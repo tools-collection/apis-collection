@@ -4,7 +4,7 @@
 > **Easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets**
 
 ## 📝 Details
-- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

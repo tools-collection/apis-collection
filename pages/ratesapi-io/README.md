@@ -4,7 +4,7 @@
 > **Free currency exchange rates and currency conversion. Exchange rate API to convert one currency from another and returns in JSON format. RateAPI tracks rates daily published by European central bank**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

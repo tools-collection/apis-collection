@@ -4,7 +4,7 @@
 > **IO ♛ Keep all games in one profile ✔ See what friends are playing, and find your next great game. Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. RAWG**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

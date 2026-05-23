@@ -4,7 +4,7 @@
 > **Buffer makes it super easy to share any page you&#x27;re reading. Keep your Buffer topped up and it will automagically share them for you through the day**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Social`](../../README.md#social-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

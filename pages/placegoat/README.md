@@ -4,7 +4,7 @@
 > **PlaceGOAT placeholder service.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Testing`](../../README.md#testing-), [`Fun`](../../README.md#fun-), [`Animals`](../../README.md#animals-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Testing](https://github.com/tools-collection/apis-collection#testing-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Animals](https://github.com/tools-collection/apis-collection#animals-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

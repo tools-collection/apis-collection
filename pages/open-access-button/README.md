@@ -4,7 +4,7 @@
 > **Free, legal research articles delivered instantly or automatically requested from authors.**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Science & Math`](../../README.md#science--math-), [`Search`](../../README.md#search-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Search](https://github.com/tools-collection/apis-collection#search-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

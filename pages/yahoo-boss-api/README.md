@@ -4,7 +4,7 @@
 > **Join the 200,000 developers using Yahoo tools to build their app businesses. Offers premium search and geo API services allowing you to build innovative technology applications quickly and efficiently. Measure, monetize, advertise and improve your apps with Yahoo tools**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

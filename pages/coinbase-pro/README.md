@@ -4,7 +4,7 @@
 > **Trading APIs require authentication and provide access to placing orders and other account information. Feed APIs provide market data and are public. . APIs are separated into two categories: trading and feed**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

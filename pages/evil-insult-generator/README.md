@@ -4,7 +4,7 @@
 > **The following parameters are optional lang - The language of the insult you want. Defaults to Englis. Generate InsultGET/generate_insult. php This is endpoint serves to generate insults from the API**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

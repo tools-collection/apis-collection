@@ -4,7 +4,7 @@
 > **Grab a hold of the World’s Visual Language! Use it in your service or application.**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Art & Design`](../../README.md#art--design-), [`Visualizations`](../../README.md#visualizations-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Visualizations](https://github.com/tools-collection/apis-collection#visualizations-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

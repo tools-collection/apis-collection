@@ -4,7 +4,7 @@
 > **Open-Meteo is a free, open-source weather API with no API key required. Provides hourly and daily forecasts, historical data, and climate projections using multiple weather models.**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

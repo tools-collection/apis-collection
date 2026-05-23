@@ -4,7 +4,7 @@
 > **Gives you access to 1000s of Trivia questions. Your browser will redirect to your requested content shortly. This process is automatic. Please allow**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **WordPress is open source software you can use to create a beautiful website, blog, or app.**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Development`](../../README.md#development-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

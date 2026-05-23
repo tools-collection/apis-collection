@@ -4,7 +4,7 @@
 > **API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast! Where is it right now? Documentation: ISS Location Now Examp**
 
 ## 📝 Details
-- **Categories**: [`Space`](../../README.md#space-)
+- **Categories**: [Space](https://github.com/tools-collection/apis-collection#space-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **eBay&#x27;s APIs**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

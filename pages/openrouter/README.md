@@ -4,7 +4,7 @@
 > **OpenRouter provides a unified API to access 100+ AI models from OpenAI, Anthropic, Google, Meta, and more. Route requests to the best model for your use case with a single endpoint.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

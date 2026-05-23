@@ -4,7 +4,7 @@
 > **Use the links below to find out more about constructing request URLs, different imp. Create profiles and avatars using this web service. Developer Resources Gravatar &#x27;APIs&#x27; require no authentication, and are all based around simple HTTP GET requests**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

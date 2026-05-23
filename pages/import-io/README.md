@@ -4,7 +4,7 @@
 > **Import.io enables any organization to gain intelligence, efficiencies, and competitive advantages from the vast amount of data on the web.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Docker Hub&#x27;s API provides access to repositories, images, tags, and organizations. Automate container image management, search public images, and integrate with CI/CD pipelines.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **Google’s product is quite similar to Amazon’s but it’s actually. Amazon Machine Learning&amp;nbsp;made a lot of noise when it came out&amp;nbsp;last month. Shortly afterwards, someone posted a link to Google Prediction API&amp;nbsp;on HackerNews and it quickly became one of the most popular’s posts**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

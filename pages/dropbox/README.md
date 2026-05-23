@@ -4,7 +4,7 @@
 > **API for accessing stored files and pictures which is easy to use and free for small amounts of data. With the DBX Platform, you can go from idea to implementation quickly and easily. You&#x27;ll save time and write fewer lines of code with SDKs, powerful core API, and thorough documentation**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-), [`Social`](../../README.md#social-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

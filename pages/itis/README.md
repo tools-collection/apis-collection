@@ -4,7 +4,7 @@
 > **Hosted by the USGS Core Science Analytics and Synthesis. Page designed through the cooperative efforts of interagency ITIS Teams. Point of Contact: itiswebmaster@itis. gov**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

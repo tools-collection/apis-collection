@@ -4,7 +4,7 @@
 > **Geocode spreadsheets or use our API - without restrictions. Add census data, ZIP+4, congressional districts, timezones, and more**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

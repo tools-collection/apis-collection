@@ -4,7 +4,7 @@
 > **CHAPS spol. s r. o. je společnost zabývající se vývojem IT aplikací a systémů, jejich údržbou a provozem. Zaměřujeme se na komplexní softwarová řešení zejména pro oblast osobní dopravy a to jak na železnici, tak na silnici**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

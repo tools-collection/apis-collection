@@ -4,7 +4,7 @@
 > **Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude.**
 
 ## 📝 Details
-- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

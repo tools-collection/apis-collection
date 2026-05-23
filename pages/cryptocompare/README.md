@@ -4,7 +4,7 @@
 > **Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality historical &amp; real-time trade, order book and volume data through market-leading REST &amp; WebSocket APIs**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

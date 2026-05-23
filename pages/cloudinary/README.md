@@ -4,7 +4,7 @@
 > **API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs. Search for Developer and DAM how-to info, find out What&#x27;s New, learn about our Framework SDKs, Add-ons, and Integrations, watch video tutorials, and more**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Images & Photography`](../../README.md#images--photography-), [`Files & Storage`](../../README.md#files--storage-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Get random Facts on different topics**
 
 ## 📝 Details
-- **Categories**: [`Random`](../../README.md#random-), [`Fun`](../../README.md#fun-)
+- **Categories**: [Random](https://github.com/tools-collection/apis-collection#random-), [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

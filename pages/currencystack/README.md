@@ -4,7 +4,7 @@
 > **Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

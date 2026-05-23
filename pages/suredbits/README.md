@@ -4,7 +4,7 @@
 > **This API allows you to query our NFL, NBA and Crypto Exchange data. NFL and NBA APIs offer multiple channels including teams, players, games, scores, and statistics. Crypto Exchange API allows you to stream data on Trades, Tickers and Order Books.**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-), [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-), [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

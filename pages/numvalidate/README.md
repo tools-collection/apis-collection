@@ -4,7 +4,7 @@
 > **Free and open source REST API that provides a simple yet effective way to validate and format a phone number**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

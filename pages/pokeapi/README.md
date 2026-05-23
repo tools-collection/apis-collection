@@ -4,7 +4,7 @@
 > **This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series. We&#x27;ve covered everything from Pokémon to Berry Flavors**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Games`](../../README.md#games-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

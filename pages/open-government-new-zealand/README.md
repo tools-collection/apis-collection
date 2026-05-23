@@ -4,7 +4,7 @@
 > **govt. nz provides access to guidance, standards, and data from New Zealand government agencies and government-funded projects. data**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

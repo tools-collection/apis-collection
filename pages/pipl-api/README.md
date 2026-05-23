@@ -4,7 +4,7 @@
 > **Free and public API that generates random and fake people&#x27;s data in JSON.**
 
 ## 📝 Details
-- **Categories**: [`Random`](../../README.md#random-), [`Testing`](../../README.md#testing-)
+- **Categories**: [Random](https://github.com/tools-collection/apis-collection#random-), [Testing](https://github.com/tools-collection/apis-collection#testing-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **A simple tool to generate names for use in designs and mockups**
 
 ## 📝 Details
-- **Categories**: [`Random`](../../README.md#random-), [`Testing`](../../README.md#testing-)
+- **Categories**: [Random](https://github.com/tools-collection/apis-collection#random-), [Testing](https://github.com/tools-collection/apis-collection#testing-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

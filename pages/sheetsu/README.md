@@ -4,7 +4,7 @@
 > **Get data from Google Spreadsheet in a matter of seconds. You can copy the HTML Snippet and paste it into your website without any code. If you are developer, you can use one of many languages or frameworks Sheetsu supports like Ruby, Node, React, JavaScript Python, PHP, JQuery, C#, Swift, or R. Turn Google Spreadsheets into an API**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Databases`](../../README.md#databases-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Databases](https://github.com/tools-collection/apis-collection#databases-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

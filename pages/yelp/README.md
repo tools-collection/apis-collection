@@ -4,7 +4,7 @@
 > **Yelp&#x27;s API exposes search to 3rd party developers. You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Commerce`](../../README.md#commerce-), [`Point of Interest`](../../README.md#point-of-interest-), [`Search`](../../README.md#search-), [`Maps & Geo`](../../README.md#maps--geo-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-), [Search](https://github.com/tools-collection/apis-collection#search-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

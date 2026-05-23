@@ -4,7 +4,7 @@
 > **Automatic image keywording and categorization API. The Everypixel Image Recognition sees images like a human, but costs several times cheaper. This model is designed to evaluate user photos taken both by a professional camera and by a camera of a smartphone**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Images & Photography`](../../README.md#images--photography-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`Recognition`](../../README.md#recognition-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

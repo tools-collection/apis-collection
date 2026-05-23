@@ -6,7 +6,7 @@
 The Evident Proof API allows developers to access and integrate the functionality of Evident Proof with other applications and systems**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

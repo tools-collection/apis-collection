@@ -4,7 +4,7 @@
 > **World&#x27;s best fun translation tools via REST API. Yoda speak converter, pirate converter, Pig Latin and Ferb Latin converters. Translate to over 50+ languages from various TV Series and Movies**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-), [`Translation`](../../README.md#translation-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-), [Translation](https://github.com/tools-collection/apis-collection#translation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

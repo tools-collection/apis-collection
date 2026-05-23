@@ -5,7 +5,7 @@
 > **Generates cool looking robot image for any text**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Images & Photography`](../../README.md#images--photography-), [`Random`](../../README.md#random-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

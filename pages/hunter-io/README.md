@@ -4,7 +4,7 @@
 > **Hunter.io API finds and verifies professional email addresses. Search by domain to find contacts, verify email deliverability, and enrich leads for sales and outreach campaigns.**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Business`](../../README.md#business-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **Our Anomaly API gives you IP &amp; Domain Data for your Business. Lookup threat intelligence score. Prevend bad signups, enrich your SIEM &amp; secure your Application. . Data Intelligence for your Application - API Applications to protect your Service - Easy integration for developers and companies - start today with the free application**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

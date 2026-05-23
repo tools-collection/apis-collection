@@ -5,7 +5,7 @@
 > **Convert web page content into epub, Kindle/mobi and multi-column PDF files**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

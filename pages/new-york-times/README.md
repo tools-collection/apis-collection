@@ -4,7 +4,7 @@
 > **Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, people**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

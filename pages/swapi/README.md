@@ -4,7 +4,7 @@
 > **A Remake of the original api, using the MERN stack. A Remake of the original api, using the MERN stack**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

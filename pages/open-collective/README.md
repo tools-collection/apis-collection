@@ -4,7 +4,7 @@
 > **Learn more about it here: https://medium. GraphQL API The future of the Open Collective API is our public GraphQL API. You can check the documentation on https://graphql-docs-v2. opencollective. com**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

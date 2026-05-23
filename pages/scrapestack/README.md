@@ -4,7 +4,7 @@
 > **Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs. The scrapestack API was built to offer a free, real-time scraping and proxy REST API, handling CAPTCHAs, browsers, IP blocks, and more. Simply send a valid website URL and the scrapestack API will return its full HTML content - as seen in the browser, including JavaScript rendering**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Development`](../../README.md#development-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Development](https://github.com/tools-collection/apis-collection#development-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

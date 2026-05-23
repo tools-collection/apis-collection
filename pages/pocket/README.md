@@ -4,7 +4,7 @@
 > **When you find something you want to view later, put it in Pocket**
 
 ## 📝 Details
-- **Categories**: [`Bookmarks`](../../README.md#bookmarks-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Categories**: [Bookmarks](https://github.com/tools-collection/apis-collection#bookmarks-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

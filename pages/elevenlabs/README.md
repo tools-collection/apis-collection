@@ -4,7 +4,7 @@
 > **ElevenLabs API provides AI voice generation and cloning. Generate realistic speech from text with customizable voices, or clone a voice from an audio sample.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

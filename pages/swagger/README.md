@@ -4,7 +4,7 @@
 > **Find out how Swagger can help you and get started today. Simplify API development for users, teams, and enterprises with our open source and professional toolset**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

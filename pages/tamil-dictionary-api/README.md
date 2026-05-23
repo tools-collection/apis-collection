@@ -4,7 +4,7 @@
 > **Lookup Tamil words and build your own Tamil dictionary APP using this API**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

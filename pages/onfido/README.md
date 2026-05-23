@@ -4,7 +4,7 @@
 > **Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime. Document report: Object Results The result field indicates the overall report result. Possible values for Document reports are clear and consider: Report resultclearIf all underlying verifications. Identity verification at the speed of life. It’s as simple as an ID and a selfie**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Validation & Verification`](../../README.md#validation--verification-), [`Authentication & User Management`](../../README.md#authentication--user-management-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

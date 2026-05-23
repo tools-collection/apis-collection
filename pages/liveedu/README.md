@@ -4,7 +4,7 @@
 > **Live Coding Streaming. Education Ecosystem is a project learning platform for people to learn how to build real products**
 
 ## 📝 Details
-- **Categories**: [`Education`](../../README.md#education-), [`Video & Media`](../../README.md#video--media-), [`Entertainment`](../../README.md#entertainment-), [`Development`](../../README.md#development-)
+- **Categories**: [Education](https://github.com/tools-collection/apis-collection#education-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Enrich your games&#x27; experience by adding a global highscore for your games. Platform agnostic infrastructure for your games statistics.**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **ClickMeter API RESTful services. ClickMeter API RESTful services. Interact programmatically with our infrastructure. Integrate your application(s) with a powerful.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Marketing & SEO`](../../README.md#marketing--seo-), [`URLs`](../../README.md#urls-), [`Email & SMS`](../../README.md#email--sms-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [URLs](https://github.com/tools-collection/apis-collection#urls-), [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

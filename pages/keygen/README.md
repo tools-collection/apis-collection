@@ -4,7 +4,7 @@
 > **Keygen is a dead-simple software licensing API built for developers of desktop apps, on-prem software and other digital products. You can manage user accounts, their licenses, and their machines through an easy-to-use RESTful JSON API. Keygen is a simple software licensing API, allowing developers to easily implement various licensing types into any software product**
 
 ## 📝 Details
-- **Categories**: [`Payments`](../../README.md#payments-)
+- **Categories**: [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

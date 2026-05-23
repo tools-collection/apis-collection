@@ -4,7 +4,7 @@
 > **Free multilingual Encyclopedia.**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Wiki`](../../README.md#wiki-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [Wiki](https://github.com/tools-collection/apis-collection#wiki-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Regional Data new National Grid ESO forecasts the carbon intensity and generation mix of electricity consumed across 14 geographical regions in Great Britain. The spatial and temporal characteristi. The Carbon Intensity API uses state-of-the-art Machine Learning and sophisticated power system modelling to forecast the carbon intensity and electrical generation mix 96+ hours ahead for each region in Great Britain**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

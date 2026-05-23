@@ -5,7 +5,7 @@
 > **A simple way to share and discover interesting events from your friends, followers, and the artists and organizations you care about**
 
 ## 📝 Details
-- **Categories**: [`Events`](../../README.md#events-), [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Events](https://github.com/tools-collection/apis-collection#events-), [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **The StackExchange API provides RESTful services to all the sites on the StackExchange domain. about blog terms of use contact us feedback always welcome site design / logo © 2021 Stack Exchange, Inc; user contributions licensed under cc by-sa**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

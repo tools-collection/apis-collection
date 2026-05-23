@@ -4,7 +4,7 @@
 > **The image capturing function used by Naver Service can be used for customer service to identify people and computers to prevent abusing**
 
 ## 📝 Details
-- **Categories**: [`Captcha`](../../README.md#captcha-)
+- **Categories**: [Captcha](https://github.com/tools-collection/apis-collection#captcha-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

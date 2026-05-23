@@ -4,7 +4,7 @@
 > **cdnjs provides a simple API to allow anyone to quickly query the libraries it has on the CDN.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

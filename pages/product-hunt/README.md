@@ -4,7 +4,7 @@
 > **The best new products, every day. Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone&#x27;s talking about**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Jobs`](../../README.md#jobs-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Jobs](https://github.com/tools-collection/apis-collection#jobs-), [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Commerce`](../../README.md#commerce-), [`Search`](../../README.md#search-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Search](https://github.com/tools-collection/apis-collection#search-), [Point of Interest](https://github.com/tools-collection/apis-collection#point-of-interest-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

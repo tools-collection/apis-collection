@@ -4,7 +4,7 @@
 > **Square provides support and tools for you to build apps for today’s business needs. Build customized solutions that accept payments (online, in-person, or in-app), manage products and customers and handle the day-to-day operations that keep business running. Square APIs are powerful, secure, reliable, and free to use. Use Developer APIs to build on the platform that sellers trust**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Payments`](../../README.md#payments-), [`Business`](../../README.md#business-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Payments](https://github.com/tools-collection/apis-collection#payments-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

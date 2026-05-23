@@ -4,7 +4,7 @@
 > **Generate memes with a simple link!. Meme Top Text Bottom Text Link To access the API without the watermark, click here**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

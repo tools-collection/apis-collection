@@ -4,7 +4,7 @@
 > **The REST API allows developers to access and integrate Jooble&#x27;s search results within your web products, or to build an entirely new web product of your own.**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-), [`Search`](../../README.md#search-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-), [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

@@ -4,7 +4,7 @@
 > **Random image of a fox**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-), [`Images & Photography`](../../README.md#images--photography-), [`Random`](../../README.md#random-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context.**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Search`](../../README.md#search-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-), [Search](https://github.com/tools-collection/apis-collection#search-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

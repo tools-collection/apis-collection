@@ -4,7 +4,7 @@
 > **Notion&#x27;s API provides access to pages, databases, blocks, users, and comments in Notion workspaces. Read and write structured data from Notion databases programmatically.**
 
 ## 📝 Details
-- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Databases`](../../README.md#databases-)
+- **Categories**: [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Databases](https://github.com/tools-collection/apis-collection#databases-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

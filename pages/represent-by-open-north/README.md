@@ -4,7 +4,7 @@
 > **Find the elected officials and electoral districts for any Canadian address or postal code, at all levels of government**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

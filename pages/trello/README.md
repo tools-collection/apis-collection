@@ -4,7 +4,7 @@
 > **Trello is a web-based, Kanban-style, list-making application**
 
 ## 📝 Details
-- **Categories**: [`Project Management`](../../README.md#project-management-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Project Management](https://github.com/tools-collection/apis-collection#project-management-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

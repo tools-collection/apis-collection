@@ -4,7 +4,7 @@
 > **Suite of utility API&#x27;s (validate emails, create user avatars, calculate VAT, and more). Abstract provides powerful APIs to help you enrich any user experience or automate any workflow.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Art & Design`](../../README.md#art--design-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET &amp; Python. Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs**
 
 ## 📝 Details
-- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Voice`](../../README.md#voice-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Email & SMS](https://github.com/tools-collection/apis-collection#email--sms-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

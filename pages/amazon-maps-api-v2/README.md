@@ -4,7 +4,7 @@
 > **Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps. The following steps show you how to get started with the Amazon Maps API**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

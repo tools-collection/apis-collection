@@ -4,7 +4,7 @@
 > **Overview of integrating with Azure DevOps. . TFS APIs are based on REST, OAuth, Json and service hooks**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Free for personal use. Free URL to Screenshot API - capture crisp and clean snapshots of any website, with any device, any setting and lightning fast**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Collaboration`](../../README.md#collaboration-), [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

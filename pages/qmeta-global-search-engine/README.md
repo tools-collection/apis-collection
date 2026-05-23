@@ -4,7 +4,7 @@
 > **RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden und Gefahrenstellen die so gravierend sind, dass sie zu einem Unfall führen könnten. Anonymous and Secure Global Search Engine**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Security`](../../README.md#security-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

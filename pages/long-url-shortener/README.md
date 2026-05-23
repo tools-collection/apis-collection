@@ -4,7 +4,7 @@
 > **Given a long URL, returns a short link**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

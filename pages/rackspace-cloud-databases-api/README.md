@@ -4,7 +4,7 @@
 > **Can be created, updated, and deleted using the OS::Trove::Instance resource. Cloud Databases instances can also be created as replicas of other Cloud Databases instances.**
 
 ## 📝 Details
-- **Categories**: [`Databases`](../../README.md#databases-)
+- **Categories**: [Databases](https://github.com/tools-collection/apis-collection#databases-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

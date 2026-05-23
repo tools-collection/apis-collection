@@ -4,7 +4,7 @@
 > **Pipedrive&#x27;s API provides access to deals, contacts, organizations, pipelines, and activities. Build CRM integrations and automate sales workflow management on the Pipedrive platform.**
 
 ## 📝 Details
-- **Categories**: [`CRM`](../../README.md#crm-), [`Business`](../../README.md#business-)
+- **Categories**: [CRM](https://github.com/tools-collection/apis-collection#crm-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

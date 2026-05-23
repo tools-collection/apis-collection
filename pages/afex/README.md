@@ -4,7 +4,7 @@
 > **Send payments to recipients all over the world 24/7 with secure and flexible online platform**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-), [`Payments`](../../README.md#payments-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-), [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

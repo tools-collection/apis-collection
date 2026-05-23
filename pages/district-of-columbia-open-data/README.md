@@ -4,7 +4,7 @@
 > **Goal is for this API is to be your platform for developing apps around DC’s freely available, machine readable data**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`Government`](../../README.md#government-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

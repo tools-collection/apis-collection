@@ -4,7 +4,7 @@
 > **One accurate tab per song. Huge selection of 500,000 tabs. Guitar, bass and drum tabs &amp; chords with free online tab player.**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

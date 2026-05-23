@@ -4,7 +4,7 @@
 > **Okta&#x27;s API manages users, groups, applications, and authentication policies for enterprise identity. Build SSO, MFA, and lifecycle management integrations with the Okta Identity Platform.**
 
 ## 📝 Details
-- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Security`](../../README.md#security-)
+- **Categories**: [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-), [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

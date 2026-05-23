@@ -4,7 +4,7 @@
 > **Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup.**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-), [`Maps & Geo`](../../README.md#maps--geo-), [`Security`](../../README.md#security-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Security](https://github.com/tools-collection/apis-collection#security-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **This is most commonly done through Fail2Ban, which comes prepackaged with an AbuseIPDB configuration. Introduction The AbuseIPDB API allows you to utilize our database programmatically**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

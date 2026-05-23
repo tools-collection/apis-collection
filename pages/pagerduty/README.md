@@ -4,7 +4,7 @@
 > **PagerDuty&#x27;s API manages incidents, alerts, on-call schedules, escalation policies, and services. Automate incident response workflows and integrate with monitoring tools.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Business`](../../README.md#business-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

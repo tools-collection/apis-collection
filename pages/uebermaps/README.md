@@ -4,7 +4,7 @@
 > **uebermaps are interactive maps that enable people to. Hello developer. This is the uebermaps JSON REST API v2. uebermaps is a platform for everyone to create and share maps with your favorite spots**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

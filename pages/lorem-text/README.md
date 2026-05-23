@@ -5,7 +5,7 @@
 > **Generates Lorem Ipsum text**
 
 ## 📝 Details
-- **Categories**: [`Testing`](../../README.md#testing-)
+- **Categories**: [Testing](https://github.com/tools-collection/apis-collection#testing-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Keep your registration forms simple. Optimize your conversions and let us determine the gender of your customers.**
 
 ## 📝 Details
-- **Categories**: [`Forms & Surveys`](../../README.md#forms--surveys-)
+- **Categories**: [Forms & Surveys](https://github.com/tools-collection/apis-collection#forms--surveys-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

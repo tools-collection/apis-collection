@@ -4,7 +4,7 @@
 > **Marketing API Marketing APIs are a collection of Graph API endpoints that can be used to help you advertise on Facebook. Manage ads and campaigns using the Facebook API**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-), [`Social`](../../README.md#social-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

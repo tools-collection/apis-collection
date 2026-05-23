@@ -4,7 +4,7 @@
 > **Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption. Fast response times and fair pricing. Scraping SERPs from search engines is a difficult task, as it involves proxy management, captcha-solving and constant parser adaptation. SERP API makes this process easy, fast &amp; scalable**
 
 ## 📝 Details
-- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Search`](../../README.md#search-)
+- **Categories**: [Marketing & SEO](https://github.com/tools-collection/apis-collection#marketing--seo-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-), [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

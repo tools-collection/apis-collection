@@ -4,7 +4,7 @@
 > **Get access to millions of vehicle records, specs, ownership costs and market values. CarsXE Vehicle Data API**
 
 ## 📝 Details
-- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Categories**: [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

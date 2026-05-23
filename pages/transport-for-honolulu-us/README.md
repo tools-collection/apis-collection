@@ -4,7 +4,7 @@
 > **« Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data. To utilize OTS&#x27;s web services, an application id (AppID)**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

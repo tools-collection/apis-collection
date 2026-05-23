@@ -4,7 +4,7 @@
 > **World&#x27;s largest open database of companies**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Statistics & Data`](../../README.md#statistics--data-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

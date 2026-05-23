@@ -4,7 +4,7 @@
 > **Create the Uber for anything, a small business API for on-demand fulfillment.**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Business`](../../README.md#business-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

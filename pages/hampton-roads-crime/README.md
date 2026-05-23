@@ -5,7 +5,7 @@
 > **Let’s you get most recent and historical crime data so you feel safe in your neighbourhood**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

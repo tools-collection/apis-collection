@@ -4,7 +4,7 @@
 > **A free REST API for random Kanye West quotes. A free REST API for random Kanye West quotes**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-), [`Music & Audio`](../../README.md#music--audio-), [`News & Feeds`](../../README.md#news--feeds-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

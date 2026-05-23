@@ -4,7 +4,7 @@
 > **AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

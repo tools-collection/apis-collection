@@ -4,7 +4,7 @@
 > **Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world.**
 
 ## 📝 Details
-- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-), [`Vehicles`](../../README.md#vehicles-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Environment & Nature](https://github.com/tools-collection/apis-collection#environment--nature-), [Vehicles](https://github.com/tools-collection/apis-collection#vehicles-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

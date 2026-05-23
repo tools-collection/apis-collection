@@ -4,7 +4,7 @@
 > **Accurately convert speech into text using an API powered by Google’s AI technologies.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-), [Voice](https://github.com/tools-collection/apis-collection#voice-)
 - **Type**: `REST, gRPC`
 - **Auth**: `none`
 - **Free**: `No`

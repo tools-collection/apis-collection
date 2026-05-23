@@ -4,7 +4,7 @@
 > **API for accessing and managing data about athletes, activities and segments. Strava API usage is limited on a per-application basis using a short term, 15 minute, limit and a long term, daily, limit. The default rate limit allows 600 requests every 15 minutes, with up to 30**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Sport & Fitness`](../../README.md#sport--fitness-), [`Social`](../../README.md#social-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

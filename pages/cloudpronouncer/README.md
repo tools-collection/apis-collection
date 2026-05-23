@@ -4,7 +4,7 @@
 > **Text To Speech API. CloudPronouncer (tts online or tts reader) is a cross browsers REST API supporting 255 Standard and Premium Voices in 42 languages including variants (the list is growing in time) and it may be used by any device that can connect to Internet and send the POST requests to our API as instructed in this website: smartphones, tablets, laptops, PC Desktops, other smart devices. It uses cloud infrastructure and artificial intelligence to solve the requests.**
 
 ## 📝 Details
-- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-), [`Voice`](../../README.md#voice-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-), [Voice](https://github.com/tools-collection/apis-collection#voice-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

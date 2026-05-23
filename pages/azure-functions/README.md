@@ -4,7 +4,7 @@
 > **Azure Functions management API enables deploying and managing serverless functions, triggers, bindings, and app settings on Microsoft Azure&#x27;s event-driven compute platform.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

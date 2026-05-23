@@ -4,7 +4,7 @@
 > **Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system. This database provides information such as the product name, price, quantity, and manufacturer. UPCDatabase also takes this one step further by providing an image of the item, a rating system, and a product alias for shopping list applications.**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Bar & QR Codes`](../../README.md#bar--qr-codes-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Bar & QR Codes](https://github.com/tools-collection/apis-collection#bar--qr-codes-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Liturgical Calendar API. Browse the calendar on-line. The API provides access to Roman Catholic liturgical calendar.**
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

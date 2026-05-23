@@ -4,7 +4,7 @@
 > **Discover open source libraries, modules and frameworks you can use in your code. Open source software libraries**
 
 ## 📝 Details
-- **Categories**: [`Open Source`](../../README.md#open-source-)
+- **Categories**: [Open Source](https://github.com/tools-collection/apis-collection#open-source-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

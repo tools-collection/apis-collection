@@ -4,7 +4,7 @@
 > **Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

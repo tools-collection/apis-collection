@@ -5,7 +5,7 @@
 > **A social networking website offering an interactive, user-submitted network of friends, personal profiles, blogs, groups, photos, music, and videos**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

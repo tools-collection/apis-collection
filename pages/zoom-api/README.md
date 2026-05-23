@@ -4,7 +4,7 @@
 > **Zoom&#x27;s REST API manages meetings, webinars, users, recordings, and reports. Build scheduling integrations, automate meeting workflows, and access video conferencing data.**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

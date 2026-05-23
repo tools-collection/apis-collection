@@ -4,7 +4,7 @@
 > **The SMS Service,allows you to send and receive text messages, of up to 160 characters, to and from a mobile phone**
 
 ## 📝 Details
-- **Categories**: [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

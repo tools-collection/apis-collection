@@ -4,7 +4,7 @@
 > **Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles. Discover recipes, home ideas, style inspiration and other ideas to try**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Social`](../../README.md#social-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

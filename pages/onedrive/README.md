@@ -4,7 +4,7 @@
 > **File storage &amp; sharing**
 
 ## 📝 Details
-- **Categories**: [`Files & Storage`](../../README.md#files--storage-)
+- **Categories**: [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

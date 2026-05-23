@@ -4,7 +4,7 @@
 > **Create and manage events and calendars for Google Calendar. **
 
 ## 📝 Details
-- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-), [`Collaboration`](../../README.md#collaboration-)
+- **Categories**: [Calendar & Time](https://github.com/tools-collection/apis-collection#calendar--time-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

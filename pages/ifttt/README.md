@@ -4,7 +4,7 @@
 > **Learn how to build an API to show and update connections, run actions, perform queries, and listen for triggers**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

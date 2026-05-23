@@ -4,7 +4,7 @@
 > **MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming. The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON representation of MATLAB data types.**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Development`](../../README.md#development-), [`Visualizations`](../../README.md#visualizations-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Development](https://github.com/tools-collection/apis-collection#development-), [Visualizations](https://github.com/tools-collection/apis-collection#visualizations-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

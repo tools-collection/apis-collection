@@ -4,7 +4,7 @@
 > **Open Library is an open, editable library catalog, building towards a web page for every book ever published. Read, borrow, and discover more than 3M books for free**
 
 ## 📝 Details
-- **Categories**: [`Books`](../../README.md#books-)
+- **Categories**: [Books](https://github.com/tools-collection/apis-collection#books-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

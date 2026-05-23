@@ -4,7 +4,7 @@
 > **Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius. Places Help users discover the world with rich location data for over 100 million places. Enable them to find specific places using phone numbers, addresses, and real-time signals. Features include**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

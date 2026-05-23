@@ -4,7 +4,7 @@
 > **Quotes on Design**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-), [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

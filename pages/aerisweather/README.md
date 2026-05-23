@@ -4,7 +4,7 @@
 > **AerisWeather provides a powerful weather API, mapping platform, and developer toolkits that allow weather-sensitive businesses worldwide to operate more efficiently, safely, and profitably. Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

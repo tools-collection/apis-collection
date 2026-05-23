@@ -4,7 +4,7 @@
 > **xkcd API**
 
 ## 📝 Details
-- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-), [`Fun`](../../README.md#fun-), [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

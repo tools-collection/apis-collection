@@ -4,7 +4,7 @@
 > **Ppen source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.**
 
 ## 📝 Details
-- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-), [`Open Source`](../../README.md#open-source-)
+- **Categories**: [IoT & Home Automation](https://github.com/tools-collection/apis-collection#iot--home-automation-), [Open Source](https://github.com/tools-collection/apis-collection#open-source-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

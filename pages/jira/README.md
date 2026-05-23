@@ -4,7 +4,7 @@
 > **Jira&#x27;s REST API provides access to issues, projects, sprints, users, and workflows. Automate project management, build integrations, and sync data with Atlassian&#x27;s project tracking platform.**
 
 ## 📝 Details
-- **Categories**: [`Project Management`](../../README.md#project-management-), [`Development`](../../README.md#development-)
+- **Categories**: [Project Management](https://github.com/tools-collection/apis-collection#project-management-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

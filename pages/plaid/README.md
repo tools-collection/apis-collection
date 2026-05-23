@@ -4,7 +4,7 @@
 > **Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services. You&amp;apos;ve reached this page unjustly&quot;**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-), [`Analytics`](../../README.md#analytics-), [`Payments`](../../README.md#payments-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-), [Analytics](https://github.com/tools-collection/apis-collection#analytics-), [Payments](https://github.com/tools-collection/apis-collection#payments-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

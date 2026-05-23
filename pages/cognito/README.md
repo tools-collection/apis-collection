@@ -4,7 +4,7 @@
 > **Can take a customer&#x27;s cellphone number and return name, address history, full SSN, and date of birth. Cognito API documentation will give you everything you need to get up and running with Cognito’s ID verification APIs. A powerful API for verifying and retrieving identity information**
 
 ## 📝 Details
-- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

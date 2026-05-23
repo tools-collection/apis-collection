@@ -4,7 +4,7 @@
 > **The QR-Code generator gets your data and generates a QR-Code**
 
 ## 📝 Details
-- **Categories**: [`Bar & QR Codes`](../../README.md#bar--qr-codes-)
+- **Categories**: [Bar & QR Codes](https://github.com/tools-collection/apis-collection#bar--qr-codes-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

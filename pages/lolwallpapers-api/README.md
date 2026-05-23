@@ -4,7 +4,7 @@
 > **League of Legends Wallpapers website official API. This is a lightweight public API which provides an easy way to fetch informations about any wallpapers on LoLWallpapers**
 
 ## 📝 Details
-- **Categories**: [`Games`](../../README.md#games-), [`Search`](../../README.md#search-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Games](https://github.com/tools-collection/apis-collection#games-), [Search](https://github.com/tools-collection/apis-collection#search-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

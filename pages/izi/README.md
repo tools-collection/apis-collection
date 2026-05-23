@@ -4,7 +4,7 @@
 > **izi.TRAVEL is ready to spread all local stories globally. Every day numerous content providers publish their audio guides on izi.TRAVEL platform. More than 1750 museums and 1750 cities all of the world are covered with interesting stories in different languages. New stories appear every moment.**
 
 ## 📝 Details
-- **Categories**: [`Travel`](../../README.md#travel-), [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Travel](https://github.com/tools-collection/apis-collection#travel-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

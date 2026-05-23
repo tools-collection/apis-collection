@@ -4,7 +4,7 @@
 > **A platform that helps your mobile team build better apps, understand your users, and grow your business. Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

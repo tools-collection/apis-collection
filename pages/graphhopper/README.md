@@ -4,7 +4,7 @@
 > **A-to-B routing with turn-by-turn instructions**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-), [`Travel`](../../README.md#travel-), [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [Post & Logistics](https://github.com/tools-collection/apis-collection#post--logistics-), [Travel](https://github.com/tools-collection/apis-collection#travel-), [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

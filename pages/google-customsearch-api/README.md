@@ -4,7 +4,7 @@
 > **With this API, you can use RESTful req. The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Programmable Search Engine programmatically**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

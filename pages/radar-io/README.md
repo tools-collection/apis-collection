@@ -4,7 +4,7 @@
 > **Radar&#x27;s location platform API provides geofencing, trip tracking, address autocomplete, geocoding, and place detection. Build location-aware mobile and web applications at scale.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

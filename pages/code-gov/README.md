@@ -4,7 +4,7 @@
 > **America&#x27;s primary platform for aggregating Open Source Software from the federal government. With thousands of OSS projects made available, Code.gov offers you the opportunity to discover and contribute back to America&#x27;s code.**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Open Source`](../../README.md#open-source-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Open Source](https://github.com/tools-collection/apis-collection#open-source-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 exchanges. Cryptonator provides unique volume of cryptocurrency exchange rates data, which is delivered in easy-to-integrate JSON format via simple HTTPS requests**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

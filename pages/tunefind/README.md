@@ -4,7 +4,7 @@
 > **Since 2005 Tunefind has been the leading site dedicated to tracking the music featured in TV shows and movies. Whether your app or site is focused on music discovery or TV and film entertainment, Tunefind can provide the most comprehensive data available to power fan engagement through music.**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Music & Audio`](../../README.md#music--audio-), [`Recognition`](../../README.md#recognition-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

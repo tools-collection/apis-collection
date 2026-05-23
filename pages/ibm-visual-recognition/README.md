@@ -4,7 +4,7 @@
 > **The IBM Watson Visual Recognition service uses deep learning algorithms to identify scenes and objects in images that you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs. Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can&#x27;t create instances. Any instance that is provisioned on 1 December 2021 will be deleted. IBM Watso Visual Recognition is discontinued**
 
 ## 📝 Details
-- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`Recognition`](../../README.md#recognition-), [`Images & Photography`](../../README.md#images--photography-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-), [Recognition](https://github.com/tools-collection/apis-collection#recognition-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

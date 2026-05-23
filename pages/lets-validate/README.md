@@ -4,7 +4,7 @@
 > **Uncovers the technologies used on websites and URL to thumbnail. API that uncovers the technologies used on websites and generates thumbnail from screenshot of website - letsvalidate/api**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Collaboration`](../../README.md#collaboration-), [`Images & Photography`](../../README.md#images--photography-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Validation & Verification](https://github.com/tools-collection/apis-collection#validation--verification-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

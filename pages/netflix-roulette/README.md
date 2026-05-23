@@ -4,7 +4,7 @@
 > **Wondering what to watch? Let Netflix Roulette pick a movie or TV show randomly from the Netflix catalog, filter IMDB score, and watch instantly. Will let you access Netflix database (which is not open anymore)**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

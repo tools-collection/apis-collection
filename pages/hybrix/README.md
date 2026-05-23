@@ -4,7 +4,7 @@
 > **The API is an open source multi ledger API, that allows developers to build multi-blockchain and multi-ledger solutions on 26+ blockchains. You can retrieve information, such as balances, transaction history, address validation. Also, the library allows you to sign transactions client-side.**
 
 ## 📝 Details
-- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Categories**: [Blockchain & Cryptocurrencies](https://github.com/tools-collection/apis-collection#blockchain--cryptocurrencies-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

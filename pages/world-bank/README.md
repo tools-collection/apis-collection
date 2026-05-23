@@ -10,7 +10,7 @@ World Bank APIs provide access to various types of data and databases:
 - The Climate Data API provides access to historical and modelled climate data from the Climate Knowledge Portal. Learn More**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

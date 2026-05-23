@@ -4,7 +4,7 @@
 > **TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API**
 
 ## 📝 Details
-- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Categories**: [Music & Audio](https://github.com/tools-collection/apis-collection#music--audio-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

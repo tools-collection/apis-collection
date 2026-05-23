@@ -4,7 +4,7 @@
 > **Shorten URLs with invisible spaces. URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans**
 
 ## 📝 Details
-- **Categories**: [`URLs`](../../README.md#urls-)
+- **Categories**: [URLs](https://github.com/tools-collection/apis-collection#urls-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

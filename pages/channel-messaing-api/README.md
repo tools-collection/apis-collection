@@ -5,7 +5,7 @@
 > **Channel Messaging API lets your build real-time application**
 
 ## 📝 Details
-- **Categories**: [`Chats & Messaging`](../../README.md#chats--messaging-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`Bots`](../../README.md#bots-)
+- **Categories**: [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-), [Documents & Productivity](https://github.com/tools-collection/apis-collection#documents--productivity-), [Bots](https://github.com/tools-collection/apis-collection#bots-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

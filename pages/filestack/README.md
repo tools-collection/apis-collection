@@ -4,7 +4,7 @@
 > **API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget. Discover powerful tools that allow you to upload, transform and deliver any file in your application**
 
 ## 📝 Details
-- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Files & Storage`](../../README.md#files--storage-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Files & Storage](https://github.com/tools-collection/apis-collection#files--storage-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

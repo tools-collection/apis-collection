@@ -4,7 +4,7 @@
 > **Hashnode&#x27;s GraphQL API provides access to posts, publications, tags, and user profiles on the developer blogging platform. Build integrations and automate content publishing.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Social`](../../README.md#social-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `GraphQL`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

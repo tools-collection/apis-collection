@@ -4,7 +4,7 @@
 > **Kitsu is a modern anime discovery platform that helps you track the anime you&#x27;re watching, discover new anime and socialize with other fans.**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Comics & Anime`](../../README.md#comics--anime-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

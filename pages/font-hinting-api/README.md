@@ -4,7 +4,7 @@
 > **Fonts API - Subscription. Font hinting REST API**
 
 ## 📝 Details
-- **Categories**: [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

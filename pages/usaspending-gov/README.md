@@ -4,7 +4,7 @@
 > **Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated. The USAspending Application Programming Interface (API) The USAspending API (Application Programming Interface) all**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

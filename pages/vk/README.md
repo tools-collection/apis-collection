@@ -4,7 +4,7 @@
 > **Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community&#x27;s market section). Access to VKontakte&#x27;s API. This has a variety of features such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

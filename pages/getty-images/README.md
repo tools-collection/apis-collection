@@ -4,7 +4,7 @@
 > **Page moved here. Page moved here**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Video & Media`](../../README.md#video--media-), [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

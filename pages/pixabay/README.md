@@ -4,7 +4,7 @@
 > **Restful API for searching and retrieving free images and videos**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

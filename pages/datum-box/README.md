@@ -4,7 +4,7 @@
 > **Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API of Datumbox**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

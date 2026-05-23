@@ -4,7 +4,7 @@
 > **Maintains a custom datastore that queries your data in a fast, scalable, and reliable manner. On top of that datastore is user-friendly web application which lets you visualize the data you have sent. Analytics for mobile and web which helps you analyze the actions people take in your application. Mixpanel was built to give you an answer about your product&#x27;s usage**
 
 ## 📝 Details
-- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Categories**: [Analytics](https://github.com/tools-collection/apis-collection#analytics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

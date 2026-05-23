@@ -4,7 +4,7 @@
 > **Allows companies to conduct commerce with Best Buy services within their own e-commerce application. Come explore our APIs and unleash their possibilities**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Authentication & User Management](https://github.com/tools-collection/apis-collection#authentication--user-management-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

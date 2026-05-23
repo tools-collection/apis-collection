@@ -4,7 +4,7 @@
 > **Biography. From both the universe, and more. Images. Get all SuperHeroes and Villians data from all universes under a single API. For all the superhero data you&#x27;ve needed. Connections. Appearance. Work. Powerstats. Introduction What is this? The superhero API, is a quantifi**
 
 ## 📝 Details
-- **Categories**: [`Fun`](../../README.md#fun-)
+- **Categories**: [Fun](https://github.com/tools-collection/apis-collection#fun-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Search worldwide news articles and headlines from all over the web in real-time with our free News API. 70+ news sources and their headlines, one API**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

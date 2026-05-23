@@ -4,7 +4,7 @@
 > **High-quality fonts to use on your web site**
 
 ## 📝 Details
-- **Categories**: [`Art & Design`](../../README.md#art--design-)
+- **Categories**: [Art & Design](https://github.com/tools-collection/apis-collection#art--design-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

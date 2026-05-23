@@ -4,7 +4,7 @@
 > **Mistral AI provides access to open and proprietary language models including Mistral Large, Mistral Small, and Codestral for text generation, coding, and embeddings.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

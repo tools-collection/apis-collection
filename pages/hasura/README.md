@@ -4,7 +4,7 @@
 > **Hasura auto-generates a real-time GraphQL and REST API from your PostgreSQL, MySQL, or other databases. Manage permissions, actions, events, and remote schema integrations.**
 
 ## 📝 Details
-- **Categories**: [`Databases`](../../README.md#databases-), [`Development`](../../README.md#development-)
+- **Categories**: [Databases](https://github.com/tools-collection/apis-collection#databases-), [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `GraphQL`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

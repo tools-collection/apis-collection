@@ -4,7 +4,7 @@
 > **List of more than 35,500 species that are threatened with extinction**
 
 ## 📝 Details
-- **Categories**: [`Animals`](../../README.md#animals-), [`Environment & Nature`](../../README.md#environment--nature-)
+- **Categories**: [Animals](https://github.com/tools-collection/apis-collection#animals-), [Environment & Nature](https://github.com/tools-collection/apis-collection#environment--nature-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

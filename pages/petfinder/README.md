@@ -4,7 +4,7 @@
 > **The Petfinder API (Application Programming Interface) allows you to access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations. You can use the API to build your own dynamic websites or applications backed by the same data used on Petfinder.com.**
 
 ## 📝 Details
-- **Categories**: [`Search`](../../README.md#search-), [`Animals`](../../README.md#animals-)
+- **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Animals](https://github.com/tools-collection/apis-collection#animals-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

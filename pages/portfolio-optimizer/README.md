@@ -4,7 +4,7 @@
 > **API for investment portfolio optimization. The science of portfolio optimization, available as a Web API**
 
 ## 📝 Details
-- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Science & Math](https://github.com/tools-collection/apis-collection#science--math-), [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Data feed of the governmental severe weather warnings. The Foreca Warning Feed integrates weather warnings from many national warning systems worldwide and presents them in a harmonized global offering.**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-), [`Government`](../../README.md#government-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-), [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

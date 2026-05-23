@@ -5,7 +5,7 @@
 > **Aeronautical information in digital media produced by the Department of Airspace Control (DECEA)**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

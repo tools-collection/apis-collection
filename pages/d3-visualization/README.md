@@ -4,7 +4,7 @@
 > **D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS**
 
 ## 📝 Details
-- **Categories**: [`Visualizations`](../../README.md#visualizations-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Visualizations](https://github.com/tools-collection/apis-collection#visualizations-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Find food recipes. The Yummly Recipe API lets you integrate recipes and faceted recipe search into your websites or mobile applications. Since Yummly understands the recipe – ingredients, diets, allergies, nutrition, taste, techniques &amp; more. It can connect your users with the best recipes available for their unique food preferences**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Search`](../../README.md#search-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-), [Search](https://github.com/tools-collection/apis-collection#search-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **You Need A Budget API. YNAB is a budgeting app that helps you confidently spend your money, get out of debt, and take control of your financial freedom.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

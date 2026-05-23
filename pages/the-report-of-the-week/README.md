@@ -4,7 +4,7 @@
 > **API of The Report Of The Week Reviews. Contribute to andyklimczak/TheReportOfTheWeek-API development by creating an account on GitHub. API of The Report Of The Week Reviews**
 
 ## 📝 Details
-- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Categories**: [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

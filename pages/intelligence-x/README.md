@@ -4,7 +4,7 @@
 > **Public SDK for Intelligence X. Contribute to IntelligenceX/SDK development by creating an account on GitHub**
 
 ## 📝 Details
-- **Categories**: [`Security`](../../README.md#security-)
+- **Categories**: [Security](https://github.com/tools-collection/apis-collection#security-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

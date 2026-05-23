@@ -4,7 +4,7 @@
 > **Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A. Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`Government`](../../README.md#government-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

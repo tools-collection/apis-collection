@@ -4,7 +4,7 @@
 > **The FEMA Flood Map API offers up-to-date FEMA flood zone maps and data that can be easily embedded into partners&#x27; products or workflow**
 
 ## 📝 Details
-- **Categories**: [`Other`](../../README.md#other-)
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

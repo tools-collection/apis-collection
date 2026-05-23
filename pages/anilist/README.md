@@ -4,7 +4,7 @@
 > **The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data**
 
 ## 📝 Details
-- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-)
+- **Categories**: [Comics & Anime](https://github.com/tools-collection/apis-collection#comics--anime-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

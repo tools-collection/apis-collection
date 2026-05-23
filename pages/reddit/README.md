@@ -4,7 +4,7 @@
 > **Contribute to reddit-archive/reddit development by creating an account on GitHub. historical code from reddit. historical code from reddit. com**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Search news articles from all over the world in real-time with News API. News API to find news articles by any topic, country, language, website or keyword**
 
 ## 📝 Details
-- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Categories**: [News & Feeds](https://github.com/tools-collection/apis-collection#news--feeds-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

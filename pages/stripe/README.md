@@ -4,7 +4,7 @@
 > **Stripe&#x27;s API. Payments, Billing, Business financing, Spend management, Fraud &amp; risk management etc**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-), [`Payments`](../../README.md#payments-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-), [Payments](https://github.com/tools-collection/apis-collection#payments-), [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

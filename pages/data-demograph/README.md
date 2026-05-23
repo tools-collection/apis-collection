@@ -4,7 +4,7 @@
 > **Enrich your contact lists with intelligent demographics. Add gender age, income, education, ancestry, crime, and political leaning to your customer insights.**
 
 ## 📝 Details
-- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`CRM`](../../README.md#crm-)
+- **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-), [CRM](https://github.com/tools-collection/apis-collection#crm-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

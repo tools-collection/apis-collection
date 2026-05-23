@@ -4,7 +4,7 @@
 > **Finnhub&#x27;s API provides real-time stock prices, company fundamentals, earnings estimates, news sentiment, and alternative data for 60+ global exchanges and crypto markets.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

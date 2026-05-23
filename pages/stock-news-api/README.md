@@ -4,7 +4,7 @@
 > **Get the latest stock news from the best news sources. Use this API to get relevant video and article content from companies in the stock market.**
 
 ## 📝 Details
-- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Categories**: [Finance & Economics](https://github.com/tools-collection/apis-collection#finance--economics-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, and crowdsource answers from coworkers around the globe. Yammer gives your team a faster, smarter way to connect and collaborate across your company**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-), [`Business`](../../README.md#business-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

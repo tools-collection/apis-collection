@@ -4,7 +4,7 @@
 > **Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. Messaging APIs, chat widgets and other building blocks of remarkable customer service experience**
 
 ## 📝 Details
-- **Categories**: [`Business`](../../README.md#business-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Business](https://github.com/tools-collection/apis-collection#business-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

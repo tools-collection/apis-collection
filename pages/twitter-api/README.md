@@ -4,7 +4,7 @@
 > **Explore now. Connect with your friends — and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle. Guides and reference materials to help you get started, integrate, optimize, and troubleshoot your use of the Twitter Developer Platform**
 
 ## 📝 Details
-- **Categories**: [`Social`](../../README.md#social-)
+- **Categories**: [Social](https://github.com/tools-collection/apis-collection#social-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

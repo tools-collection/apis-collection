@@ -4,7 +4,7 @@
 > **API MetaWeather provides an API that delivers JSON over HTTPS for access to our data.**
 
 ## 📝 Details
-- **Categories**: [`Weather`](../../README.md#weather-)
+- **Categories**: [Weather](https://github.com/tools-collection/apis-collection#weather-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

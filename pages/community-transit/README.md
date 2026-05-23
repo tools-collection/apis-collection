@@ -4,7 +4,7 @@
 > **Transitland&#x27;s centralized web service API for both querying and editing aggregated transit data from around the world**
 
 ## 📝 Details
-- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Categories**: [Transportation](https://github.com/tools-collection/apis-collection#transportation-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

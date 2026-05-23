@@ -4,7 +4,7 @@
 > **public data. Data USA provides an open, easy-to-use platform that turns data into knowledge. The most comprehensive visualization of U. The most comprehensive visualization of U. S**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

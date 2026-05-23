@@ -4,7 +4,7 @@
 > **Add schedules, show, episode, cast information. TV Show and web series database. Episode guide, cast, crew and character information. Recaps, reviews, episode trailers, celebrity photos and more.Add television information to your own website or app with a fast and clean TV API**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Video & Media`](../../README.md#video--media-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

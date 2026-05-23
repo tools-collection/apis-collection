@@ -4,7 +4,7 @@
 > **Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel.**
 
 ## 📝 Details
-- **Categories**: [`Travel`](../../README.md#travel-)
+- **Categories**: [Travel](https://github.com/tools-collection/apis-collection#travel-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

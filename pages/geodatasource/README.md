@@ -4,7 +4,7 @@
 > **Location Search Web Service (RESTful API) enable you to find nearest city information based on latitude and longitude provided.**
 
 ## 📝 Details
-- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Categories**: [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

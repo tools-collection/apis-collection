@@ -4,7 +4,7 @@
 > **An API to convert Text to Speech, supporting 15+ major languages. Voice RSS provides text-to-speech (TTS) online service and TTS API with very fast and simple integration**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

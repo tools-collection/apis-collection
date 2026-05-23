@@ -4,7 +4,7 @@
 > **Powerful augmented reality apps. Create immersive Augmented Reality experiences that transform the world around you**
 
 ## 📝 Details
-- **Categories**: [`Virtual & Augmented Reality`](../../README.md#virtual--augmented-reality-), [`Maps & Geo`](../../README.md#maps--geo-), [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [Virtual & Augmented Reality](https://github.com/tools-collection/apis-collection#virtual--augmented-reality-), [Maps & Geo](https://github.com/tools-collection/apis-collection#maps--geo-), [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

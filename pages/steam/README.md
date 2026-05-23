@@ -4,7 +4,7 @@
 > **Steam WEB API created to provide programmatic access to Steam data and services**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Games`](../../README.md#games-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Games](https://github.com/tools-collection/apis-collection#games-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

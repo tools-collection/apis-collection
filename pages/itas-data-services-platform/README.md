@@ -4,7 +4,7 @@
 > **The Data Services Platform from the International Trade Administration (ITA) provides direct access to authoritative information on U.S. exporting and international trade via standard APIs. ITA has built the platform to be the central source for exporting data important to small and medium sized U.S. businesses.**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Business`](../../README.md#business-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Business](https://github.com/tools-collection/apis-collection#business-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

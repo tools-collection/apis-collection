@@ -4,7 +4,7 @@
 > **Gets you a random quote from famous movies in XML,SOAP format**
 
 ## 📝 Details
-- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-), [`Random`](../../README.md#random-)
+- **Categories**: [Entertainment](https://github.com/tools-collection/apis-collection#entertainment-), [Fun](https://github.com/tools-collection/apis-collection#fun-), [Random](https://github.com/tools-collection/apis-collection#random-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

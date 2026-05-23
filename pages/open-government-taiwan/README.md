@@ -4,7 +4,7 @@
 > **Taiwan&#x27;s open data and public service APIs**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-), [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

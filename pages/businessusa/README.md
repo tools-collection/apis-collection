@@ -4,7 +4,7 @@
 > **Software developers and researchers can use these APIs and data feeds to help people find useful government information**
 
 ## 📝 Details
-- **Categories**: [`Government`](../../README.md#government-)
+- **Categories**: [Government](https://github.com/tools-collection/apis-collection#government-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

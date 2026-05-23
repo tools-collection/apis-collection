@@ -4,7 +4,7 @@
 > **TinyPNG API will help you compress and reduce the size of your JPEF and PNG files. The first 500 API requests are free. Automate your JPEG and PNG compression workflow**
 
 ## 📝 Details
-- **Categories**: [`Images & Photography`](../../README.md#images--photography-)
+- **Categories**: [Images & Photography](https://github.com/tools-collection/apis-collection#images--photography-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

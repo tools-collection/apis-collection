@@ -4,7 +4,7 @@
 > **Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

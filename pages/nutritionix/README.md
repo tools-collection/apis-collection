@@ -4,7 +4,7 @@
 > **Add robust nutrition tracking capability to any health app.**
 
 ## 📝 Details
-- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-), [`Health`](../../README.md#health-), [`Food & Drinks`](../../README.md#food--drinks-), [`Bar & QR Codes`](../../README.md#bar--qr-codes-)
+- **Categories**: [Sport & Fitness](https://github.com/tools-collection/apis-collection#sport--fitness-), [Health](https://github.com/tools-collection/apis-collection#health-), [Food & Drinks](https://github.com/tools-collection/apis-collection#food--drinks-), [Bar & QR Codes](https://github.com/tools-collection/apis-collection#bar--qr-codes-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

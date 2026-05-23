@@ -4,7 +4,7 @@
 > **Dictionary API and Translation Memory API description. Application Programming Interface of Glosbe gives you free access to several mono- and bilingual Dictionaries and Translation Memories**
 
 ## 📝 Details
-- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Categories**: [Content & Dictionaries](https://github.com/tools-collection/apis-collection#content--dictionaries-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

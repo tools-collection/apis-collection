@@ -4,7 +4,7 @@
 > **Generate PDF from any website. Automate web performance. Turns any link into information. Take screenshots, extract predominant palette colors. Turns websites into data: Enter a URL, receive information. Make any URL embeddable. Capture any website as a snapshot**
 
 ## 📝 Details
-- **Categories**: [`Art & Design`](../../README.md#art--design-), [`Collaboration`](../../README.md#collaboration-), [`URLs`](../../README.md#urls-), [`Social`](../../README.md#social-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Categories**: [Art & Design](https://github.com/tools-collection/apis-collection#art--design-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [URLs](https://github.com/tools-collection/apis-collection#urls-), [Social](https://github.com/tools-collection/apis-collection#social-), [Scrapers & Data Mining](https://github.com/tools-collection/apis-collection#scrapers--data-mining-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

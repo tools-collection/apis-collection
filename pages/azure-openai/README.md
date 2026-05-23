@@ -4,7 +4,7 @@
 > **Azure OpenAI Service provides REST API access to OpenAI&#x27;s GPT-4, DALL-E, and Whisper models with enterprise-grade security, compliance, and regional availability through Microsoft Azure.**
 
 ## 📝 Details
-- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Categories**: [AI & ML](https://github.com/tools-collection/apis-collection#ai--ml-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

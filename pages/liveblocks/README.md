@@ -4,7 +4,7 @@
 > **Liveblocks API enables real-time collaboration features including presence, live cursors, shared state, comments, and notifications. Build collaborative document editors and multiplayer experiences.**
 
 ## 📝 Details
-- **Categories**: [`Development`](../../README.md#development-), [`Collaboration`](../../README.md#collaboration-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Categories**: [Development](https://github.com/tools-collection/apis-collection#development-), [Collaboration](https://github.com/tools-collection/apis-collection#collaboration-), [Chats & Messaging](https://github.com/tools-collection/apis-collection#chats--messaging-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `Yes` 🆓

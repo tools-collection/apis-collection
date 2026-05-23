@@ -4,7 +4,7 @@
 > **HealthCare. gov for Developers We’re making our source code freely available on GitHub. All of our educational content about the Health Insurance Marketplace® is available in machine-readable format**
 
 ## 📝 Details
-- **Categories**: [`Health`](../../README.md#health-)
+- **Categories**: [Health](https://github.com/tools-collection/apis-collection#health-)
 - **Type**: `REST`
 - **Auth**: `none`
 - **Free**: `No`

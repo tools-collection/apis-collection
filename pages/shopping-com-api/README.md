@@ -5,7 +5,7 @@
 > **Makes it easy to search for things on eBay**
 
 ## 📝 Details
-- **Categories**: [`Commerce`](../../README.md#commerce-)
+- **Categories**: [Commerce](https://github.com/tools-collection/apis-collection#commerce-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`

@@ -4,7 +4,7 @@
 > **Since 2005. Job board for designers, hackers and creative pros. The leading job board for designers, developers, and creative pros. © 2021 Authentic Jobs, Inc**
 
 ## 📝 Details
-- **Categories**: [`Jobs`](../../README.md#jobs-)
+- **Categories**: [Jobs](https://github.com/tools-collection/apis-collection#jobs-)
 - **Type**: `N/A`
 - **Auth**: `none`
 - **Free**: `No`
