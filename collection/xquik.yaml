@@ -1,0 +1,25 @@
+name: Xquik
+slug: xquik
+description: X (Twitter) data platform for tweet search, user lookup, extraction jobs, webhooks, MCP, and confirmed X actions
+categories:
+  - Social
+  - Scrapers & Data Mining
+  - Search
+type: REST
+is_free: false
+is_active: true
+logo: https://xquik.com/icon.svg
+auth_type: api_key
+tags:
+  - x
+  - twitter
+  - social-media
+  - data-extraction
+  - mcp
+links:
+  - name: Docs / Website
+    url: https://docs.xquik.com
+  - name: API Reference
+    url: https://docs.xquik.com/api-reference/overview
+  - name: Source
+    url: https://github.com/Xquik-dev/x-twitter-scraper
