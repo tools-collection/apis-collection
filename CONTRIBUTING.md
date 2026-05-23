@@ -50,5 +50,5 @@ Required fields: `name`, `slug`, `categories` (at least one from `categories.yam
 | `npm run build` | Rebuild `README.md` and `dist/` files |
 | `npm run validate` | Validate all YAML files against the schema |
 | `npm run check-links` | Check all API links are reachable |
-| `npm run check-orphans` | Find collection files not referenced anywhere |
 | `npm run enrich` | Enrich API data from external sources |
+| `npm run move-to-graveyard` | Move inactive APIs to the graveyard |

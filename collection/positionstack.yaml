@@ -1,0 +1,12 @@
+name: Positionstack
+slug: positionstack
+description: Positionstack's geocoding API converts addresses to coordinates and vice versa with global coverage. Supports forward and reverse geocoding with structured address components and confidence scores.
+categories:
+  - Maps & Geo
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://positionstack.com/documentation
+  - name: API Reference
+    url: https://positionstack.com/documentation#forward_geocoding

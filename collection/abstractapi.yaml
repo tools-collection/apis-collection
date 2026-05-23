@@ -1,0 +1,13 @@
+name: Abstract API
+slug: abstractapi
+description: Abstract API provides a suite of utility APIs including email validation, phone validation, IP geolocation, VAT validation, currency exchange, and holiday data via simple REST endpoints.
+categories:
+  - Validation & Verification
+  - Development
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.abstractapi.com
+  - name: API Reference
+    url: https://docs.abstractapi.com/email-validation

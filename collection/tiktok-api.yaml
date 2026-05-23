@@ -1,0 +1,13 @@
+name: TikTok API
+slug: tiktok-api
+description: TikTok's Developer API provides access to video publishing, user data, content insights, and the TikTok for Business advertising platform for content creators and brands.
+categories:
+  - Social
+  - Video & Media
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.tiktok.com
+  - name: Content Posting API
+    url: https://developers.tiktok.com/doc/content-posting-api-get-started

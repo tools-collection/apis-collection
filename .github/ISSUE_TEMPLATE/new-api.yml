@@ -1,0 +1,60 @@
+name: Submit a New API
+description: Suggest a public API to add to the collection
+title: "[New API] "
+labels: ["new api", "help wanted"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: API Name
+      placeholder: e.g., Stripe
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Documentation / Website URL
+      placeholder: e.g., https://stripe.com/docs/api
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Brief description of what the API does
+  - type: dropdown
+    id: type
+    attributes:
+      label: API Type
+      options:
+        - REST
+        - GraphQL
+        - SOAP
+        - gRPC
+        - WebSocket
+        - Other
+    validations:
+      required: false
+  - type: dropdown
+    id: auth_type
+    attributes:
+      label: Authentication Type
+      options:
+        - none
+        - api_key
+        - oauth2
+        - bearer
+        - basic
+    validations:
+      required: false
+  - type: checkboxes
+    id: is_free
+    attributes:
+      label: Pricing
+      options:
+        - label: This API is free to use
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      placeholder: Any other relevant details (SDK links, specification URL, etc.)

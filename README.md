@@ -27,13 +27,13 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Bots](#bots-) 📝
     - [Business](#business-) 👔
     - [Calendar & Time](#calendar--time-) 📅
-    - [Captcha](#captcha-) 📃
+    - [Captcha](#captcha-) 🔒
     - [Casino & Gambling](#casino--gambling-) 🎰
     - [Chats & Messaging](#chats--messaging-) 💬
     - [Collaboration](#collaboration-) 👨‍👩‍👦‍👦
     - [Comics & Anime](#comics--anime-) 🦸
     - [Commerce](#commerce-) 💰
-    - [Content & Dictionaries](#content--dictionaries-) 📃
+    - [Content & Dictionaries](#content--dictionaries-) 📖
     - [CRM](#crm-) 🤝
     - [Databases](#databases-) 🗄️
     - [Development](#development-) 👨‍💻
@@ -46,7 +46,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Files & Storage](#files--storage-) 💾
     - [Finance & Economics](#finance--economics-) 🏦
     - [Food & Drinks](#food--drinks-) 🍹
-    - [Forms & Surveys](#forms--surveys-) 📃
+    - [Forms & Surveys](#forms--surveys-) 📝
     - [Fun](#fun-) 🤪
     - [Games](#games-) 🎮
     - [Government](#government-) 🏛️
@@ -66,12 +66,12 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Project Management](#project-management-) 🚧
     - [Random](#random-) 🎲
     - [Real Estate](#real-estate-) 🏗️
-    - [Recognition](#recognition-) 🔬
+    - [Recognition](#recognition-) 👁️
     - [Science & Math](#science--math-) 🔬
     - [Scrapers & Data Mining](#scrapers--data-mining-) 🕸️
     - [Search](#search-) 🔎
     - [Security](#security-) 🛡️
-    - [Social](#social-) 📃
+    - [Social](#social-) 👥
     - [Space](#space-) 🚀
     - [Sport & Fitness](#sport--fitness-) ⚾
     - [Statistics & Data](#statistics--data-) 🗃️
@@ -88,7 +88,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Visualizations](#visualizations-) 📊
     - [Voice](#voice-) 🎙️
     - [Weather](#weather-) ☔
-    - [Wiki](#wiki-) 📃
+    - [Wiki](#wiki-) 📗
     - [Other](#other-) ✨
 - [Graveyard](#graveyard) 🪦
 - [Contributors](#contributors)
@@ -238,9 +238,11 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Cat Facts](https://tools-collection.net/apis-list/cat-facts) - Daily cat facts! 🐱
 - [Cats](https://tools-collection.net/apis-list/cats) - A public service API all about Cats, free to use when making your fancy new App, Website or Service
 - [Dogs](https://tools-collection.net/apis-list/dogs) - Over 20,000 images of dogs programmaticaly accessible by over 120 breeds
+- [eBird](https://tools-collection.net/apis-list/ebird) - eBird&#x27;s API from Cornell Lab provides bird observation data including recent sightings, rare birds, checklists, and hotspot information submitted by birders worldwide 🆓
 - [GBIF](https://tools-collection.net/apis-list/gbif) - Free and open access to biodiversity data
 - [HTTPCat](https://tools-collection.net/apis-list/httpcat) - API for HTTP Cats. API for HTTP Cats
 - [iDigBio](https://tools-collection.net/apis-list/idigbio) - Making data and images of millions of biological specimens available on the web
+- [iNaturalist](https://tools-collection.net/apis-list/inaturalist) - iNaturalist&#x27;s API provides access to biodiversity observations, species identifications, taxa, and geographic data contributed by naturalists worldwide 🆓
 - [IUCN](https://tools-collection.net/apis-list/iucn) - List of more than 35,500 species that are threatened with extinction
 - [Movebank](https://tools-collection.net/apis-list/movebank) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data 🆓
 - [Petfinder](https://tools-collection.net/apis-list/petfinder) - The Petfinder API (Application Programming Interface) allows you to access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations
@@ -471,7 +473,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Unix Timestamp Converteri](https://tools-collection.net/apis-list/unix-timestamp-converteri) - Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Timestamps to DateTime objects and DateTime objects to Unix Timestamps This WebService was built in 20 minutes using Li
 - [WorldTimeAPI](https://tools-collection.net/apis-list/worldtimeapi) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP
 
-### Captcha 📃
+### Captcha 🔒
 - [Anti-Captcha](https://tools-collection.net/apis-list/anti-captcha) - Access to Anti-Captcha’s API
 - [Google reCAPTCHA](https://tools-collection.net/apis-list/google-recaptcha) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
 - [Naver Captcha](https://tools-collection.net/apis-list/naver-captcha) - The image capturing function used by Naver Service can be used for customer service to identify people and computers to prevent abusing
@@ -601,7 +603,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Yclas](https://tools-collection.net/apis-list/yclas) - Be creative and create any type of marketplace
 - [Yelp](https://tools-collection.net/apis-list/yelp) - Yelp&#x27;s API exposes search to 3rd party developers
 
-### Content & Dictionaries 📃
+### Content & Dictionaries 📖
 - [Agarathi](https://tools-collection.net/apis-list/agarathi) - Tamil language Dictionary API
 - [Cambridge Dictionaries Online](https://tools-collection.net/apis-list/cambridge-dictionaries-online) - Access to Cambridge’s custom-developed API
 - [Datamuse API](https://tools-collection.net/apis-list/datamuse-api) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
@@ -666,6 +668,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 ### Development 👨‍💻
 - [24 Pull Requests](https://tools-collection.net/apis-list/24-pull-requests) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
 - [Abstract](https://tools-collection.net/apis-list/abstract) - Suite of utility API&#x27;s (validate emails, create user avatars, calculate VAT, and more)
+- [Abstract API](https://tools-collection.net/apis-list/abstractapi) - Abstract API provides a suite of utility APIs including email validation, phone validation, IP geolocation, VAT validation, currency exchange, and holiday data via simple REST endpoints 🆓
 - [Agify.io](https://tools-collection.net/apis-list/agify-io) - Free API to check and predict the age of a name
 - [Alchemy](https://tools-collection.net/apis-list/alchemy-api) - Alchemy&#x27;s Web3 API provides enhanced node access, NFT data, transaction history, token balances, and webhook notifications across Ethereum, Polygon, Solana, and other blockchains 🆓
 - [Algolia](https://tools-collection.net/apis-list/algolia) - Algolia&#x27;s Search API provides fast, typo-tolerant full-text search with faceting, filtering, and personalization 🆓
@@ -777,6 +780,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [PostHog](https://tools-collection.net/apis-list/posthog) - PostHog&#x27;s API provides product analytics, feature flags, session recording, A/B testing, and user management 🆓
 - [Postman](https://tools-collection.net/apis-list/postman) - The Postman API allows you to programmatically access data stored in Postman account with ease
 - [Postmen](https://tools-collection.net/apis-list/postmen) - Download Postmen&#x27;s JSON schema
+- [Product Hunt API](https://tools-collection.net/apis-list/producthunt-api) - Product Hunt&#x27;s GraphQL API provides access to products, posts, collections, topics, and user data 🆓
 - [ProxyCrawl](https://tools-collection.net/apis-list/proxycrawl) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
 - [Pusher Beams](https://tools-collection.net/apis-list/pusher-beams) - Get realtime delivery and transparency to develop your iOS and Android apps
 - [PyPI API](https://tools-collection.net/apis-list/pypi-api) - PyPI&#x27;s JSON API provides package metadata, release information, download statistics, and vulnerability data for Python packages hosted on the Python Package Index 🆓
@@ -970,10 +974,12 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
 ### Environment & Nature 🌲
 - [AirVisual](https://tools-collection.net/apis-list/airvisual) - Enhance your projects with free trusted historical, real-time and forecast air quality data
+- [eBird](https://tools-collection.net/apis-list/ebird) - eBird&#x27;s API from Cornell Lab provides bird observation data including recent sightings, rare birds, checklists, and hotspot information submitted by birders worldwide 🆓
 - [EPA](https://tools-collection.net/apis-list/epa) - United States Environmental Protection Agency API 🆓
 - [GBIF](https://tools-collection.net/apis-list/gbif) - Free and open access to biodiversity data
 - [GrünstromIndex](https://tools-collection.net/apis-list/grunstromindex) - The green electricity index shows when a lot of renewable electricity is in the grid and can be used in the household
 - [iDigBio](https://tools-collection.net/apis-list/idigbio) - Making data and images of millions of biological specimens available on the web
+- [iNaturalist](https://tools-collection.net/apis-list/inaturalist) - iNaturalist&#x27;s API provides access to biodiversity observations, species identifications, taxa, and geographic data contributed by naturalists worldwide 🆓
 - [IUCN](https://tools-collection.net/apis-list/iucn) - List of more than 35,500 species that are threatened with extinction
 - [Open Charge Map](https://tools-collection.net/apis-list/open-charge-map) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
 - [OpenAQ](https://tools-collection.net/apis-list/openaq) - Loading
@@ -986,6 +992,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Trash Nothing](https://tools-collection.net/apis-list/trash-nothing) - Developer API trash nothing
 - [Trefle](https://tools-collection.net/apis-list/trefle) - Trefle is a botanical API and data source
 - [UK Carbon Intensity](https://tools-collection.net/apis-list/uk-carbon-intensity) - This is the Official Carbon Intensity API for Great Britain developed by National Grid
+- [USGS Earthquake Hazards](https://tools-collection.net/apis-list/usgs-earthquakes) - USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity 🆓
 - [USGS Earthquake Hazards Program](https://tools-collection.net/apis-list/usgs-earthquake-hazards-program) - USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards
 - [USGS Water Services](https://tools-collection.net/apis-list/usgs-water-services) - Home page for water resources information from the US Geological Survey
 
@@ -1097,11 +1104,12 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [What&#x27;s on the menu?](https://tools-collection.net/apis-list/whats-on-the-menu) - Historical menu data 🆓
 - [Whisky Hunter](https://tools-collection.net/apis-list/whisky-hunter) - Explore lots from the past online whisky auctions 🆓
 - [Xyz Menus](https://tools-collection.net/apis-list/xyz-menus) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
+- [Yelp Fusion API](https://tools-collection.net/apis-list/yelp-fusion) - Yelp Fusion API provides business search, reviews, photos, and events data from Yelp&#x27;s local business directory 🆓
 - [Yummly](https://tools-collection.net/apis-list/yummly) - Find food recipes
 - [Zestful Data](https://tools-collection.net/apis-list/zestful-data) - The Zestful&#x27;s ingredient parser API turns plain recipe strings into beautiful, structured data
 - [Zomato](https://tools-collection.net/apis-list/zomato) - Zomato API
 
-### Forms & Surveys 📃
+### Forms & Surveys 📝
 - [Autopilot](https://tools-collection.net/apis-list/autopilot) - The Autopilot API documentation, examples and blog for Autopilot REST API
 - [Clust](https://tools-collection.net/apis-list/clust) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
 - [Form-Api](https://tools-collection.net/apis-list/form-api) - Build forms easily, autocomplete and validate data
@@ -1408,6 +1416,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [FreeGeoIP](https://tools-collection.net/apis-list/freegeoip) - Free IP Geolocation API with no registration required
 - [French Address Search](https://tools-collection.net/apis-list/french-address-search) - Find addresses and localities in France
 - [GeoApi](https://tools-collection.net/apis-list/geoapi) - Administrative Breakdown API - (Geo API) is one of the France&#x27;s public service APIs
+- [Geoapify](https://tools-collection.net/apis-list/geoapify) - Geoapify provides geocoding, reverse geocoding, routing, isoline, and place search APIs 🆓
 - [Geocod.io](https://tools-collection.net/apis-list/geocod-io) - Geocode spreadsheets or use our API - without restrictions 🆓
 - [Geocode.xyz](https://tools-collection.net/apis-list/geocode-xyz) - geocode
 - [Geocodify](https://tools-collection.net/apis-list/geocodify) - Worldwide geocoding, geoparsing and autocomplete for addresses
@@ -1435,6 +1444,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [IP2Proxy](https://tools-collection.net/apis-list/ip2proxy) - IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on
 - [IPGeolocationAPI.com](https://tools-collection.net/apis-list/ipgeolocationapi-com) - IP Geolocation API is a free JSON REST API service for locating your visitors in real-time with detailed country information
 - [IPify](https://tools-collection.net/apis-list/ipify) - ipify API is a simple public IP address API, easy enough to integrate into any application in seconds
+- [IPinfo](https://tools-collection.net/apis-list/ipinfo-io) - IPinfo&#x27;s API provides accurate IP geolocation, ASN, carrier, privacy detection, and abuse contact data 🆓
 - [IPInfoDB](https://tools-collection.net/apis-list/ipinfodb) - Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address
 - [ipstack](https://tools-collection.net/apis-list/ipstack) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
 - [LocationIQ](https://tools-collection.net/apis-list/locationiq) - Generous free tier, offering Enterprise-grade APIs for everyone
@@ -1451,10 +1461,13 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Open Charge Map](https://tools-collection.net/apis-list/open-charge-map) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
 - [Open Street Map](https://tools-collection.net/apis-list/open-street-map) - Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry
 - [OpenCage](https://tools-collection.net/apis-list/opencage) - An easy-to-use forward and reverse geocoding API 🆓
+- [OpenRouteService](https://tools-collection.net/apis-list/openrouteservice) - OpenRouteService API provides routing, isochrones, geocoding, matrix calculations, and elevation data based on OpenStreetMap 🆓
 - [OpenWeatherMap](https://tools-collection.net/apis-list/openweathermap) - Simple and fast and free weather API from OpenWeatherMap
+- [Positionstack](https://tools-collection.net/apis-list/positionstack) - Positionstack&#x27;s geocoding API converts addresses to coordinates and vice versa with global coverage 🆓
 - [PostcodeData.nl](https://tools-collection.net/apis-list/postcodedata-nl) - Netherland&#x27;s post codes search
 - [Postcodes.io](https://tools-collection.net/apis-list/postcodes-io) - Search, validate and reverse geocode postcodes
 - [Postmon](https://tools-collection.net/apis-list/postmon) - API to query zip codes and orders in an easy, fast and free way
+- [Radar](https://tools-collection.net/apis-list/radar-io) - Radar&#x27;s location platform API provides geofencing, trip tracking, address autocomplete, geocoding, and place detection 🆓
 - [REFUGE Restrooms](https://tools-collection.net/apis-list/refuge-restrooms) - Refuge Restrooms
 - [REST Countries](https://tools-collection.net/apis-list/rest-countries) - Get information about countries via a RESTful API.
 - [Scribble](https://tools-collection.net/apis-list/scribble) - This service is an easy way to draw and share maps
@@ -1463,6 +1476,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Smartip.Io](https://tools-collection.net/apis-list/smartip-io) - SmartIP offers the following data points:
 - [Strava](https://tools-collection.net/apis-list/strava) - API for accessing and managing data about athletes, activities and segments
 - [Sweden](https://tools-collection.net/apis-list/sweden) - Information you need to get started using PostNord API
+- [TomTom](https://tools-collection.net/apis-list/tomtom) - TomTom&#x27;s Maps APIs provide routing, geocoding, traffic, search, and map tiles 🆓
 - [Traveltime Api](https://tools-collection.net/apis-list/traveltime-api) - Testing the TravelTime API is free
 - [Turf JS](https://tools-collection.net/apis-list/turf-js) - js | Advanced geospatial analysis for browsers and Node
 - [Uber](https://tools-collection.net/apis-list/uber) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
@@ -1474,6 +1488,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Utah AGRC](https://tools-collection.net/apis-list/utah-agrc) - Geocoding API Methods API methods for finding a geolocation (x,y) for addresses
 - [ViaCep](https://tools-collection.net/apis-list/viacep) - Free webservice for address search via CEP
 - [Wgs84 To Osgb36](https://tools-collection.net/apis-list/wgs84-to-osgb36) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
+- [what3words](https://tools-collection.net/apis-list/what3words) - what3words API converts between 3-word addresses and GPS coordinates 🆓
 - [WhatPulse](https://tools-collection.net/apis-list/whatpulse) - Get to know your time with your computer
 - [Whitepages Pro](https://tools-collection.net/apis-list/whitepages-pro) - Global Identity Verification API
 - [Wikitude](https://tools-collection.net/apis-list/wikitude) - Powerful augmented reality apps
@@ -1652,9 +1667,11 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Open Brewery DB](https://tools-collection.net/apis-list/open-brewery-db) - The goal of Open Brewery DB is to maintain an open-source, community-driven database on breweries, cideries, brewpubs, and bottleshops 🆓
 - [REFUGE Restrooms](https://tools-collection.net/apis-list/refuge-restrooms) - Refuge Restrooms
 - [Rijksmuseum](https://tools-collection.net/apis-list/rijksmuseum) - The Rijksmuseum links individuals with art and history
+- [TripAdvisor Content API](https://tools-collection.net/apis-list/tripadvisor) - TripAdvisor&#x27;s Content API provides access to hotel, restaurant, and attraction reviews, photos, ratings, and location details from the world&#x27;s largest travel platform 🆓
 - [US Restaurant Menus](https://tools-collection.net/apis-list/us-restaurant-menus) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
 - [Xyz Menus](https://tools-collection.net/apis-list/xyz-menus) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
 - [Yelp](https://tools-collection.net/apis-list/yelp) - Yelp&#x27;s API exposes search to 3rd party developers
+- [Yelp Fusion API](https://tools-collection.net/apis-list/yelp-fusion) - Yelp Fusion API provides business search, reviews, photos, and events data from Yelp&#x27;s local business directory 🆓
 - [Zomato](https://tools-collection.net/apis-list/zomato) - Zomato API
 
 ### Post & Logistics 📬
@@ -1715,7 +1732,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Graphql360](https://tools-collection.net/apis-list/graphql360) - Create and consume 360 degree panoramic tours using a GraphQL API
 - [HouseCanary Analytics API](https://tools-collection.net/apis-list/housecanary-analytics-api) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
 
-### Recognition 🔬
+### Recognition 👁️
 - [Anti-Captcha](https://tools-collection.net/apis-list/anti-captcha) - Access to Anti-Captcha’s API
 - [AudD](https://tools-collection.net/apis-list/audd) - AudD Music Recognition API Docs: how to identify songs in audio using our API
 - [Clarifai](https://tools-collection.net/apis-list/clarifai) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
@@ -1754,6 +1771,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [PubMed (NCBI E-utilities)](https://tools-collection.net/apis-list/pubmed) - NCBI&#x27;s E-utilities API provides programmatic access to PubMed abstracts, full-text articles, gene sequences, and other biomedical literature from the National Center for Biotechnology Information 🆓
 - [SHARE](https://tools-collection.net/apis-list/share) - SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
 - [Sunrise and Sunset](https://tools-collection.net/apis-list/sunrise-and-sunset) - Sunset and sunrise times API
+- [USGS Earthquake Hazards](https://tools-collection.net/apis-list/usgs-earthquakes) - USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity 🆓
 
 ### Scrapers & Data Mining 🕸️
 - [ApiFlash](https://tools-collection.net/apis-list/apiflash) - Chrome based screenshot API to convert URLs to images
@@ -1849,6 +1867,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Google Safe Browsing](https://tools-collection.net/apis-list/google-safe-browsing) - APIs to access the Google Safe Browsing lists of unsafe web resources
 - [HaveIBeenPwned](https://tools-collection.net/apis-list/haveibeenpwned) - Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised
 - [Intelligence X](https://tools-collection.net/apis-list/intelligence-x) - Public SDK for Intelligence X
+- [IPinfo](https://tools-collection.net/apis-list/ipinfo-io) - IPinfo&#x27;s API provides accurate IP geolocation, ASN, carrier, privacy detection, and abuse contact data 🆓
 - [ipstack](https://tools-collection.net/apis-list/ipstack) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
 - [MAC address vendor lookup](https://tools-collection.net/apis-list/mac-address-vendor-lookup) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research&#x27;s results regarding the given MAC address or the OUI
 - [mailboxlayer](https://tools-collection.net/apis-list/mailboxlayer) - Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering
@@ -1873,8 +1892,9 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [WorkOS](https://tools-collection.net/apis-list/workos) - Easily integrate Okta SAML, Google OAuth, and more
 - [Xposedornot Passwords](https://tools-collection.net/apis-list/xposedornot-passwords) - XposedOrNot is a collection of ~850 million real time passwords collated from real time data breaches
 
-### Social 📃
+### Social 👥
 - [500px](https://tools-collection.net/apis-list/500px) - Viewing feature streams, photo information and comments, as well as user profiles
+- [Bluesky (AT Protocol)](https://tools-collection.net/apis-list/bluesky) - Bluesky&#x27;s AT Protocol API provides access to decentralized social networking including posts, profiles, follows, feeds, and notifications 🆓
 - [Buffer](https://tools-collection.net/apis-list/buffer) - Buffer makes it super easy to share any page you&#x27;re reading
 - [Carro Score](https://tools-collection.net/apis-list/carro-score) - Carro makes finding influencers that love your brand easier than ever before
 - [Chat Messaging By Stream](https://tools-collection.net/apis-list/chat-messaging-by-stream) - Stream&#x27;s API and SDKs enable developers to build messaging solutions very quickly and reliably
@@ -1914,6 +1934,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Notepad Api - Simplenotes](https://tools-collection.net/apis-list/notepad-api-simplenotes) - Share the notes with everyone you want.
 - [Open Collective](https://tools-collection.net/apis-list/open-collective) - Learn more about it here: https://medium
 - [Pinterest](https://tools-collection.net/apis-list/pinterest) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles
+- [Product Hunt API](https://tools-collection.net/apis-list/producthunt-api) - Product Hunt&#x27;s GraphQL API provides access to products, posts, collections, topics, and user data 🆓
 - [Pwrtelegram Bot](https://tools-collection.net/apis-list/pwrtelegram-bot) - The PWRTelegram MTProto API
 - [Quora API](https://tools-collection.net/apis-list/quora-api) - Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world
 - [Reddit](https://tools-collection.net/apis-list/reddit) - Contribute to reddit-archive/reddit development by creating an account on GitHub
@@ -1924,6 +1945,8 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [SoundCloud](https://tools-collection.net/apis-list/soundcloud) - Using the SoundCloud API, you can build applications that take sound on the web to the next level
 - [Strava](https://tools-collection.net/apis-list/strava) - API for accessing and managing data about athletes, activities and segments
 - [Telegram](https://tools-collection.net/apis-list/telegram) - The Bot API allows you to easily create programs that use Telegram
+- [Threads API](https://tools-collection.net/apis-list/threads-api) - Threads API by Meta enables publishing posts, replies, and media, retrieving user profiles, and accessing insights for Threads accounts 🆓
+- [TikTok API](https://tools-collection.net/apis-list/tiktok-api) - TikTok&#x27;s Developer API provides access to video publishing, user data, content insights, and the TikTok for Business advertising platform for content creators and brands 🆓
 - [Trash Nothing](https://tools-collection.net/apis-list/trash-nothing) - Developer API trash nothing
 - [Tumblr](https://tools-collection.net/apis-list/tumblr) - Create new ways to use Tumblr with access to content, likes, followers, and drafts
 - [Twitch](https://tools-collection.net/apis-list/twitch) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides
@@ -2086,7 +2109,9 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Metro Lisboa](https://tools-collection.net/apis-list/metro-lisboa) - Lisboa metro data
 - [Navitia](https://tools-collection.net/apis-list/navitia) - The open API for building cool stuff with transport data
 - [Ola](https://tools-collection.net/apis-list/ola) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India
+- [OpenRouteService](https://tools-collection.net/apis-list/openrouteservice) - OpenRouteService API provides routing, isochrones, geocoding, matrix calculations, and elevation data based on OpenStreetMap 🆓
 - [Schiphol Airport](https://tools-collection.net/apis-list/schiphol-airport) - Schiphol Airport&#x27;s API
+- [TomTom](https://tools-collection.net/apis-list/tomtom) - TomTom&#x27;s Maps APIs provide routing, geocoding, traffic, search, and map tiles 🆓
 - [TransitLand](https://tools-collection.net/apis-list/transitland) - Transitland is a community-edited open data service aggregating transit networks across metropolitan and rural around the world
 - [Transportation in Atlanta, USA](https://tools-collection.net/apis-list/transport-for-atlanta-us) - MARTA. Atlanta transporation services 🆓
 - [Transportation in Auckland, New Zealand](https://tools-collection.net/apis-list/transport-for-auckland-new-zealand) - The Auckland Transport developer portal is a platform that exposes a diverse range of API&#x27;s and transport data 🆓
@@ -2129,6 +2154,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Izi](https://tools-collection.net/apis-list/izi) - izi
 - [Lufthansa Open API](https://tools-collection.net/apis-list/lufthansa-open-api) - Lufthansa Developer Network
 - [Travel Advisory Data](https://tools-collection.net/apis-list/travel-advisory-data) - This is a simple REST API that replies with an UTF8 encoded JSON Object
+- [TripAdvisor Content API](https://tools-collection.net/apis-list/tripadvisor) - TripAdvisor&#x27;s Content API provides access to hotel, restaurant, and attraction reviews, photos, ratings, and location details from the world&#x27;s largest travel platform 🆓
 - [Uber](https://tools-collection.net/apis-list/uber) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
 - [Webcams.Travel](https://tools-collection.net/apis-list/webcams-travel) - Webcams
 
@@ -2154,6 +2180,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Zero Width Shortener](https://tools-collection.net/apis-list/zero-width-shortener) - Shorten URLs with invisible spaces
 
 ### Validation & Verification ✅
+- [Abstract API](https://tools-collection.net/apis-list/abstractapi) - Abstract API provides a suite of utility APIs including email validation, phone validation, IP geolocation, VAT validation, currency exchange, and holiday data via simple REST endpoints 🆓
 - [Antideo](https://tools-collection.net/apis-list/antideo) - API for IP and Email Intelligence &amp; Phone Number Validation
 - [Approveapi](https://tools-collection.net/apis-list/approveapi) - A simple API to request a user&#x27;s real-time approval on any device or platform via Email, SMS, Slack, and in-app mobile Push
 - [BlockScore](https://tools-collection.net/apis-list/blockscore) - A real-time API for verifying an identity by name, address, date of birth, and social security number
@@ -2231,6 +2258,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Telegram](https://tools-collection.net/apis-list/telegram) - The Bot API allows you to easily create programs that use Telegram
 - [Teleport](https://tools-collection.net/apis-list/teleport) - Welcome to Teleport for Developers
 - [The Lord of the Rings](https://tools-collection.net/apis-list/the-lord-of-the-rings) - The Lord of the Rings API - The one API
+- [TikTok API](https://tools-collection.net/apis-list/tiktok-api) - TikTok&#x27;s Developer API provides access to video publishing, user data, content insights, and the TikTok for Business advertising platform for content creators and brands 🆓
 - [TMDb](https://tools-collection.net/apis-list/tmdb) - TMDb provides powerful searches as well as powerful movie discovery
 - [Trakt](https://tools-collection.net/apis-list/trakt) - Trakt collect lots of information about what tv shows and movies everyone is watching
 - [TVDB](https://tools-collection.net/apis-list/tvdb) - Token Added. Token Added
@@ -2305,7 +2333,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Wunderground API](https://tools-collection.net/apis-list/wunderground-api) - Reliable data, accurate forecast, &amp; global coverage in 80 languages
 - [Yahoo Weather](https://tools-collection.net/apis-list/yahoo-weather) - Yahoo Weather API for your apps Get up-to-date weather information for any location, including 10-day forecast, wind, atmosphere, astronomy conditions, and more
 
-### Wiki 📃
+### Wiki 📗
 - [Genius](https://tools-collection.net/apis-list/genius) - Allows users to find details about Genius artists and songs
 - [Wikidata](https://tools-collection.net/apis-list/wikidata) - Wikidata is a free and open knowledge base that can be read and edited by both humans and machines
 - [Wikimedia REST API](https://tools-collection.net/apis-list/wikimedia) - Wikimedia&#x27;s REST API provides access to Wikipedia articles, summaries, page metadata, media files, and editing history across all Wikimedia projects in multiple formats 🆓

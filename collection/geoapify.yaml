@@ -1,0 +1,12 @@
+name: Geoapify
+slug: geoapify
+description: Geoapify provides geocoding, reverse geocoding, routing, isoline, and place search APIs. Privacy-focused, open-data based, and free tier available for location-based applications.
+categories:
+  - Maps & Geo
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.geoapify.com/api-docs
+  - name: API Reference
+    url: https://apidocs.geoapify.com

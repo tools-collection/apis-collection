@@ -30,14 +30,8 @@ export const apiSchema = z.object({
   description: z.string().optional(),
   categories: z.array(z.string()).min(1),
   type: z.string().optional(),
-  is_free: z
-    .union([z.boolean(), z.string()])
-    .optional()
-    .transform((v) => (v === true || v === "true" ? true : v === false || v === "false" ? false : undefined)),
-  is_active: z
-    .union([z.boolean(), z.string()])
-    .optional()
-    .transform((v) => (v === false || v === "false" ? false : true)),
+  is_free: z.boolean().optional(),
+  is_active: z.boolean().optional().default(true),
   logo: z.string().url().optional(),
   contact: z.string().optional(),
   discussion_url: z.string().url().optional(),

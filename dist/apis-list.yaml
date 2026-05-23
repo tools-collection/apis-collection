@@ -207,6 +207,21 @@
       documentation_url: https://github.com/goabstract/abstract-sdk
       platform: JavaScript
       stargazers_count: 62
+- name: Abstract API
+  slug: abstractapi
+  description: Abstract API provides a suite of utility APIs including email
+    validation, phone validation, IP geolocation, VAT validation, currency
+    exchange, and holiday data via simple REST endpoints.
+  categories:
+    - Validation & Verification
+    - Development
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://docs.abstractapi.com
+    - name: API Reference
+      url: https://docs.abstractapi.com/email-validation
 - name: AbuseIPDB
   slug: abuseipdb
   description: This is most commonly done through Fail2Ban, which comes
@@ -2494,6 +2509,20 @@
   links:
     - name: Docs / Website
       url: https://blogcast.host
+- name: Bluesky (AT Protocol)
+  slug: bluesky
+  description: Bluesky's AT Protocol API provides access to decentralized social
+    networking including posts, profiles, follows, feeds, and notifications.
+    Build apps on the open, federated social web.
+  categories:
+    - Social
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://docs.bsky.app
+    - name: API Reference
+      url: https://docs.bsky.app/docs/api
 - name: bng2latlong
   slug: bng2latlong
   description: Simple API to convert an OSGB36 easting and northing (British
@@ -6779,6 +6808,21 @@
   links:
     - name: Docs / Website
       url: http://developer.ebay.com/Devzone/shopping/docs/Concepts/ShoppingAPIGuide.html
+- name: eBird
+  slug: ebird
+  description: eBird's API from Cornell Lab provides bird observation data
+    including recent sightings, rare birds, checklists, and hotspot information
+    submitted by birders worldwide.
+  categories:
+    - Environment & Nature
+    - Animals
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://documenter.getpostman.com/view/664302/S1ENwy59
+    - name: API Reference
+      url: https://documenter.getpostman.com/view/664302/S1ENwy59
 - name: Ecart
   slug: ecart
   description: "Data is offered in JSON format. The following marketplaces are
@@ -8640,6 +8684,20 @@
   links:
     - name: Docs / Website
       url: https://api.gouv.fr/api/geoapi.html
+- name: Geoapify
+  slug: geoapify
+  description: Geoapify provides geocoding, reverse geocoding, routing, isoline,
+    and place search APIs. Privacy-focused, open-data based, and free tier
+    available for location-based applications.
+  categories:
+    - Maps & Geo
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://www.geoapify.com/api-docs
+    - name: API Reference
+      url: https://apidocs.geoapify.com
 - name: Geocod.io
   slug: geocod-io
   description: Geocode spreadsheets or use our API - without restrictions. Add
@@ -11461,6 +11519,21 @@
   links:
     - name: Docs / Website
       url: http://api.docs.import.io/
+- name: iNaturalist
+  slug: inaturalist
+  description: iNaturalist's API provides access to biodiversity observations,
+    species identifications, taxa, and geographic data contributed by
+    naturalists worldwide. Free for research and education.
+  categories:
+    - Environment & Nature
+    - Animals
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://www.inaturalist.org/pages/api+reference
+    - name: API Reference
+      url: https://api.inaturalist.org/v1/docs
 - name: Indeed
   slug: indeed
   description: "Post your jobs on Indeed, the #1 job site worldwide."
@@ -12045,6 +12118,21 @@
   links:
     - name: Docs / Website
       url: https://www.ipify.org/
+- name: IPinfo
+  slug: ipinfo-io
+  description: IPinfo's API provides accurate IP geolocation, ASN, carrier,
+    privacy detection, and abuse contact data. Powers billions of lookups
+    monthly with 99.99% uptime and global coverage.
+  categories:
+    - Maps & Geo
+    - Security
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://ipinfo.io/developers
+    - name: API Reference
+      url: https://ipinfo.io/developers/data-types
 - name: IPinfo
   slug: ipinfo
   description: >-
@@ -16568,7 +16656,7 @@
   categories:
     - Maps & Geo
   type: REST
-  is_free: yes
+  is_free: true
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/opencage/logo_256x256.png
   links:
     - name: Docs / Website
@@ -16628,6 +16716,21 @@
       url: https://openrouter.ai/docs
     - name: API Reference
       url: https://openrouter.ai/docs/api-reference
+- name: OpenRouteService
+  slug: openrouteservice
+  description: OpenRouteService API provides routing, isochrones, geocoding,
+    matrix calculations, and elevation data based on OpenStreetMap. Free and
+    open-source geospatial services globally.
+  categories:
+    - Maps & Geo
+    - Transportation
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://openrouteservice.org/dev/#/api-docs
+    - name: API Reference
+      url: https://openrouteservice.org/dev/#/api-docs/v2/directions/{profile}/post
 - name: OpenSea
   slug: opensea
   description: OpenSea's API provides NFT metadata, collection stats, listings,
@@ -17862,6 +17965,20 @@
   links:
     - name: Docs / Website
       url: https://portfoliooptimizer.io/
+- name: Positionstack
+  slug: positionstack
+  description: Positionstack's geocoding API converts addresses to coordinates and
+    vice versa with global coverage. Supports forward and reverse geocoding with
+    structured address components and confidence scores.
+  categories:
+    - Maps & Geo
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://positionstack.com/documentation
+    - name: API Reference
+      url: https://positionstack.com/documentation#forward_geocoding
 - name: PostcodeData.nl
   slug: postcodedata-nl
   description: Netherland's post codes search
@@ -18226,6 +18343,21 @@
       documentation_url: https://github.com/producthunt/producthunt-api
       platform: JavaScript
       stargazers_count: 221
+- name: Product Hunt API
+  slug: producthunt-api
+  description: Product Hunt's GraphQL API provides access to products, posts,
+    collections, topics, and user data. Discover and integrate trending tech
+    products and startup launches.
+  categories:
+    - Social
+    - Development
+  type: GraphQL
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://api.producthunt.com/v2/docs
+    - name: API Reference
+      url: https://api.producthunt.com/v2/docs
 - name: Programming Quotes
   slug: programming-quotes
   description: Programming Quotes API for open source projects. Contribute to
@@ -18782,6 +18914,20 @@
   links:
     - name: Docs / Website
       url: https://docs.rackspace.com/cdb/api/v1.0/cdb-devguide/content/overview.html
+- name: Radar
+  slug: radar-io
+  description: Radar's location platform API provides geofencing, trip tracking,
+    address autocomplete, geocoding, and place detection. Build location-aware
+    mobile and web applications at scale.
+  categories:
+    - Maps & Geo
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://radar.com/documentation
+    - name: API Reference
+      url: https://radar.com/documentation/api
 - name: Railway
   slug: railway
   description: Railway's API enables programmatic management of projects,
@@ -22525,6 +22671,20 @@
   links:
     - name: Docs / Website
       url: https://thispersondoesnotexist.com
+- name: Threads API
+  slug: threads-api
+  description: Threads API by Meta enables publishing posts, replies, and media,
+    retrieving user profiles, and accessing insights for Threads accounts. Build
+    integrations with Meta's text-based social platform.
+  categories:
+    - Social
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://developers.facebook.com/docs/threads
+    - name: API Reference
+      url: https://developers.facebook.com/docs/threads/reference
 - name: Thumbnails Cloud
   slug: thumbnails-cloud
   description: Cloud API generates JPG and PDF file previews for all common
@@ -22548,6 +22708,21 @@
   links:
     - name: Docs / Website
       url: http://developer.ticketmaster.com/products-and-docs/apis/getting-started/
+- name: TikTok API
+  slug: tiktok-api
+  description: TikTok's Developer API provides access to video publishing, user
+    data, content insights, and the TikTok for Business advertising platform for
+    content creators and brands.
+  categories:
+    - Social
+    - Video & Media
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://developers.tiktok.com
+    - name: Content Posting API
+      url: https://developers.tiktok.com/doc/content-posting-api-get-started
 - name: Time Door
   slug: time-door
   description: A time series analysis API. Time Door is an API for statistical
@@ -22710,6 +22885,21 @@
       url: https://docs.tomorrow.io
     - name: API Reference
       url: https://docs.tomorrow.io/reference/api-overview
+- name: TomTom
+  slug: tomtom
+  description: TomTom's Maps APIs provide routing, geocoding, traffic, search, and
+    map tiles. Build navigation, fleet tracking, and location-based applications
+    with real-time traffic data.
+  categories:
+    - Maps & Geo
+    - Transportation
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://developer.tomtom.com/documentation
+    - name: API Reference
+      url: https://developer.tomtom.com/routing-api/documentation/product-information/introduction
 - name: ToSDR terms of service API
   slug: tosdr-terms-of-service-api
   description: Terms of service are often too long to read, but it's important to
@@ -23451,6 +23641,21 @@
   links:
     - name: Docs / Website
       url: https://atropim.com/
+- name: TripAdvisor Content API
+  slug: tripadvisor
+  description: TripAdvisor's Content API provides access to hotel, restaurant, and
+    attraction reviews, photos, ratings, and location details from the world's
+    largest travel platform.
+  categories:
+    - Travel
+    - Point of Interest
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://tripadvisor-content-api.readme.io/reference/overview
+    - name: API Reference
+      url: https://tripadvisor-content-api.readme.io/reference/searchforlocations
 - name: Trivia Api
   slug: trivia-api
   description: 100k+ trivia entries available via REST API
@@ -24709,6 +24914,21 @@
   links:
     - name: Docs / Website
       url: https://fdc.nal.usda.gov/
+- name: USGS Earthquake Hazards
+  slug: usgs-earthquakes
+  description: USGS Earthquake Hazards API provides real-time and historical
+    earthquake data including magnitude, location, depth, and ShakeMap
+    intensity. Access global seismic event feeds in GeoJSON format.
+  categories:
+    - Environment & Nature
+    - Science & Math
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://earthquake.usgs.gov/fdsnws/event/1
+    - name: API Reference
+      url: https://earthquake.usgs.gov/fdsnws/event/1
 - name: USGS Earthquake Hazards Program
   slug: usgs-earthquake-hazards-program
   description: USGS Earthquake Hazards Program, responsible for monitoring,
@@ -25417,6 +25637,20 @@
   links:
     - name: Docs / Website
       url: http://nypl.github.io/menus-api/
+- name: what3words
+  slug: what3words
+  description: what3words API converts between 3-word addresses and GPS
+    coordinates. Every 3m square on Earth has a unique 3-word address for
+    precise, human-friendly location sharing.
+  categories:
+    - Maps & Geo
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://developer.what3words.com/public-api
+    - name: API Reference
+      url: https://developer.what3words.com/public-api/docs
 - name: WhatPulse
   slug: whatpulse
   description: Get to know your time with your computer
@@ -26381,6 +26615,21 @@
       platform: C#
       author: JustinBeckwith
       stargazers_count: 36
+- name: Yelp Fusion API
+  slug: yelp-fusion
+  description: Yelp Fusion API provides business search, reviews, photos, and
+    events data from Yelp's local business directory. Find and display
+    restaurant, bar, and service business information.
+  categories:
+    - Food & Drinks
+    - Point of Interest
+  type: REST
+  is_free: true
+  links:
+    - name: Docs / Website
+      url: https://docs.developer.yelp.com/docs/fusion-intro
+    - name: API Reference
+      url: https://docs.developer.yelp.com/reference/v3_business_search
 - name: Yes No
   slug: yes-no
   description: Yes or No

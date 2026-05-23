@@ -5,7 +5,7 @@ description: An easy-to-use forward and reverse geocoding API. Worldwide coverag
 categories:
   - Maps & Geo
 type: REST
-is_free: yes
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/opencage/logo_256x256.png
 links:
   - name: Docs / Website

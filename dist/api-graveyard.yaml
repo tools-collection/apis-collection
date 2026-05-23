@@ -1,0 +1,1150 @@
+- name: 3ps
+  slug: 3ps
+  categories:
+    - Other
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://ideea.io/3ps
+- name: Abbreviation
+  slug: abbreviation
+  description: Get abbreviations and meanings
+  categories:
+    - Content & Dictionaries
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/abbreviation/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://market.mashape.com/daxeel/abbreviations
+- name: Adorable Avatars
+  slug: adorable-avatars
+  description: Generate random cartoon avatars
+  categories:
+    - Testing
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/adorable-avatars/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://avatars.adorable.io
+- name: Ais Web
+  slug: ais-web
+  description: Aeronautical information in digital media produced by the
+    Department of Airspace Control (DECEA)
+  categories:
+    - Transportation
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ais-web/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: Anon.click
+  slug: anon-click
+  description: Shorten long URLs and optionally protect them with passwords or
+    captcha. No registration required
+  categories:
+    - URLs
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://anon.click/api/
+- name: Apility.io
+  slug: apility-io
+  categories:
+    - Other
+  type: REST
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/apility-io/logo_256x256.png
+  contact: support@unicorn-solutions.com
+  links:
+    - name: Docs / Website
+      url: https://apility.io/apidocs/
+- name: Axfr Database
+  slug: axfr-database
+  description: AXFR public database
+  categories:
+    - Security
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/axfr-database/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://api.axfrcheck.com
+- name: BetterDoctor
+  slug: betterdoctor
+  description: BetterDoctor API is the most frequently updated and trusted source
+    of doctor data. BetterDoctor delivers accurate provider directory data to
+    ensure health plans, health systems, provider groups, and doctors are
+    regulation-compliant and can provide patients with care they’re looking for.
+  categories:
+    - Health
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://developer.betterdoctor.com/
+- name: Booknomads
+  slug: booknomads
+  description: 5 million), book covers and related data. Books published in the
+    Netherlands and Flanders (about 2
+  categories:
+    - Books
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/booknomads/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://www.booknomads.com
+- name: Business.Gov API
+  slug: business-gov-api
+  description: Create the Uber for anything, a small business API for on-demand fulfillment.
+  categories:
+    - Government
+    - Business
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: http://business.usa.gov/apis
+- name: Celebinfo
+  slug: celebinfo
+  description: Celebrity information
+  categories:
+    - Entertainment
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/celebinfo/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://market.mashape.com/daxeel/celebinfo
+- name: Channel Messaing API
+  slug: channel-messaing-api
+  description: Channel Messaging API lets your build real-time application
+  categories:
+    - Chats & Messaging
+    - Documents & Productivity
+    - Bots
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/channel-messaing-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://www.getchannel.co
+- name: Choppingboard.Recipes
+  slug: choppingboard-recipes
+  categories:
+    - Scrapers & Data Mining
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: http://choppingboard.recipes/
+- name: City Context
+  slug: city-context
+  description: Crime, school and transportation data for US cities.
+  categories:
+    - Transportation
+    - Education
+    - Real Estate
+    - Maps & Geo
+    - Statistics & Data
+  is_free: false
+  is_active: false
+  contact: developer-support@citrixonline.com
+  links:
+    - name: Docs / Website
+      url: https://www.citycontext.com/api-reference#/
+  libraries:
+    - name: City Context JavaScript Library by City Context
+      documentation_url: https://github.com/citycontext/citycontext-ui
+      source_code_url: https://github.com/citycontext/citycontext-ui
+      platform: JavaScript
+      stargazers_count: 4
+- name: Coinbin
+  slug: coinbin
+  description: Cryptocurrency information
+  categories:
+    - Blockchain & Cryptocurrencies
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinbin/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://coinbin.org
+- name: Contentxtractor
+  slug: contentxtractor
+  description: Extract relevant content from articles. ContentXtractor
+    automatically extracts relevant content from articles/blog with a simple API
+    call
+  categories:
+    - Scrapers & Data Mining
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/contentxtractor/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://contentxtractor.com
+- name: Count.Io
+  slug: count-io
+  description: Persistent counting and A/B testing
+  categories:
+    - Development
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/count-io/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: Cricket Live Scores
+  slug: cricket-live-scores
+  description: Live cricket scores
+  categories:
+    - Sport & Fitness
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cricket-live-scores/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://market.mashape.com/dev132/cricket-live-scores
+- name: Cryptostandardizer
+  slug: cryptostandardizer
+  description: Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
+  categories:
+    - Blockchain & Cryptocurrencies
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptostandardizer/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://cryptostandardizer.com
+- name: Datakick
+  slug: datakick
+  description: The open product database.
+  categories:
+    - Statistics & Data
+    - Bar & QR Codes
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://www.datakick.org/api
+  libraries:
+    - name: Datakick Ruby SDK
+      documentation_url: https://github.com/ankane/datakick-rb
+      platform: Ruby
+      author: ankane
+      stargazers_count: 12
+    - name: Datakick Python SDK
+      documentation_url: https://github.com/carlos-a-rodriguez/datakick
+      platform: Python
+      author: carlos-a-rodriguez
+      stargazers_count: 2
+    - name: Datakick Node.js SDK
+      documentation_url: https://github.com/ENT8R/datakick
+      platform: Node.js
+      author: ENT8R
+      stargazers_count: 4
+    - name: Datakick Objective-C SDK
+      documentation_url: https://github.com/imryan/datakick-ios
+      platform: Objective-C
+      author: imryan
+      stargazers_count: 2
+    - name: Datakick Android SDK
+      documentation_url: https://github.com/kyleconroy/datakick-android
+      platform: Java
+      author: kyleconroy
+      stargazers_count: 1
+- name: Del.Icio.Us API
+  slug: del-icio-us-api
+  description: Keep, share, and discover the best of the Web using Delicious, the
+    world's leading social bookmarking service
+  categories:
+    - Bookmarks
+    - Social
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/del-icio-us-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://delicious.com/developers#title1
+- name: Delion.Io
+  slug: delion-io
+  description: A powerful API for developers and companies to explore and develop
+    new apps based on IOTA distributed ledger technology
+  categories:
+    - Blockchain & Cryptocurrencies
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/delion-io/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://delion.io
+- name: Digital Owl Free Text Classification Api
+  slug: digital-owl-free-text-classification-api
+  description: Free for use text classification, sentiment analysis, semantic
+    similarity and word analysis api.
+  categories:
+    - AI & ML
+    - Text Analysis & Tools
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://digitalowl.org
+- name: Edmunds
+  slug: edmunds
+  description: A dataset containing all the car makes. Edmunds has detailed specs,
+    customer ratings, photos & videos, pricing, etc
+  categories:
+    - Vehicles
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: http://developer.edmunds.com/
+- name: ERMAHGERD Translator
+  slug: ermahgerd-translator
+  description: This translates text to ERMAHGERD
+  categories:
+    - Entertainment
+    - Fun
+    - Translation
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ermahgerd-translator/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://www.mashape.com/jmillerdesign/ermahgerd-translator
+- name: Face++
+  slug: face
+  description: Let’s you detect the information of a given photo (face location,
+    age, race, gender etc.)
+  categories:
+    - Recognition
+    - Security
+    - Images & Photography
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/face/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://www.faceplusplus.com
+  libraries:
+    - name: Face++ MATLAB SDK by Face++
+      documentation_url: https://github.com/FacePlusPlus/facepp-matlab-sdk
+      source_code_url: https://github.com/FacePlusPlus/facepp-matlab-sdk
+      platform: Unspecified
+      stargazers_count: 34
+    - name: Face++ PHP SDK by Face++
+      documentation_url: https://github.com/FacePlusPlus/facepp-php-sdk
+      platform: PHP
+      stargazers_count: 115
+    - name: Face++ Ruby SDK by Face++
+      documentation_url: https://github.com/FacePlusPlus/facepp-ruby-sdk
+      platform: Ruby
+      stargazers_count: 16
+    - name: Face++ JavaScript SDK by Face++
+      documentation_url: https://github.com/FacePlusPlus/facepp-javascript-sdk
+      source_code_url: https://github.com/FacePlusPlus/facepp-javascript-sdk
+      platform: JavaScript
+      stargazers_count: 95
+    - name: Face++ Java SDK by Face++
+      documentation_url: https://github.com/FacePlusPlus/facepp-java-sdk
+      source_code_url: https://github.com/FacePlusPlus/facepp-java-sdk
+      platform: Java
+      stargazers_count: 179
+    - name: Face++ Python SDK by Face++
+      documentation_url: http://www.faceplusplus.com/dev-tools-sdks/
+      source_code_url: https://github.com/FacePlusPlus/facepp-python-sdk/tree/v2.0
+      platform: Python
+      stargazers_count: 338
+- name: Feedster
+  slug: feedster
+  description: Searchable and categorized collections of RSS feeds
+  categories:
+    - News & Feeds
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/feedster/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://api.feedster.me/v1/docs
+- name: FengShui
+  slug: fengshui
+  description: Let’s you enter your name and the name of your partner/lover/crush
+    to find Love compatibility & chances of successful love relationship.
+  categories:
+    - Fun
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://confluence.test.draftway.pl/login.action?os_destination=%2Findex.action&permissionViolation=true
+- name: Fhir
+  slug: fhir
+  description: Fast Healthcare Interoperability Resources test data
+  categories:
+    - Testing
+    - Health
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fhir/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: Figo
+  slug: figo
+  description: Banking API that allows you to extract financial data such as
+    transaction history, account balance, account owner name and others to
+    extract from any financial account
+  categories:
+    - Finance & Economics
+    - Payments
+    - Development
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/figo/logo_256x256.png
+  links:
+    - name: Docs / Website
+  libraries:
+    - name: Figo .NET SDK by Figo
+      documentation_url: https://github.com/figo-connect/net-figo
+      platform: .Net
+      stargazers_count: 3
+    - name: Figo Java SDK by Figo
+      documentation_url: https://github.com/figo-connect/java-figo
+      platform: Java
+      stargazers_count: 18
+    - name: Figo PHP SDK by Figo
+      documentation_url: https://github.com/figo-connect/php-figo
+      platform: PHP
+      stargazers_count: 38
+    - name: Figo Node.js SDK by Figo
+      documentation_url: https://github.com/figo-connect/node-figo
+      platform: Node.js
+      stargazers_count: 41
+    - name: Figo Ruby SDK by Figo
+      documentation_url: https://github.com/figo-connect/ruby-figo
+      platform: Ruby
+      stargazers_count: 8
+    - name: Figo Python SDK by Figo
+      documentation_url: https://github.com/figo-connect/python-figo
+      platform: Python
+      stargazers_count: 28
+- name: Food2fork
+  slug: food2fork
+  description: Recipe Search
+  categories:
+    - Food & Drinks
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/food2fork/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://food2fork.com/about/api
+- name: Goibibo
+  slug: goibibo
+  description: API for travel search
+  categories:
+    - Travel
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/goibibo/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://developer.goibibo.com
+- name: Google Buzz API
+  slug: google-buzz-api
+  description: A social platform that both users and developers can interact with,
+    the company has faced some difficulty in gaining ongoing traction
+  categories:
+    - Social
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-buzz-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: Gowalla API
+  slug: gowalla-api
+  description: Gather and compare all kinds of interesting data, they weren't
+    really interactive with Gowalla itself
+  categories:
+    - Maps & Geo
+    - Social
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gowalla-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://go.gowalla.com/
+- name: Hampton Roads Crime
+  slug: hampton-roads-crime
+  description: Let’s you get most recent and historical crime data so you feel
+    safe in your neighbourhood
+  categories:
+    - Statistics & Data
+    - News & Feeds
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hampton-roads-crime/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://labs.hamptonroads.com/api/crime/
+- name: Heroes GraphQL API
+  slug: heroes-graphql-api
+  categories:
+    - Other
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://www.graph.cool/
+- name: Hipster Ipsum
+  slug: hipster-ipsum
+  description: Generates Hipster Ipsum text
+  categories:
+    - Testing
+    - Random
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hipster-ipsum/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://hipsterjesus.com
+- name: Holiday API (holidayapi.pl)
+  slug: holiday-api
+  description: Public holiday API service for several supported countries. Don't
+    let sourcing and maintaining holiday information get in the way of building
+    your product
+  categories:
+    - Calendar & Time
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://holidayapi.pl/
+- name: IBM Visual Recognition
+  slug: ibm-visual-recognition
+  description: The IBM Watson Visual Recognition service uses deep learning
+    algorithms to identify scenes and objects in images that you upload to the
+    service. You can create and train a custom classifier to identify subjects
+    that suit your needs. Existing instances are supported until 1 December
+    2021, but as of 7 January 2021, you can't create instances. Any instance
+    that is provisioned on 1 December 2021 will be deleted. IBM Watso Visual
+    Recognition is discontinued
+  categories:
+    - Text Analysis & Tools
+    - Recognition
+    - Images & Photography
+    - AI & ML
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3
+  libraries:
+    - name: " IBM Watson Visual Recognition .NET SDK"
+      documentation_url: https://github.com/watson-developer-cloud/dotnet-standard-sdk
+      platform: .Net
+      stargazers_count: 146
+    - name: IBM Watson Visual Recognition Python SDK
+      documentation_url: https://github.com/watson-developer-cloud/python-sdk
+      platform: Python
+      stargazers_count: 1334
+    - name: IBM Watson Visual Recognition Swift SDK
+      documentation_url: https://github.com/watson-developer-cloud/swift-sdk
+      platform: Swift
+      stargazers_count: 876
+    - name: IBM Watson C# SDK by Denny Headrick
+      documentation_url: https://github.com/dennyboy/WatsonCSharp
+      platform: .Net, C#
+      author: dennyboy
+      stargazers_count: 2
+    - name: IBM Watson Visual Recognition PHP SDK by Paul Aan
+      documentation_url: https://github.com/weburnit/ibm-watson-visual-regconition
+      platform: PHP
+      author: weburnit
+      stargazers_count: 2
+    - name: IBM Watson Go SDK by Livio Soares
+      documentation_url: https://github.com/liviosoares/go-watson-sdk
+      platform: Go
+      author: liviosoares
+      stargazers_count: 86
+    - name: IBM Watson Android SDK by Watson Developer Cloud
+      documentation_url: https://github.com/watson-developer-cloud/android-sdk
+      platform: Java
+      stargazers_count: 137
+    - name: IBM Watson Ruby SDK by suchowan
+      documentation_url: https://github.com/suchowan/watson-api-client
+      platform: Ruby
+      author: suchowan
+      stargazers_count: 26
+    - name: IBM Watson Visual Recognition PHP SDK by Tom Robertshaw
+      documentation_url: https://github.com/bobbyshaw/ibm-watson-visual-recognition-php
+      platform: PHP
+      author: bobbyshaw
+      stargazers_count: 7
+    - name: IBM Watson Unity SDK by Watson Developer Cloud
+      documentation_url: https://github.com/watson-developer-cloud/unity-sdk
+      platform: C#
+      stargazers_count: 541
+- name: Identi.Ca API
+  slug: identi-ca-api
+  description: It pumps your life in and out of your friends, family and
+    colleagues. Runs pump. io, the high-performance Open Source social engine
+  categories:
+    - Social
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/identi-ca-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: IP Vigilante
+  slug: ip-vigilante
+  description: "IP Vigilante provides a free geographical IP locator API, so the
+    developers can obtain geographical information of an IP in various formats:
+    JSON and CSV"
+  categories:
+    - Post & Logistics
+    - Maps & Geo
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://www.ipvigilante.com/
+- name: Jesus Api
+  slug: jesus-api
+  categories:
+    - Other
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://jesusapi.000webhostapp.com
+- name: Job Titles And Professionals Skills Api
+  slug: job-titles-and-professionals-skills-api
+  description: "Like job and skill match etc. The API is growing every day thanks
+    to the mycru.io job community. Avoid free form input when asking for job
+    titles in Human Ressource or any job related app. GET over 12K curated job
+    titles and skill tags as API endpoint. Endpoint url: https://mycru. io).
+    io/api/v1/skills (requires membership on https://mycru. With the API you can
+    set up professional dropdown inputs for asking for a users job title and
+    build smart logics after that"
+  categories:
+    - Jobs
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/job-titles-and-professionals-skills-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://mycru.io/
+- name: Livecoin
+  slug: livecoin
+  categories:
+    - Blockchain & Cryptocurrencies
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://www.livecoin.net
+- name: Lorem Text
+  slug: lorem-text
+  description: Generates Lorem Ipsum text
+  categories:
+    - Testing
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lorem-text/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://market.mashape.com/montanaflynn/lorem-text-generator
+- name: MercadoBitcoin
+  slug: mercadobitcoin
+  categories:
+    - Blockchain & Cryptocurrencies
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://www.mercadobitcoin.net/api-doc/
+- name: Mlrequest
+  slug: mlrequest
+  description: Serverless, high-performance machine learning contained in a simple
+    API. Models are duplicated across 5 data centers around the world with
+    latency-routed requests at less than 60ms response time. No servers,
+    dependencies, or maintenance - simply make a request to a /predict or /learn
+    endpoint to get started.
+  categories:
+    - AI & ML
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mlrequest/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://dan.com/buy-domain/mlrequest.com?redirected=true&tld=com
+- name: Musikki
+  slug: musikki
+  description: Music
+  categories:
+    - Music & Audio
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musikki/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://music-api.musikki.com
+- name: Myjson
+  slug: myjson
+  description: A simple JSON store for your web or mobile app
+  categories:
+    - Files & Storage
+    - Development
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myjson/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: MySpace API
+  slug: myspace-api
+  description: A social networking website offering an interactive, user-submitted
+    network of friends, personal profiles, blogs, groups, photos, music, and
+    videos
+  categories:
+    - Social
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myspace-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://developer.myspace.com/
+- name: NanoSDK
+  slug: nanosdk
+  categories:
+    - Other
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://nanosdk.com
+- name: News Feed Search
+  slug: news-feed-search
+  description: Free news search API. Easily search and filter news feeds to
+    integrate them into your application. Add your own RSS feed and the
+    application automatically downloads articles daily.
+  categories:
+    - News & Feeds
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://imbrikapi.com
+- name: Next Big Sound API
+  slug: next-big-sound
+  description: Next Big Sound helps artists and their teams use Pandora to
+    understand performance, grow audiences, and fuel strategy.
+  categories:
+    - Social
+    - Music & Audio
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://api3.nextbigsound.com/
+- name: Notable And Quotable Random Quote
+  slug: notable-and-quotable-random-quote
+  description: Gets you a random quote from famous movies in XML,SOAP format
+  categories:
+    - Entertainment
+    - Fun
+    - Random
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: http://www.notableandquotable.com/RandomQuote.asmx
+- name: Path Tech Crypto API
+  slug: path-tech-crypto-api
+  description: Single interface to retrieve transactions across crypto exchanges and wallets
+  categories:
+    - Blockchain & Cryptocurrencies
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/path-tech-crypto-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://path.tech
+- name: Pixhost
+  slug: pixhost
+  description: Upload images, photos, galleries
+  categories:
+    - Images & Photography
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pixhost/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://pixhost.org/api/index.html
+- name: Population.Io
+  slug: population-io
+  description: Open demographic data such as population tables, population rank
+    and life expectancy
+  categories:
+    - Statistics & Data
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/population-io/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://api.population.io
+- name: Posterous API
+  slug: posterous-api
+  description: Similar to other blogging platforms. Posting could be done by
+    logging into the website's rich text editor, but it was particularly
+    designed for mobile blogging. Mobile methods include sending an email, with
+    attachments of photos, MP3s, documents, and video (both links and files)
+  categories:
+    - Social
+    - Email & SMS
+    - Images & Photography
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/posterous-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://www.posterous.com/api
+- name: Pro Motocross
+  slug: pro-motocross
+  description: The RESTful AMA Pro Motocross lap times for every racer on the start gate
+  categories:
+    - Sport & Fitness
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pro-motocross/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://promotocrossapi.com
+- name: Qriusity
+  slug: qriusity
+  categories:
+    - Games
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: http://ww38.qriusity.com/
+- name: Quotes on Design
+  slug: quotes-on-design
+  description: Quotes on Design
+  categories:
+    - Fun
+    - Art & Design
+  type: REST
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://quotesondesign.com/api/
+- name: Restwords
+  slug: restwords
+  description: You can GET to retrieve your text and you can POST to change your
+    stored text. Store up to 2000 ASCII chararacters.
+  categories:
+    - Other
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://www.restwords.com
+- name: Robohash Image Generator
+  slug: robohash-image-generator
+  description: Generates cool looking robot image for any text
+  categories:
+    - Social
+    - Images & Photography
+    - Random
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/robohash-image-generator/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://www.mashape.com/blaazetech/robohash-image-generator
+- name: Rss News Api
+  slug: rss-news-api
+  categories:
+    - News & Feeds
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: https://newsapi.xyz
+- name: Scrape Website Email
+  slug: scrape-website-email
+  description: Grabs email addresses from a URL
+  categories:
+    - Email & SMS
+    - Development
+    - Scrapers & Data Mining
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrape-website-email/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://market.mashape.com/tommytcchan/scrape-website-email
+- name: Scrapeboss
+  slug: scrapeboss
+  description: Return developer friendly JSON data for almost any article
+  categories:
+    - Scrapers & Data Mining
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapeboss/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://scrapeboss.com/
+- name: Sharedcount
+  slug: sharedcount
+  description: Social media like and share data for any URL.
+  categories:
+    - Social
+    - Analytics
+  is_free: false
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: http://docs.sharedcount.com/
+  libraries:
+    - name: SharedCount Ruby SDK by Cristian Rasch
+      documentation_url: https://github.com/wecodeio/shared_count_api
+      platform: Ruby
+      stargazers_count: 4
+    - name: SharedCount Python SDK by Benjamin Estes
+      documentation_url: https://github.com/benjaminestes/countgrab-client
+      platform: Python
+      author: benjaminestes
+      stargazers_count: 1
+- name: Shopping.Com API
+  slug: shopping-com-api
+  description: Makes it easy to search for things on eBay
+  categories:
+    - Commerce
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shopping-com-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://publishers.ebaycommercenetwork.com/home.action
+- name: SimpleGeo API
+  slug: simplegeo-api
+  description: Offers an API that allows developers to build location-aware
+    applications for mobile devices
+  categories:
+    - Maps & Geo
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/simplegeo-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://simplegeo.com
+- name: Texas Holdem
+  slug: texas-holdem
+  description: With this API you can easily create a full Texas Holdem game, just
+    create the graphic and associate it with the results
+  categories:
+    - Casino & Gambling
+    - Games
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/texas-holdem/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://www.mashape.com/neurone/Texas-Holdem
+- name: Textfilter Api
+  slug: textfilter-api
+  description: Convert web page content into epub, Kindle/mobi and multi-column PDF files
+  categories:
+    - Documents & Productivity
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/textfilter-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://votable.net/textfilter/?i=1
+- name: The Star Wars Api
+  slug: the-star-wars-api
+  description: "All the Star Wars data you've ever wanted: Planets, Spaceships,
+    Vehicles, People, Films and Species"
+  categories:
+    - Entertainment
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-star-wars-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://swapi.co
+- name: Transportation in Paris, France
+  slug: transport-for-paris-france
+  description: Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
+  categories:
+    - Transportation
+  type: REST
+  is_free: true
+  is_active: false
+  links:
+    - name: Docs / Website
+      url: http://restratpws.azurewebsites.net/swagger/
+- name: Tweetmeme API
+  slug: tweetmeme-api
+  description: Provides third-party integration with the TweetMeme web service,
+    used to track popular links on Twitter
+  categories:
+    - Social
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tweetmeme-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: Upcoming.Org API
+  slug: upcoming-org-api
+  description: A simple way to share and discover interesting events from your
+    friends, followers, and the artists and organizations you care about
+  categories:
+    - Events
+    - Calendar & Time
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/upcoming-org-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: Vat Rates
+  slug: vat-rates
+  description: A collection of all VAT rates for EU countries
+  categories:
+    - Finance & Economics
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vat-rates/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://jsonvat.com
+- name: Voice Actions Jeannie
+  slug: voice-actions-jeannie
+  description: Jeannie (Voice Actions) is a virtual assistant with over two
+    Million downloads, now also available via API. The objective of this service
+    is to provide you and your robot with the smartest answer to any natural
+    language question, just like Siri
+  categories:
+    - AI & ML
+    - Voice
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/voice-actions-jeannie/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://pannous-jeannie.p.mashape.com/
+- name: WatchMouse API
+  slug: watchmouse-api
+  description: Offers self-service website and application performance monitoring solutions
+  categories:
+    - Development
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/watchmouse-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: http://apidoc.watchmouse.com
+- name: Windows Live Spaces API
+  slug: windows-live-spaces-api
+  description: Included a blogging system, photo gallery, lists, friends, a
+    guestbook, and a social profile. A Spaces page can be personalized with
+    "gadgets", modules that can be placed to enable further customization, HTML
+    code, and media playlists
+  categories:
+    - Social
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/windows-live-spaces-api/logo_256x256.png
+  links:
+    - name: Docs / Website
+- name: Word Cloud Maker
+  slug: word-cloud-maker
+  description: Multi color and different sizes illustrate the frequency, and the
+    “vibe” of the bigger text. Try it with blog posts, article text, speeches,
+    tweet histories, emails, or any other written word. Generate Word Clouds
+    from blocks of text
+  categories:
+    - Text Analysis & Tools
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/word-cloud-maker/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://www.mashape.com/gatheringpoint/Word-Cloud-Maker
+- name: Wunderlist
+  slug: wunderlist
+  description: Todo Lists
+  categories:
+    - Project Management
+    - Documents & Productivity
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wunderlist/logo_256x256.png
+  links:
+    - name: Docs / Website
+      url: https://developer.wunderlist.com/documentation
+  libraries:
+    - name: Wunderlist .NET SDK by Miguel Hasse de Oliveira
+      documentation_url: https://www.nuget.org/packages/Hasseware.Wunderlist/
+      source_code_url: https://github.com/miguelhasse/Net.Wunderlist
+      platform: .Net, C#
+      author: miguelhasse
+      stargazers_count: 4
+    - name: Wunderlist Node.js SDK by Felipe Sousa
+      documentation_url: https://www.npmjs.com/package/wunderlist-api
+      source_code_url: https://github.com/felipesousa/wunderlist-api
+      platform: Node.js
+      author: felipesousa
+      stargazers_count: 12
+    - name: Wunderlist Go SDK by Dimitar Kostov
+      documentation_url: https://github.com/mytrile/wunderlist
+      platform: Go
+      author: mytrile
+      stargazers_count: 4
+    - name: Wunderlist Ruby SDK by Sebastian Gräßl
+      documentation_url: https://github.com/bastilian/wunderlist-cli
+      platform: Ruby
+      author: bastilian
+      stargazers_count: 22
+    - name: Wunderlist PHP SDK by Joshua de Gier
+      documentation_url: https://github.com/PENDOnl/Wunderlist2-PHP-Wrapper
+      platform: PHP
+    - name: Wunderlist JavaScript SDK by Wunderlist
+      documentation_url: https://developer.wunderlist.com/documentation/tools/wunderlist.js
+      source_code_url: https://github.com/wunderlist/wunderlist.js
+      platform: JavaScript
+      stargazers_count: 126
+    - name: Wunderlist Perl Library by Al Newkirk
+      documentation_url: https://metacpan.org/release/API-Wunderlist
+      source_code_url: https://github.com/alnewkirk/API-Wunderlist
+      platform: PERL
+- name: Yahoo Image Search API
+  slug: yahoo-image-search-api
+  description: Web Service allows you to search the Internet for images
+  categories:
+    - Images & Photography
+    - Search
+  is_free: false
+  is_active: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-image-search-api/logo_256x256.png
+  links:
+    - name: Docs / Website

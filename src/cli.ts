@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { Command } from "commander";
 
 const program = new Command();
@@ -41,14 +42,6 @@ program
   .action(async () => {
     const { checkLinks } = await import("./commands/check-links.js");
     await checkLinks();
-  });
-
-program
-  .command("check-orphans")
-  .description("Remove orphaned API directories")
-  .action(async () => {
-    const { checkOrphans } = await import("./commands/check-orphans.js");
-    await checkOrphans();
   });
 
 program

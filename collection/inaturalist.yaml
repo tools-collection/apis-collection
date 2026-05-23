@@ -1,0 +1,13 @@
+name: iNaturalist
+slug: inaturalist
+description: iNaturalist's API provides access to biodiversity observations, species identifications, taxa, and geographic data contributed by naturalists worldwide. Free for research and education.
+categories:
+  - Environment & Nature
+  - Animals
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://www.inaturalist.org/pages/api+reference
+  - name: API Reference
+    url: https://api.inaturalist.org/v1/docs
