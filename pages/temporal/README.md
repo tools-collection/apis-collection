@@ -1,0 +1,24 @@
+# [Temporal](https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud)
+
+
+IPFS API. Upload files, pin hashes, and send pubsub messages using our proprietary API, or interact directly with our IPFS nodes using the IPFS HTTP API reverse proxy.
+
+## Details
+- **Categories**: Files &amp; Storage
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

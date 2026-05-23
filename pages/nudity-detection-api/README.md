@@ -1,0 +1,25 @@
+# [Nudity Detection Api](https://uploadfilter.io)
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nudity-detection-api/logo_256x256.png" alt="Nudity Detection Api logo" width="200"/>
+
+io detects nudity in images and helps to recognise and filter undesired content. uploadfilter. io offers you a powerful &amp; realtime JSON REST API that detects nudity in images and helps you to moderate user generated content
+
+## Details
+- **Categories**: Images &amp; Photography, Recognition, AI &amp; ML
+- **Type**: N/A
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://uploadfilter.io)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

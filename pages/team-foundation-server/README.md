@@ -1,0 +1,25 @@
+# [Team Foundation Server](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview)
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/team-foundation-server/logo_256x256.png" alt="Team Foundation Server logo" width="200"/>
+
+Overview of integrating with Azure DevOps. . TFS APIs are based on REST, OAuth, Json and service hooks
+
+## Details
+- **Categories**: Development
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

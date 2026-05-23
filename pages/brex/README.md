@@ -1,0 +1,25 @@
+# [Brex](https://developer.brex.com)
+
+
+Brex&#x27;s API provides access to corporate card transactions, expenses, budgets, vendors, and reimbursements. Automate expense management and financial workflows for businesses.
+
+## Details
+- **Categories**: Finance &amp; Economics, Payments
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://developer.brex.com)
+- [API Reference](https://developer.brex.com/openapi/transactions_api)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

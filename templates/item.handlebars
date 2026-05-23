@@ -1,0 +1,64 @@
+# [{{ name }}]({{ links.[0].url }})
+
+{{#if logo}}
+<img src="{{logo}}" alt="{{name}} logo" width="200"/>
+{{/if}}
+
+{{ description }}
+
+## Details
+- **Categories**: {{#each categories}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}
+- **Type**: {{#if type}}{{type}}{{else}}N/A{{/if}}
+- **Auth**: `{{#if auth_type}}{{auth_type}}{{else}}none{{/if}}`
+- **Free**: {{#if is_free}}Yes 🆓{{else}}No{{/if}}
+- **Status**: {{#if is_active}}Active{{else}}Graveyard 🪦{{/if}}
+
+{{#if rate_limits}}
+## Rate Limits
+{{ rate_limits }}
+{{/if}}
+
+{{#if specification}}
+## Specification
+- **Type**: {{ specification.type }}
+- **URL**: [{{ specification.url }}]({{ specification.url }})
+{{#if specification.version}}
+- **Version**: {{ specification.version }}
+{{/if}}
+{{/if}}
+
+{{#if links}}
+## Links
+{{#each links}}
+- [{{ name }}]({{ url }})
+{{/each}}
+{{/if}}
+
+{{#if libraries}}
+## Libraries
+{{#each libraries}}
+### {{ name }}
+{{#if description}}{{ description }}{{/if}}
+- **Platform**: {{#if platform}}{{platform}}{{else}}N/A{{/if}}
+{{#if documentation_url}}- **Docs**: [{{ documentation_url }}]({{ documentation_url }}){{/if}}
+{{#if source_code_url}}- **Source**: [{{ source_code_url }}]({{ source_code_url }}){{/if}}
+{{#if version}}- **Version**: {{ version }}{{/if}}
+{{#if author}}- **Author**: {{ author }}{{/if}}
+{{#if stargazers_count}}- **Stars**: {{ stargazers_count }}{{/if}}
+{{/each}}
+{{/if}}
+
+{{#if contact}}
+## Contact
+{{ contact }}
+{{/if}}
+
+{{#if discussion_url}}
+## Discussion
+[Join the discussion]({{ discussion_url }})
+{{/if}}
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

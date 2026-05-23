@@ -1,0 +1,25 @@
+# [Word Cloud Maker](https://www.mashape.com/gatheringpoint/Word-Cloud-Maker)
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/word-cloud-maker/logo_256x256.png" alt="Word Cloud Maker logo" width="200"/>
+
+Multi color and different sizes illustrate the frequency, and the “vibe” of the bigger text. Try it with blog posts, article text, speeches, tweet histories, emails, or any other written word. Generate Word Clouds from blocks of text
+
+## Details
+- **Categories**: Text Analysis &amp; Tools
+- **Type**: N/A
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://www.mashape.com/gatheringpoint/Word-Cloud-Maker)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

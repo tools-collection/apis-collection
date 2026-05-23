@@ -1,0 +1,25 @@
+# [Smartsheet](https://smartsheet.redoc.ly)
+
+
+Smartsheet&#x27;s API provides access to sheets, rows, columns, reports, and automations. Build integrations for project tracking, resource management, and workflow automation.
+
+## Details
+- **Categories**: Project Management, Documents &amp; Productivity
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://smartsheet.redoc.ly)
+- [API Reference](https://smartsheet.redoc.ly/tag/sheets)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

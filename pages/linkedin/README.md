@@ -1,0 +1,202 @@
+# [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin)
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkedin/logo_256x256.png" alt="LinkedIn logo" width="200"/>
+
+Make it convenient for your users to sign in with their professional identity. Learn how to leverage LinkedIn&#x27;s API to Sign In with LinkedIn
+
+## Details
+- **Categories**: Authentication &amp; User Management, Social, Business
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://developer.linkedin.com/docs/signin-with-linkedin)
+
+## Libraries
+### SocialSharesCount Go SDK by Sumesh Suvarna
+
+- **Platform**: Go
+- **Docs**: [https://github.com/gssumesh/socialsharescount](https://github.com/gssumesh/socialsharescount)
+
+
+- **Author**: gssumesh
+- **Stars**: 9
+### LinkedIn JavaScript SDK by LinkedIn
+
+- **Platform**: JavaScript
+- **Docs**: [https://developer.linkedin.com/docs/getting-started-js-sdk](https://developer.linkedin.com/docs/getting-started-js-sdk)
+
+
+
+
+### LinkedIn PHP SDK by Ashwin Surajbali
+
+- **Platform**: PHP
+- **Docs**: [https://github.com/ashwinks/PHP-LinkedIn-SDK](https://github.com/ashwinks/PHP-LinkedIn-SDK)
+
+
+- **Author**: ashwinks
+- **Stars**: 94
+### Linkedin Android SDK
+
+- **Platform**: Java
+- **Docs**: [https://developer.linkedin.com/](https://developer.linkedin.com/)
+- **Source**: [https://developer.linkedin.com/docs/android-sdk](https://developer.linkedin.com/docs/android-sdk)
+
+
+
+### LinkedIn JavaScript SDK
+
+- **Platform**: JavaScript
+- **Docs**: [https://developer.linkedin.com/documents/libraries-and-tools](https://developer.linkedin.com/documents/libraries-and-tools)
+
+
+
+
+### LinkedIn PHP Library by Tobias Nyholm
+
+- **Platform**: PHP
+- **Docs**: [https://github.com/Happyr/LinkedIn-API-client](https://github.com/Happyr/LinkedIn-API-client)
+
+
+
+- **Stars**: 186
+### LinkedIn Java Library by 3Pillar Global Labs
+
+- **Platform**: Java
+- **Docs**: [https://github.com/3pillarlabs/socialauth](https://github.com/3pillarlabs/socialauth)
+
+
+
+- **Stars**: 248
+### LinkedIn iOS Library by Hisham Raslan
+
+- **Platform**: Objective-C
+- **Docs**: [https://github.com/HishamRaslan/IOS-LinkedIn-Authentication-Library-](https://github.com/HishamRaslan/IOS-LinkedIn-Authentication-Library-)
+
+
+- **Author**: HishamRaslan
+
+### LinkedIn iOS Library by Jacob von Eyben
+
+- **Platform**: Objective-C
+- **Docs**: [https://github.com/jeyben/IOSLinkedInAPI](https://github.com/jeyben/IOSLinkedInAPI)
+
+
+- **Author**: jeyben
+- **Stars**: 222
+### LinkedIn Node.js Library by Julien Valéry
+
+- **Platform**: Node.js
+- **Docs**: [https://github.com/darul75/node-linked-in](https://github.com/darul75/node-linked-in)
+
+
+- **Author**: darul75
+- **Stars**: 6
+###  LinkedIn Java Library by Pablo Fernandez
+
+- **Platform**: Java
+- **Docs**: [https://developer-programs.linkedin.com/documents/libraries-and-tools](https://developer-programs.linkedin.com/documents/libraries-and-tools)
+- **Source**: [https://github.com/fernandezpablo85/scribe-java/blob/master/src/test/java/org/scribe/examples/LinkedInExample.java](https://github.com/fernandezpablo85/scribe-java/blob/master/src/test/java/org/scribe/examples/LinkedInExample.java)
+
+
+- **Stars**: 5136
+### LinkedIn .Net Library by oldlamer
+
+- **Platform**: .Net
+- **Docs**: [https://www.nuget.org/packages/LinkedIn.NET/](https://www.nuget.org/packages/LinkedIn.NET/)
+- **Source**: [http://sourceforge.net/projects/linkedinnet/](http://sourceforge.net/projects/linkedinnet/)
+
+
+
+### LinkedIn .Net Library by Tanveer Yousuf
+
+- **Platform**: .Net
+- **Docs**: [https://www.nuget.org/packages/LinkedIn/](https://www.nuget.org/packages/LinkedIn/)
+- **Source**: [https://github.com/tanveery/linkedin-net](https://github.com/tanveery/linkedin-net)
+
+
+
+### LinkedIn Ruby Library by Matt Kirk
+
+- **Platform**: Ruby
+- **Docs**: [https://rubygems.org/gems/linkedin/versions/1.0.0](https://rubygems.org/gems/linkedin/versions/1.0.0)
+- **Source**: [https://github.com/hexgnu/linkedin](https://github.com/hexgnu/linkedin)
+
+- **Author**: hexgnu
+- **Stars**: 754
+### LinkedIn Objective-C Library by Jacob von Eyben
+
+- **Platform**: Objective-C
+- **Docs**: [https://github.com/jeyben/IOSLinkedInAPI/blob/master/README.md](https://github.com/jeyben/IOSLinkedInAPI/blob/master/README.md)
+- **Source**: [https://github.com/jeyben/IOSLinkedInAPI](https://github.com/jeyben/IOSLinkedInAPI)
+
+- **Author**: jeyben
+- **Stars**: 222
+### LinkedIn Ruby Wrapper LinkedIn Gem
+
+- **Platform**: Ruby
+- **Docs**: [https://github.com/hexgnu/linkedin](https://github.com/hexgnu/linkedin)
+
+
+- **Author**: hexgnu
+- **Stars**: 754
+### LinkedIn-API-JSON-Client
+
+- **Platform**: Python
+- **Docs**: [https://github.com/mattsnider/LinkedIn-API-JSON-Client](https://github.com/mattsnider/LinkedIn-API-JSON-Client)
+
+
+- **Author**: mattsnider
+- **Stars**: 5
+### Happyr Developer LinkedIn PHP Client
+
+- **Platform**: PHP
+- **Docs**: [http://developer.happyr.com/libraries/linkedin-php-client](http://developer.happyr.com/libraries/linkedin-php-client)
+
+
+
+
+### Python LinkedIn
+
+- **Platform**: Python
+- **Docs**: [https://github.com/ozgur/python-linkedin](https://github.com/ozgur/python-linkedin)
+
+
+- **Author**: ozgur
+- **Stars**: 754
+### Simple LinkedIn PHP
+
+- **Platform**: PHP
+- **Docs**: [https://code.google.com/p/simple-linkedinphp/](https://code.google.com/p/simple-linkedinphp/)
+
+
+
+
+### Scribe Java
+
+- **Platform**: Java
+- **Docs**: [https://github.com/fernandezpablo85/scribe-java](https://github.com/fernandezpablo85/scribe-java)
+
+
+
+- **Stars**: 5136
+### A Java wrapper for LinkedIn APIs
+
+- **Platform**: Java
+- **Docs**: [http://code.google.com/p/linkedin-j/](http://code.google.com/p/linkedin-j/)
+
+
+
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

@@ -1,0 +1,24 @@
+# [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries)
+
+
+) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month
+
+## Details
+- **Categories**: Content &amp; Dictionaries
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](http://developer.pearson.com/apis/dictionaries)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

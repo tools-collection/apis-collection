@@ -1,0 +1,25 @@
+# [Loripsum](http://loripsum.net/)
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/loripsum/logo_256x256.png" alt="Loripsum logo" width="200"/>
+
+This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
+
+## Details
+- **Categories**: Testing, Development
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](http://loripsum.net/)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

@@ -1,0 +1,25 @@
+# [Anthropic Claude](https://docs.anthropic.com)
+
+
+Anthropic&#x27;s API provides access to the Claude 4 family of AI models (Claude Opus 4, Sonnet 4, Haiku 4) for text generation, analysis, coding assistance, vision tasks, and extended 1M-token context windows.
+
+## Details
+- **Categories**: AI &amp; ML
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://docs.anthropic.com)
+- [API Reference](https://docs.anthropic.com/en/api/getting-started)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

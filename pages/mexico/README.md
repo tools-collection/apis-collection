@@ -1,0 +1,25 @@
+# [Mexico](https://github.com/IcaliaLabs/sepomex)
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mexico/logo_256x256.png" alt="Mexico logo" width="200"/>
+
+Contribute to IcaliaLabs/sepomex development by creating an account on GitHub. A REST API for the SEPOMEX database. A REST API for the SEPOMEX database
+
+## Details
+- **Categories**: Maps &amp; Geo
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://github.com/IcaliaLabs/sepomex)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

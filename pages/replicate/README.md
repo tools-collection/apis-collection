@@ -1,0 +1,25 @@
+# [Replicate](https://replicate.com/docs)
+
+
+Replicate lets you run machine learning models via API. Access thousands of community models for image generation, language, audio, and video, or deploy your own custom models.
+
+## Details
+- **Categories**: AI &amp; ML, Images &amp; Photography
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://replicate.com/docs)
+- [API Reference](https://replicate.com/docs/reference/http)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

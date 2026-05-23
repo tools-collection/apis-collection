@@ -1,9 +1,8 @@
 node_modules/
-dist/*
-!dist/apis-list.yaml
-!dist/api-graveyard.yaml
+dist/
 *.js
 !vitest.config.ts
 .env
 .firecrawl
 .claude
+.remember

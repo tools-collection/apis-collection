@@ -1,0 +1,24 @@
+# [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+
+
+Free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub, for a demo on CodeSandbox, in code examples on Stack Overfllow etc
+
+## Details
+- **Categories**: Development, Random, Testing
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](http://jsonplaceholder.typicode.com/)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

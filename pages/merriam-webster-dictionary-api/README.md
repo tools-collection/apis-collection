@@ -1,0 +1,24 @@
+# [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/)
+
+
+A comprehensive resource of dictionary and thesaurus data powered by Merriam-Webster&#x27;s trusted references. Affordable, comprehensive, and easy to use. Free for non-commercial use. Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary
+
+## Details
+- **Categories**: Content &amp; Dictionaries
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](http://www.dictionaryapi.com/)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

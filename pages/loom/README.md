@@ -1,0 +1,25 @@
+# [Loom](https://dev.loom.com/docs/reference/overview)
+
+
+Loom&#x27;s API provides access to recorded videos, transcripts, viewer analytics, and workspace data. Integrate async video messaging into apps and automate video workflows.
+
+## Details
+- **Categories**: Video &amp; Media
+- **Type**: REST
+- **Auth**: `none`
+- **Free**: Yes 🆓
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://dev.loom.com/docs/reference/overview)
+- [API Reference](https://dev.loom.com/docs/reference/overview)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

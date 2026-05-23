@@ -27,7 +27,10 @@
     "test:watch": "vitest"
   },
   "devDependencies": {
+    "@types/handlebars": "^4.0.40",
+    "@types/inquirer": "^9.0.9",
     "@types/node": "^25.9.1",
+    "@types/yaml": "^1.9.6",
     "typescript": "^6.0.0",
     "vitest": "4.0.18"
   },

@@ -1,0 +1,25 @@
+# [Windows Live Spaces API]()
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/windows-live-spaces-api/logo_256x256.png" alt="Windows Live Spaces API logo" width="200"/>
+
+Included a blogging system, photo gallery, lists, friends, a guestbook, and a social profile. A Spaces page can be personalized with &quot;gadgets&quot;, modules that can be placed to enable further customization, HTML code, and media playlists
+
+## Details
+- **Categories**: Social
+- **Type**: N/A
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website]()
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

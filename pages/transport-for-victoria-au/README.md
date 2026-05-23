@@ -1,0 +1,26 @@
+# [Transportation in Victoria, Australia](https://www.ptv.vic.gov.au/footer/ptv-data-and-reports/digital-products/ptv-timetable-api)
+
+
+This page is not yet available on the PTV Beta website. &lt;br /&gt;
+&lt;br /&gt;
+Please refer to the PTV website until further notice. PTV API
+
+## Details
+- **Categories**: Transportation
+- **Type**: N/A
+- **Auth**: `none`
+- **Free**: Yes 🆓
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](https://www.ptv.vic.gov.au/footer/ptv-data-and-reports/digital-products/ptv-timetable-api)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)

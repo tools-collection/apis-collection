@@ -1,0 +1,25 @@
+# [Textfilter Api](http://votable.net/textfilter/?i&#x3D;1)
+
+<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/textfilter-api/logo_256x256.png" alt="Textfilter Api logo" width="200"/>
+
+Convert web page content into epub, Kindle/mobi and multi-column PDF files
+
+## Details
+- **Categories**: Documents &amp; Productivity
+- **Type**: N/A
+- **Auth**: `none`
+- **Free**: No
+- **Status**: Graveyard 🪦
+
+
+
+## Links
+- [Docs / Website](http://votable.net/textfilter/?i&#x3D;1)
+
+
+
+
+Supported by [Online Tools Collection](https://tools-collection.net)
+
+---
+[Back to README](../../README.md)
