@@ -1,0 +1,14 @@
+name: AgentDeals
+slug: agentdeals
+description: Search and compare 1,600+ developer infrastructure deals — free tiers, startup credits, and pricing changes across 54 categories. REST API and MCP server for AI agents.
+categories:
+  - Business
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://agentdeals.dev/developers
+  - name: API Reference
+    url: https://agentdeals.dev/api/docs
+  - name: GitHub
+    url: https://github.com/robhunter/agentdeals
