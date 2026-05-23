@@ -1,15 +1,14 @@
 # 📦 [Openwhyd](https://openwhyd.github.io/openwhyd/API)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/openwhyd/logo_256x256.png" alt="Openwhyd logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **💎 Like Pinterest, for Music**
 
 ## 📝 Details
-- **🏷️ Categories**: `Bookmarks`, `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Bookmarks`](../../README.md#bookmarks-), [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

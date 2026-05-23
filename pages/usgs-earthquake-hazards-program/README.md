@@ -4,11 +4,11 @@
 > **USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards**
 
 ## 📝 Details
-- **🏷️ Categories**: `Environment &amp; Nature`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

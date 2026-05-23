@@ -4,11 +4,11 @@
 > **Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast. It&#x27;s called Composable Commerce-as-a-Service**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Content &amp; Dictionaries`, `Business`, `Maps &amp; Geo`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Business`](../../README.md#business-), [`Maps & Geo`](../../README.md#maps--geo-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Moltin Android SDK by Moltin
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/moltin/android-sdk)
 
@@ -30,8 +28,6 @@
 
 - **Stars**: ⭐ 6
 ### 🛠️ Moltin Python SDK by Moltin
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/moltin/python-sdk)
 
@@ -39,8 +35,6 @@
 
 - **Stars**: ⭐ 6
 ### 🛠️ Moltin Ruby SDK by Moltin
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/moltin/ruby-sdk)
 
@@ -48,8 +42,6 @@
 
 - **Stars**: ⭐ 16
 ### 🛠️ Moltin C# SDK by Moltin
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://github.com/moltin/csharp-sdk)
 
@@ -57,8 +49,6 @@
 
 - **Stars**: ⭐ 2
 ### 🛠️ Moltin PHP SDK by Moltin
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/moltin/php-sdk)
 
@@ -66,8 +56,6 @@
 
 - **Stars**: ⭐ 46
 ### 🛠️ Moltin iOS eCommerce SDK by Moltin
-
-
 - **Platform**: `Objective-C`
 - **Docs**: [📚 Documentation](https://moltin.com/ios-ecommerce-sdk)
 
@@ -75,8 +63,6 @@
 
 
 ### 🛠️ Moltin JavaScript SDK by Moltin
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://moltin.com/getting-started/js)
 

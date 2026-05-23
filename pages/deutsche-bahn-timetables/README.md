@@ -4,11 +4,11 @@
 > **A RESTful web service for timetable information for train stations operated by DB Station&amp;Service AG.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Transportation`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

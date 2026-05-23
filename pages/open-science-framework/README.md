@@ -4,11 +4,11 @@
 > **OSF is a free, open platform to support your research and enable collaboration.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Files &amp; Storage`, `Science &amp; Math`, `Collaboration`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Files & Storage`](../../README.md#files--storage-), [`Science & Math`](../../README.md#science--math-), [`Collaboration`](../../README.md#collaboration-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

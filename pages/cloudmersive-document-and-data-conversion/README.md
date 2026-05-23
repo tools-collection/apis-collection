@@ -5,11 +5,11 @@
 Convert files and content between file formats. Convert data between file formats. Instantly.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Documents &amp; Productivity`, `Images &amp; Photography`, `Scrapers &amp; Data Mining`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Images & Photography`](../../README.md#images--photography-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

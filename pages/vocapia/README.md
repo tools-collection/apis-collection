@@ -5,11 +5,11 @@
 > **Speech Recognition, Broadcast Monitoring, Lecture and Seminar Transcription, Video Subtitling, Conference Call and Voicemail Transcription, Speech Analytics**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

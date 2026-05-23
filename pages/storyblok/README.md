@@ -4,11 +4,11 @@
 > **Storyblok&#x27;s API is a headless CMS that provides content delivery and management APIs. Manage stories, components, assets, and spaces for omnichannel content distribution.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Documents &amp; Productivity`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

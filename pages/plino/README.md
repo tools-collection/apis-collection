@@ -4,11 +4,11 @@
 > **Plino - A responsive spam filtering system**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

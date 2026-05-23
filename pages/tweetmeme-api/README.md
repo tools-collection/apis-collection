@@ -5,11 +5,11 @@
 > **Provides third-party integration with the TweetMeme web service, used to track popular links on Twitter**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

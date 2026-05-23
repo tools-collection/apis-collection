@@ -4,11 +4,11 @@
 > **Mailchimp&#x27;s Marketing API manages email campaigns, audiences, automations, and reports. Build and send newsletters, segment subscribers, and track engagement metrics.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Email &amp; SMS`, `Marketing &amp; SEO`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -5,11 +5,11 @@
 > **Upload images, photos, galleries**
 
 ## 📝 Details
-- **🏷️ Categories**: `Images &amp; Photography`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

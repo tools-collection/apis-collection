@@ -4,11 +4,11 @@
 > **PyPI&#x27;s JSON API provides package metadata, release information, download statistics, and vulnerability data for Python packages hosted on the Python Package Index.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Secure, fast, convenient way to login in your app/website. A secure, quick, and easy way to log users into your app or website**
 
 ## 📝 Details
-- **🏷️ Categories**: `Authentication &amp; User Management`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

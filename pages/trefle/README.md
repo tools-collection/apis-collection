@@ -4,11 +4,11 @@
 > **Trefle is a botanical API and data source**
 
 ## 📝 Details
-- **🏷️ Categories**: `Environment &amp; Nature`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

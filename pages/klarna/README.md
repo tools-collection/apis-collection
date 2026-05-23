@@ -4,11 +4,11 @@
 > **Klarna&#x27;s Payments API enables buy-now-pay-later, installment plans, and direct bank payments at checkout. Integrates with e-commerce platforms for flexible consumer payment options.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **NCBI&#x27;s E-utilities API provides programmatic access to PubMed abstracts, full-text articles, gene sequences, and other biomedical literature from the National Center for Biotechnology Information.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`, `Health`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Health`](../../README.md#health-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

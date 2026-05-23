@@ -1,15 +1,14 @@
 # 📦 [Breaking Bad Quotes](https://breakingbadquotes.xyz/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/breaking-bad-quotes/logo_256x256.png" alt="Breaking Bad Quotes logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **A free API to retrieve some quotes of Breaking Bad.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Video &amp; Media`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Video & Media`](../../README.md#video--media-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

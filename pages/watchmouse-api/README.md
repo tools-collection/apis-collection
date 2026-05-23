@@ -5,11 +5,11 @@
 > **Offers self-service website and application performance monitoring solutions**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -7,7 +7,7 @@ categories:
   - Text Analysis & Tools
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musicbrainz/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2

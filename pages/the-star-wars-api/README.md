@@ -5,11 +5,11 @@
 > **All the Star Wars data you&#x27;ve ever wanted: Planets, Spaceships, Vehicles, People, Films and Species**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

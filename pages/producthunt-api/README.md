@@ -4,11 +4,11 @@
 > **Product Hunt&#x27;s GraphQL API provides access to products, posts, collections, topics, and user data. Discover and integrate trending tech products and startup launches.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Development`
-- **🔌 Type**: `GraphQL`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Development`](../../README.md#development-)
+- **Type**: `GraphQL`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

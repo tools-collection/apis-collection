@@ -1,15 +1,14 @@
 # 📦 [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl&#x3D;en)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-recaptcha/logo_256x256.png" alt="Google reCAPTCHA logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse**
 
 ## 📝 Details
-- **🏷️ Categories**: `Captcha`, `Security`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Captcha`](../../README.md#captcha-), [`Security`](../../README.md#security-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Google reCAPTCHA JavaScript SDK 
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://developers.google.com/recaptcha/docs/v3)
 - **Source**: [💻 Source Code](https://www.google.com/recaptcha/api.js)

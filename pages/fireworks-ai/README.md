@@ -4,11 +4,11 @@
 > **Fireworks AI offers fast, cost-efficient inference for open-source language and image models. Supports Llama, Mistral, Stable Diffusion, and fine-tuned custom models.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

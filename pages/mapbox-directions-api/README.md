@@ -4,11 +4,11 @@
 > **The Mapbox Directions API can calculate optimal driving, walking, and cycling routes, produce turn-by-turn instructions, produce routes with up to 25 coordinates anywhere on earth**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Post &amp; Logistics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

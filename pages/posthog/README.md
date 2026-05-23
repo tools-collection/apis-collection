@@ -4,11 +4,11 @@
 > **PostHog&#x27;s API provides product analytics, feature flags, session recording, A/B testing, and user management. Open-source and self-hostable, with cloud and on-premise options.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Analytics`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Analytics`](../../README.md#analytics-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

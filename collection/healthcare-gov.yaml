@@ -6,7 +6,7 @@ categories:
   - Health
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/healthcare-gov/logo_256x256.png
+logo: null
 contact: contact@handwrytten.com
 links:
   - name: Docs / Website

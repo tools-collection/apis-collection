@@ -4,11 +4,11 @@
 > **Lufthansa Developer Network. Use the data of Europe&#x27;s biggest airline group! Fight status,inflight amenities, partner program**
 
 ## 📝 Details
-- **🏷️ Categories**: `Travel`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Travel`](../../README.md#travel-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

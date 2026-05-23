@@ -4,11 +4,11 @@
 > **INSPIRE API Q: I want to do automated searching and receive machine readable responses. Do you have an API? A: YES, Inspire has a feature-rich programmatic query interface for third party tools and**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

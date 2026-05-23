@@ -4,11 +4,11 @@
 > **Trakt collect lots of information about what tv shows and movies everyone is watching. A place where APIs are kept**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Video &amp; Media`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Video & Media`](../../README.md#video--media-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

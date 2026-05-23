@@ -4,11 +4,11 @@
 > **Quotes on Design**
 
 ## 📝 Details
-- **🏷️ Categories**: `Fun`, `Art &amp; Design`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Fun`](../../README.md#fun-), [`Art & Design`](../../README.md#art--design-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

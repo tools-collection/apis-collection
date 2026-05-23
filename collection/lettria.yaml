@@ -13,7 +13,7 @@ description: LETTRIA is a natural language processing tool (NLP) dedicated to un
 categories:
   - AI & ML
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lettria/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://lettria.com

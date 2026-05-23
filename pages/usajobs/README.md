@@ -1,15 +1,14 @@
 # 📦 [USAJOBS](https://developer.usajobs.gov/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/usajobs/logo_256x256.png" alt="USAJOBS logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **USAJOBS API. USAJOBS is a United States Office of Personnel Management website**
 
 ## 📝 Details
-- **🏷️ Categories**: `Jobs`, `Government`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Jobs`](../../README.md#jobs-), [`Government`](../../README.md#government-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

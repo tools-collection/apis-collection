@@ -4,11 +4,11 @@
 > **Wise&#x27;s API enables international money transfers, multi-currency accounts, balance management, and payment automation. Build global payouts and borderless banking integrations.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

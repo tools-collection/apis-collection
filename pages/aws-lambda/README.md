@@ -4,11 +4,11 @@
 > **AWS Lambda API enables invoking, managing, and configuring serverless functions. Create, update, and delete functions programmatically and integrate with other AWS services via event triggers.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

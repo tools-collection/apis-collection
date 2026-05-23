@@ -4,11 +4,11 @@
 > **The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc**
 
 ## 📝 Details
-- **🏷️ Categories**: `Search`, `Images &amp; Photography`, `Art &amp; Design`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Search`](../../README.md#search-), [`Images & Photography`](../../README.md#images--photography-), [`Art & Design`](../../README.md#art--design-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

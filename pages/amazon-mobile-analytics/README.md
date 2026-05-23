@@ -4,11 +4,11 @@
 > **Service for collecting, visualizing, and understanding app usage data at scale**
 
 ## 📝 Details
-- **🏷️ Categories**: `Analytics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

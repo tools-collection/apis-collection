@@ -5,11 +5,11 @@
 > **Accurate Speech-to-Text APIs for all of your speech recognition needs**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Voice`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +22,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Rev.ai Python SDK
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://pypi.org/project/rev-ai/)
 - **Source**: [💻 Source Code](https://github.com/revdotcom/revai-python-sdk)
@@ -31,8 +29,6 @@
 
 
 ### 🛠️ Rev.ai Node SDK
-
-
 - **Platform**: `Node`
 - **Docs**: [📚 Documentation](https://www.npmjs.com/package/revai-node-sdk)
 - **Source**: [💻 Source Code](https://github.com/revdotcom/revai-node-sdk)

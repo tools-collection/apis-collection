@@ -4,11 +4,11 @@
 > **Explore AYLIEN’s advanced NLP APIs. Explore AYLIEN’s advanced NLP APIs**
 
 ## 📝 Details
-- **🏷️ Categories**: `News &amp; Feeds`, `AI &amp; ML`, `Text Analysis &amp; Tools`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`AI & ML`](../../README.md#ai--ml-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ AYLIEN Text Analysis Ruby SDK
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://developer.aylien.com/getting-started/ruby)
 
@@ -30,8 +28,6 @@
 
 
 ### 🛠️ AYLIEN Text Analysis Python SDK
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://developer.aylien.com/getting-started/python)
 
@@ -39,8 +35,6 @@
 
 
 ### 🛠️ AYLIEN Text Analysis PHP SDK
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://developer.aylien.com/getting-started/php)
 
@@ -48,8 +42,6 @@
 
 
 ### 🛠️ AYLIEN Text Analysis Node.js SDK
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://developer.aylien.com/getting-started/node)
 
@@ -57,8 +49,6 @@
 
 
 ### 🛠️ AYLIEN Text Analysis Java SDK
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://developer.aylien.com/getting-started/java)
 
@@ -66,8 +56,6 @@
 
 
 ### 🛠️ AYLIEN Text Analysis C# SDK
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://developer.aylien.com/getting-started/cs)
 

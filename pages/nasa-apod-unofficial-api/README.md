@@ -4,11 +4,11 @@
 > **What&#x27;s this API for? This API is for fetching data from NASA&#x27;s APOD website - a popular service showing the most beautiful astronomical photographs in the world. The data is returned in JSON format**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

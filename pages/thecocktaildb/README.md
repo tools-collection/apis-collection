@@ -4,11 +4,11 @@
 > **An open, crowd-sourced database of drinks and cocktails from around the world. A fee API to query a db of 1000s of cocktails, you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non alcoholic and more with the Cocktails DB**
 
 ## 📝 Details
-- **🏷️ Categories**: `Open Source`, `Food &amp; Drinks`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Open Source`](../../README.md#open-source-), [`Food & Drinks`](../../README.md#food--drinks-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Full featured Jokes API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Fun`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

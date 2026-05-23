@@ -6,7 +6,7 @@ description: Electronic medical records, practice management and medical billing
 categories:
   - Health
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/drchrono-healthcare-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.drchrono.com/api/

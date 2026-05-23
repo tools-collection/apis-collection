@@ -5,7 +5,7 @@ categories:
   - Video & Media
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/breaking-bad-quotes/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://breakingbadquotes.xyz/

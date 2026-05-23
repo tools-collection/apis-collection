@@ -4,11 +4,11 @@
 > **API for Nutrition Analysis, Food Database Lookup, Recipe Search and other.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Health`, `Food &amp; Drinks`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Health`](../../README.md#health-), [`Food & Drinks`](../../README.md#food--drinks-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

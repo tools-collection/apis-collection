@@ -4,11 +4,11 @@
 > **Replicate lets you run machine learning models via API. Access thousands of community models for image generation, language, audio, and video, or deploy your own custom models.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

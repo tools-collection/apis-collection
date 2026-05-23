@@ -4,11 +4,11 @@
 > **An API for interesting facts about numbers. An API for interesting facts about numbers**
 
 ## 📝 Details
-- **🏷️ Categories**: `Random`, `Fun`, `Science &amp; Math`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Random`](../../README.md#random-), [`Fun`](../../README.md#fun-), [`Science & Math`](../../README.md#science--math-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **LottieFiles API provides access to a library of Lottie animations, enables uploading and managing animation files, and converting between animation formats for web and mobile apps.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Images &amp; Photography`, `Art &amp; Design`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Art & Design`](../../README.md#art--design-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

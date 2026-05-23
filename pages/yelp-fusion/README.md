@@ -4,11 +4,11 @@
 > **Yelp Fusion API provides business search, reviews, photos, and events data from Yelp&#x27;s local business directory. Find and display restaurant, bar, and service business information.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Food &amp; Drinks`, `Point of Interest`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

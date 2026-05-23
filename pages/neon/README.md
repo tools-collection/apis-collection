@@ -4,11 +4,11 @@
 > **Neon&#x27;s API manages serverless Postgres databases, branches, compute endpoints, and projects. Neon offers database branching, autoscaling, and scale-to-zero for modern apps.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Databases`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

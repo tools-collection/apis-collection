@@ -4,11 +4,11 @@
 > **Stop bots and manual spam from reaching you or your customer. All with high accuracy and privacy**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

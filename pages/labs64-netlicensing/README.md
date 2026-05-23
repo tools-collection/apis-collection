@@ -4,11 +4,11 @@
 > **Innovative License Management Solution. NetLicensing RESTful APIis for developers integrating NetLicensing with applications and administrators who want to script interactions with the NetLicensing server**
 
 ## 📝 Details
-- **🏷️ Categories**: `Other`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Other`](../../README.md#other-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

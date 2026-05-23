@@ -4,11 +4,11 @@
 > **Netherland&#x27;s post codes search**
 
 ## 📝 Details
-- **🏷️ Categories**: `Post &amp; Logistics`, `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

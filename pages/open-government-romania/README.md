@@ -4,11 +4,11 @@
 > **2123 SETURI DE DATE 26000 FIȘIERE CORELATE 106 INSTITUȚII 14 GRUPURI 3873 ADRESE DE LEGĂTURĂ EXTERNE**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

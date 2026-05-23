@@ -5,11 +5,11 @@
 > **Open demographic data such as population tables, population rank and life expectancy**
 
 ## 📝 Details
-- **🏷️ Categories**: `Statistics &amp; Data`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

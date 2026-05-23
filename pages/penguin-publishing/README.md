@@ -4,11 +4,11 @@
 > **Sample XML response Sample JSON response**
 
 ## 📝 Details
-- **🏷️ Categories**: `Books`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Books`](../../README.md#books-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

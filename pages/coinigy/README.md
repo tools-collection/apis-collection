@@ -4,11 +4,11 @@
 > **Interact with Coinigy Accounts and Exchange Accounts Directly.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

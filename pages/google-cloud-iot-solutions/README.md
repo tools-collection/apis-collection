@@ -4,11 +4,11 @@
 > **Unlock insights from your global device network with an intelligent IoT platform whose scalable, fully managed integration lets you connect, store, and analyze data at the edge and in the cloud.**
 
 ## 📝 Details
-- **🏷️ Categories**: `IoT &amp; Home Automation`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

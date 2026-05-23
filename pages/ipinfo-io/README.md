@@ -4,11 +4,11 @@
 > **IPinfo&#x27;s API provides accurate IP geolocation, ASN, carrier, privacy detection, and abuse contact data. Powers billions of lookups monthly with 99.99% uptime and global coverage.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Security`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Security`](../../README.md#security-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

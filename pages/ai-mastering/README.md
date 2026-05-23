@@ -4,11 +4,11 @@
 > **AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ AI Mastering Javascript SDK
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://aimastering.com/api_docs/)
 - **Source**: [💻 Source Code](https://github.com/ai-mastering/aimastering-js)

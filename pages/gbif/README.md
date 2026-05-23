@@ -4,11 +4,11 @@
 > **Free and open access to biodiversity data. GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world&#x27;s governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`, `Animals`, `Environment &amp; Nature`, `Statistics &amp; Data`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Animals`](../../README.md#animals-), [`Environment & Nature`](../../README.md#environment--nature-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -5,11 +5,11 @@
 > **Scraping Service API. Simple and ultrafast web crawler, webpages Javascript rendering**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

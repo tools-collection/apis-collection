@@ -6,7 +6,7 @@ categories:
   - Authentication & User Management
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/phantauth/logo_256x256.png
+logo: null
 contact: support@receptive.io
 links:
   - name: Docs / Website

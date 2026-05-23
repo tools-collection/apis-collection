@@ -4,11 +4,11 @@
 > **Data Validation APIs. Validate key business data thoroughly - Email Address Validation, Phone Number Validation, Street Address Validation, VAT Number Validation, Domain Name Validation and Name Validation**
 
 ## 📝 Details
-- **🏷️ Categories**: `Validation &amp; Verification`, `Email &amp; SMS`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`Email & SMS`](../../README.md#email--sms-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

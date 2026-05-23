@@ -4,11 +4,11 @@
 > **An API to determine if a point (latitude and longitude) is on water, sea, lake, river, or land**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

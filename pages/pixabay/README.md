@@ -4,11 +4,11 @@
 > **Restful API for searching and retrieving free images and videos**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

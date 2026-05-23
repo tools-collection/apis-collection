@@ -5,11 +5,11 @@
  and historical data. Access current weather data for any location on Earth including over 200,000 cities!**
 
 ## 📝 Details
-- **🏷️ Categories**: `Weather`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Weather`](../../README.md#weather-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

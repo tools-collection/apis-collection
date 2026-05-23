@@ -4,11 +4,11 @@
 > **Openverse API provides search access to 800M+ openly licensed and public domain images, audio, and other media. Ideal for finding Creative Commons content for reuse.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Images &amp; Photography`, `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

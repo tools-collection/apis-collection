@@ -4,11 +4,11 @@
 > **urlscan. io - Website scanner for suspicious and malicious URLs. urlscan**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

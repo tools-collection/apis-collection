@@ -4,11 +4,11 @@
 > **Notion&#x27;s API provides access to pages, databases, blocks, users, and comments in Notion workspaces. Read and write structured data from Notion databases programmatically.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Documents &amp; Productivity`, `Databases`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Databases`](../../README.md#databases-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

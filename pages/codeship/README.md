@@ -4,11 +4,11 @@
 > **Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powered by Stoplight.io. Document, mock, test, and more, with the StopLight API Designer**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Collaboration`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Collaboration`](../../README.md#collaboration-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Codeship NodeJS SDK by Che-Wei Lin
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/John-Lin/codeship-api)
 
@@ -30,8 +28,6 @@
 - **Author**: 👤 John-Lin
 - **Stars**: ⭐ 1
 ### 🛠️ Codeship Ruby SDK
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/codeship/codeship-ruby)
 
@@ -39,8 +35,6 @@
 
 - **Stars**: ⭐ 13
 ### 🛠️ Codeship Go SDK
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://godoc.org/github.com/codeship/codeship-go)
 - **Source**: [💻 Source Code](https://github.com/codeship/codeship-go)

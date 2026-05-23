@@ -4,11 +4,11 @@
 > **CiviX Server is an electronic library providing free public access to law and bylaw content of British Columbia. CiviX Server contains a comprehensive collection of BC Provincial legislation, civic bylaw content and related policy and legislative materials.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

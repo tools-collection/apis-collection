@@ -4,11 +4,11 @@
 > **AISHub members have access to AISHub aggregated AIS data via this API and receive real time data in XML, JSON or CSV format.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Transportation`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

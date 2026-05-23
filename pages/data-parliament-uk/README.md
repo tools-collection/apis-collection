@@ -4,11 +4,11 @@
 > **UK&#x27;s parliament Open Data**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`, `Statistics &amp; Data`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

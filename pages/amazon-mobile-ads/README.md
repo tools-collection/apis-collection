@@ -4,11 +4,11 @@
 > **Monetize across platforms with multiple ad formats. Mobile Ads Monetize your global iOS, Android, and Fire OS traffic with high-quality ads from Amazon and brand advertisers**
 
 ## 📝 Details
-- **🏷️ Categories**: `Commerce`, `Marketing &amp; SEO`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Commerce`](../../README.md#commerce-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

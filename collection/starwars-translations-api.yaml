@@ -6,7 +6,7 @@ categories:
   - Translation
   - Entertainment
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/starwars-translations-api/logo_256x256.png
+logo: null
 contact: dev@fulfillment.com
 links:
   - name: Docs / Website

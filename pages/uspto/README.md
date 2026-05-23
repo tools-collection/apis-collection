@@ -4,11 +4,11 @@
 > **United States patent and trademark office API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Statistics &amp; Data`, `Government`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`Government`](../../README.md#government-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **IPFS API. Upload files, pin hashes, and send pubsub messages using our proprietary API, or interact directly with our IPFS nodes using the IPFS HTTP API reverse proxy.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Files &amp; Storage`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Files & Storage`](../../README.md#files--storage-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

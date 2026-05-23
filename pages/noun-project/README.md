@@ -4,11 +4,11 @@
 > **Grab a hold of the World’s Visual Language! Use it in your service or application.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Images &amp; Photography`, `Art &amp; Design`, `Visualizations`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Art & Design`](../../README.md#art--design-), [`Visualizations`](../../README.md#visualizations-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Noun Project Ruby Gem noun-project-api
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/TailorBrands/noun-project-api)
 - **Source**: [💻 Source Code](http://rubygems.org/gems/noun-project-api/versions/0.0.5)

@@ -1,15 +1,14 @@
 # 📦 [Transportation in Minneapolis, USA](https://svc.metrotransit.org/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-minneapolis-us/logo_256x256.png" alt="Transportation in Minneapolis, USA logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **NexTrip API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Transportation`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Free phone number validation provided by PhoneValidator. Check phone numbers to verify if they are cell phones or landlines. Use the official API to determine the line-type, phone company and service location of any US phone numbers**
 
 ## 📝 Details
-- **🏷️ Categories**: `Validation &amp; Verification`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Meilisearch is an open-source search engine with a REST API. Offers instant, typo-tolerant full-text search with filtering, faceting, geosearch, and vector similarity search.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Search`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Search`](../../README.md#search-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

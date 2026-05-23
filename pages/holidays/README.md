@@ -1,15 +1,14 @@
 # 📦 [Holidays](https://holidayapi.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/holidays/logo_256x256.png" alt="Holidays logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Don&#x27;t let sourcing and maintaining holiday information get in the way of building your product**
 
 ## 📝 Details
-- **🏷️ Categories**: `Calendar &amp; Time`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

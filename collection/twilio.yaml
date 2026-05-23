@@ -7,7 +7,7 @@ categories:
   - Voice
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twilio/logo_256x256.png
+logo: null
 contact: support@transitfeeds.com
 links:
   - name: Docs / Website

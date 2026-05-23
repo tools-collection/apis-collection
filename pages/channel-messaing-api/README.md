@@ -5,11 +5,11 @@
 > **Channel Messaging API lets your build real-time application**
 
 ## 📝 Details
-- **🏷️ Categories**: `Chats &amp; Messaging`, `Documents &amp; Productivity`, `Bots`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Chats & Messaging`](../../README.md#chats--messaging-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`Bots`](../../README.md#bots-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

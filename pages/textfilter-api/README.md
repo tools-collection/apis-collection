@@ -5,11 +5,11 @@
 > **Convert web page content into epub, Kindle/mobi and multi-column PDF files**
 
 ## 📝 Details
-- **🏷️ Categories**: `Documents &amp; Productivity`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

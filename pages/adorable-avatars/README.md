@@ -5,11 +5,11 @@
 > **Generate random cartoon avatars**
 
 ## 📝 Details
-- **🏷️ Categories**: `Testing`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Testing`](../../README.md#testing-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

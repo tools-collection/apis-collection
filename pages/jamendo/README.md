@@ -4,11 +4,11 @@
 > **Jamendo Api Documentation. Jamendo Api Documentation**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Jamendo Ratings Python SDK by Jamendo
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/jamendo/jamendo-ratings-sdk)
 

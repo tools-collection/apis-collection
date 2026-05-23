@@ -9,7 +9,7 @@ categories:
   - Files & Storage
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cloudinary/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: http://cloudinary.com/documentation

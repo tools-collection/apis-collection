@@ -7,11 +7,11 @@
 > **{{ description }}**
 
 ## 📝 Details
-- **🏷️ Categories**: {{#each categories}}`{{this}}`{{#unless @last}}, {{/unless}}{{/each}}
-- **🔌 Type**: {{#if type}}`{{type}}`{{else}}`N/A`{{/if}}
-- **🔐 Auth**: `{{#if auth_type}}{{auth_type}}{{else}}none{{/if}}`
-- **💸 Free**: {{#if is_free}}`Yes` 🆓{{else}}`No` 💰{{/if}}
-- **📊 Status**: {{#if is_active}}`Active` ✅{{else}}`Graveyard` 🪦{{/if}}
+- **Categories**: {{#each categories}}[{{{this}}}](../../README.md#{{slug this}}-){{#unless @last}}, {{/unless}}{{/each}}
+- **Type**: {{#if type}}`{{type}}`{{else}}`N/A`{{/if}}
+- **Auth**: `{{#if auth_type}}{{auth_type}}{{else}}none{{/if}}`
+- **Free**: {{#if is_free}}`Yes` 🆓{{else}}`No`{{/if}}
+- **Status**: {{#if is_active}}`Active`{{else}}`Graveyard` 🪦{{/if}}
 
 ## 🚦 Rate Limits
 {{#if rate_limits}}
@@ -44,8 +44,8 @@
 {{#if libraries}}
 {{#each libraries}}
 ### 🛠️ {{ name }}
-{{#if description}}> {{ description }}{{/if}}
-
+{{#if description}}> {{ description }}
+{{/if}}
 - **Platform**: {{#if platform}}`{{platform}}`{{else}}`N/A`{{/if}}
 {{#if documentation_url}}- **Docs**: [📚 Documentation]({{ documentation_url }}){{/if}}
 {{#if source_code_url}}- **Source**: [💻 Source Code]({{ source_code_url }}){{/if}}

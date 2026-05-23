@@ -4,11 +4,11 @@
 > **Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more. Generate API Key Loading signup form**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`, `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ NASA WorldWind Android SDK
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/NASAWorldWind/WorldWindAndroid)
 
@@ -30,8 +28,6 @@
 
 - **Stars**: ⭐ 199
 ### 🛠️ NASA WorldWind Java SDK
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/NASAWorldWind/WorldWindJava)
 
@@ -39,8 +35,6 @@
 
 - **Stars**: ⭐ 518
 ### 🛠️ NASA WorldWind JavaScript SDK
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://github.com/NASAWorldWind/WebWorldWind)
 
@@ -48,8 +42,6 @@
 
 - **Stars**: ⭐ 619
 ### 🛠️ NASA NodeJS SDK by AJ Funk
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/AJFunk/nasa-sdk)
 

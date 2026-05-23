@@ -1,15 +1,14 @@
 # 📦 [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nhl-records-and-stats/logo_256x256.png" alt="NHL Records and Stats logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Documenting the publicly accessible portions of the NHL API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Sport &amp; Fitness`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -8,7 +8,7 @@ categories:
   - Commerce
   - Development
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dronedeploy/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://developer.dronedeploy.com/

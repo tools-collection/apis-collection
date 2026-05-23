@@ -4,11 +4,11 @@
 > **dati. gov. it Il Portale dati. it, gestitodall’Agenzia per l’Italia digitale, è il catalogo nazionale dei metadati relativi ai dati rilasciati in formato aperto dalle pubbliche amministrazioni it**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

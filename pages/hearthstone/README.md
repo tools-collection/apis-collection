@@ -4,11 +4,11 @@
 > **This Hearthstone API provides up to date Hearthstone data pulled directly from the game. It has endpoints for all the card data, including images, card backs and more**
 
 ## 📝 Details
-- **🏷️ Categories**: `Games`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Games`](../../README.md#games-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

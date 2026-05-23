@@ -1,15 +1,14 @@
 # 📦 [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl&#x3D;en)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-google-fonts-developer-api/logo_256x256.png" alt="The Google Fonts Developer API. logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **High-quality fonts to use on your web site**
 
 ## 📝 Details
-- **🏷️ Categories**: `Art &amp; Design`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Art & Design`](../../README.md#art--design-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology. The Localytics API, and the backend services which power it, are organized around. Interface to Localytics analytics platform**
 
 ## 📝 Details
-- **🏷️ Categories**: `Marketing &amp; SEO`, `Analytics`, `Business`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-), [`Analytics`](../../README.md#analytics-), [`Business`](../../README.md#business-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Localytics Xamarin SDK by Localytics
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://github.com/localytics/localytics-xamarin)
 
@@ -30,8 +28,6 @@
 
 - **Stars**: ⭐ 6
 ### 🛠️ Localytics Cordova SDK by Localytics
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://github.com/localytics/localytics-cordova)
 
@@ -39,8 +35,6 @@
 
 - **Stars**: ⭐ 13
 ### 🛠️  Localytics Java SDK by Localytics
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](http://docs.localytics.com/#Dev/sdk-downloads.html)
 
@@ -48,8 +42,6 @@
 
 
 ### 🛠️ Localytics Objective-C SDK by Localytics
-
-
 - **Platform**: `Objective-C`
 - **Docs**: [📚 Documentation](http://docs.localytics.com/index.html#Dev/Integrate/ios-integration.html)
 - **Source**: [💻 Source Code](http://docs.localytics.com/#Dev/sdk-downloads.html)

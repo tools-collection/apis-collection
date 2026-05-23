@@ -4,11 +4,11 @@
 > **Explore lots from the past online whisky auctions. Whisky Hunter have collected the results from whisky auction sites into a single up-to-date database.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Food &amp; Drinks`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

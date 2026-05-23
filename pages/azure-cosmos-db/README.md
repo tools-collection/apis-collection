@@ -4,11 +4,11 @@
 > **Azure Cosmos DB REST API provides globally distributed NoSQL database access with SQL, MongoDB, Cassandra, Gremlin, and Table APIs. Manage databases, containers, and documents at any scale.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Databases`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Databases`](../../README.md#databases-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -1,15 +1,14 @@
 # 📦 [Elis](https://rossum.ai/developers/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/elis/logo_256x256.png" alt="Elis logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Automate data extraction from your documents with Artificial Intelligence**
 
 ## 📝 Details
-- **🏷️ Categories**: `Documents &amp; Productivity`, `Payments`, `Scrapers &amp; Data Mining`, `AI &amp; ML`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Payments`](../../README.md#payments-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

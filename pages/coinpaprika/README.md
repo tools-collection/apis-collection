@@ -4,11 +4,11 @@
 > **Cryptocurrencies prices, market capitalization, volume and more.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Coinpaprika C# SDK by Marco Siccardi
-
-
 - **Platform**: `.Net, C#`
 - **Docs**: [📚 Documentation](https://api.coinpaprika.com/#section/Clients)
 - **Source**: [💻 Source Code](https://github.com/MSiccDev/CoinpaprikaAPI)

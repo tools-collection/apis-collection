@@ -4,11 +4,11 @@
 > **Instant Bulk Payments for your Finance Team. Finance teams use Telleroo’s Bulk Payments Service and APIs to make multiple bank payments to employees, suppliers, customers and partners**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Business`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Business`](../../README.md#business-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

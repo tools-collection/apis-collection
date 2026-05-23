@@ -1,15 +1,14 @@
 # 📦 [SMMRY](https://smmry.com/api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smmry/logo_256x256.png" alt="SMMRY logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Summarize articles, text, websites, essays and documents online for free with SMMRY.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Text Analysis &amp; Tools`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

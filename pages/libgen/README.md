@@ -4,11 +4,11 @@
 > **An English-language guide to using the LibGen API. An English-language guide to using the LibGen API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Books`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Books`](../../README.md#books-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

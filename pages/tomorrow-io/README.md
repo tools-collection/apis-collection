@@ -4,11 +4,11 @@
 > **Tomorrow.io&#x27;s Weather API delivers hyper-local, minute-by-minute forecasts with 100+ weather data layers including precipitation, wind, air quality, and pollen. Formerly ClimaCell.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Weather`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Weather`](../../README.md#weather-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

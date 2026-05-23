@@ -1,15 +1,14 @@
 # 📦 [Yahoo Local Search API](https://developer.yahoo.com/search/local/localSearch.html)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-local-search-api/logo_256x256.png" alt="Yahoo Local Search API logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Join the 200,000 developers using Yahoo tools to build their app businesses. Local Web Services. Measure, monetize, advertise and improve your apps with Yahoo tools**
 
 ## 📝 Details
-- **🏷️ Categories**: `Search`, `Maps &amp; Geo`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Search`](../../README.md#search-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

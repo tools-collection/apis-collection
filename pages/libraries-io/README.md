@@ -4,11 +4,11 @@
 > **Discover open source libraries, modules and frameworks you can use in your code. Open source software libraries**
 
 ## 📝 Details
-- **🏷️ Categories**: `Open Source`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Open Source`](../../README.md#open-source-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

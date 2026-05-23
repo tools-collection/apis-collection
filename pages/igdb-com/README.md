@@ -4,11 +4,11 @@
 > **Video Game database on demand! Images, info video and other data you can retrieve trough the rest API. Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed**
 
 ## 📝 Details
-- **🏷️ Categories**: `Games`, `Entertainment`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Games`](../../README.md#games-), [`Entertainment`](../../README.md#entertainment-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

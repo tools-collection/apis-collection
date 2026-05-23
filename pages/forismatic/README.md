@@ -4,11 +4,11 @@
 > **Gives you a random quote per click.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Fun`, `Content &amp; Dictionaries`, `Random`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Fun`](../../README.md#fun-), [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Random`](../../README.md#random-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

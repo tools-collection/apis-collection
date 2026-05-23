@@ -5,11 +5,11 @@
 > **Multi color and different sizes illustrate the frequency, and the “vibe” of the bigger text. Try it with blog posts, article text, speeches, tweet histories, emails, or any other written word. Generate Word Clouds from blocks of text**
 
 ## 📝 Details
-- **🏷️ Categories**: `Text Analysis &amp; Tools`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

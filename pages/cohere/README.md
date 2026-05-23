@@ -4,11 +4,11 @@
 > **Cohere&#x27;s API provides NLP capabilities including text generation, embeddings, classification, and reranking. Designed for enterprise use cases like semantic search and RAG pipelines.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Text Analysis &amp; Tools`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

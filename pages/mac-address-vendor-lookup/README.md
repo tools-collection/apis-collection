@@ -1,15 +1,14 @@
 # 📦 [MAC address vendor lookup](https://macaddress.io/api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mac-address-vendor-lookup/logo_256x256.png" alt="MAC address vendor lookup logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research&#x27;s results regarding the given MAC address or the OUI.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`, `Hardware`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-), [`Hardware`](../../README.md#hardware-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ MAC address Vendor Lookup Python SDK
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/CodeLineFi/maclookup-python)
 

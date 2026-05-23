@@ -4,11 +4,11 @@
 > **Danbooru Imageboard API. Get images cartegorized by tags.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Comics &amp; Anime`, `Social`, `Adult`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-), [`Social`](../../README.md#social-), [`Adult`](../../README.md#adult-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

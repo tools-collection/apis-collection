@@ -4,11 +4,11 @@
 > **Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It&#x27;s like Lorem Ipsum, for people.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Testing`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Testing`](../../README.md#testing-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Vercel&#x27;s API lets you manage deployments, domains, environment variables, projects, and teams programmatically. Integrates with Git to automate frontend deployment workflows.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

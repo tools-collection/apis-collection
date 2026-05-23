@@ -4,11 +4,11 @@
 > **Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

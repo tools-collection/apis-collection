@@ -1,15 +1,14 @@
 # 📦 [FavQs](https://favqs.com/api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/favqs/logo_256x256.png" alt="FavQs logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **FavQs allows you to collect, discover, and share your favorite quotes.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Content &amp; Dictionaries`, `Fun`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Fun`](../../README.md#fun-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

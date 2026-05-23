@@ -4,11 +4,11 @@
 > **Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol ecosystem. The Nimiq Hub API enables website developers to integrate payment with Nimiq into their webapp, shop, and mobile app. It&#x27;s all open source, the GitHub repository is here: http://github. com/nimiq/hub**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

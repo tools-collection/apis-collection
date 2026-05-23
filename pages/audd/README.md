@@ -1,15 +1,14 @@
 # 📦 [AudD](https://docs.audd.io/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/audd/logo_256x256.png" alt="AudD logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **AudD Music Recognition API Docs: how to identify songs in audio using our API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Recognition`, `Music &amp; Audio`, `Development`, `Entertainment`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Recognition`](../../README.md#recognition-), [`Music & Audio`](../../README.md#music--audio-), [`Development`](../../README.md#development-), [`Entertainment`](../../README.md#entertainment-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

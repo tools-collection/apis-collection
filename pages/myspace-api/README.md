@@ -5,11 +5,11 @@
 > **A social networking website offering an interactive, user-submitted network of friends, personal profiles, blogs, groups, photos, music, and videos**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

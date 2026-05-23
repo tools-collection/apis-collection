@@ -4,11 +4,11 @@
 > **Given a long URL, returns a short link**
 
 ## 📝 Details
-- **🏷️ Categories**: `URLs`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`URLs`](../../README.md#urls-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

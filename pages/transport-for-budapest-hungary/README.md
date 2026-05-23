@@ -4,11 +4,11 @@
 > **A place where APIs are kept. A place where APIs are kept**
 
 ## 📝 Details
-- **🏷️ Categories**: `Transportation`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

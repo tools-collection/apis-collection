@@ -6,11 +6,11 @@
 Broadage Sports provides comprehensive sports data API solutions for your projects**
 
 ## 📝 Details
-- **🏷️ Categories**: `Sport &amp; Fitness`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

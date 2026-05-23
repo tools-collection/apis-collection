@@ -5,11 +5,11 @@
 > **Fast Healthcare Interoperability Resources test data**
 
 ## 📝 Details
-- **🏷️ Categories**: `Testing`, `Health`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Testing`](../../README.md#testing-), [`Health`](../../README.md#health-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

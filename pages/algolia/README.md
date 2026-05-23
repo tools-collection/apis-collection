@@ -4,11 +4,11 @@
 > **Algolia&#x27;s Search API provides fast, typo-tolerant full-text search with faceting, filtering, and personalization. Index records and query them with millisecond response times at scale.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Search`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Search`](../../README.md#search-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

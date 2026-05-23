@@ -4,11 +4,11 @@
 > **Upstash provides serverless Redis and Kafka with a REST API. Designed for edge and serverless environments with per-request pricing and global low-latency replication.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Databases`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

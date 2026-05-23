@@ -4,11 +4,11 @@
 > **Share the notes with everyone you want.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Documents &amp; Productivity`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

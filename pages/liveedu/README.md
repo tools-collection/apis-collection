@@ -4,11 +4,11 @@
 > **Live Coding Streaming. Education Ecosystem is a project learning platform for people to learn how to build real products**
 
 ## 📝 Details
-- **🏷️ Categories**: `Education`, `Video &amp; Media`, `Entertainment`, `Development`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Education`](../../README.md#education-), [`Video & Media`](../../README.md#video--media-), [`Entertainment`](../../README.md#entertainment-), [`Development`](../../README.md#development-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ LiveCoding .NET SDK
-
-
 - **Platform**: `.Net`
 - **Docs**: [📚 Documentation](https://github.com/LiveCodingTVOfficial/LiveCoding.NET)
 
@@ -30,8 +28,6 @@
 
 
 ### 🛠️ LiveCoding.tv Python SDK
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/LiveCodingTVOfficial/python-livecodingtv)
 

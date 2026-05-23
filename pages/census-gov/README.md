@@ -4,11 +4,11 @@
 > **Access demographic, economic and population data from the U.S. Census Bureau. Explore census data with visualizations and view tutorials.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`, `Statistics &amp; Data`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

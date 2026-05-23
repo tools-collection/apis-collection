@@ -5,11 +5,11 @@
 > **Searchable and categorized collections of RSS feeds**
 
 ## 📝 Details
-- **🏷️ Categories**: `News &amp; Feeds`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

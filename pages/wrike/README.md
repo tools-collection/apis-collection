@@ -4,11 +4,11 @@
 > **Wrike&#x27;s API provides access to tasks, folders, projects, timesheets, and workflows. Automate project management and build integrations with Wrike&#x27;s collaborative work platform.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Project Management`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Project Management`](../../README.md#project-management-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

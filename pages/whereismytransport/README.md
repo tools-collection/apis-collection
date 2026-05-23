@@ -1,15 +1,14 @@
 # 📦 [WhereIsMyTransport](https://developer.whereismytransport.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whereismytransport/logo_256x256.png" alt="WhereIsMyTransport logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **WhereIsMyTransport connects public transport data in one place. WhereIsMyTransport is the de facto source of mobility data for the world’s largest low- and middle-income cities.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Transportation`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ WhereIsMyTransport .NET SDK by WhereIsMyTransport
-
-
 - **Platform**: `.Net`
 - **Docs**: [📚 Documentation](https://github.com/WhereIsMyTransport/TransportApiSdk.NET)
 

@@ -4,11 +4,11 @@
 > **Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility &amp; chances of successful love relationship.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Fun`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Fun`](../../README.md#fun-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

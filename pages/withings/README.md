@@ -4,11 +4,11 @@
 > **Access to data from Withings activity trackers and body measures**
 
 ## 📝 Details
-- **🏷️ Categories**: `Sport &amp; Fitness`, `Health`, `IoT &amp; Home Automation`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-), [`Health`](../../README.md#health-), [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Withings Ruby SDK by Paul Osman
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/paulosman/withings-sdk)
 
@@ -30,8 +28,6 @@
 - **Author**: 👤 paulosman
 - **Stars**: ⭐ 6
 ### 🛠️ Withings NodeJS SDK by Amida Technology Solutions
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/amida-tech/withings-lib)
 
@@ -39,8 +35,6 @@
 
 - **Stars**: ⭐ 9
 ### 🛠️ Withings Python SDK by Maxime Bouroumeau-Fuseau
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/maximebf/python-withings)
 
@@ -48,8 +42,6 @@
 - **Author**: 👤 maximebf
 - **Stars**: ⭐ 71
 ### 🛠️  Withings PHP Library by Alexander Liljengård 
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/Zn4rK/php-withings)
 

@@ -4,11 +4,11 @@
 > **Google Cloud Translation API v3 provides neural machine translation for 100+ languages with AutoML support, glossaries, batch translation, and document translation capabilities.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Translation`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Translation`](../../README.md#translation-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

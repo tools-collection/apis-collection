@@ -4,11 +4,11 @@
 > **Newspaper Directory to find information about American newspapers published between 1690-present. Search America&#x27;s historic newspaper pages from 1777-1963 or use the U. S**
 
 ## 📝 Details
-- **🏷️ Categories**: `News &amp; Feeds`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

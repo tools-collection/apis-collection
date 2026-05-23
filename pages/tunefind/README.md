@@ -1,15 +1,14 @@
 # 📦 [TuneFind](http://www.tunefind.com/api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tunefind/logo_256x256.png" alt="TuneFind logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Since 2005 Tunefind has been the leading site dedicated to tracking the music featured in TV shows and movies. Whether your app or site is focused on music discovery or TV and film entertainment, Tunefind can provide the most comprehensive data available to power fan engagement through music.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Music &amp; Audio`, `Recognition`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Music & Audio`](../../README.md#music--audio-), [`Recognition`](../../README.md#recognition-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Spotifind NodeJS SDK by Pedro Otero Prada
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/pedro-otero/spotifind)
 - **Source**: [💻 Source Code](https://www.npmjs.com/package/spotifind)
@@ -31,8 +28,6 @@
 - **Author**: 👤 pedro-otero
 
 ### 🛠️ TuneFind NodeJS SDK by Pedro Otero Prada
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://www.npmjs.com/package/tunefindjs)
 
@@ -40,8 +35,6 @@
 
 
 ### 🛠️ TuneFind Perl SDK by Hondallica 
-
-
 - **Platform**: `PERL`
 - **Docs**: [📚 Documentation](https://github.com/hondallica/p5-WebService-TuneFind)
 
@@ -49,8 +42,6 @@
 - **Author**: 👤 hondallica
 
 ### 🛠️ TuneFind Python SDK by Christopher Brasington
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/chrisbrasington/tunefind-playlist-generator)
 
@@ -58,8 +49,6 @@
 - **Author**: 👤 achristrophe
 - **Stars**: ⭐ 2
 ### 🛠️ TuneFind Ruby SDK by Marcus Mansur
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/louman/tunefind)
 
@@ -67,8 +56,6 @@
 - **Author**: 👤 louman
 
 ### 🛠️ TuneFind JavaScript SDK by Autarc
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://github.com/Sonarvio/tunefind)
 

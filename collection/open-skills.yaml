@@ -5,7 +5,7 @@ categories:
   - Jobs
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-skills/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview

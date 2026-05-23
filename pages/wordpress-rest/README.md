@@ -4,11 +4,11 @@
 > **WordPress REST API provides endpoints for posts, pages, media, users, taxonomies, and custom post types. Build headless WordPress sites and automate content management workflows.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Documents &amp; Productivity`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

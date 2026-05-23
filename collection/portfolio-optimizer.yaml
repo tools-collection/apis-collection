@@ -6,7 +6,7 @@ categories:
   - Finance & Economics
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/portfolio-optimizer/logo_256x256.png
+logo: null
 contact: contact@portfoliooptimizer.io
 links:
   - name: Docs / Website

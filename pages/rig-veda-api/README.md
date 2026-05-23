@@ -4,11 +4,11 @@
 > **All of the poets and gods in the Rig Veda, presented with the mandal and sukta numbers they&#x27;re mentioned in, the meters the verses are composed in, and the categories the poets and gods belong to**
 
 ## 📝 Details
-- **🏷️ Categories**: `Other`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Other`](../../README.md#other-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

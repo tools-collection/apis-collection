@@ -4,11 +4,11 @@
 > **monday.com&#x27;s GraphQL API provides access to boards, items, columns, updates, and automations. Build work management integrations and sync data with monday.com&#x27;s platform.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Project Management`, `Development`
-- **🔌 Type**: `GraphQL`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Project Management`](../../README.md#project-management-), [`Development`](../../README.md#development-)
+- **Type**: `GraphQL`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

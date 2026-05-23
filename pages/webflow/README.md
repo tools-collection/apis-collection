@@ -4,11 +4,11 @@
 > **Webflow&#x27;s CMS API manages collections, items, sites, pages, and forms. Build headless CMS integrations, sync content, and automate publishing workflows for Webflow sites.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Documents &amp; Productivity`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

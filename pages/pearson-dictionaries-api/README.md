@@ -4,11 +4,11 @@
 > **) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month**
 
 ## 📝 Details
-- **🏷️ Categories**: `Content &amp; Dictionaries`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

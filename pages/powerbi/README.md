@@ -4,11 +4,11 @@
 > **Power BI&#x27;s REST API manages datasets, reports, dashboards, workspaces, and data refreshes. Embed Power BI analytics, automate report publishing, and manage BI infrastructure programmatically.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Analytics`, `Statistics &amp; Data`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Analytics`](../../README.md#analytics-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

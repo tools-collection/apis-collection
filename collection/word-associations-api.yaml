@@ -6,7 +6,7 @@ categories:
   - AI & ML
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/word-associations-api/logo_256x256.png
+logo: null
 contact: contact@wordassociations.net
 links:
   - name: Docs / Website

@@ -4,11 +4,11 @@
 > **General knowledge on every topic; query it all with natural language input. Easily add top-of-the-line computational knowledge into your applications with Wolfram|Alpha APIs. Options from free to pre-built and custom solutions. The official Wolfram|Alpha API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Statistics &amp; Data`, `Search`, `Text Analysis &amp; Tools`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`Search`](../../README.md#search-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Wolfram Alpha .Net SDK by Ian Qvist
-
-
 - **Platform**: `.Net, C#`
 - **Docs**: [📚 Documentation](https://github.com/Genbox/WolframAlpha.NET)
 
@@ -30,8 +28,6 @@
 - **Author**: 👤 Genbox
 - **Stars**: ⭐ 45
 ### 🛠️ Wolfram Alpha Python Library by Derik Pereira
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](http://products.wolframalpha.com/api/libraries.html)
 

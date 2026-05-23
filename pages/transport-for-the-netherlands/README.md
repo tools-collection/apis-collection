@@ -1,15 +1,14 @@
 # 📦 [Transportation in Netherlands](http://www.ns.nl/reisinformatie/ns-api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-the-netherlands/logo_256x256.png" alt="Transportation in Netherlands logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **NS has a large amount of data with information about the planned and current timetable**
 
 ## 📝 Details
-- **🏷️ Categories**: `Transportation`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

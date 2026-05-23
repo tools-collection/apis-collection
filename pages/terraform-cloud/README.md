@@ -4,11 +4,11 @@
 > **Terraform Cloud&#x27;s API manages workspaces, runs, state versions, variables, and organizations. Automate infrastructure provisioning workflows and integrate IaC into CI/CD pipelines.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

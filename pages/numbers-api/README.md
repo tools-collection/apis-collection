@@ -1,15 +1,14 @@
 # 📦 [Numbers Api](https://math.tools/api/numbers/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/numbers-api/logo_256x256.png" alt="Numbers Api logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`, `Education`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Education`](../../README.md#education-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

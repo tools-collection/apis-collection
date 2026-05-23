@@ -4,11 +4,11 @@
 > **Integration developer utility APIs. By API Name [Default] By API Provider [ Syntax - provider:xxxx ] or By API Version [ Syntax - version:xxxx ] or By Context [ Syntax - context:xxxx ] or By Description [ Syntax - description:xxxx ]**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

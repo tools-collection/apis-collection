@@ -5,11 +5,11 @@
 > **A simple JSON store for your web or mobile app**
 
 ## 📝 Details
-- **🏷️ Categories**: `Files &amp; Storage`, `Development`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Files & Storage`](../../README.md#files--storage-), [`Development`](../../README.md#development-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

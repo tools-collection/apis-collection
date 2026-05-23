@@ -6,11 +6,11 @@ Real-time monitoring service for all your email traffic.
 Responsive email design with MJML and Passport**
 
 ## 📝 Details
-- **🏷️ Categories**: `Email &amp; SMS`, `Marketing &amp; SEO`, `Analytics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Marketing & SEO`](../../README.md#marketing--seo-), [`Analytics`](../../README.md#analytics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -23,8 +23,6 @@ Responsive email design with MJML and Passport**
 
 ## 🧰 Libraries
 ### 🛠️ Mailjet Symfony PHP SDK by Marc Galoyer
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/uneak/MailjetBundle)
 
@@ -32,8 +30,6 @@ Responsive email design with MJML and Passport**
 - **Author**: 👤 uneak
 - **Stars**: ⭐ 1
 ### 🛠️ Mailjet Node.js SDK by Clément Delafargue
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/divarvel/node-mailjet-v3)
 
@@ -41,8 +37,6 @@ Responsive email design with MJML and Passport**
 - **Author**: 👤 divarvel
 
 ### 🛠️ Mailjet Node.js SDK by psolbach
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/psolbach/node-mailjet)
 
@@ -50,8 +44,6 @@ Responsive email design with MJML and Passport**
 - **Author**: 👤 psolbach
 
 ### 🛠️ Mailjet Symfony PHP SDK by Mehdi ZOGHLAMI
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/Vooodoo/MailJetBundle)
 
@@ -59,8 +51,6 @@ Responsive email design with MJML and Passport**
 
 
 ### 🛠️ Mailjet Node.js SDK by panosru
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/panosru/node-mailjet)
 
@@ -68,8 +58,6 @@ Responsive email design with MJML and Passport**
 - **Author**: 👤 panosru
 - **Stars**: ⭐ 6
 ### 🛠️ Mailjet Symfony PHP SDK by KNP Labs
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/KnpLabs/KnpMailjetBundle)
 
@@ -77,8 +65,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 10
 ### 🛠️ Mailjet Python SDK by Rick van Hattem
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/WoLpH/mailjet)
 
@@ -86,8 +72,6 @@ Responsive email design with MJML and Passport**
 - **Author**: 👤 WoLpH
 - **Stars**: ⭐ 18
 ### 🛠️ Mailjet PHP SDK by Arnaud Ligny
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/Narno/Mailjet-API)
 
@@ -95,8 +79,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 1
 ### 🛠️ Mailjet Node.js SDK by Ryan Flanagan
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/Ranagan/node-mailjet-api)
 
@@ -104,8 +86,6 @@ Responsive email design with MJML and Passport**
 - **Author**: 👤 Ranagan
 
 ### 🛠️ Mailjet Elixir SDK by PiggyPot
-
-
 - **Platform**: `Elixir`
 - **Docs**: [📚 Documentation](https://github.com/PiggyPot/mailjex)
 
@@ -113,8 +93,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 7
 ### 🛠️ Mailjet Go SDK by Mailjet
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-go)
 
@@ -122,8 +100,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 51
 ### 🛠️ Mailjet Python SDK by Mailjet
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-python)
 
@@ -131,8 +107,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 70
 ### 🛠️ Mailjet Node.js SDK by Mailjet
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-nodejs)
 - **Source**: [💻 Source Code](https://github.com/mailjet/mailjet-apiv3-nodejs)
@@ -140,8 +114,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 134
 ### 🛠️ Mailjet Ruby SDK by Mailjet
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-gem)
 
@@ -149,8 +121,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 119
 ### 🛠️ Mailjet Java SDK by Mailjet
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-java)
 
@@ -158,8 +128,6 @@ Responsive email design with MJML and Passport**
 
 - **Stars**: ⭐ 51
 ### 🛠️ Mailjet PHP SDK by Mailjet
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/mailjet/mailjet-apiv3-php-simple)
 

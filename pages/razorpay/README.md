@@ -4,11 +4,11 @@
 > **Razorpay&#x27;s Payment APIs support UPI, cards, net banking, and wallets for the Indian market. Features include payment links, subscriptions, payouts, and route-based split payments.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Find out how Swagger can help you and get started today. Simplify API development for users, teams, and enterprises with our open source and professional toolset**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

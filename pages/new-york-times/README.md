@@ -4,11 +4,11 @@
 > **Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, people**
 
 ## 📝 Details
-- **🏷️ Categories**: `News &amp; Feeds`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

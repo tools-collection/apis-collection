@@ -4,11 +4,11 @@
 > **Frankfurter currency data API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

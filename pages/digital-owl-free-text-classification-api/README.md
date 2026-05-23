@@ -4,11 +4,11 @@
 > **Free for use text classification, sentiment analysis, semantic similarity and word analysis api.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Text Analysis &amp; Tools`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **A description of all of the nouns in vedic literature, including the flora, fauna, geography, food, relationships, and objects (personal nouns not included, though).**
 
 ## 📝 Details
-- **🏷️ Categories**: `Other`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Other`](../../README.md#other-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

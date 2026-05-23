@@ -4,11 +4,11 @@
 > **A dataset containing all the car makes. Edmunds has detailed specs, customer ratings, photos &amp; videos, pricing, etc**
 
 ## 📝 Details
-- **🏷️ Categories**: `Vehicles`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Vehicles`](../../README.md#vehicles-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

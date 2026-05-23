@@ -4,11 +4,11 @@
 > **Stability AI&#x27;s API provides access to Stable Diffusion and SDXL models for image generation, editing, and upscaling. Supports text-to-image, image-to-image, and inpainting.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

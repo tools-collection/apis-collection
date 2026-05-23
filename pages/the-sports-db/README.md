@@ -4,11 +4,11 @@
 > **With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports (from soccer/football to handball).**
 
 ## 📝 Details
-- **🏷️ Categories**: `Sport &amp; Fitness`, `Open Source`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-), [`Open Source`](../../README.md#open-source-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

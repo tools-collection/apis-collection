@@ -4,11 +4,11 @@
 > **Pastebin is a website where you can store text online for a set period of time. Quickly share text or code, with support for over 250 languages for syntax highlighting. Pastebin. com is the number one paste tool since 2002**
 
 ## 📝 Details
-- **🏷️ Categories**: `Collaboration`, `Files &amp; Storage`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Collaboration`](../../README.md#collaboration-), [`Files & Storage`](../../README.md#files--storage-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

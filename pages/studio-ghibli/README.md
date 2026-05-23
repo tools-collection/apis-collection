@@ -4,11 +4,11 @@
 > **Resources from Studio Ghibli films**
 
 ## 📝 Details
-- **🏷️ Categories**: `Comics &amp; Anime`, `Entertainment`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Comics & Anime`](../../README.md#comics--anime-), [`Entertainment`](../../README.md#entertainment-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Studio Ghibli Go SDK by Ryan Christiani
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/Rchristiani/totoro)
 

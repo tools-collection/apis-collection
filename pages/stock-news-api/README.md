@@ -4,11 +4,11 @@
 > **Get the latest stock news from the best news sources. Use this API to get relevant video and article content from companies in the stock market.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Finance &amp; Economics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

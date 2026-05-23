@@ -4,11 +4,11 @@
 > **Unofficial Google News API. GNews is an API to search for articles from a variety of sources, including Google News. Also provides top headlines from which you can filter by topic such as world, business, sports.**
 
 ## 📝 Details
-- **🏷️ Categories**: `News &amp; Feeds`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`News & Feeds`](../../README.md#news--feeds-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

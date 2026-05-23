@@ -4,11 +4,11 @@
 > **Polygon.io provides real-time and historical stock, options, forex, and crypto market data. Access aggregates, trades, quotes, financials, and news via REST and WebSocket APIs.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

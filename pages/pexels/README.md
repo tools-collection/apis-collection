@@ -4,11 +4,11 @@
 > **Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license**
 
 ## 📝 Details
-- **🏷️ Categories**: `Open Source`, `Files &amp; Storage`, `Art &amp; Design`, `Images &amp; Photography`, `Collaboration`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Open Source`](../../README.md#open-source-), [`Files & Storage`](../../README.md#files--storage-), [`Art & Design`](../../README.md#art--design-), [`Images & Photography`](../../README.md#images--photography-), [`Collaboration`](../../README.md#collaboration-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

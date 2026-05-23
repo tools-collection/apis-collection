@@ -4,11 +4,11 @@
 > **Helps developers build, grow and monetize their business. Code to connect people with Facebook for Developers. Explore AI, business tools, gaming, open source, publishing, social hardware, social integration, and virtual reality. Learn about Facebook’s global programs to educate and connect developers**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Virtual &amp; Augmented Reality`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Virtual & Augmented Reality`](../../README.md#virtual--augmented-reality-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

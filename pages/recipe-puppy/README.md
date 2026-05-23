@@ -4,11 +4,11 @@
 > **Recipe Puppy API lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Food &amp; Drinks`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

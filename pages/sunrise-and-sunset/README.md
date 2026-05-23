@@ -4,11 +4,11 @@
 > **Sunset and sunrise times API. Free API that provides sunset and sunrise times for a given latitude and longitude.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

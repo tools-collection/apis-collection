@@ -4,11 +4,11 @@
 > **Largest Crypto Mining Marketplace**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -6,7 +6,7 @@ categories:
   - Maps & Geo
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bng2latlong/logo_256x256.png
+logo: null
 contact: info@getthedata.com
 links:
   - name: Docs / Website

@@ -5,7 +5,7 @@ categories:
   - Music & Audio
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kkbox/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://developer.kkbox.com

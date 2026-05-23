@@ -4,11 +4,11 @@
 > **Supabase is an open-source Firebase alternative offering a RESTful API over PostgreSQL, real-time subscriptions, authentication, file storage, and Edge Functions.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Databases`, `Authentication &amp; User Management`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-), [`Authentication & User Management`](../../README.md#authentication--user-management-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

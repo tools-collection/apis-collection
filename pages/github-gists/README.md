@@ -4,11 +4,11 @@
 > **For more information. Access to GitHub’s Gists API. You can read public gists anonymously, but you must be signed into GitHub to create gists. To read or write gists on a user&#x27;s behalf, you need the gist OAuth scope and a token**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Files &amp; Storage`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Files & Storage`](../../README.md#files--storage-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

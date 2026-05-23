@@ -6,7 +6,7 @@ description: Amazon Simple Storage Service (Amazon S3) is storage for the intern
 categories:
   - Files & Storage
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/amazon-s3-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://aws.amazon.com/s3/

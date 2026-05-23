@@ -1,15 +1,14 @@
 # 📦 [Fixer.io](http://fixer.io/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fixer-io/logo_256x256.png" alt="Fixer.io logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **The API tracks rates published daily by the European Central Bank. JSON API for foreign exchange rates and currency conversion. End of day data only. Fixer provides a free, simple, and lightweight API for current and historical foreign exchange rates and currency conversion**
 
 ## 📝 Details
-- **🏷️ Categories**: `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

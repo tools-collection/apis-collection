@@ -4,11 +4,11 @@
 > **Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more. API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs**
 
 ## 📝 Details
-- **🏷️ Categories**: `Email &amp; SMS`, `Collaboration`, `Files &amp; Storage`, `Calendar &amp; Time`, `CRM`, `Documents &amp; Productivity`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Collaboration`](../../README.md#collaboration-), [`Files & Storage`](../../README.md#files--storage-), [`Calendar & Time`](../../README.md#calendar--time-), [`CRM`](../../README.md#crm-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Microsoft Graph JavaScript SDK by Microsoft
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://github.com/microsoftgraph/msgraph-sdk-javascript)
 
@@ -30,8 +28,6 @@
 
 - **Stars**: ⭐ 412
 ### 🛠️ Microsoft Graph PHP SDK by Microsoft
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/microsoftgraph/msgraph-sdk-php)
 
@@ -39,8 +35,6 @@
 
 - **Stars**: ⭐ 288
 ### 🛠️ Microsoft Graph Objective-C SDK by Microsoft
-
-
 - **Platform**: `Objective-C`
 - **Docs**: [📚 Documentation](https://github.com/microsoftgraph/msgraph-sdk-ios)
 
@@ -48,8 +42,6 @@
 
 - **Stars**: ⭐ 24
 ### 🛠️ Microsoft Graph Java SDK by Microsoft
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/microsoftgraph/msgraph-sdk-android)
 
@@ -57,8 +49,6 @@
 
 - **Stars**: ⭐ 52
 ### 🛠️ Microsoft Graph Ruby SDK by Microsoft
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/microsoftgraph/msgraph-sdk-ruby)
 
@@ -66,8 +56,6 @@
 
 - **Stars**: ⭐ 65
 ### 🛠️ Microsoft Graph Python SDK by Microsoft
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/microsoftgraph/msgraph-sdk-python)
 
@@ -75,8 +63,6 @@
 
 - **Stars**: ⭐ 40
 ### 🛠️ Microsoft Graph .Net SDK by Microsoft
-
-
 - **Platform**: `.Net`
 - **Docs**: [📚 Documentation](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
 

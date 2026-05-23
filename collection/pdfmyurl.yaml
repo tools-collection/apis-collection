@@ -9,7 +9,7 @@ categories:
   - Images & Photography
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdfmyurl/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://pdfmyurl.com/html-to-pdf-api

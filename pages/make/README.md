@@ -4,11 +4,11 @@
 > **Make&#x27;s API manages scenarios, modules, connections, and executions on the visual automation platform. Build and trigger automated workflows connecting 1,000+ apps and services.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Business`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Business`](../../README.md#business-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

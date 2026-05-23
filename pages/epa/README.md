@@ -4,11 +4,11 @@
 > **United States Environmental Protection Agency API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`, `Environment &amp; Nature`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-), [`Environment & Nature`](../../README.md#environment--nature-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

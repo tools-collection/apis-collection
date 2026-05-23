@@ -4,11 +4,11 @@
 > **A hosted REST-API ready to respond to AJAX requests**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Authentication &amp; User Management`, `Testing`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Testing`](../../README.md#testing-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

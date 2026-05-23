@@ -4,11 +4,11 @@
 > **Todo Lists**
 
 ## 📝 Details
-- **🏷️ Categories**: `Project Management`, `Documents &amp; Productivity`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Project Management`](../../README.md#project-management-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

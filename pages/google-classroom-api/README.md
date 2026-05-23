@@ -1,15 +1,14 @@
 # 📦 [Google Classroom API](https://developers.google.com/classroom/?hl&#x3D;en)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-classroom-api/logo_256x256.png" alt="Google Classroom API logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Provision and manage your Classroom courses**
 
 ## 📝 Details
-- **🏷️ Categories**: `Education`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Education`](../../README.md#education-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Moralis Web3 API provides NFT data, token balances, DeFi positions, transaction history, and wallet analytics across EVM-compatible blockchains including Ethereum, Polygon, and BNB Chain.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

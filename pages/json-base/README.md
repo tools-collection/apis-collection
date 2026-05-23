@@ -4,11 +4,11 @@
 > **API Based JSON Storage. The free plan allows you to store 100,000 write ops per month and 1 million read operations per month.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Databases`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Databases`](../../README.md#databases-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

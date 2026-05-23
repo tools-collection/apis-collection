@@ -4,11 +4,11 @@
 > **SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`, `Validation &amp; Verification`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ SecurityTrails Python SDK By secops4thewin
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/secops4thewin/securitytrails-python/blob/master/README.md)
 - **Source**: [💻 Source Code](https://github.com/secops4thewin/securitytrails-python)

@@ -4,11 +4,11 @@
 > **The Mapbox Matrix API returns travel times between many points**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Post &amp; Logistics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

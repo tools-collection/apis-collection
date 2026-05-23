@@ -4,11 +4,11 @@
 > **100k+ trivia entries available via REST API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Games`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Games`](../../README.md#games-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

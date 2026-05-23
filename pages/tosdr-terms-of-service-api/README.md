@@ -4,11 +4,11 @@
 > **Terms of service are often too long to read, but it&#x27;s important to understand what&#x27;s in them. Your rights online depend on them. This service can help you get informed about your rights.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Other`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Other`](../../README.md#other-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

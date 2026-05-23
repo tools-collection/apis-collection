@@ -8,7 +8,7 @@ categories:
   - Scrapers & Data Mining
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spotify/logo_256x256.png
+logo: null
 contact: admin@spinbot.net
 links:
   - name: Docs / Website

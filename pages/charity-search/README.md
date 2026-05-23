@@ -4,11 +4,11 @@
 > **The OrgHunter Charity API provides developers access to over 2M charities in it&#x27;s database**
 
 ## 📝 Details
-- **🏷️ Categories**: `Other`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Other`](../../README.md#other-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

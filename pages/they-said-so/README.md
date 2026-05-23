@@ -4,11 +4,11 @@
 > **They Said So Quotes API offers a complete feature rich REST API access to its quotes platform.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Fun`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Fun`](../../README.md#fun-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ They Said So Node.js SDK by Adam Barker
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/q-state/node-theysaidso)
 

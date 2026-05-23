@@ -5,11 +5,11 @@
 > **5 million), book covers and related data. Books published in the Netherlands and Flanders (about 2**
 
 ## 📝 Details
-- **🏷️ Categories**: `Books`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Books`](../../README.md#books-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **OpenAI&#x27;s API provides access to GPT-4o, o-series reasoning models, DALL-E, Whisper, and Embeddings. Build AI-powered applications for text generation, image generation, speech recognition, real-time audio, and web search.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

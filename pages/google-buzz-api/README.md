@@ -5,11 +5,11 @@
 > **A social platform that both users and developers can interact with, the company has faced some difficulty in gaining ongoing traction**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

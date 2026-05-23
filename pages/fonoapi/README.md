@@ -4,11 +4,11 @@
 > **Mobile Device Description Api**
 
 ## 📝 Details
-- **🏷️ Categories**: `Hardware`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Hardware`](../../README.md#hardware-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

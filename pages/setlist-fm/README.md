@@ -4,11 +4,11 @@
 > **setlist.fm is a free wiki-like service to collect and share setlists. The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

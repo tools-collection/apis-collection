@@ -4,11 +4,11 @@
 > **Czech Holidays API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`, `Calendar &amp; Time`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-), [`Calendar & Time`](../../README.md#calendar--time-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

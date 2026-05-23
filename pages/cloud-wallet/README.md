@@ -4,11 +4,11 @@
 > **Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide. It allows developers to reduce cost &amp; time-to-market while building and scaling**
 
 ## 📝 Details
-- **🏷️ Categories**: `IoT &amp; Home Automation`, `Payments`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`IoT & Home Automation`](../../README.md#iot--home-automation-), [`Payments`](../../README.md#payments-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

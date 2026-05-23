@@ -4,11 +4,11 @@
 > **JSON API for returning meaty lorem ipsum filler text.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Testing`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Testing`](../../README.md#testing-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Bacon Ipsum PHP SDK
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/petenelson/wp-any-ipsum/tree/master/lib)
 

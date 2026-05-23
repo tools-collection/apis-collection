@@ -4,11 +4,11 @@
 > **Cal.com&#x27;s API manages bookings, event types, availability, users, and webhooks for the open-source scheduling platform. Build calendar and scheduling integrations programmatically.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Calendar &amp; Time`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

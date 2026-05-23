@@ -5,11 +5,11 @@
 > **Return developer friendly JSON data for almost any article**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

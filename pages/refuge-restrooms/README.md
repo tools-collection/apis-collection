@@ -4,11 +4,11 @@
 > **Refuge Restrooms**
 
 ## 📝 Details
-- **🏷️ Categories**: `Point of Interest`, `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Point of Interest`](../../README.md#point-of-interest-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Shorten long URLs and optionally protect them with passwords or captcha. No registration required**
 
 ## 📝 Details
-- **🏷️ Categories**: `URLs`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`URLs`](../../README.md#urls-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

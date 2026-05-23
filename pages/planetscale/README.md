@@ -4,11 +4,11 @@
 > **PlanetScale&#x27;s API provides programmatic access to manage MySQL-compatible databases, branches, deploy requests, and organizations on the PlanetScale platform.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Databases`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

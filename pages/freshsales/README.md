@@ -4,11 +4,11 @@
 > **Freshsales CRM API provides access to contacts, accounts, deals, tasks, and sales sequences. Build sales automation integrations and sync data with Freshsales&#x27; AI-powered CRM platform.**
 
 ## 📝 Details
-- **🏷️ Categories**: `CRM`, `Business`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`CRM`](../../README.md#crm-), [`Business`](../../README.md#business-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

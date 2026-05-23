@@ -4,11 +4,11 @@
 > **Database of historical events**
 
 ## 📝 Details
-- **🏷️ Categories**: `Content &amp; Dictionaries`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -1,15 +1,14 @@
 # 📦 [Rick and Morty](https://rickandmortyapi.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rick-and-morty/logo_256x256.png" alt="Rick and Morty logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Comics &amp; Anime`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Comics & Anime`](../../README.md#comics--anime-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

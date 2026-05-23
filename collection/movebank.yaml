@@ -5,7 +5,7 @@ categories:
   - Animals
 type: REST
 is_free: true
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/movebank/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://github.com/movebank/movebank-api-doc

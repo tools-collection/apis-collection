@@ -4,11 +4,11 @@
 > **Random image of a fox**
 
 ## 📝 Details
-- **🏷️ Categories**: `Animals`, `Images &amp; Photography`, `Random`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Animals`](../../README.md#animals-), [`Images & Photography`](../../README.md#images--photography-), [`Random`](../../README.md#random-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

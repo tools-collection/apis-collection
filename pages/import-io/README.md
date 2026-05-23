@@ -4,11 +4,11 @@
 > **Import.io enables any organization to gain intelligence, efficiencies, and competitive advantages from the vast amount of data on the web.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Scrapers &amp; Data Mining`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

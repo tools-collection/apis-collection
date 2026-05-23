@@ -7,7 +7,7 @@ categories:
   - News & Feeds
   - Scrapers & Data Mining
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/trawlingweb/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://trawlingweb.com/

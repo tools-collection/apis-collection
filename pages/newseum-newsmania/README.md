@@ -4,11 +4,11 @@
 > **Gives you access to 1000s of Trivia questions. Your browser will redirect to your requested content shortly. This process is automatic. Please allow**
 
 ## 📝 Details
-- **🏷️ Categories**: `Games`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Games`](../../README.md#games-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

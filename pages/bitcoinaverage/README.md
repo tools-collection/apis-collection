@@ -4,11 +4,11 @@
 > **The world&#x27;s best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ BitcoinAverage NodeJS SDK
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://www.npmjs.com/package/bitcoinaverage)
 
@@ -30,8 +28,6 @@
 
 
 ### 🛠️ BitcoinAverage Python PIP SDK
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/bitcoinaverage/api-integration-examples/)
 

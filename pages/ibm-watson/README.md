@@ -1,16 +1,15 @@
 # 📦 [IBM Watson](https://developer.ibm.com/watson/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ibm-watson/logo_256x256.png" alt="IBM Watson logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Build and train models, and create apps, with a trusted AI-infused platform. Offers a variety of services for building cognitive apps.
 A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Voice`, `Text Analysis &amp; Tools`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -23,8 +22,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 ## 🧰 Libraries
 ### 🛠️ IBM Watson Go SDK
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/watson-developer-cloud/go-sdk)
 
@@ -32,8 +29,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 67
 ### 🛠️ IBM Watson C# SDK by Denny Headrick
-
-
 - **Platform**: `.Net, C#`
 - **Docs**: [📚 Documentation](https://github.com/dennyboy/WatsonCSharp)
 
@@ -41,8 +36,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 - **Author**: 👤 dennyboy
 - **Stars**: ⭐ 2
 ### 🛠️ IBM Watson Go SDK by Livio Soares
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/liviosoares/go-watson-sdk)
 
@@ -50,8 +43,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 - **Author**: 👤 liviosoares
 - **Stars**: ⭐ 86
 ### 🛠️ IBM Watson .Net SDK by Watson Developer Cloud
-
-
 - **Platform**: `.Net`
 - **Docs**: [📚 Documentation](https://github.com/watson-developer-cloud/dotnet-standard-sdk)
 
@@ -59,8 +50,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 146
 ### 🛠️ IBM Watson Android SDK by Watson Developer Cloud
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/watson-developer-cloud/android-sdk)
 
@@ -68,8 +57,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 137
 ### 🛠️ IBM Watson Ruby SDK by suchowan
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/suchowan/watson-api-client)
 
@@ -77,8 +64,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 - **Author**: 👤 suchowan
 - **Stars**: ⭐ 26
 ### 🛠️ IBM Watson R SDK by ColumbusCollaboratory
-
-
 - **Platform**: `R`
 - **Docs**: [📚 Documentation](https://github.com/ColumbusCollaboratory/cognizer)
 
@@ -86,8 +71,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 120
 ### 🛠️ IBM Watson Unity SDK by Watson Developer Cloud
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://github.com/watson-developer-cloud/unity-sdk)
 
@@ -95,8 +78,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 541
 ### 🛠️ IBM Watson Swift SDK by Watson Developer Cloud
-
-
 - **Platform**: `Swift`
 - **Docs**: [📚 Documentation](https://github.com/watson-developer-cloud/swift-sdk)
 
@@ -104,8 +85,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 876
 ### 🛠️ IBM Watson PHP SDK by FindBrok
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/findbrok/php-watson-api-bridge)
 
@@ -113,8 +92,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 31
 ### 🛠️ IBM Watson Objective-C SDK by Watson Developer Cloud
-
-
 - **Platform**: `Objective-C`
 - **Docs**: [📚 Documentation](https://github.com/watson-developer-cloud/ios-sdk)
 
@@ -122,8 +99,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 876
 ### 🛠️ IBM Watson Developer Cloud Python SDK by Watson Developer Cloud
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://pypi.python.org/pypi/watson-developer-cloud)
 - **Source**: [💻 Source Code](https://github.com/watson-developer-cloud/python-sdk)
@@ -131,8 +106,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 1334
 ### 🛠️ IBM Watson Java SDK by Watson Developer Cloud
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](http://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/java-sdk)
 - **Source**: [💻 Source Code](https://github.com/watson-developer-cloud/java-sdk)
@@ -140,8 +113,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 585
 ### 🛠️ IBM Watson NodeJS SDK by Watson Developer Cloud
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://www.npmjs.com/package/watson-developer-cloud)
 - **Source**: [💻 Source Code](https://github.com/watson-developer-cloud/node-sdk)
@@ -149,8 +120,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 - **Stars**: ⭐ 1425
 ### 🛠️ IBM Bluemix Globalization Pipeline Node.js SDK by IBM Bluemix
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/node-js-sdk/)
 
@@ -158,8 +127,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 
 ### 🛠️  IBM Bluemix Globalization Pipeline Java SDK by IBM Bluemix
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/java-sdk/)
 
@@ -167,8 +134,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 
 ### 🛠️ IBM Bluemix Globalization Pipeline Ruby SDK by IBM Bluemix
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/ruby-sdk/)
 
@@ -176,8 +141,6 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 
 
 ### 🛠️ PersonifyJS
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](http://personifyjs.github.io/)
 - **Source**: [💻 Source Code](https://github.com/PersonifyJS/personify.js)

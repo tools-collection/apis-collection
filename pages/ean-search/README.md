@@ -1,15 +1,14 @@
 # 📦 [EAN-Search](https://www.ean-search.org/ean-database-api.html)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ean-search/logo_256x256.png" alt="EAN-Search logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name. The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode**
 
 ## 📝 Details
-- **🏷️ Categories**: `Statistics &amp; Data`, `Bar &amp; QR Codes`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Statistics & Data`](../../README.md#statistics--data-), [`Bar & QR Codes`](../../README.md#bar--qr-codes-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **iNaturalist&#x27;s API provides access to biodiversity observations, species identifications, taxa, and geographic data contributed by naturalists worldwide. Free for research and education.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Environment &amp; Nature`, `Animals`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-), [`Animals`](../../README.md#animals-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Provids a places search that can be searched by latitude/longitude, and “where” using full text search query string**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Factual Engine iOS SDK
-
-
 - **Platform**: `Objective-C`
 - **Docs**: [📚 Documentation](http://developer.factual.com/engine/)
 - **Source**: [💻 Source Code](http://developer.factual.com/engine/ios/)

@@ -7,7 +7,7 @@ categories:
   - Scrapers & Data Mining
 type: REST
 is_free: true
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdflayer/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://pdflayer.com

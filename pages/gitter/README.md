@@ -4,11 +4,11 @@
 > **Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Chats &amp; Messaging`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

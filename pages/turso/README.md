@@ -4,11 +4,11 @@
 > **Turso provides edge SQLite databases powered by libSQL. API manages databases, groups, and organizations with support for embedded replicas and multi-tenant architectures.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Databases`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Databases`](../../README.md#databases-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

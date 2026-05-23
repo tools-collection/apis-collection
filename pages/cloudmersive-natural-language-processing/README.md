@@ -13,11 +13,11 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 - Language Detection**
 
 ## 📝 Details
-- **🏷️ Categories**: `Text Analysis &amp; Tools`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

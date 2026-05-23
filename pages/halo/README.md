@@ -4,11 +4,11 @@
 > **Halo Public API. With this API you’ll be able to craft your own experiences using the same APIs Halo&#x27;s team uses to build the game.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Games`, `Entertainment`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Games`](../../README.md#games-), [`Entertainment`](../../README.md#entertainment-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database. Usage Guidelines Remember that**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`, `Video &amp; Media`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-), [`Video & Media`](../../README.md#video--media-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ MusicApiCollection C# SDK by BigGranu
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://github.com/BigGranu/MusicApiCollection)
 

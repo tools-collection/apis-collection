@@ -1,15 +1,14 @@
 # 📦 [Clust](https://clustdoc.com/developers)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clust/logo_256x256.png" alt="Clust logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **The best way to gather anyone’s documents, directly from your app &amp; without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)**
 
 ## 📝 Details
-- **🏷️ Categories**: `Business`, `Collaboration`, `CRM`, `Documents &amp; Productivity`, `Forms &amp; Surveys`, `Chats &amp; Messaging`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Business`](../../README.md#business-), [`Collaboration`](../../README.md#collaboration-), [`CRM`](../../README.md#crm-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`Forms & Surveys`](../../README.md#forms--surveys-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

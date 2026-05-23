@@ -5,11 +5,11 @@
 > **Music**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -5,11 +5,11 @@
 > **Extract relevant content from articles. ContentXtractor automatically extracts relevant content from articles/blog with a simple API call**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

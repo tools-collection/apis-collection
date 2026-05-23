@@ -6,7 +6,7 @@ categories:
   - Other
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dataflow-kit/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://dataflowkit.com/doc-api

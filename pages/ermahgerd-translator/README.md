@@ -5,11 +5,11 @@
 > **This translates text to ERMAHGERD**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Fun`, `Translation`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-), [`Translation`](../../README.md#translation-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

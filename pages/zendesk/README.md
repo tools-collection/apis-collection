@@ -4,11 +4,11 @@
 > **Zendesk&#x27;s REST API manages support tickets, users, organizations, macros, and automations. Build customer support integrations, chatbots, and helpdesk workflows.**
 
 ## 📝 Details
-- **🏷️ Categories**: `CRM`, `Business`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`CRM`](../../README.md#crm-), [`Business`](../../README.md#business-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

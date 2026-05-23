@@ -4,11 +4,11 @@
 > **World&#x27;s largest open database of companies**
 
 ## 📝 Details
-- **🏷️ Categories**: `Business`, `Statistics &amp; Data`, `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Business`](../../README.md#business-), [`Statistics & Data`](../../README.md#statistics--data-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **API to query zip codes and orders in an easy, fast and free way.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Post &amp; Logistics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

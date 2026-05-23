@@ -4,11 +4,11 @@
 > **The PWRTelegram MTProto API. Boosted version of the Telegram bot API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

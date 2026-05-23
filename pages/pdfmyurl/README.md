@@ -1,15 +1,14 @@
 # 📦 [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdfmyurl/logo_256x256.png" alt="PDFmyURL logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line! Options for page format, layout, headers, footers, watermarking and more. RESTful API that converts webpages to PDF quickly and even does entire websites to PDF**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`, `Documents &amp; Productivity`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

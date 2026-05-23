@@ -4,11 +4,11 @@
 > **You can GET to retrieve your text and you can POST to change your stored text. Store up to 2000 ASCII chararacters.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Other`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Other`](../../README.md#other-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

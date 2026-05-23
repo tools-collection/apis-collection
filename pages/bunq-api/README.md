@@ -7,11 +7,11 @@ bunq is an anti-bank that is licenced to work in Europe. ApplePay integrated.
 Let&#x27;s cooperate!**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Finance &amp; Economics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

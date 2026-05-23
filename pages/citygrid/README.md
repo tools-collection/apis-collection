@@ -4,11 +4,11 @@
 > **Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Commerce`, `Search`, `Point of Interest`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Commerce`](../../README.md#commerce-), [`Search`](../../README.md#search-), [`Point of Interest`](../../README.md#point-of-interest-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ CityGrid Node.js SDK by Jon Wicks 
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/jwicks/node-citygrid)
 
@@ -30,8 +28,6 @@
 - **Author**: 👤 jwicks
 - **Stars**: ⭐ 2
 ### 🛠️ CityGrid Ruby SDK by CityGrid
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/CityGrid/citygrid_api)
 

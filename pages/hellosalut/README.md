@@ -1,15 +1,14 @@
 # 📦 [HelloSalut](https://www.fourtonfish.com/hellosalut/hello/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hellosalut/logo_256x256.png" alt="HelloSalut logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Say hello to your website visitors in their native language**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

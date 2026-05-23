@@ -1,15 +1,14 @@
 # 📦 [Picatic](http://developer.picatic.com/?utm_medium&#x3D;web&amp;utm_source&#x3D;github&amp;utm_campaign&#x3D;public-apis%20repo&amp;utm_content&#x3D;abhishekbanthia)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/picatic/logo_256x256.png" alt="Picatic logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Sell tickets directly from your app or website. The ticketing and event management platform that puts the power in your hands**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Authentication &amp; User Management`, `Events`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Authentication & User Management`](../../README.md#authentication--user-management-), [`Events`](../../README.md#events-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

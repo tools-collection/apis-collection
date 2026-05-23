@@ -4,11 +4,11 @@
 > **Careerjet public search API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Jobs`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Jobs`](../../README.md#jobs-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ jobs-engine C# SDK by Ahmed Farahat
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://github.com/farahat80/jobs-engine)
 

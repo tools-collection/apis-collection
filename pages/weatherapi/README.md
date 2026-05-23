@@ -4,11 +4,11 @@
 > **WeatherAPI provides real-time, forecast, and historical weather data, plus astronomy, time zone, and geolocation information. Simple REST API with global coverage and JSON/XML responses.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Weather`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Weather`](../../README.md#weather-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -5,11 +5,11 @@
 > **Gather and compare all kinds of interesting data, they weren&#x27;t really interactive with Gowalla itself**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Social`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Social`](../../README.md#social-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **A Taylor Swift REST API, written in Deno**
 
 ## 📝 Details
-- **🏷️ Categories**: `Health`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Health`](../../README.md#health-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Random dog image API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Animals`, `Fun`, `Random`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Animals`](../../README.md#animals-), [`Fun`](../../README.md#fun-), [`Random`](../../README.md#random-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

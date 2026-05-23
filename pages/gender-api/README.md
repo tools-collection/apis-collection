@@ -4,11 +4,11 @@
 > **Keep your registration forms simple. Optimize your conversions and let us determine the gender of your customers.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Forms &amp; Surveys`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Forms & Surveys`](../../README.md#forms--surveys-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

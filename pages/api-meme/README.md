@@ -4,11 +4,11 @@
 > **Generate memes with a simple link!. Meme Top Text Bottom Text Link To access the API without the watermark, click here**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Fun`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

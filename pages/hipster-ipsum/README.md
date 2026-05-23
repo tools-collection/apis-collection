@@ -5,11 +5,11 @@
 > **Generates Hipster Ipsum text**
 
 ## 📝 Details
-- **🏷️ Categories**: `Testing`, `Random`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Testing`](../../README.md#testing-), [`Random`](../../README.md#random-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

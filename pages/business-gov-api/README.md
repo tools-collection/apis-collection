@@ -4,11 +4,11 @@
 > **Create the Uber for anything, a small business API for on-demand fulfillment.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`, `Business`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-), [`Business`](../../README.md#business-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

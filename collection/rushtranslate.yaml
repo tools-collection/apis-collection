@@ -12,7 +12,7 @@ categories:
   - Documents & Productivity
   - Translation
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rushtranslate/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://rushtranslate.com/docs

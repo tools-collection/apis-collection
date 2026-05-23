@@ -5,7 +5,7 @@ description: This web scraping API handles all problems that are related to web 
 categories:
   - Scrapers & Data Mining
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zenscrape-web-scraping-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://zenscrape.com/web-scraping-api/

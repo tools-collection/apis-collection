@@ -4,11 +4,11 @@
 > **Read more Chuck Norris facts are satirical factoids about martial artist and actor Chuck Norris that have become an Internet p. chucknorris. io is a free JSON API for hand curated Chuck Norris facts**
 
 ## 📝 Details
-- **🏷️ Categories**: `Fun`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Fun`](../../README.md#fun-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

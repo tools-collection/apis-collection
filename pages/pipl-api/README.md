@@ -4,11 +4,11 @@
 > **Free and public API that generates random and fake people&#x27;s data in JSON.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Random`, `Testing`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Random`](../../README.md#random-), [`Testing`](../../README.md#testing-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

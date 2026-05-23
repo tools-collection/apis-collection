@@ -4,11 +4,11 @@
 > **AP Media API Get all your AP multimedia content in one place Access the content programmatically via the API or use the AP Media Agent to download content automatically. Currently using AP WebFeeds**
 
 ## 📝 Details
-- **🏷️ Categories**: `News &amp; Feeds`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Associated Press Ruby Library by Jay Boice
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/huffpostdata/ap-election-loader)
 

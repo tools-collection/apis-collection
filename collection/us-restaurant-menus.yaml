@@ -6,7 +6,7 @@ categories:
   - Business
   - Point of Interest
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-restaurant-menus/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://rapidapi.com/restaurantmenus/api/restaurant-menus

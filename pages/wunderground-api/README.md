@@ -4,11 +4,11 @@
 > **Reliable data, accurate forecast, &amp; global coverage in 80 languages**
 
 ## 📝 Details
-- **🏷️ Categories**: `Weather`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Weather`](../../README.md#weather-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

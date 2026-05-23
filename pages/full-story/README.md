@@ -4,11 +4,11 @@
 > **Capture every user event across your application with Full Story, it is an advanced analytics platform with an extensive API. FullStory captures and replays your users&#x27; experiences so that you can build a better website or native mobile application. The Client API allows developers to manage recording, consume custom event data, and generate session replay URLs that can be used to integrate replay deeplinks with other platforms.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Analytics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

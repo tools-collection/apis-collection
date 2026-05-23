@@ -4,11 +4,11 @@
 > **New Relic&#x27;s API provides access to application performance metrics, errors, infrastructure health, alerts, and dashboards. Automate observability and integrate monitoring workflows.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Analytics`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Analytics`](../../README.md#analytics-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -1,15 +1,14 @@
 # 📦 [Music Machinery](https://musicmachinery.com/music-apis/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/music-machinery/logo_256x256.png" alt="Music Machinery logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Here’s a categorized list of all the Music APIs. Notice one that is missing or miscategorized? Let me know. Music Metadata ArtistLink Decibel Discogs FreeDB Gracenote Last. fm MusicBrainz Mus…**
 
 ## 📝 Details
-- **🏷️ Categories**: `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -17,11 +17,11 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 - Suggestions**
 
 ## 📝 Details
-- **🏷️ Categories**: `Jobs`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Jobs`](../../README.md#jobs-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -34,8 +34,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 ## 🧰 Libraries
 ### 🛠️ Traitify JavaScript SDK
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://github.com/traitify/traitify-js-client)
 
@@ -43,8 +41,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 - **Stars**: ⭐ 2
 ### 🛠️ Traitify PHP SDK
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/traitify/traitify-php)
 
@@ -52,8 +48,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 - **Stars**: ⭐ 4
 ### 🛠️ Traitify Python SDK
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/traitify/traitify-python2.x)
 
@@ -61,8 +55,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 - **Stars**: ⭐ 7
 ### 🛠️ Traitify Java SDK
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/traitify/traitify-java)
 
@@ -70,8 +62,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 - **Stars**: ⭐ 3
 ### 🛠️ Traitify .NET SDK
-
-
 - **Platform**: `.Net`
 - **Docs**: [📚 Documentation](https://github.com/traitify/traitify.net)
 
@@ -79,8 +69,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 - **Stars**: ⭐ 2
 ### 🛠️ Traitify Node.js SDK
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/traitify/traitify-node)
 
@@ -88,8 +76,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 - **Stars**: ⭐ 3
 ### 🛠️ Traitify Ruby SDK
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/traitify/traitify-ruby)
 
@@ -97,8 +83,6 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 
 - **Stars**: ⭐ 3
 ### 🛠️ Traitify API Java Library
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://developer.traitify.com/documentation)
 - **Source**: [💻 Source Code](https://github.com/traitify/traitify-java)

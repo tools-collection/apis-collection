@@ -5,11 +5,11 @@
 > **Grabs email addresses from a URL**
 
 ## 📝 Details
-- **🏷️ Categories**: `Email &amp; SMS`, `Development`, `Scrapers &amp; Data Mining`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Development`](../../README.md#development-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

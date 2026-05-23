@@ -4,11 +4,11 @@
 > **Welcome to the city-wide port. Here the municipality of the capital, contributory organizations, city districts and other related entities publish the data in machine readable format**
 
 ## 📝 Details
-- **🏷️ Categories**: `Government`, `Statistics &amp; Data`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Government`](../../README.md#government-), [`Statistics & Data`](../../README.md#statistics--data-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

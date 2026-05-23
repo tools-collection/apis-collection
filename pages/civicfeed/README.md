@@ -1,15 +1,14 @@
 # 📦 [CivicFeed](https://developers.civicfeed.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/civicfeed/logo_256x256.png" alt="CivicFeed logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers**
 
 ## 📝 Details
-- **🏷️ Categories**: `News &amp; Feeds`, `Video &amp; Media`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`News & Feeds`](../../README.md#news--feeds-), [`Video & Media`](../../README.md#video--media-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

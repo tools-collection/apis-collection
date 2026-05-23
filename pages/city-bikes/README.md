@@ -4,11 +4,11 @@
 > **Project that provides bike sharing data for apps, research and projects to use.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Sport &amp; Fitness`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

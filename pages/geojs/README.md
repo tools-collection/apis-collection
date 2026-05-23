@@ -1,15 +1,14 @@
 # 📦 [GeoJS](https://geojs.io/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geojs/logo_256x256.png" alt="GeoJS logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **REST/JSON/JSONP GeoIP API. REST/JSON/JSONP GeoIP API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

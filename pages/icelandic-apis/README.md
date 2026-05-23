@@ -4,11 +4,11 @@
 > **The purpose of APIs.is is to make Iceland data readily available to anyone interested. All data that is delivered through APIs.is is JSON formatted and scraped from open public websites.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`, `Government`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Government`](../../README.md#government-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

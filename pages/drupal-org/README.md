@@ -4,11 +4,11 @@
 > **Drupal.org uses the RESTful Web Services module to expose node, comment, user, file, taxonomy_vocabulary and taxonomy_term resources**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Open Source`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Open Source`](../../README.md#open-source-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

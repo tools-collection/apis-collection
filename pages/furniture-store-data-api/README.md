@@ -4,11 +4,11 @@
 > **The aim is to provide every bit of information which is felt required for a user to know about a furniture store**
 
 ## 📝 Details
-- **🏷️ Categories**: `Business`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Business`](../../README.md#business-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

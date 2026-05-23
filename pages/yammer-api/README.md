@@ -1,15 +1,14 @@
 # 📦 [Yammer API](https://developer.yammer.com/documentation/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yammer-api/logo_256x256.png" alt="Yammer API logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, and crowdsource answers from coworkers around the globe. Yammer gives your team a faster, smarter way to connect and collaborate across your company**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Business`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Business`](../../README.md#business-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

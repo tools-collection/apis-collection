@@ -4,11 +4,11 @@
 > **Set of fully hosted APIs, modules and &#x27;out of the box&#x27; tools built to serve developers, providers and investors**
 
 ## 📝 Details
-- **🏷️ Categories**: `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Tradier Android SDK by Tradier
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://developer.tradier.com/documentation/overview/libraries)
 - **Source**: [💻 Source Code](https://github.com/Utsav2/AndroidTradier)

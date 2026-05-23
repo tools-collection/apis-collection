@@ -4,11 +4,11 @@
 > **PlaceGOAT placeholder service.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Testing`, `Fun`, `Animals`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Testing`](../../README.md#testing-), [`Fun`](../../README.md#fun-), [`Animals`](../../README.md#animals-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -5,7 +5,7 @@ description: Get 100 of memes with Imgflip API, or add text/caption to memes dir
 categories:
   - Fun
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imgflip/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://imgflip.com/api

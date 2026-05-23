@@ -1,15 +1,14 @@
 # 📦 [kanye.rest](https://kanye.rest)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kanye-rest/logo_256x256.png" alt="kanye.rest logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **A free REST API for random Kanye West quotes. A free REST API for random Kanye West quotes**
 
 ## 📝 Details
-- **🏷️ Categories**: `Health`, `Music &amp; Audio`, `News &amp; Feeds`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Health`](../../README.md#health-), [`Music & Audio`](../../README.md#music--audio-), [`News & Feeds`](../../README.md#news--feeds-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

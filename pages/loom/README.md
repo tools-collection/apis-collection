@@ -4,11 +4,11 @@
 > **Loom&#x27;s API provides access to recorded videos, transcripts, viewer analytics, and workspace data. Integrate async video messaging into apps and automate video workflows.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Video &amp; Media`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Video & Media`](../../README.md#video--media-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

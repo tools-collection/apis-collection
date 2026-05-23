@@ -4,11 +4,11 @@
 > **TikTok&#x27;s Developer API provides access to video publishing, user data, content insights, and the TikTok for Business advertising platform for content creators and brands.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Video &amp; Media`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Video & Media`](../../README.md#video--media-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

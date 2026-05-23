@@ -5,11 +5,11 @@
 > **Web Service allows you to search the Internet for images**
 
 ## 📝 Details
-- **🏷️ Categories**: `Images &amp; Photography`, `Search`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Search`](../../README.md#search-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

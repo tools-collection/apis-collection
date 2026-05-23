@@ -4,11 +4,11 @@
 > **org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just numbers. you also need to consider reliability, functio. Introduction to the RescueGroups. Introduction to the RescueGroups**
 
 ## 📝 Details
-- **🏷️ Categories**: `Animals`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Animals`](../../README.md#animals-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ RescueGroups Ruby SDK by Harsha
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/bornfree/rescuegroups)
 

@@ -4,11 +4,11 @@
 > **The GamerPower API (Aka Game Giveaway Tracker API). Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Commerce`, `Entertainment`, `Games`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Commerce`](../../README.md#commerce-), [`Entertainment`](../../README.md#entertainment-), [`Games`](../../README.md#games-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

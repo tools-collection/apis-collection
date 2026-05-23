@@ -5,11 +5,11 @@
 > **Keep, share, and discover the best of the Web using Delicious, the world&#x27;s leading social bookmarking service**
 
 ## 📝 Details
-- **🏷️ Categories**: `Bookmarks`, `Social`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Bookmarks`](../../README.md#bookmarks-), [`Social`](../../README.md#social-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP. To get the JSON representation of any search result or job listing, append. json to the URL you&#x27;d use on the HTML GitHub**
 
 ## 📝 Details
-- **🏷️ Categories**: `Jobs`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Jobs`](../../README.md#jobs-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

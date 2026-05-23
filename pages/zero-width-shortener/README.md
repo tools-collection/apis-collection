@@ -1,15 +1,14 @@
 # 📦 [Zero Width Shortener](https://docs.zws.im)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zero-width-shortener/logo_256x256.png" alt="Zero Width Shortener logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Shorten URLs with invisible spaces. URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans**
 
 ## 📝 Details
-- **🏷️ Categories**: `URLs`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`URLs`](../../README.md#urls-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

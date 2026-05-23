@@ -1,15 +1,14 @@
 # 📦 [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-skills/logo_256x256.png" alt="Open Skills logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Skills API. Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub. Skills API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Jobs`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Jobs`](../../README.md#jobs-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

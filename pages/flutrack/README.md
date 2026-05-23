@@ -4,11 +4,11 @@
 > **Flutrack is a system that detects in real time influenza symptoms, using Twitter. Influenza-like symptoms with geotracking**
 
 ## 📝 Details
-- **🏷️ Categories**: `Health`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Health`](../../README.md#health-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

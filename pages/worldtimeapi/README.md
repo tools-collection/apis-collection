@@ -5,11 +5,11 @@
  time in, and related data about, a timezone**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Calendar &amp; Time`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Calendar & Time`](../../README.md#calendar--time-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

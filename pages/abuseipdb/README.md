@@ -4,11 +4,11 @@
 > **This is most commonly done through Fail2Ban, which comes prepackaged with an AbuseIPDB configuration. Introduction The AbuseIPDB API allows you to utilize our database programmatically**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

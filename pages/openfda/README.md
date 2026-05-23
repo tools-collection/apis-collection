@@ -4,11 +4,11 @@
 > **openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Food &amp; Drinks`, `Government`, `Health`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Government`](../../README.md#government-), [`Health`](../../README.md#health-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

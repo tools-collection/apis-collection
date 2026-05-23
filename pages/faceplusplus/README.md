@@ -1,15 +1,14 @@
 # 📦 [Faceplusplus](https://www.faceplusplus.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/faceplusplus/logo_256x256.png" alt="Faceplusplus logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Meta description. A tool to detect face**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

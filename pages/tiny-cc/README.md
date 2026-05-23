@@ -4,11 +4,11 @@
 > **Easy-to-use URL shortener. Supports custom short link ending. API documentation**
 
 ## 📝 Details
-- **🏷️ Categories**: `URLs`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`URLs`](../../README.md#urls-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

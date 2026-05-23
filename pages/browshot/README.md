@@ -4,11 +4,11 @@
 > **Full API to take screenshots of any website.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Browshot CSharp SDK by Browshot
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://browshot.com/api/libraries/csharp)
 
@@ -30,8 +28,6 @@
 
 
 ### 🛠️ Browshot Ruby SDK by Browshot
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://rubygems.org/gems/browshot)
 
@@ -39,8 +35,6 @@
 
 
 ### 🛠️ Browshot Python SDK by Browshot
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/juliensobrier/browshot-python)
 
@@ -48,8 +42,6 @@
 - **Author**: 👤 juliensobrier
 - **Stars**: ⭐ 2
 ### 🛠️ Browshot PHP SDK by Browshot
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://browshot.com/api/libraries/php)
 
@@ -57,8 +49,6 @@
 
 
 ### 🛠️ Browshot Perl SDK by Browshot
-
-
 - **Platform**: `PERL`
 - **Docs**: [📚 Documentation](https://github.com/juliensobrier/browshot-perl)
 

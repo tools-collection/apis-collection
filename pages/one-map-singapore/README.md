@@ -1,15 +1,14 @@
 # 📦 [One Map, Singapore](https://docs.onemap.sg/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/one-map-singapore/logo_256x256.png" alt="One Map, Singapore logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **####. #######. ##. Introduction. ###. ########**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

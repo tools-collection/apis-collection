@@ -1,15 +1,14 @@
 # 📦 [Mixcloud](https://www.mixcloud.com/developers/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mixcloud/logo_256x256.png" alt="Mixcloud logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Music**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

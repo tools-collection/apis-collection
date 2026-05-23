@@ -1,15 +1,14 @@
 # 📦 [CoinDesk](http://www.coindesk.com/api/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coindesk/logo_256x256.png" alt="CoinDesk logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin Price Index (BPI) data programmatically available to others. Find out how to use it here**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️  CoinDesk Go SDK by Martín Raúl Villalba
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/mvillalba/go-coindesk)
 
@@ -31,8 +28,6 @@
 - **Author**: 👤 mvillalba
 - **Stars**: ⭐ 1
 ### 🛠️ CoinDesk PHP SDK by haqqur
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/haqqur/php-btconv)
 
@@ -40,8 +35,6 @@
 
 
 ### 🛠️ CoinDesk Node.js SDK by LapsuS
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/erlapso/node-coindesk)
 

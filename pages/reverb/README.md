@@ -4,11 +4,11 @@
 > **Sell and buy music related merchandise. Join the millions of music lovers who use Reverb to find everything they need to make music**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

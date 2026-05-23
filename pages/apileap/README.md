@@ -4,11 +4,11 @@
 > **Make screenshots from web pages and HTML**
 
 ## 📝 Details
-- **🏷️ Categories**: `Collaboration`, `Development`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Collaboration`](../../README.md#collaboration-), [`Development`](../../README.md#development-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

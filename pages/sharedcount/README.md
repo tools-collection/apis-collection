@@ -4,11 +4,11 @@
 > **Social media like and share data for any URL.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Analytics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Analytics`](../../README.md#analytics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ SharedCount Ruby SDK by Cristian Rasch
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/wecodeio/shared_count_api)
 
@@ -30,8 +28,6 @@
 
 - **Stars**: ⭐ 4
 ### 🛠️ SharedCount Python SDK by Benjamin Estes
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/benjaminestes/countgrab-client)
 

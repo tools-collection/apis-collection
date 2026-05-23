@@ -1,15 +1,14 @@
 # 📦 [Shibe.Online](http://shibe.online/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shibe-online/logo_256x256.png" alt="Shibe.Online logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **In this day and age, everyone and their dog has an API. So why not have an API for dogs? Shibe. online is that API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Animals`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Animals`](../../README.md#animals-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

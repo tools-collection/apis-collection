@@ -1,15 +1,14 @@
 # 📦 [LectServe](http://www.lectserve.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lectserve/logo_256x256.png" alt="LectServe logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Your daily lectionary readings…. Your daily lectionary readings…**
 
 ## 📝 Details
-- **🏷️ Categories**: `Calendar &amp; Time`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Calendar & Time`](../../README.md#calendar--time-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

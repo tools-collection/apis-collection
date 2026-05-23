@@ -1,15 +1,14 @@
 # 📦 [LiveChat](https://developers.livechatinc.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/livechat/logo_256x256.png" alt="LiveChat logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. Messaging APIs, chat widgets and other building blocks of remarkable customer service experience**
 
 ## 📝 Details
-- **🏷️ Categories**: `Business`, `Chats &amp; Messaging`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Business`](../../README.md#business-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️  LiveChat Ruby Library by LiveChat
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://developers.livechatinc.com/rest-api/#libraries)
 - **Source**: [💻 Source Code](https://github.com/cxz/livechat_client)

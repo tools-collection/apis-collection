@@ -5,11 +5,11 @@
 > **SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages. SearchApi offers precise location targeting, extensive search results, a reliable 99.9% SLA guarantee, pay-for-success pricing, and expert customer support from real engineers.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Marketing &amp; SEO`, `Scrapers &amp; Data Mining`, `Search`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Marketing & SEO`](../../README.md#marketing--seo-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Search`](../../README.md#search-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Font format conversion REST API. Fonts API - Subscription**
 
 ## 📝 Details
-- **🏷️ Categories**: `Art &amp; Design`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Art & Design`](../../README.md#art--design-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

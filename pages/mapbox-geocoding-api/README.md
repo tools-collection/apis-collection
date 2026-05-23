@@ -4,11 +4,11 @@
 > **The Mapbox Geocoding API does forward geocoding (search place names and return coordinates) and reverse geocoding (search coordinates and return place names)**
 
 ## 📝 Details
-- **🏷️ Categories**: `Search`, `Maps &amp; Geo`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Search`](../../README.md#search-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Maps and the necessary tools for working it on your web app or site**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Search`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Search`](../../README.md#search-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Yandex Go SDK by Javier162380
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/Javier162380/yandexapi)
 
@@ -30,8 +28,6 @@
 - **Author**: 👤 Javier162380
 
 ### 🛠️ Yandex PHP SDK by NIX Solutions
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/nixsolutions/yandex-php-library)
 
@@ -39,8 +35,6 @@
 
 - **Stars**: ⭐ 515
 ### 🛠️  Geocoder PHP Library by William Durand
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/geocoder-php/Geocoder)
 

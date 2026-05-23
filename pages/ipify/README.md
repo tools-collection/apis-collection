@@ -1,15 +1,14 @@
 # 📦 [IPify](https://www.ipify.org/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipify/logo_256x256.png" alt="IPify logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **ipify API is a simple public IP address API, easy enough to integrate into any application in seconds**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

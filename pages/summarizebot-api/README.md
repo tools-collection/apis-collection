@@ -4,11 +4,11 @@
 > **Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. Integrate our premium text and image analysis APIs into applications that may require artificial intelligence features.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Text Analysis &amp; Tools`, `Images &amp; Photography`, `Scrapers &amp; Data Mining`, `Documents &amp; Productivity`, `AI &amp; ML`, `News &amp; Feeds`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Text Analysis & Tools`](../../README.md#text-analysis--tools-), [`Images & Photography`](../../README.md#images--photography-), [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Documents & Productivity`](../../README.md#documents--productivity-), [`AI & ML`](../../README.md#ai--ml-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

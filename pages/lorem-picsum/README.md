@@ -1,15 +1,14 @@
 # 📦 [Lorem Picsum](https://picsum.photos/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lorem-picsum/logo_256x256.png" alt="Lorem Picsum logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Lorem Ipsum, but for photos.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Art &amp; Design`, `Random`, `Images &amp; Photography`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Art & Design`](../../README.md#art--design-), [`Random`](../../README.md#random-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **This is the Official Carbon Intensity API for Great Britain developed by National Grid.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Environment &amp; Nature`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

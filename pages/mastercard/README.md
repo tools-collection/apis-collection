@@ -1,15 +1,14 @@
 # 📦 [Mastercard](https://developer.mastercard.com/apis)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastercard/logo_256x256.png" alt="Mastercard logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Mastercard official API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

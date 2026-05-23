@@ -4,11 +4,11 @@
 > **Get data about characters, episodes, quotes, and deaths**
 
 ## 📝 Details
-- **🏷️ Categories**: `Video &amp; Media`, `Entertainment`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Video & Media`](../../README.md#video--media-), [`Entertainment`](../../README.md#entertainment-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

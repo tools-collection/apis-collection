@@ -5,11 +5,11 @@
 > **A simple way to share and discover interesting events from your friends, followers, and the artists and organizations you care about**
 
 ## 📝 Details
-- **🏷️ Categories**: `Events`, `Calendar &amp; Time`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Events`](../../README.md#events-), [`Calendar & Time`](../../README.md#calendar--time-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

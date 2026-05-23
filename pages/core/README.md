@@ -4,11 +4,11 @@
 > **CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`, `Education`, `News &amp; Feeds`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Education`](../../README.md#education-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

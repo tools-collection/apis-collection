@@ -4,11 +4,11 @@
 > **Next Big Sound helps artists and their teams use Pandora to understand performance, grow audiences, and fuel strategy.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

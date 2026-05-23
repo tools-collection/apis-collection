@@ -5,11 +5,11 @@
 > **With this API you can easily create a full Texas Holdem game, just create the graphic and associate it with the results**
 
 ## 📝 Details
-- **🏷️ Categories**: `Casino &amp; Gambling`, `Games`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Casino & Gambling`](../../README.md#casino--gambling-), [`Games`](../../README.md#games-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

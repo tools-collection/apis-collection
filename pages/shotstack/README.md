@@ -4,11 +4,11 @@
 > **Shotstack API enables programmatic video editing and generation. Compose videos from templates, images, audio, and text overlays at scale for media automation pipelines.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Video &amp; Media`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Video & Media`](../../README.md#video--media-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

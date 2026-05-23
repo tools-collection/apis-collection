@@ -4,11 +4,11 @@
 > **This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more!. Support The API and site will always remain free at point of access**
 
 ## 📝 Details
-- **🏷️ Categories**: `Food &amp; Drinks`, `Open Source`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Open Source`](../../README.md#open-source-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

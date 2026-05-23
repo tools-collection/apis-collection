@@ -4,11 +4,11 @@
 > **Cloud API generates JPG and PDF file previews for all common document formats, using a super simple API. The simplest API for generating file thumbnails that you&#x27;ve ever seen.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Documents &amp; Productivity`, `Images &amp; Photography`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Documents & Productivity`](../../README.md#documents--productivity-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

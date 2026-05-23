@@ -4,11 +4,11 @@
 > **Asana&#x27;s API provides programmatic access to tasks, projects, teams, portfolios, and goals. Automate work management, build integrations, and sync data with Asana&#x27;s project platform.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Project Management`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Project Management`](../../README.md#project-management-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

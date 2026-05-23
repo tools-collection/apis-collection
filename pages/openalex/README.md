@@ -4,11 +4,11 @@
 > **OpenAlex is a fully open catalog of the global research system. API provides access to 250M+ academic works, authors, institutions, concepts, and citation graphs.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`, `Books`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Books`](../../README.md#books-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **Sanity&#x27;s Content Lake API provides real-time headless CMS access via GROQ queries and REST. Manage structured content, assets, and schemas for Sanity-powered applications.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Documents &amp; Productivity`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Documents & Productivity`](../../README.md#documents--productivity-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

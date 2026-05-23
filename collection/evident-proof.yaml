@@ -11,7 +11,7 @@ description: >-
 categories:
   - Other
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/evident-proof/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://evident-proof.com/developer

@@ -6,7 +6,7 @@ categories:
   - Blockchain & Cryptocurrencies
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/exchange-rates-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://blockchain.info/api/exchange_rates_api

@@ -4,11 +4,11 @@
 > **USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity. Access global seismic event feeds in GeoJSON format.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Environment &amp; Nature`, `Science &amp; Math`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-), [`Science & Math`](../../README.md#science--math-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

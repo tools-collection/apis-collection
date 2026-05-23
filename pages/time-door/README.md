@@ -1,15 +1,14 @@
 # 📦 [Time Door](https://timedoor.io)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/time-door/logo_256x256.png" alt="Time Door logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **A time series analysis API. Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Databases`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Databases`](../../README.md#databases-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -1,15 +1,14 @@
 # 📦 [Bhagavad Gita](https://bhagavadgita.io/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bhagavad-gita/logo_256x256.png" alt="Bhagavad Gita logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beautiful and easy-to-use interface; Gita Saar In Hindi; Bhagavad Gita quotes**
 
 ## 📝 Details
-- **🏷️ Categories**: `Books`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Books`](../../README.md#books-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

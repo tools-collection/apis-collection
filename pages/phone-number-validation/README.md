@@ -4,11 +4,11 @@
 > **Check phone number validity, location and timezones**
 
 ## 📝 Details
-- **🏷️ Categories**: `CRM`, `Validation &amp; Verification`, `Email &amp; SMS`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`CRM`](../../README.md#crm-), [`Validation & Verification`](../../README.md#validation--verification-), [`Email & SMS`](../../README.md#email--sms-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

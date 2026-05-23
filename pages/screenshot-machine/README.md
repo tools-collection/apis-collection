@@ -4,11 +4,11 @@
 > **Free screenshot api for capturing web pages. Let our website screenshot generator and gifted robots take your webpage screenshot!**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ ScreenshotMachine Node SDK by Kevin Moritz
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/mayorbyrne/node-screenshot-machine/blob/master/README.md)
 - **Source**: [💻 Source Code](https://github.com/mayorbyrne/node-screenshot-machine)
@@ -30,8 +28,6 @@
 - **Author**: 👤 mayorbyrne
 - **Stars**: ⭐ 2
 ### 🛠️ ScreenshotMachine Ruby SDK by Tupalo
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/tupalo/screenshot_machine/blob/master/README.md)
 - **Source**: [💻 Source Code](https://github.com/tupalo/screenshot_machine)

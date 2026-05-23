@@ -4,11 +4,11 @@
 > **By Collin M. Barrett. FilterLists is the independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

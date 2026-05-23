@@ -5,11 +5,11 @@
 > **Similar to other blogging platforms. Posting could be done by logging into the website&#x27;s rich text editor, but it was particularly designed for mobile blogging. Mobile methods include sending an email, with attachments of photos, MP3s, documents, and video (both links and files)**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Email &amp; SMS`, `Images &amp; Photography`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Email & SMS`](../../README.md#email--sms-), [`Images & Photography`](../../README.md#images--photography-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

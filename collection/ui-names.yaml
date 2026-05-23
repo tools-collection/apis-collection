@@ -6,7 +6,7 @@ categories:
   - Testing
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ui-names/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://github.com/thm/uinames

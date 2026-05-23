@@ -4,11 +4,11 @@
 > **VAT Number Validation API, Geolocation API, Exchange rates API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Finance &amp; Economics`, `Validation &amp; Verification`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Finance & Economics`](../../README.md#finance--economics-), [`Validation & Verification`](../../README.md#validation--verification-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

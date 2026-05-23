@@ -4,11 +4,11 @@
 > **Can be created, updated, and deleted using the OS::Trove::Instance resource. Cloud Databases instances can also be created as replicas of other Cloud Databases instances.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Databases`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Databases`](../../README.md#databases-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

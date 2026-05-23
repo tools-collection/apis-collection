@@ -4,7 +4,7 @@ description: MTA
 categories:
   - Transportation
 is_free: true
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-new-york-city-us/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://api.mta.info/

@@ -4,11 +4,11 @@
 > **Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport Germany Transport India Transport Australia Transport Argentina Transport Brazil Transport France Transport China Transport**
 
 ## 📝 Details
-- **🏷️ Categories**: `Transportation`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Transportation`](../../README.md#transportation-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ PNRAPI Ruby
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/alagu/pnrapi-ruby)
 

@@ -4,11 +4,11 @@
 > **QR Code REST API. Can create QR code images or read existing images and return the contents**
 
 ## 📝 Details
-- **🏷️ Categories**: `Bar &amp; QR Codes`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Bar & QR Codes`](../../README.md#bar--qr-codes-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

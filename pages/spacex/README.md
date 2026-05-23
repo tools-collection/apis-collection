@@ -1,15 +1,14 @@
 # 📦 [SpaceX](https://github.com/r-spacex/SpaceX-API)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spacex/logo_256x256.png" alt="SpaceX logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/SpaceX-API.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Space`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Space`](../../README.md#space-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

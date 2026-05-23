@@ -17,7 +17,7 @@ categories:
   - Chats & Messaging
   - Development
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/chat-messaging-by-stream/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://getstream.io/chat/

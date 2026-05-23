@@ -4,11 +4,11 @@
 > **Gets you a random quote from famous movies in XML,SOAP format**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Fun`, `Random`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Fun`](../../README.md#fun-), [`Random`](../../README.md#random-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

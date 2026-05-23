@@ -4,11 +4,11 @@
 > **Free IP Geolocation API with no registration required. 15000 requests per hour ✓ JSON, XML and CSV output ✓ Fast response times**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️  Geocoder Node.js Library by Nicolas Chaulet
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/nchaulet/node-geocoder)
 

@@ -1,15 +1,14 @@
 # 📦 [Words API](https://www.wordsapi.com/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/words-api/logo_256x256.png" alt="Words API logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **An API for the english language. Definitions, related words, rhymes, and more. Use it to find definitions for more than 150,000 words**
 
 ## 📝 Details
-- **🏷️ Categories**: `Content &amp; Dictionaries`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

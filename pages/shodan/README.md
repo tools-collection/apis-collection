@@ -4,11 +4,11 @@
 > **Shodan API, the easiest way to access the Shodan search engine on your own terms. Shodan is the world&#x27;s first search engine for Internet-connected devices.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`, `Search`, `IoT &amp; Home Automation`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-), [`Search`](../../README.md#search-), [`IoT & Home Automation`](../../README.md#iot--home-automation-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Shodan Perl SDK by Dudley Adams
-
-
 - **Platform**: `PERL`
 - **Docs**: [📚 Documentation](https://metacpan.org/pod/WWW::Shodan::API)
 - **Source**: [💻 Source Code](https://github.com/Dudley5000/WWW-Shodan-API)
@@ -30,8 +28,6 @@
 - **Author**: 👤 Dudley5000
 - **Stars**: ⭐ 13
 ### 🛠️ Shodan Java SDK by newhouse
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://developer.shodan.io/api/clients)
 - **Source**: [💻 Source Code](https://github.com/fooock/jshodan)
@@ -39,8 +35,6 @@
 - **Author**: 👤 fooock
 - **Stars**: ⭐ 48
 ### 🛠️ Shodan Python SDK by John Matherly
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://shodan.readthedocs.io/en/latest/index.html)
 - **Source**: [💻 Source Code](https://github.com/achillean/shodan-python)
@@ -48,8 +42,6 @@
 - **Author**: 👤 achillean
 - **Stars**: ⭐ 1538
 ### 🛠️ Shodan Node.js SDK by Jesús Pérez
-
-
 - **Platform**: `Node.js`
 - **Docs**: [📚 Documentation](https://github.com/jesusprubio/shodan-client.js)
 

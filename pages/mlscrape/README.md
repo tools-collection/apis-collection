@@ -4,11 +4,11 @@
 > **MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API. Scrape product data from any e-commerce website, free tier with quota that resets monthly**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`, `AI &amp; ML`, `Development`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`AI & ML`](../../README.md#ai--ml-), [`Development`](../../README.md#development-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

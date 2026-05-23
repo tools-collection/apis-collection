@@ -4,11 +4,11 @@
 > **Access to Metadata, search capabilities and recommendations. Digital First Digital First metadata drives interest to your short-form web content younger audiences are watching, and makes connections back to traditional shows &amp; movies, presenting a richer dis**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

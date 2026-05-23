@@ -1,15 +1,14 @@
 # 📦 [Freelancer](https://developers.freelancer.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/freelancer/logo_256x256.png" alt="Freelancer logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more. Task humans from software. Task humans from software**
 
 ## 📝 Details
-- **🏷️ Categories**: `Commerce`, `Business`, `Jobs`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Commerce`](../../README.md#commerce-), [`Business`](../../README.md#business-), [`Jobs`](../../README.md#jobs-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Freelancer Android SDK
-
-
 - **Platform**: `Kotlin`
 - **Docs**: [📚 Documentation](https://github.com/freelancer/freelancer-sdk-android)
 
@@ -31,8 +28,6 @@
 
 - **Stars**: ⭐ 24
 ### 🛠️ Freelancer Python SDK 
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/freelancer/freelancer-sdk-python)
 
@@ -40,8 +35,6 @@
 
 - **Stars**: ⭐ 79
 ### 🛠️ JSON Placeholder Node.js Library by typicode
-
-
 - **Platform**: `JavaScript, Node.js`
 - **Docs**: [📚 Documentation](https://github.com/typicode/json-server)
 

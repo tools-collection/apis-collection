@@ -1,15 +1,14 @@
 # 📦 [Portfolio Optimizer](https://portfoliooptimizer.io/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/portfolio-optimizer/logo_256x256.png" alt="Portfolio Optimizer logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **API for investment portfolio optimization. The science of portfolio optimization, available as a Web API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Science &amp; Math`, `Finance &amp; Economics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Science & Math`](../../README.md#science--math-), [`Finance & Economics`](../../README.md#finance--economics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

@@ -4,11 +4,11 @@
 > **DEV.to&#x27;s API provides access to articles, comments, users, tags, and organizations on the developer community platform. Read and publish developer content programmatically.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Development`, `Social`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Development`](../../README.md#development-), [`Social`](../../README.md#social-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

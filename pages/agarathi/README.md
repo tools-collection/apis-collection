@@ -1,15 +1,14 @@
 # 📦 [Agarathi](https://agarathi.com/api/dictionary)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/agarathi/logo_256x256.png" alt="Agarathi logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Tamil language Dictionary API. Fonts API - Subscription**
 
 ## 📝 Details
-- **🏷️ Categories**: `Content &amp; Dictionaries`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

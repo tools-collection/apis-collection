@@ -1,15 +1,14 @@
 # 📦 [Wikitude](https://www.wikitude.com/developer-overview/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikitude/logo_256x256.png" alt="Wikitude logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Powerful augmented reality apps. Create immersive Augmented Reality experiences that transform the world around you**
 
 ## 📝 Details
-- **🏷️ Categories**: `Virtual &amp; Augmented Reality`, `Maps &amp; Geo`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Virtual & Augmented Reality`](../../README.md#virtual--augmented-reality-), [`Maps & Geo`](../../README.md#maps--geo-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -22,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Wikitude iOS SDK
-
-
 - **Platform**: `JavaScript, Objective-C`
 - **Docs**: [📚 Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-ios/)
 
@@ -31,8 +28,6 @@
 
 
 ### 🛠️ Wikitude Android SDK
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-android/)
 

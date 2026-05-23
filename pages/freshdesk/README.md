@@ -4,11 +4,11 @@
 > **Freshdesk&#x27;s API manages support tickets, contacts, agents, groups, and canned responses. Build customer support integrations and automate helpdesk workflows on the Freshdesk platform.**
 
 ## 📝 Details
-- **🏷️ Categories**: `CRM`, `Business`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`CRM`](../../README.md#crm-), [`Business`](../../README.md#business-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

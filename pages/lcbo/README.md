@@ -4,11 +4,11 @@
 > **LCBO API is open source now, find it on GitHub: heycarsten/lcbo-api**
 
 ## 📝 Details
-- **🏷️ Categories**: `Food &amp; Drinks`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

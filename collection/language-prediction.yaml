@@ -4,7 +4,7 @@ description: The API returns maximum 3 detected languages and a numeric confiden
 categories:
   - AI & ML
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/language-prediction/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://rapidapi.com/BigLobster/api/language-identification-prediction

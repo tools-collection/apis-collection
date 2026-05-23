@@ -1,15 +1,14 @@
 # 📦 [Tamil Dictionary Api](https://agarathi.com/api/dictionary)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tamil-dictionary-api/logo_256x256.png" alt="Tamil Dictionary Api logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Lookup Tamil words and build your own Tamil dictionary APP using this API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Content &amp; Dictionaries`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

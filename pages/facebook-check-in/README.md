@@ -4,11 +4,11 @@
 > **A check-in made to a location-based Page**
 
 ## 📝 Details
-- **🏷️ Categories**: `Point of Interest`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Point of Interest`](../../README.md#point-of-interest-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

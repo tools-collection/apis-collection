@@ -4,11 +4,11 @@
 > **Deepgram&#x27;s API offers real-time and batch speech recognition with high accuracy. Features include speaker detection, smart formatting, language detection, and custom model training.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Voice`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

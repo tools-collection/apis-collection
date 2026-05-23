@@ -4,11 +4,11 @@
 > **Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons**
 
 ## 📝 Details
-- **🏷️ Categories**: `Images &amp; Photography`, `Art &amp; Design`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Art & Design`](../../README.md#art--design-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

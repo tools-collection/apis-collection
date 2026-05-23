@@ -4,11 +4,11 @@
 > **Linear&#x27;s API enables programmatic access to issues, projects, cycles, teams, and workflows. Build integrations, automate issue tracking, and sync with external tools using GraphQL.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Project Management`, `Development`
-- **🔌 Type**: `GraphQL`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Project Management`](../../README.md#project-management-), [`Development`](../../README.md#development-)
+- **Type**: `GraphQL`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

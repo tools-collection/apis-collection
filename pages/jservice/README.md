@@ -4,11 +4,11 @@
 > **Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes**
 
 ## 📝 Details
-- **🏷️ Categories**: `Games`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Games`](../../README.md#games-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ jService JavaScript SDK by Keith Pops
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://github.com/keithpops/jeoparty)
 
@@ -30,8 +28,6 @@
 - **Author**: 👤 keithpops
 - **Stars**: ⭐ 104
 ### 🛠️ jService Ruby SDK by Dean Silfen
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/djds23/jApi)
 

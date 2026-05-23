@@ -4,11 +4,11 @@
 > **a RDF graph database as a service with W3C SPARQL query and SPARQL update apis**
 
 ## 📝 Details
-- **🏷️ Categories**: `Analytics`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Analytics`](../../README.md#analytics-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

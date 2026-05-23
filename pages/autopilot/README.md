@@ -4,11 +4,11 @@
 > **The Autopilot API documentation, examples and blog for Autopilot REST API. Marketing Automation**
 
 ## 📝 Details
-- **🏷️ Categories**: `Forms &amp; Surveys`, `Marketing &amp; SEO`, `Email &amp; SMS`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Forms & Surveys`](../../README.md#forms--surveys-), [`Marketing & SEO`](../../README.md#marketing--seo-), [`Email & SMS`](../../README.md#email--sms-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

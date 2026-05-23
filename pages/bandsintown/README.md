@@ -7,11 +7,11 @@ artist info: returns the link to the Bandsintown artist page, the link to the ar
 artist events: returns the list of events including their date and time, venue name and location, ticket links, lineup, description and the link to the Bandsintown event page**
 
 ## 📝 Details
-- **🏷️ Categories**: `Events`, `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Events`](../../README.md#events-), [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -26,8 +26,6 @@ artist events: returns the list of events including their date and time, venue n
 
 ## 🧰 Libraries
 ### 🛠️ Festival Search Engine JavaScript SDK by Steven Liatti
-
-
 - **Platform**: `JavaScript`
 - **Docs**: [📚 Documentation](https://github.com/steenput/FestivalSearchEngine)
 
@@ -35,8 +33,6 @@ artist events: returns the list of events including their date and time, venue n
 - **Author**: 👤 stevenliatti
 - **Stars**: ⭐ 1
 ### 🛠️ Bandsintown Java 8 SDK by Julian Wrastil
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/JayJayBinks/Bandsintown-API)
 
@@ -44,8 +40,6 @@ artist events: returns the list of events including their date and time, venue n
 - **Author**: 👤 JayJayBinks
 
 ### 🛠️ Bandsintown Go SDK by Nathan Cooper
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/NathanLBCooper/bandsintown-api)
 
@@ -53,8 +47,6 @@ artist events: returns the list of events including their date and time, venue n
 - **Author**: 👤 NathanLBCooper
 - **Stars**: ⭐ 1
 ### 🛠️ Bandsintown .NET SDK by Damian Karzon
-
-
 - **Platform**: `.Net`
 - **Docs**: [📚 Documentation](https://github.com/dkarzon/BitSharp)
 
@@ -62,8 +54,6 @@ artist events: returns the list of events including their date and time, venue n
 - **Author**: 👤 dkarzon
 - **Stars**: ⭐ 3
 ### 🛠️ Bandsintown PHP SDK by dhavhid
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/dhavhid/php-bandsintown)
 
@@ -71,8 +61,6 @@ artist events: returns the list of events including their date and time, venue n
 - **Author**: 👤 dhavhid
 - **Stars**: ⭐ 1
 ### 🛠️ Bandsintown Python SDK by Anthony Roscoe
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/WizKid/Bandsintown-API)
 
@@ -80,8 +68,6 @@ artist events: returns the list of events including their date and time, venue n
 - **Author**: 👤 WizKid
 - **Stars**: ⭐ 5
 ### 🛠️ Bandsintown Ruby SDK by Mike Constanza
-
-
 - **Platform**: `Ruby`
 - **Docs**: [📚 Documentation](https://github.com/bandsintown/api-gem)
 

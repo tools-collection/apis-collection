@@ -4,11 +4,11 @@
 > **API for crypto currency exchange.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Blockchain &amp; Cryptocurrencies`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Blockchain & Cryptocurrencies`](../../README.md#blockchain--cryptocurrencies-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Nexchange Python SDK by onitsoft
-
-
 - **Platform**: `Python`
 - **Docs**: [📚 Documentation](https://github.com/onitsoft/nexchange-sdk-python/blob/master/README.md)
 - **Source**: [💻 Source Code](https://github.com/onitsoft/nexchange-sdk-python)
@@ -30,8 +28,6 @@
 
 - **Stars**: ⭐ 1
 ### 🛠️ Nexchange Go SDK by onitsoft
-
-
 - **Platform**: `Go`
 - **Docs**: [📚 Documentation](https://github.com/onitsoft/nexchange-sdk-go/blob/master/README.md)
 - **Source**: [💻 Source Code](https://github.com/onitsoft/nexchange-sdk-go)

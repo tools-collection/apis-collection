@@ -4,11 +4,11 @@
 > **Free, legal research articles delivered instantly or automatically requested from authors.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Content &amp; Dictionaries`, `Science &amp; Math`, `Search`, `News &amp; Feeds`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Content & Dictionaries`](../../README.md#content--dictionaries-), [`Science & Math`](../../README.md#science--math-), [`Search`](../../README.md#search-), [`News & Feeds`](../../README.md#news--feeds-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

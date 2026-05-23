@@ -1,15 +1,14 @@
 # 📦 [LocationIQ](https://locationiq.org/docs/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/locationiq/logo_256x256.png" alt="LocationIQ logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geocoding, Maps and Routing APIs**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

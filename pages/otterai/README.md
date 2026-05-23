@@ -4,11 +4,11 @@
 > **Generates rich notes for meetings, interviews, lectures, and other important voice conversations**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Voice`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

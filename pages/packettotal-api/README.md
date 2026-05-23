@@ -4,11 +4,11 @@
 > **Search, correlate, and download PCAP files, based on their behaviors and contents. PacketTotal is a free, online PCAP analyzer designed to visualize network traffic, detect malware, and provide analytics for the traffic contained within**
 
 ## 📝 Details
-- **🏷️ Categories**: `Security`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Security`](../../README.md#security-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

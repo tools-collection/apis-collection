@@ -4,11 +4,11 @@
 > **io. Document, mock, test, and more, with the StopLight API Designer. Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powered by Stoplight**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Health`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Health`](../../README.md#health-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

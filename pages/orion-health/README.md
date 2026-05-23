@@ -4,11 +4,11 @@
 > **Leverage the power of our Open APIs and our FHIR capabilities to enable the best applications to be developed for every healthcare scenario**
 
 ## 📝 Details
-- **🏷️ Categories**: `Health`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Health`](../../README.md#health-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

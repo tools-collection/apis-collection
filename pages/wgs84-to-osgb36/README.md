@@ -4,11 +4,11 @@
 > **Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)**
 
 ## 📝 Details
-- **🏷️ Categories**: `Maps &amp; Geo`, `Post &amp; Logistics`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Maps & Geo`](../../README.md#maps--geo-), [`Post & Logistics`](../../README.md#post--logistics-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

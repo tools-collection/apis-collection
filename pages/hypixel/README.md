@@ -1,15 +1,14 @@
 # 📦 [Hypixel](https://github.com/HypixelDev/PublicAPI/tree/master/Documentation)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hypixel/logo_256x256.png" alt="Hypixel logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Hypixel API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

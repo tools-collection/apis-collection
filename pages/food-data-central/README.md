@@ -4,11 +4,11 @@
 > **USDA FoodData Central API provides detailed nutritional information for branded foods, standard references, and experimental data. Access nutrient profiles for thousands of food items.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Food &amp; Drinks`, `Health`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Food & Drinks`](../../README.md#food--drinks-), [`Health`](../../README.md#health-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

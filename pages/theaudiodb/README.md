@@ -4,11 +4,11 @@
 > **TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API**
 
 ## 📝 Details
-- **🏷️ Categories**: `Music &amp; Audio`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Music & Audio`](../../README.md#music--audio-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ TheAudioDB Java SDK by Guillaume Serre
-
-
 - **Platform**: `Java`
 - **Docs**: [📚 Documentation](https://github.com/mozvip/theaudiodb-client)
 
@@ -30,8 +28,6 @@
 - **Author**: 👤 mozvip
 - **Stars**: ⭐ 2
 ### 🛠️ TheAudioDB .NET SDK by BigGranu
-
-
 - **Platform**: `.Net`
 - **Docs**: [📚 Documentation](https://github.com/BigGranu/TheAudioDB)
 
@@ -39,8 +35,6 @@
 - **Author**: 👤 BigGranu
 - **Stars**: ⭐ 4
 ### 🛠️ MusicApiCollection C# SDK by BigGranu
-
-
 - **Platform**: `C#`
 - **Docs**: [📚 Documentation](https://github.com/BigGranu/MusicApiCollection)
 

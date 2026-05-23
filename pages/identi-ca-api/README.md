@@ -5,11 +5,11 @@
 > **It pumps your life in and out of your friends, family and colleagues. Runs pump. io, the high-performance Open Source social engine**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

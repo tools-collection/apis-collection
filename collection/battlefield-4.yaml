@@ -6,7 +6,7 @@ description: Battlefield 4 Information. P-Stats Player Stats Network As of Octob
 categories:
   - Games
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/battlefield-4/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://endof.p-stats.com/

@@ -5,11 +5,11 @@
 > **Generates cool looking robot image for any text**
 
 ## 📝 Details
-- **🏷️ Categories**: `Social`, `Images &amp; Photography`, `Random`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Social`](../../README.md#social-), [`Images & Photography`](../../README.md#images--photography-), [`Random`](../../README.md#random-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

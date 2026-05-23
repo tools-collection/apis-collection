@@ -4,11 +4,11 @@
 > **This Person Does Not Exist**
 
 ## 📝 Details
-- **🏷️ Categories**: `Random`, `Testing`, `AI &amp; ML`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Random`](../../README.md#random-), [`Testing`](../../README.md#testing-), [`AI & ML`](../../README.md#ai--ml-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

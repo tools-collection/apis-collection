@@ -4,11 +4,11 @@
 > **Apify&#x27;s API lets you run web scraping and automation actors, manage datasets, key-value stores, and proxies. Access thousands of pre-built scrapers or deploy your own.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Scrapers &amp; Data Mining`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Scrapers & Data Mining`](../../README.md#scrapers--data-mining-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

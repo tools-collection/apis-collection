@@ -5,11 +5,11 @@
 > **Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, now also available via API. The objective of this service is to provide you and your robot with the smartest answer to any natural language question, just like Siri**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Voice`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

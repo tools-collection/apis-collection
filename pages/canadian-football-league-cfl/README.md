@@ -4,11 +4,11 @@
 > **CFL API Need assistance? E-mail us or browse the API documentation**
 
 ## 📝 Details
-- **🏷️ Categories**: `Sport &amp; Fitness`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

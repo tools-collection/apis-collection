@@ -4,11 +4,11 @@
 > **The Open Movie Database. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Search`, `Entertainment`, `Video &amp; Media`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Search`](../../README.md#search-), [`Entertainment`](../../README.md#entertainment-), [`Video & Media`](../../README.md#video--media-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

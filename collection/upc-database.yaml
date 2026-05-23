@@ -9,7 +9,7 @@ categories:
   - Bar & QR Codes
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/upc-database/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://upcdatabase.org/api

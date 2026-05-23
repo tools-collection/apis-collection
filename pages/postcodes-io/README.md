@@ -1,15 +1,14 @@
 # 📦 [Postcodes.io](https://postcodes.io)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postcodes-io/logo_256x256.png" alt="Postcodes.io logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Search, validate and reverse geocode postcodes. An open sourced project by Ideal Postcodes. Free UK postcode lookup API and datasets. An open sourced project by Ideal Postcodes**
 
 ## 📝 Details
-- **🏷️ Categories**: `Post &amp; Logistics`, `Maps &amp; Geo`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Maps & Geo`](../../README.md#maps--geo-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

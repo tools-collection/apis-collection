@@ -4,11 +4,11 @@
 > **Hundereds of lottery games from various countries are supported. Generate lottery numbers**
 
 ## 📝 Details
-- **🏷️ Categories**: `Random`, `Casino &amp; Gambling`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Random`](../../README.md#random-), [`Casino & Gambling`](../../README.md#casino--gambling-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

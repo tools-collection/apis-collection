@@ -4,11 +4,11 @@
 > **PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Validation &amp; Verification`, `Text Analysis &amp; Tools`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Validation & Verification`](../../README.md#validation--verification-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

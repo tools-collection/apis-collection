@@ -1,15 +1,14 @@
 # 📦 [Gyazo](https://gyazo.com/api/docs)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gyazo/logo_256x256.png" alt="Gyazo logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo users images, and more.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Images &amp; Photography`, `Collaboration`, `Social`, `Video &amp; Media`, `Art &amp; Design`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Images & Photography`](../../README.md#images--photography-), [`Collaboration`](../../README.md#collaboration-), [`Social`](../../README.md#social-), [`Video & Media`](../../README.md#video--media-), [`Art & Design`](../../README.md#art--design-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

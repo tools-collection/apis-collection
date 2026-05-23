@@ -4,11 +4,11 @@
 > **MongoDB Atlas Administration API manages clusters, database users, network access, backups, and organizations. Automate cloud MongoDB infrastructure and integrate with DevOps pipelines.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Databases`, `Development`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Databases`](../../README.md#databases-), [`Development`](../../README.md#development-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

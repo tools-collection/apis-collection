@@ -4,11 +4,11 @@
 > **Get random Facts on different topics**
 
 ## 📝 Details
-- **🏷️ Categories**: `Random`, `Fun`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Random`](../../README.md#random-), [`Fun`](../../README.md#fun-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

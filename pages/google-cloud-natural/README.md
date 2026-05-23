@@ -1,15 +1,14 @@
 # 📦 [Google Cloud Natural](https://cloud.google.com/natural-language/docs/)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-cloud-natural/logo_256x256.png" alt="Google Cloud Natural logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Enables easy integration of Google natural language understanding technologies into developer applications.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Text Analysis &amp; Tools`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Text Analysis & Tools`](../../README.md#text-analysis--tools-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

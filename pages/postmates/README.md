@@ -4,11 +4,11 @@
 > **Build on-demand delivery into your app or website.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Post &amp; Logistics`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Post & Logistics`](../../README.md#post--logistics-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

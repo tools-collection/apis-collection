@@ -4,11 +4,11 @@
 > **Sports data API provides live and historical sports data from all around the world. Data sets are updated in realtime.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Casino &amp; Gambling`, `Sport &amp; Fitness`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Casino & Gambling`](../../README.md#casino--gambling-), [`Sport & Fitness`](../../README.md#sport--fitness-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

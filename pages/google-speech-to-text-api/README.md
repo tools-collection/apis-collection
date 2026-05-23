@@ -4,11 +4,11 @@
 > **Accurately convert speech into text using an API powered by Google’s AI technologies.**
 
 ## 📝 Details
-- **🏷️ Categories**: `AI &amp; ML`, `Voice`
-- **🔌 Type**: `REST, gRPC`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`AI & ML`](../../README.md#ai--ml-), [`Voice`](../../README.md#voice-)
+- **Type**: `REST, gRPC`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

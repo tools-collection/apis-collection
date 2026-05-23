@@ -4,11 +4,11 @@
 > **Marketing automation**
 
 ## 📝 Details
-- **🏷️ Categories**: `Business`, `CRM`, `Marketing &amp; SEO`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Business`](../../README.md#business-), [`CRM`](../../README.md#crm-), [`Marketing & SEO`](../../README.md#marketing--seo-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
@@ -21,8 +21,6 @@
 
 ## 🧰 Libraries
 ### 🛠️ Ontraport PHP SDK by Ontraport
-
-
 - **Platform**: `PHP`
 - **Docs**: [📚 Documentation](https://github.com/Ontraport/SDK-PHP)
 

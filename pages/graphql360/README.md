@@ -1,15 +1,14 @@
 # 📦 [Graphql360](https://graphql360.com)
 
-<img src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/graphql360/logo_256x256.png" alt="Graphql360 logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 > **Create and consume 360 degree panoramic tours using a GraphQL API. GraphQL 360 empowers flexible native integrations for 360 degree tours. 360 Degree Tour API, powered by GraphQL**
 
 ## 📝 Details
-- **🏷️ Categories**: `Games`, `Images &amp; Photography`, `Real Estate`, `Content &amp; Dictionaries`
-- **🔌 Type**: `N/A`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Games`](../../README.md#games-), [`Images & Photography`](../../README.md#images--photography-), [`Real Estate`](../../README.md#real-estate-), [`Content & Dictionaries`](../../README.md#content--dictionaries-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

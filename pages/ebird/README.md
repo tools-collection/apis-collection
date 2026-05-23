@@ -4,11 +4,11 @@
 > **eBird&#x27;s API from Cornell Lab provides bird observation data including recent sightings, rare birds, checklists, and hotspot information submitted by birders worldwide.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Environment &amp; Nature`, `Animals`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Environment & Nature`](../../README.md#environment--nature-), [`Animals`](../../README.md#animals-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

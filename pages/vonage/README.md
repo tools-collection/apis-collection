@@ -4,11 +4,11 @@
 > **Vonage&#x27;s Communications APIs provide SMS, voice calls, video, WhatsApp, and verification services. Build global messaging and telephony features into applications.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Email &amp; SMS`, `Voice`, `Chats &amp; Messaging`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `Yes` 🆓
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Email & SMS`](../../README.md#email--sms-), [`Voice`](../../README.md#voice-), [`Chats & Messaging`](../../README.md#chats--messaging-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `Yes` 🆓
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

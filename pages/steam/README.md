@@ -4,11 +4,11 @@
 > **Steam WEB API created to provide programmatic access to Steam data and services**
 
 ## 📝 Details
-- **🏷️ Categories**: `Entertainment`, `Games`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Entertainment`](../../README.md#entertainment-), [`Games`](../../README.md#games-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*

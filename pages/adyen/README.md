@@ -4,11 +4,11 @@
 > **Adyen&#x27;s payments API processes online, in-person, and in-app payments globally. Supports 200+ payment methods, fraud detection, payouts, and financial reporting for enterprise merchants.**
 
 ## 📝 Details
-- **🏷️ Categories**: `Payments`, `Commerce`
-- **🔌 Type**: `REST`
-- **🔐 Auth**: `none`
-- **💸 Free**: `No` 💰
-- **📊 Status**: `Graveyard` 🪦
+- **Categories**: [`Payments`](../../README.md#payments-), [`Commerce`](../../README.md#commerce-)
+- **Type**: `REST`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
 
 ## 🚦 Rate Limits
 *Not specified*
