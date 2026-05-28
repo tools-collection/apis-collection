@@ -1776,6 +1776,41 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [USGS Earthquake Hazards](./pages/usgs-earthquakes/README.md) - USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity 🆓
 
 ### Scrapers & Data Mining 🕸️
+- [ApiFlash](https://tools-collection.net/apis-list/apiflash) - Chrome based screenshot API to convert URLs to images
+- [Apify](https://tools-collection.net/apis-list/apify) - Apify&#x27;s API lets you run web scraping and automation actors, manage datasets, key-value stores, and proxies 🆓
+- [aScraper](https://tools-collection.net/apis-list/ascraper) - Scraping Service API
+- [BetterMeta](https://tools-collection.net/apis-list/bettermeta) - A simple API to return the meta tags of any site in a digestable JSON format
+- [Blogcast](https://tools-collection.net/apis-list/blogcast) - Generate audio versions of your articles
+- [Browshot](https://tools-collection.net/apis-list/browshot) - Full API to take screenshots of any website.
+- [Cloudmersive Document and Data Conversion](https://tools-collection.net/apis-list/cloudmersive-document-and-data-conversion) - Document and Data Conversion APIs
+- [Currents](https://tools-collection.net/apis-list/currents) - Currents - Capture the world news through simple json News API
+- [Dashblock](https://tools-collection.net/apis-list/dashblock) - The easiest way to access websites programmatically and collect structured data
+- [Elis](https://tools-collection.net/apis-list/elis) - Automate data extraction from your documents with Artificial Intelligence
+- [Geonode](https://geonode.com) — Rotating residential + datacenter proxies and a Firecrawl-compatible scraper API.
+- [Getscreenshot By Rasterwise](https://tools-collection.net/apis-list/getscreenshot-by-rasterwise) - GetScreenshot is an affordable and highly scalable screenshot API service
+- [Icelandic APIs](https://tools-collection.net/apis-list/icelandic-apis) - The purpose of APIs
+- [import.io](https://tools-collection.net/apis-list/import-io) - Import
+- [Intellexer](https://tools-collection.net/apis-list/intellexer) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
+- [LinkPreview](https://tools-collection.net/apis-list/linkpreview) - Preview Web links with our reliable API service
+- [Mercury](https://tools-collection.net/apis-list/mercury) - Mercury Web Parser turns web articles into structured content reliably and easily
+- [Microlink](https://tools-collection.net/apis-list/microlink) - Generate PDF from any website
+- [MLScrape](https://tools-collection.net/apis-list/mlscrape) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
+- [pdflayer](https://tools-collection.net/apis-list/pdflayer) - Free, powerful HTML to PDF API supporting both URL and raw HTML conversion 🆓
+- [PDFmyURL](https://tools-collection.net/apis-list/pdfmyurl) - Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line
+- [Pdfshift ](https://tools-collection.net/apis-list/pdfshift) - An API to convert HTML/CSS documents to PDF
+- [ProxyCrawl](https://tools-collection.net/apis-list/proxycrawl) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
+- [Restpack](https://tools-collection.net/apis-list/restpack) - Screenshot API, HTML to PDF API, Content Extraction API
+- [Scraper API](https://tools-collection.net/apis-list/scraper-api) - Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call
+- [Scrapestack](https://tools-collection.net/apis-list/scrapestack) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [Scrapingbee](https://tools-collection.net/apis-list/scrapingbee) - Scraping is hard, scraping at scale can be very challenging
+- [Screenshot Machine](https://tools-collection.net/apis-list/screenshot-machine) - Free screenshot api for capturing web pages
+- [Screenshotscloud](https://tools-collection.net/apis-list/screenshotscloud) - With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service
+- [SearchApi](https://tools-collection.net/apis-list/searchapi) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
+- [Spotify](https://tools-collection.net/apis-list/spotify) - Let’s you search and lookup metadata about artists, tracks and albums
+- [SummarizeBot API](https://tools-collection.net/apis-list/summarizebot-api) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
+- [Trawlingweb](https://tools-collection.net/apis-list/trawlingweb) - Trawlingweb structures, stores and indexes millions of web pages per day in vertical data pools
+- [Zenscrape](https://tools-collection.net/apis-list/zenscrape-web-scraping-api) - This web scraping API handles all problems that are related to web scraping
+- [Zenserp](https://tools-collection.net/apis-list/zenserp) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
 - [ApiFlash](./pages/apiflash/README.md) - Chrome based screenshot API to convert URLs to images
 - [Apify](./pages/apify/README.md) - Apify&#x27;s API lets you run web scraping and automation actors, manage datasets, key-value stores, and proxies 🆓
 - [aScraper](./pages/ascraper/README.md) - Scraping Service API
