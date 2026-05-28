@@ -9,7 +9,7 @@ categories:
   - Hardware
   - Payments
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/keyserv/logo_256x256.png
+logo: null
 contact: support@jirafe.com
 links:
   - name: Docs / Website

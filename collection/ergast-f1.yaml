@@ -6,7 +6,7 @@ categories:
   - Sport & Fitness
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ergast-f1/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: http://ergast.com/mrd/

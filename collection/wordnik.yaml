@@ -6,7 +6,7 @@ categories:
   - Content & Dictionaries
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wordnik/logo_256x256.png
+logo: null
 contact: contact@wordassociations.net
 links:
   - name: Docs / Website

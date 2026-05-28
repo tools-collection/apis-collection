@@ -7,27 +7,36 @@
   "description": "Community maintained, human, machine and AI readable list of Public APIs 📝",
   "type": "module",
   "bin": {
-    "apis": "./src/cli.ts"
+    "apis": "./dist/cli.js"
   },
   "scripts": {
-    "build": "tsx src/cli.ts build",
-    "validate": "tsx src/cli.ts validate",
-    "add": "tsx src/cli.ts add",
-    "check-links": "tsx src/cli.ts check-links",
-    "check-orphans": "tsx src/cli.ts check-orphans",
-    "enrich": "tsx src/cli.ts enrich",
-    "migrate": "tsx src/cli.ts migrate",
+    "compile": "tsc",
+    "prebuild": "tsc",
+    "build": "node dist/cli.js build",
+    "prevalidate": "tsc",
+    "validate": "node dist/cli.js validate",
+    "preadd": "tsc",
+    "add": "node dist/cli.js add",
+    "precheck-links": "tsc",
+    "check-links": "node dist/cli.js check-links",
+    "preenrich": "tsc",
+    "enrich": "node dist/cli.js enrich",
+    "premove-to-graveyard": "tsc",
+    "move-to-graveyard": "node dist/cli.js move-to-graveyard",
     "test": "vitest run",
     "test:watch": "vitest"
   },
   "devDependencies": {
-    "tsx": "4.21.0",
-    "typescript": "5.9.3",
+    "@types/handlebars": "^4.0.40",
+    "@types/inquirer": "^9.0.9",
+    "@types/node": "^25.9.1",
+    "@types/yaml": "^1.9.6",
+    "typescript": "^6.0.0",
     "vitest": "4.0.18"
   },
   "dependencies": {
     "chalk": "5.6.2",
-    "commander": "7.0.0",
+    "commander": "14.0.3",
     "handlebars": "4.7.6",
     "inquirer": "13.2.5",
     "octokit": "^5.0.5",

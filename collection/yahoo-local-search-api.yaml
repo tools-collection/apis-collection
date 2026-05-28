@@ -6,7 +6,7 @@ categories:
   - Search
   - Maps & Geo
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-local-search-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://developer.yahoo.com/search/local/localSearch.html

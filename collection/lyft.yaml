@@ -6,7 +6,7 @@ categories:
   - Transportation
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lyft/logo_256x256.png
+logo: null
 contact: api-support@lyft.com
 links:
   - name: Docs / Website

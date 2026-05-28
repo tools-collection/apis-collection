@@ -5,7 +5,7 @@ categories:
   - Development
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ifttt/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://platform.ifttt.com/docs/connect_api

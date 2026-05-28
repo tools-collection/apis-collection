@@ -6,7 +6,7 @@ categories:
   - Content & Dictionaries
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/qkast-channel-content/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://github.com/egfx/qKast

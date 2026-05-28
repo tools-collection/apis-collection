@@ -1,0 +1,12 @@
+name: Threads API
+slug: threads-api
+description: Threads API by Meta enables publishing posts, replies, and media, retrieving user profiles, and accessing insights for Threads accounts. Build integrations with Meta's text-based social platform.
+categories:
+  - Social
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developers.facebook.com/docs/threads
+  - name: API Reference
+    url: https://developers.facebook.com/docs/threads/reference

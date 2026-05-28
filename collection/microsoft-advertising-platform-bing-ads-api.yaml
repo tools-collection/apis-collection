@@ -6,7 +6,7 @@ categories:
   - Marketing & SEO
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/microsoft-advertising-platform-bing-ads-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx

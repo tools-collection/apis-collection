@@ -8,7 +8,7 @@ categories:
   - Events
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/picatic/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=abhishekbanthia

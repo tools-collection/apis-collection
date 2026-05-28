@@ -5,7 +5,7 @@ categories:
   - Marketing & SEO
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scoop-it/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: http://www.scoop.it/dev

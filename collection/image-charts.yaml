@@ -6,7 +6,7 @@ categories:
   - Email & SMS
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/image-charts/logo_256x256.png
+logo: null
 contact: contact@ijenko.com
 links:
   - name: Docs / Website

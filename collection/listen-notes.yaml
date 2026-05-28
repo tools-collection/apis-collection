@@ -5,7 +5,7 @@ description: Best podcast API trusted by 2,104 companies and developers. Search 
 categories:
   - Music & Audio
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/listen-notes/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.listennotes.com/api/

@@ -9,7 +9,7 @@ categories:
   - AI & ML
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/infermedica-api/logo_256x256.png
+logo: null
 contact: support@mailsquad.com
 links:
   - name: Docs / Website

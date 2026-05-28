@@ -20,7 +20,7 @@ description: Raw historical market data is available both in exchange native and
 categories:
   - Blockchain & Cryptocurrencies
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tardis/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://tardis.dev

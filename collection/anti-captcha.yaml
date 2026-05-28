@@ -7,7 +7,7 @@ categories:
   - Recognition
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anti-captcha/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://anti-captcha.com/apidoc

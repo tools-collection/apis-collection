@@ -6,7 +6,7 @@ description: SkyBiometry uses completely different computer vision algorithms fo
 categories:
   - Recognition
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sky-biometry/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://skybiometry.com/documentation/

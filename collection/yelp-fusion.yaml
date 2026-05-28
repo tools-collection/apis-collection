@@ -1,0 +1,13 @@
+name: Yelp Fusion API
+slug: yelp-fusion
+description: Yelp Fusion API provides business search, reviews, photos, and events data from Yelp's local business directory. Find and display restaurant, bar, and service business information.
+categories:
+  - Food & Drinks
+  - Point of Interest
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://docs.developer.yelp.com/docs/fusion-intro
+  - name: API Reference
+    url: https://docs.developer.yelp.com/reference/v3_business_search

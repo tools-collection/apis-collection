@@ -7,7 +7,7 @@ categories:
   - URLs
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkpreview/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.linkpreview.net

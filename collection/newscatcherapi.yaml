@@ -6,7 +6,7 @@ categories:
   - News & Feeds
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newscatcherapi/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://newscatcherapi.com/news-api

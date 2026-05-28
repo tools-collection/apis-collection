@@ -5,7 +5,7 @@ categories:
   - Education
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-classroom-api/logo_256x256.png
+logo: null
 contact: support@goog.io
 links:
   - name: Docs / Website

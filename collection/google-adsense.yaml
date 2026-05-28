@@ -6,7 +6,7 @@ categories:
   - Marketing & SEO
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-adsense/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://developers.google.com/adsense/?hl=en

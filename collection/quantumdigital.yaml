@@ -8,7 +8,7 @@ categories:
   - Post & Logistics
   - Commerce
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quantumdigital/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://developer.quantumdigital.com

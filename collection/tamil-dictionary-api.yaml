@@ -4,7 +4,7 @@ description: Lookup Tamil words and build your own Tamil dictionary APP using th
 categories:
   - Content & Dictionaries
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tamil-dictionary-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://agarathi.com/api/dictionary

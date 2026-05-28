@@ -5,7 +5,7 @@ categories:
   - Statistics & Data
 type: REST
 is_free: true
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/data-science-toolkit/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://github.com/petewarden/dstk

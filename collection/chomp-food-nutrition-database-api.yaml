@@ -7,7 +7,7 @@ description: A powerful API that provides detailed data on over 500,000 products
 categories:
   - Food & Drinks
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/chomp-food-nutrition-database-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://chompthis.com/api/

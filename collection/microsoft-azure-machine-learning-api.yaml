@@ -7,7 +7,7 @@ categories:
   - AI & ML
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/microsoft-azure-machine-learning-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://azure.microsoft.com/en-us/services/cognitive-services/

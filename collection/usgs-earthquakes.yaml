@@ -1,0 +1,13 @@
+name: USGS Earthquake Hazards
+slug: usgs-earthquakes
+description: USGS Earthquake Hazards API provides real-time and historical earthquake data including magnitude, location, depth, and ShakeMap intensity. Access global seismic event feeds in GeoJSON format.
+categories:
+  - Environment & Nature
+  - Science & Math
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://earthquake.usgs.gov/fdsnws/event/1
+  - name: API Reference
+    url: https://earthquake.usgs.gov/fdsnws/event/1

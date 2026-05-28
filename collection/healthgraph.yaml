@@ -7,7 +7,7 @@ categories:
   - Sport & Fitness
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/healthgraph/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://runkeeper.com/developer/healthgraph/registration-authorization

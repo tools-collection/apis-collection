@@ -5,7 +5,7 @@ description: The Cartola FC API serves to check the partial points of your team.
 categories:
   - Sport & Fitness
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cartola-fc/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://github.com/wgenial/cartrolandofc

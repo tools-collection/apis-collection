@@ -1,0 +1,12 @@
+name: what3words
+slug: what3words
+description: what3words API converts between 3-word addresses and GPS coordinates. Every 3m square on Earth has a unique 3-word address for precise, human-friendly location sharing.
+categories:
+  - Maps & Geo
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.what3words.com/public-api
+  - name: API Reference
+    url: https://developer.what3words.com/public-api/docs

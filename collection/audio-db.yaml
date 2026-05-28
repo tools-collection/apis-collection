@@ -6,7 +6,7 @@ description: with the Audio DB API, you can get albums, artist, specific tracks 
 categories:
   - Music & Audio
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/audio-db/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.theaudiodb.com/api_guide.php

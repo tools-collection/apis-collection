@@ -5,7 +5,7 @@ categories:
   - Email & SMS
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gmail-api/logo_256x256.png
+logo: null
 contact: support@goog.io
 links:
   - name: Docs / Website

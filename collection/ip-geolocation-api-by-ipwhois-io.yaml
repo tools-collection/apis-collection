@@ -6,7 +6,7 @@ description: Filter out bot traffic, customize content based on visitor's locati
 categories:
   - Maps & Geo
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ip-geolocation-api-by-ipwhois-io/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://ipwhois.io

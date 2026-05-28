@@ -10,7 +10,7 @@ description: Contify's News Feed APIs provides a clean, company-based market and
 categories:
   - Development
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/contify-newfeed-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.contify.com/news-feed-api/

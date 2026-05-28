@@ -1,0 +1,13 @@
+name: eBird
+slug: ebird
+description: eBird's API from Cornell Lab provides bird observation data including recent sightings, rare birds, checklists, and hotspot information submitted by birders worldwide.
+categories:
+  - Environment & Nature
+  - Animals
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://documenter.getpostman.com/view/664302/S1ENwy59
+  - name: API Reference
+    url: https://documenter.getpostman.com/view/664302/S1ENwy59

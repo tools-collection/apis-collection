@@ -10,7 +10,7 @@ categories:
   - Forms & Surveys
   - Chats & Messaging
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clust/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://clustdoc.com/developers

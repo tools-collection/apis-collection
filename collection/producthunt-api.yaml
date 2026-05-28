@@ -1,0 +1,13 @@
+name: Product Hunt API
+slug: producthunt-api
+description: Product Hunt's GraphQL API provides access to products, posts, collections, topics, and user data. Discover and integrate trending tech products and startup launches.
+categories:
+  - Social
+  - Development
+type: GraphQL
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://api.producthunt.com/v2/docs
+  - name: API Reference
+    url: https://api.producthunt.com/v2/docs

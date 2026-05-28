@@ -6,7 +6,7 @@ description: Looking for hashtag suggestions, analytics, trend data, influencers
 categories:
   - Other
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ritekit/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://ritekit.com/api-demo/auto-hashtag

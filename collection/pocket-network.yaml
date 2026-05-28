@@ -7,7 +7,7 @@ description: "Pocket proportionally rewards the participating nodes with native 
 categories:
   - Blockchain & Cryptocurrencies
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pocket-network/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://docs.pokt.network/docs

@@ -1,0 +1,13 @@
+name: TomTom
+slug: tomtom
+description: TomTom's Maps APIs provide routing, geocoding, traffic, search, and map tiles. Build navigation, fleet tracking, and location-based applications with real-time traffic data.
+categories:
+  - Maps & Geo
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://developer.tomtom.com/documentation
+  - name: API Reference
+    url: https://developer.tomtom.com/routing-api/documentation/product-information/introduction

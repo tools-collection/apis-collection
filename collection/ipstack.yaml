@@ -9,7 +9,7 @@ categories:
   - Validation & Verification
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipstack/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://ipstack.com/

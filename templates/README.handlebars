@@ -12,6 +12,8 @@ If you want to add/edit/remove/etc APIs from this list, please see the [contribu
 
 Discuss any topic related to the specific API you can [here](https://github.com/tools-collection/apis-collection/discussions)
 
+Supported by [Online Tools Collection](https://tools-collection.net)
+
 ## Table of Contents
 - [APIs](#apis):
 {{#each categoriesNames}}
@@ -25,14 +27,14 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 {{#each categoriesNames }}
 ### {{{ this }}} {{{category_icon .}}}
 {{#each (lookup ../apis this) as |api| }}
-- [{{ api.name }}](https://tools-collection.net/apis-list/{{api.slug}}) - {{short api.description}}{{#if api.is_free }} 🆓{{/if}}
+- [{{ api.name }}](./pages/{{api.slug}}/README.md) - {{short api.description}}{{#if api.is_free }} 🆓{{/if}}
 {{/each}}
 
 {{/each}}
 
 ## Graveyard 🪦
 {{#each Graveyard }}
-- [{{ this.name }}](https://tools-collection.net/apis-list/{{this.slug}}){{# if this.description}} - {{short this.description }}{{/if}}
+- [{{ this.name }}](./pages/{{this.slug}}/README.md){{# if this.description}} - {{short this.description }}{{/if}}
 {{/each}}
 
 ## Contributors

@@ -1,0 +1,13 @@
+name: OpenRouteService
+slug: openrouteservice
+description: OpenRouteService API provides routing, isochrones, geocoding, matrix calculations, and elevation data based on OpenStreetMap. Free and open-source geospatial services globally.
+categories:
+  - Maps & Geo
+  - Transportation
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://openrouteservice.org/dev/#/api-docs
+  - name: API Reference
+    url: https://openrouteservice.org/dev/#/api-docs/v2/directions/{profile}/post

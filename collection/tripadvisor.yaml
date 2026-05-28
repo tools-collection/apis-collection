@@ -1,0 +1,13 @@
+name: TripAdvisor Content API
+slug: tripadvisor
+description: TripAdvisor's Content API provides access to hotel, restaurant, and attraction reviews, photos, ratings, and location details from the world's largest travel platform.
+categories:
+  - Travel
+  - Point of Interest
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://tripadvisor-content-api.readme.io/reference/overview
+  - name: API Reference
+    url: https://tripadvisor-content-api.readme.io/reference/searchforlocations

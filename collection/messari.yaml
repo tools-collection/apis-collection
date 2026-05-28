@@ -6,7 +6,7 @@ description: Messari provides an institutional grade Bitcoin and blockchain data
 categories:
   - Blockchain & Cryptocurrencies
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/messari/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://messari.io/api

@@ -7,7 +7,7 @@ categories:
   - Social
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pinterest/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F

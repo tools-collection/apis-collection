@@ -1,0 +1,32 @@
+# 📦 [Ip Finder](https://ipfinder.io)
+
+
+> **Locate website visitors for free using ipfinder - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup. Locate and identify website visitors by IP address. You can get 4000 free request a day with IP Finder API**
+
+## 📝 Details
+- **Categories**: [Other](https://github.com/tools-collection/apis-collection#other-)
+- **Type**: `N/A`
+- **Auth**: `none`
+- **Free**: `No`
+- **Status**: `Graveyard` 🪦
+
+## 🚦 Rate Limits
+*Not specified*
+
+## 📖 Specification
+*Not specified*
+
+## 🔗 Links
+- [Docs / Website](https://ipfinder.io)
+
+## 🧰 Libraries
+*No libraries available*
+
+## 📬 Contact
+*Not provided*
+
+## 💬 Discussion
+*Not provided*
+
+---
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

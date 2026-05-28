@@ -8,7 +8,7 @@ categories:
   - Statistics & Data
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/archive-org/logo_256x256.png
+logo: null
 contact: support@aoncadis.org
 specification:
   type: swagger

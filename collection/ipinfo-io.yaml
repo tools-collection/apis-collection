@@ -1,0 +1,13 @@
+name: IPinfo
+slug: ipinfo-io
+description: IPinfo's API provides accurate IP geolocation, ASN, carrier, privacy detection, and abuse contact data. Powers billions of lookups monthly with 99.99% uptime and global coverage.
+categories:
+  - Maps & Geo
+  - Security
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://ipinfo.io/developers
+  - name: API Reference
+    url: https://ipinfo.io/developers/data-types

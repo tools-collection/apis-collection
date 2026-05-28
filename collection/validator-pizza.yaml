@@ -6,7 +6,7 @@ description: pizza is made to prevent users to register to websites with a dispo
 categories:
   - Validation & Verification
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/validator-pizza/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.validator.pizza

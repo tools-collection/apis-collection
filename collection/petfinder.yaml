@@ -7,7 +7,7 @@ categories:
   - Search
   - Animals
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/petfinder/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.petfinder.com/developers/v2/docs/

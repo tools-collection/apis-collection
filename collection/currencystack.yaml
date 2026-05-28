@@ -4,7 +4,7 @@ description: Real-time exchange rates for 154 world currencies provided in JSON 
 categories:
   - Finance & Economics
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencystack/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://currencystack.io

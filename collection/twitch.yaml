@@ -6,7 +6,7 @@ categories:
   - Social
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twitch/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://dev.twitch.tv/docs

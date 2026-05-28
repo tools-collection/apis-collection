@@ -6,7 +6,7 @@ description: World Trading Data is a worldwide market data provider, for example
 categories:
   - Finance & Economics
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/world-trading-data/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://marketstack.com/

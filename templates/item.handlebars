@@ -1,0 +1,75 @@
+# 📦 [{{ name }}]({{ links.[0].url }})
+
+{{#if logo}}
+<img src="{{logo}}" alt="{{name}} logo" width="200" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+{{/if}}
+
+> **{{ description }}**
+
+## 📝 Details
+- **Categories**: {{#each categories}}[{{{this}}}](https://github.com/tools-collection/apis-collection#{{slug this}}-){{#unless @last}}, {{/unless}}{{/each}}
+- **Type**: {{#if type}}`{{type}}`{{else}}`N/A`{{/if}}
+- **Auth**: `{{#if auth_type}}{{auth_type}}{{else}}none{{/if}}`
+- **Free**: {{#if is_free}}`Yes` 🆓{{else}}`No`{{/if}}
+- **Status**: {{#if is_active}}`Active`{{else}}`Graveyard` 🪦{{/if}}
+
+## 🚦 Rate Limits
+{{#if rate_limits}}
+{{ rate_limits }}
+{{else}}
+*Not specified*
+{{/if}}
+
+## 📖 Specification
+{{#if specification}}
+- **Type**: `{{ specification.type }}`
+- **URL**: [{{ specification.url }}]({{ specification.url }})
+{{#if specification.version}}
+- **Version**: `{{ specification.version }}`
+{{/if}}
+{{else}}
+*Not specified*
+{{/if}}
+
+## 🔗 Links
+{{#if links}}
+{{#each links}}
+- [{{ name }}]({{ url }})
+{{/each}}
+{{else}}
+*Not provided*
+{{/if}}
+
+## 🧰 Libraries
+{{#if libraries}}
+{{#each libraries}}
+### 🛠️ {{ name }}
+{{#if description}}> {{ description }}
+{{/if}}
+- **Platform**: {{#if platform}}`{{platform}}`{{else}}`N/A`{{/if}}
+{{#if documentation_url}}- **Docs**: [📚 Documentation]({{ documentation_url }}){{/if}}
+{{#if source_code_url}}- **Source**: [💻 Source Code]({{ source_code_url }}){{/if}}
+{{#if version}}- **Version**: `{{ version }}`{{/if}}
+{{#if author}}- **Author**: 👤 {{ author }}{{/if}}
+{{#if stargazers_count}}- **Stars**: ⭐ {{ stargazers_count }}{{/if}}
+{{/each}}
+{{else}}
+*No libraries available*
+{{/if}}
+
+## 📬 Contact
+{{#if contact}}
+📧 {{ contact }}
+{{else}}
+*Not provided*
+{{/if}}
+
+## 💬 Discussion
+{{#if discussion_url}}
+[Join the discussion 🗣️]({{ discussion_url }})
+{{else}}
+*Not provided*
+{{/if}}
+
+---
+[Back to README](../../README.md) | Supported by [Online Tools Collection](https://tools-collection.net)

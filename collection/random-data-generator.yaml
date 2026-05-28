@@ -8,7 +8,7 @@ categories:
   - Random
 type: REST
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/random-data-generator/logo_256x256.png
+logo: null
 specification:
   type: openapi
   url: https://randommer.io/api/docs/v1/swagger.json

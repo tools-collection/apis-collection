@@ -6,7 +6,7 @@ description: Email API to integrate 100% of Email Services Providers directly in
 categories:
   - Email & SMS
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nylas-email-api/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://www.nylas.com/sdks/

@@ -4,7 +4,7 @@ description: Vainglory Players, Matches and Telemetry
 categories:
   - Games
 is_free: false
-logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vainglory/logo_256x256.png
+logo: null
 links:
   - name: Docs / Website
     url: https://developer.vainglorygame.com

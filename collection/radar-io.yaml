@@ -1,0 +1,12 @@
+name: Radar
+slug: radar-io
+description: Radar's location platform API provides geofencing, trip tracking, address autocomplete, geocoding, and place detection. Build location-aware mobile and web applications at scale.
+categories:
+  - Maps & Geo
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://radar.com/documentation
+  - name: API Reference
+    url: https://radar.com/documentation/api
