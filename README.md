@@ -1278,6 +1278,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Infermedica API](./pages/infermedica-api/README.md) - The most advanced Symptom Checker and Patient Triage API
 - [kanye.rest](./pages/kanye-rest/README.md) - A free REST API for random Kanye West quotes
 - [Lexigram](./pages/lexigram/README.md) - io
+- [Longevity World Cup](./pages/longevity-world-cup/README.md) - Public JSON endpoint for Longevity World Cup athlete leaderboard data, including biological-age competition results, biomarkers, divisions, rankings, and profile links 🆓
 - [Marijuana Strains](./pages/marijuana-strains/README.md) - The Strain API 🆓
 - [Medicare](./pages/medicare/README.md) - gov. Access to the data from the CMS - medicare
 - [NaMoMemes](./pages/namomemes/README.md) - Is a description required
@@ -1994,6 +1995,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Google Fitness API](./pages/google-fitness-api/README.md) - Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
 - [HealthGraph](./pages/healthgraph/README.md) - RunKeeper&#x27;s web-based HealthGraph API presents Health Graph data, and provides information about a user and friends
 - [JCDecaux Bike](./pages/jcdecaux-bike/README.md) - From the location of the bike stations to the availability of bikes and parking spaces in real time, use our data to experiment new representations or to provide innovative and useful services to users
+- [Longevity World Cup](./pages/longevity-world-cup/README.md) - Public JSON endpoint for Longevity World Cup athlete leaderboard data, including biological-age competition results, biomarkers, divisions, rankings, and profile links 🆓
 - [NBA Stats](./pages/nba-stats/README.md) - Current and historical NBA Statistics
 - [Nfl Arrests](./pages/nfl-arrests/README.md) - NFL Arrest provides an interactive visualized database of National Football League player Arrests &amp; Charges
 - [NHL Records and Stats](./pages/nhl-records-and-stats/README.md) - Documenting the publicly accessible portions of the NHL API
@@ -2022,6 +2024,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [EPO](./pages/epo/README.md) - Open Patent Services (OPS) is a web service which provides access to the EPO&#x27;s raw data via a standardised XML interface
 - [GBIF](./pages/gbif/README.md) - Free and open access to biodiversity data
 - [HouseCanary Analytics API](./pages/housecanary-analytics-api/README.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
+- [Longevity World Cup](./pages/longevity-world-cup/README.md) - Public JSON endpoint for Longevity World Cup athlete leaderboard data, including biological-age competition results, biomarkers, divisions, rankings, and profile links 🆓
 - [Looker](./pages/looker/README.md) - Looker&#x27;s REST API manages dashboards, looks, queries, users, and data connections
 - [Open Food Facts](./pages/open-food-facts/README.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels 🆓
 - [Open Government, Canada](./pages/open-government-canada/README.md) - Collaborative open source project led by the Government of Canada

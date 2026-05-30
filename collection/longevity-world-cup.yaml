@@ -1,0 +1,23 @@
+name: Longevity World Cup
+slug: longevity-world-cup
+description: Public JSON endpoint for Longevity World Cup athlete leaderboard data, including biological-age competition results, biomarkers, divisions, rankings, and profile links.
+categories:
+  - Health
+  - Sport & Fitness
+  - Statistics & Data
+type: REST
+is_free: true
+is_active: true
+auth_type: none
+tags:
+  - longevity
+  - biological-age
+  - leaderboard
+  - biomarkers
+links:
+  - name: Website
+    url: https://longevityworldcup.com/
+  - name: Athlete data endpoint
+    url: https://longevityworldcup.com/api/data/athletes
+  - name: Leaderboard
+    url: https://longevityworldcup.com/leaderboard
