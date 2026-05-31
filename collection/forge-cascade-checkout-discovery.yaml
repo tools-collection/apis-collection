@@ -1,0 +1,28 @@
+name: Forge Cascade Checkout Discovery
+slug: forge-cascade-checkout-discovery
+description: Forge Cascade exposes public checkout, paid-offer, MCP, A2A, agent-card, and LLM-readable discovery endpoints for enterprise AI memory buyers and developer agents.
+categories:
+  - AI & ML
+  - Commerce
+  - Business
+type: REST
+is_free: true
+is_active: true
+auth_type: none
+tags:
+  - openapi
+  - mcp
+  - a2a
+  - enterprise-ai
+  - checkout
+specification:
+  type: OpenAPI
+  url: https://sunflash12.github.io/ForgeV3/openapi.json
+  version: "2026-05-31"
+links:
+  - name: Docs / Website
+    url: https://sunflash12.github.io/ForgeV3/enterprise.html
+  - name: API Reference
+    url: https://sunflash12.github.io/ForgeV3/openapi.json
+  - name: LLM Discovery
+    url: https://sunflash12.github.io/ForgeV3/llms.txt

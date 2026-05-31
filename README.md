@@ -135,6 +135,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [fal.ai](./pages/fal-ai/README.md) - fal
 - [Fireworks AI](./pages/fireworks-ai/README.md) - Fireworks AI offers fast, cost-efficient inference for open-source language and image models
 - [Football Prediction](./pages/football-prediction/README.md) - he API supports competitions in over 90 countries and over 140 national leagues
+- [Forge Cascade Checkout Discovery](./pages/forge-cascade-checkout-discovery/README.md) - Forge Cascade exposes public checkout, paid-offer, MCP, A2A, agent-card, and LLM-readable discovery endpoints for enterprise AI memory buyers and developer agents 🆓
 - [Google Cloud Natural](./pages/google-cloud-natural/README.md) - Enables easy integration of Google natural language understanding technologies into developer applications
 - [Google Cloud Translation API](./pages/google-translate-v3/README.md) - Google Cloud Translation API v3 provides neural machine translation for 100+ languages with AutoML support, glossaries, batch translation, and document translation capabilities
 - [Google Gemini API](./pages/google-gemini/README.md) - Google&#x27;s Gemini API provides access to Gemini 2 🆓
@@ -418,6 +419,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Ecart](./pages/ecart/README.md) - Data is offered in JSON format
 - [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
 - [Enigma Public](./pages/enigma-public/README.md) - Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time
+- [Forge Cascade Checkout Discovery](./pages/forge-cascade-checkout-discovery/README.md) - Forge Cascade exposes public checkout, paid-offer, MCP, A2A, agent-card, and LLM-readable discovery endpoints for enterprise AI memory buyers and developer agents 🆓
 - [Formstack](./pages/formstack/README.md) - The Formstack API allows users and 3rd-party applications to access Formstack resources programmatically
 - [Freelancer](./pages/freelancer/README.md) - Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more
 - [Freshdesk](./pages/freshdesk/README.md) - Freshdesk&#x27;s API manages support tickets, contacts, agents, groups, and canned responses 🆓
@@ -572,6 +574,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
 - [envoice](./pages/envoice/README.md) - Invoicing for online businesses
 - [FIDEL API](./pages/fidel-api/README.md) - FIDEL is a card-linked API that lets developers create web and mobile applications for linking banks cards with reward services
+- [Forge Cascade Checkout Discovery](./pages/forge-cascade-checkout-discovery/README.md) - Forge Cascade exposes public checkout, paid-offer, MCP, A2A, agent-card, and LLM-readable discovery endpoints for enterprise AI memory buyers and developer agents 🆓
 - [Freelancer](./pages/freelancer/README.md) - Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more
 - [GamerPower](./pages/gamerpower/README.md) - The GamerPower API (Aka Game Giveaway Tracker API)
 - [Gumroad](./pages/gumroad/README.md) - Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more
