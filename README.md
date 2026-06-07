@@ -179,6 +179,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Shotstack](./pages/shotstack/README.md) - Shotstack API enables programmatic video editing and generation
 - [SpeechText.AI API](./pages/speechtext-ai-api/README.md) - Cloud Speech Recognition API
 - [Stability AI](./pages/stability-ai/README.md) - Stability AI&#x27;s API provides access to Stable Diffusion and SDXL models for image generation, editing, and upscaling
+- [Starveri API](./pages/starveri/README.md) - Starveri API provides OpenAI-compatible GPT/Codex chat completions with model discovery, free trial credits, paid API keys, and one-third OpenAI-style pricing 🆓
 - [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
 - [TasteDive](./pages/tastedive/README.md) - The TasteDive API can be used to integrate recommendations in other products
 - [Telegram Bot](./pages/telegram-bot/README.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
@@ -796,6 +797,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Scraper.AI](./pages/scraper-ai/README.md) - Scraper
 - [Scrapestack](./pages/scrapestack/README.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
 - [Sentry](./pages/sentry/README.md) - Sentry&#x27;s API provides access to error events, issues, projects, organizations, and releases 🆓
+- [Starveri API](./pages/starveri/README.md) - Starveri API provides OpenAI-compatible GPT/Codex chat completions with model discovery, free trial credits, paid API keys, and one-third OpenAI-style pricing 🆓
 - [Storyblok](./pages/storyblok/README.md) - Storyblok&#x27;s API is a headless CMS that provides content delivery and management APIs 🆓
 - [Strapi](./pages/strapi/README.md) - Strapi is an open-source headless CMS with auto-generated REST and GraphQL APIs 🆓
 - [Supabase](./pages/supabase/README.md) - Supabase is an open-source Firebase alternative offering a RESTful API over PostgreSQL, real-time subscriptions, authentication, file storage, and Edge Functions 🆓

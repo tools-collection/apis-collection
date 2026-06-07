@@ -1,0 +1,27 @@
+name: Starveri API
+slug: starveri
+description: Starveri API provides OpenAI-compatible GPT/Codex chat completions with model discovery, free trial credits, paid API keys, and one-third OpenAI-style pricing.
+categories:
+  - AI & ML
+  - Development
+type: REST
+is_free: true
+is_active: true
+auth_type: bearer
+rate_limits: Free tier includes 2,000 tokens; paid tiers start at 50 RPM and 50,000 TPM.
+tags:
+  - openai-compatible
+  - gpt
+  - codex
+  - chat-completions
+  - ai-agents
+specification:
+  type: OpenAPI
+  url: https://api.starveri.net/openapi.yaml
+links:
+  - name: Docs / Website
+    url: https://api.starveri.net/docs
+  - name: API Reference
+    url: https://api.starveri.net/openapi.yaml
+  - name: Pricing / Signup
+    url: https://api.starveri.net/credits
