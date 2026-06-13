@@ -473,6 +473,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Non-Working Days](./pages/non-working-days/README.md) - Open repository of non-working days ics files
 - [Russian Calendar](./pages/russian-calendar/README.md) - Work calendar service
 - [Unix Timestamp Converteri](./pages/unix-timestamp-converteri/README.md) - Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Timestamps to DateTime objects and DateTime objects to Unix Timestamps This WebService was built in 20 minutes using Li
+- [World Cup 2026 Tour](./pages/world-cup-2026-tour/README.md) - Free World Cup 2026 fixtures API with local kickoff time conversion, match links, CSV, JSONL, RSS, and calendar feeds 🆓
 - [WorldTimeAPI](./pages/worldtimeapi/README.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP
 
 ### Captcha 🔒
@@ -2008,6 +2009,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Ufc Data](./pages/ufc-data/README.md) - Ultimate Fighting Championship information for events and fighters
 - [Wger](./pages/wger/README.md) - de/api/v2/ Authentication Public endpoints, such as the list of exercises or the ingredients can be accessed with
 - [Withings](./pages/withings/README.md) - Access to data from Withings activity trackers and body measures
+- [World Cup 2026 Tour](./pages/world-cup-2026-tour/README.md) - Free World Cup 2026 fixtures API with local kickoff time conversion, match links, CSV, JSONL, RSS, and calendar feeds 🆓
 
 ### Statistics & Data 🗃️
 - [Archive.org](./pages/archive-org/README.md) - The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization committed to Universal Access of Knowledge
@@ -2036,6 +2038,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [USA Census API&#x27;S](./pages/usa-census-apis/README.md) - These data are currently used to distribute around $400 B in Federal, State and local funds in ways that help communities plan for schools, social and emergency services, highway improvements and economic developments
 - [USPTO](./pages/uspto/README.md) - United States patent and trademark office API
 - [Wolfram|Alpha](./pages/wolfram-alpha/README.md) - General knowledge on every topic; query it all with natural language input
+- [World Cup 2026 Tour](./pages/world-cup-2026-tour/README.md) - Free World Cup 2026 fixtures API with local kickoff time conversion, match links, CSV, JSONL, RSS, and calendar feeds 🆓
 
 ### Testing 🐞
 - [Bacon Ipsum](./pages/bacon-ipsum/README.md) - JSON API for returning meaty lorem ipsum filler text

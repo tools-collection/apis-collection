@@ -1,0 +1,32 @@
+name: World Cup 2026 Tour
+slug: world-cup-2026-tour
+description: Free World Cup 2026 fixtures API with local kickoff time conversion, match links, CSV, JSONL, RSS, and calendar feeds
+categories:
+  - Sport & Fitness
+  - Calendar & Time
+  - Statistics & Data
+type: REST
+is_free: true
+is_active: true
+auth_type: none
+tags:
+  - world-cup
+  - football
+  - soccer
+  - fixtures
+  - openapi
+specification:
+  type: OpenAPI
+  url: https://ay-worldcup2026.zeabur.app/openapi.json
+  version: 3.1.0
+links:
+  - name: Docs / Website
+    url: https://ay-worldcup2026.zeabur.app/developers
+  - name: OpenAPI
+    url: https://ay-worldcup2026.zeabur.app/openapi.json
+  - name: Dataset
+    url: https://ay-worldcup2026.zeabur.app/dataset
+  - name: LLM index
+    url: https://ay-worldcup2026.zeabur.app/llms.txt
+  - name: Public metadata
+    url: https://ay-worldcup2026.zeabur.app/api/public/v1/metadata
