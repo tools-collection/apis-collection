@@ -26,3 +26,7 @@ links:
     url: https://ay-worldcup2026.zeabur.app/openapi.json
   - name: Dataset
     url: https://ay-worldcup2026.zeabur.app/dataset
+  - name: LLM index
+    url: https://ay-worldcup2026.zeabur.app/llms.txt
+  - name: Public metadata
+    url: https://ay-worldcup2026.zeabur.app/api/public/v1/metadata

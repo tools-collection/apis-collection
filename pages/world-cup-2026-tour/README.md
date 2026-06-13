@@ -22,6 +22,8 @@
 - [Docs / Website](https://ay-worldcup2026.zeabur.app/developers)
 - [OpenAPI](https://ay-worldcup2026.zeabur.app/openapi.json)
 - [Dataset](https://ay-worldcup2026.zeabur.app/dataset)
+- [LLM index](https://ay-worldcup2026.zeabur.app/llms.txt)
+- [Public metadata](https://ay-worldcup2026.zeabur.app/api/public/v1/metadata)
 
 ## 🧰 Libraries
 *No libraries available*
