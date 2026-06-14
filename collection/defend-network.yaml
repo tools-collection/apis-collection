@@ -1,0 +1,11 @@
+name: defend.network
+slug: defend-network
+description: Free, no-auth JSON API of recently exploited CVEs enriched with CVSS, EPSS, and CISA KEV status; updated daily, CC BY 4.0.
+categories:
+  - Security
+type: REST
+is_free: true
+auth_type: none
+links:
+  - name: Docs / Website
+    url: https://defend.network/api/
