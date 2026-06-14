@@ -1862,6 +1862,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [BlockScore](./pages/blockscore/README.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
 - [Censys.io](./pages/censys-io/README.md) - Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security
 - [CRXcavator](./pages/crxcavator/README.md) - These factors include permissions, inclusion of vulnerable third party javascript libraries, weak content security policies, missing details from the Chrome Web Store description, and more
+- [defend.network](./pages/defend-network/README.md) - Free, no-auth JSON API of recently exploited CVEs enriched with CVSS, EPSS, and CISA KEV status; updated daily, CC BY 4 🆓
 - [FilterLists](./pages/filterlists/README.md) - By Collin M
 - [Firebase](./pages/firebase/README.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [FraudLabs Pro](./pages/fraudlabs-pro/README.md) - FraudLabs Pro Rest API to screen the order transaction for online fraud
