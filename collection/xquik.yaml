@@ -1,0 +1,27 @@
+name: Xquik
+slug: xquik
+description: X automation API for posts, accounts, trends, monitors, webhooks, and MCP access.
+categories:
+  - Social
+  - Scrapers & Data Mining
+type: REST
+is_free: false
+auth_type: api_key
+specification:
+  type: OpenAPI
+  url: https://xquik.com/openapi.json
+  version: "1.0"
+links:
+  - name: Docs / Website
+    url: https://docs.xquik.com
+  - name: API Reference
+    url: https://xquik.com/openapi.json
+libraries:
+  - name: x-twitter-scraper
+    documentation_url: https://www.npmjs.com/package/x-twitter-scraper
+    version: 0.3.3
+    platform: npm
+  - name: x-twitter-scraper
+    documentation_url: https://pypi.org/project/x-twitter-scraper/
+    version: 0.4.1
+    platform: PyPI

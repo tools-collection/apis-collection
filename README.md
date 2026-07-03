@@ -1808,6 +1808,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Spotify](./pages/spotify/README.md) - Let’s you search and lookup metadata about artists, tracks and albums
 - [SummarizeBot API](./pages/summarizebot-api/README.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
 - [Trawlingweb](./pages/trawlingweb/README.md) - Trawlingweb structures, stores and indexes millions of web pages per day in vertical data pools
+- [Xquik](./pages/xquik/README.md) - X automation API for posts, accounts, trends, monitors, webhooks, and MCP access
 - [Zenscrape](./pages/zenscrape-web-scraping-api/README.md) - This web scraping API handles all problems that are related to web scraping
 - [Zenserp](./pages/zenserp/README.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
 
@@ -1964,6 +1965,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Whatsapp Document Interaction](./pages/whatsapp-document-interaction/README.md) - Universal links are the preferred method of linking to a WhatsApp account
 - [Wip](./pages/wip/README.md) - Open API for the maker community
 - [Wordpress](./pages/wordpress/README.md) - WordPress is open source software you can use to create a beautiful website, blog, or app
+- [Xquik](./pages/xquik/README.md) - X automation API for posts, accounts, trends, monitors, webhooks, and MCP access
 - [Yammer API](./pages/yammer-api/README.md) - Yammer Developer Site was created using ReadMe
 - [YouTube](./pages/youtube/README.md) - Add YouTube functionality to your sites and apps
 - [Zomato](./pages/zomato/README.md) - Zomato API
