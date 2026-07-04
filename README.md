@@ -334,6 +334,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [bitpay](./pages/bitpay/README.md) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet
 - [Bittrex](./pages/bittrex/README.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
 - [Block](./pages/block/README.md) - The most versatile and secure wallet for all your coins
+- [Block Lottos](./pages/block-lottos/README.md) - Block Lottos provides public APIs for on-chain lottery data, wallet-signed ticket transaction builders, draw history and proof, live jackpot stats, and display advertising submission workflows across Polygon and Base 🆓
 - [Blockchain](./pages/blockchain/README.md) - The easiest and most trusted transaction search engine and block explorer
 - [BlockCypher](./pages/blockcypher/README.md) - Build blockchain applications easily with our web APIs and callbacks
 - [BlockFacts.io](./pages/blockfacts-io/README.md) - SDKs for integration, rich historic tick data
@@ -482,6 +483,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [ProxyCrawl](./pages/proxycrawl/README.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
 
 ### Casino & Gambling 🎰
+- [Block Lottos](./pages/block-lottos/README.md) - Block Lottos provides public APIs for on-chain lottery data, wallet-signed ticket transaction builders, draw history and proof, live jackpot stats, and display advertising submission workflows across Polygon and Base 🆓
 - [Lottery Number Generation](./pages/lottery-number-generation/README.md) - Hundereds of lottery games from various countries are supported
 - [Oddsapi](./pages/oddsapi/README.md) - Sports data API provides live and historical sports data from all around the world
 
@@ -1156,6 +1158,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [AmiiboAPI](./pages/amiiboapi/README.md) - The Amiibo RESTful API
 - [Battle.Net](./pages/battle-net/README.md) - Blizzard Entertainment
 - [Battlefield 4](./pages/battlefield-4/README.md) - Battlefield 4 Information
+- [Block Lottos](./pages/block-lottos/README.md) - Block Lottos provides public APIs for on-chain lottery data, wallet-signed ticket transaction builders, draw history and proof, live jackpot stats, and display advertising submission workflows across Polygon and Base 🆓
 - [CheapShark](./pages/cheapshark/README.md) - CheapShark is a price comparison website for digital PC Games
 - [Clash of Clans](./pages/clash-of-clans/README.md) - Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and Leagues
 - [Clash Royale](./pages/clash-royale/README.md) - API that provides informations about Clash Royale game
