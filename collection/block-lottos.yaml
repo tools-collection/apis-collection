@@ -1,0 +1,26 @@
+name: Block Lottos
+slug: block-lottos
+description: Block Lottos provides public APIs for on-chain lottery data, wallet-signed ticket transaction builders, draw history and proof, live jackpot stats, and display advertising submission workflows across Polygon and Base.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Games
+  - Casino & Gambling
+type: REST
+is_free: true
+is_active: true
+auth_type: none
+logo: https://blocklottos.com/images/logo21.png
+contact: support@blocklottos.com
+specification:
+  type: OpenAPI
+  url: https://blocklottos.com/openapi.json
+  version: 3.1.0
+links:
+  - name: Docs / Website
+    url: https://blocklottos.com/api-docs
+  - name: OpenAPI Specification
+    url: https://blocklottos.com/openapi.json
+  - name: Games
+    url: https://blocklottos.com/games
+  - name: Advertising API
+    url: https://blocklottos.com/api/ads/sizes
