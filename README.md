@@ -1035,6 +1035,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Brex](./pages/brex/README.md) - Brex&#x27;s API provides access to corporate card transactions, expenses, budgets, vendors, and reimbursements
 - [Bunq Api](./pages/bunq-api/README.md) - Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more
 - [Bybit](./pages/bybit/README.md) - Bybit&#x27;s API provides spot, derivatives, and options trading, market data, and account management for one of the largest crypto derivatives exchanges globally 🆓
+- [Cambio Uruguay](./pages/cambio-uruguay/README.md) - Free, no-auth REST API aggregating real-time buy/sell exchange rates from every Uruguayan casa de cambio (exchange house), plus currency conversion and historical rate series 🆓
 - [Consumer Financial Protection Bureau](./pages/consumer-financial-protection-bureau/README.md) - Financial services consumer complaint data
 - [CurrencyAPI](./pages/currencyapi/README.md) - CurrencyAPI provides real-time and historical foreign exchange rates for 170+ currencies 🆓
 - [CurrencyLayer.com](./pages/currencylayer-com/README.md) - Currencylayer provides a simple REST API with real-time and historical exchange rates for 168 world currencies, delivering currency pairs in universally usable JSON format

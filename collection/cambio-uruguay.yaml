@@ -1,0 +1,20 @@
+name: Cambio Uruguay
+slug: cambio-uruguay
+description: Free, no-auth REST API aggregating real-time buy/sell exchange rates from every Uruguayan casa de cambio
+  (exchange house), plus currency conversion and historical rate series. JSON responses, HTTPS and CORS enabled
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+is_active: true
+auth_type: none
+tags:
+  - currency
+  - exchange-rates
+  - forex
+  - uruguay
+links:
+  - name: Docs / Website
+    url: https://cambio-uruguay.com
+  - name: API
+    url: https://api.cambio-uruguay.com
