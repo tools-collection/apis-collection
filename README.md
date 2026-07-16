@@ -1054,6 +1054,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [KuCoin](./pages/kucoin-api/README.md) - KuCoin&#x27;s API supports spot, margin, and futures trading with market data, order management, and account endpoints 🆓
 - [Louis Dorrad](./pages/louis-dorrad/README.md) - Google’s product is quite similar to Amazon’s but it’s actually
 - [Music Machinery](./pages/music-machinery/README.md) - Here’s a categorized list of all the Music APIs
+- [MyPayslip.lk Sri Lanka Salary Calculator](./pages/mypayslip-lk/README.md) - Free read-only API for calculating a regular Sri Lankan monthly payslip, including APIT (PAYE), employee and employer EPF, employer ETF, stamp duty, net salary, annual figures and employer contributions 🆓
 - [NewStack](./pages/newstack/README.md) - Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services
 - [OKX](./pages/okx-api/README.md) - OKX&#x27;s API provides spot, futures, options, and DeFi trading with real-time market data and account management 🆓
 - [OpenCorporates](./pages/opencorporates/README.md) - World&#x27;s largest open database of companies
