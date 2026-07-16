@@ -1,0 +1,32 @@
+name: MyPayslip.lk Sri Lanka Salary Calculator
+slug: mypayslip-lk
+description: Free read-only API for calculating a regular Sri Lankan monthly payslip, including APIT (PAYE), employee
+  and employer EPF, employer ETF, stamp duty, net salary, annual figures and employer contributions. No API key is
+  required, CORS is enabled, and calculations use the current 2026/27 rules effective from 1 April 2025.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+is_active: true
+auth_type: none
+tags:
+  - sri-lanka
+  - salary
+  - payslip
+  - tax
+  - apit
+  - epf
+  - etf
+specification:
+  type: OpenAPI
+  url: https://mypayslip.lk/openapi.json
+  version: 3.1.0
+links:
+  - name: Docs / Website
+    url: https://mypayslip.lk/methodology/
+  - name: API Endpoint
+    url: https://mypayslip.lk/api/calc?salary=200000
+  - name: OpenAPI Specification
+    url: https://mypayslip.lk/openapi.json
+  - name: Reference Implementation
+    url: https://github.com/Buddhima-JD3/sri-lanka-salary-calculator
