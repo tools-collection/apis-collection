@@ -323,6 +323,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [UPC database](./pages/upc-database/README.md) - Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system
 
 ### Blockchain & Cryptocurrencies 📒️
+- [AgentServices](./pages/agentservices/README.md) - Paid API platform for AI agents with 54 services and 37 MCP tools. Per-call micropayments via x402 protocol on Base (USDC)
 - [Alchemy](./pages/alchemy-api/README.md) - Alchemy&#x27;s Web3 API provides enhanced node access, NFT data, transaction history, token balances, and webhook notifications across Ethereum, Polygon, Solana, and other blockchains 🆓
 - [Alpha Vantage](./pages/alpha-vantage/README.md) - Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series
 - [Binance](./pages/binance/README.md) - Binance cryptocurrency exchange official API
