@@ -1,0 +1,15 @@
+name: AIFast
+slug: aifast
+description: OpenAI-compatible API platform for language, image, video, embedding, and search models
+categories:
+  - AI & ML
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Website
+    url: https://www.aifast.club
+  - name: Documentation
+    url: https://docs.aifast.club/
+  - name: API compatibility checker
+    url: https://docs.aifast.club/model-check/
