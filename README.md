@@ -155,6 +155,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Lexalytics](./pages/semantria/README.md) - Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams
 - [Lexigram](./pages/lexigram/README.md) - io
 - [LUIS AI](./pages/luis-ai/README.md) - Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications
+- [Lumify](./pages/lumify/README.md) - Agent-ready sports intelligence API 🆓
 - [MeaningCloud](./pages/meaningcloud/README.md) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more
 - [Microsoft Azure Machine Learning API](./pages/microsoft-azure-machine-learning-api/README.md) - Azure Cognitive Services brings AI within reach of every developer through a family of APIs that don’t require machine-learning expertise
 - [Microsoft Cognitive Services](./pages/microsoft-cognitive-services/README.md) - A comprehensive family of AI services and cognitive APIs to help you build intelligent apps
@@ -1994,6 +1995,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Google Fitness API](./pages/google-fitness-api/README.md) - Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
 - [HealthGraph](./pages/healthgraph/README.md) - RunKeeper&#x27;s web-based HealthGraph API presents Health Graph data, and provides information about a user and friends
 - [JCDecaux Bike](./pages/jcdecaux-bike/README.md) - From the location of the bike stations to the availability of bikes and parking spaces in real time, use our data to experiment new representations or to provide innovative and useful services to users
+- [Lumify](./pages/lumify/README.md) - Agent-ready sports intelligence API 🆓
 - [NBA Stats](./pages/nba-stats/README.md) - Current and historical NBA Statistics
 - [Nfl Arrests](./pages/nfl-arrests/README.md) - NFL Arrest provides an interactive visualized database of National Football League player Arrests &amp; Charges
 - [NHL Records and Stats](./pages/nhl-records-and-stats/README.md) - Documenting the publicly accessible portions of the NHL API

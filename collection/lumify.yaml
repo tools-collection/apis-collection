@@ -1,0 +1,13 @@
+name: Lumify
+slug: lumify
+description: Agent-ready sports intelligence API. Real-time schedules, live scores, odds, line movement, public betting splits, and explainable AI bet confidence across MLB, NFL, NCAAF, NCAAB, NBA, NHL, tennis, and soccer.
+categories:
+  - AI & ML
+  - Sport & Fitness
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://lumify.ai
+  - name: API Reference
+    url: https://lumify.ai/docs/reference
