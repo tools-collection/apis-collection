@@ -1,0 +1,21 @@
+name: DepthFeed
+slug: depthfeed
+description: Historical and live prediction-market order-book data for backtesting and liquidity analysis
+categories:
+  - Finance & Economics
+  - Blockchain & Cryptocurrencies
+  - Casino & Gambling
+type: REST
+is_free: true
+auth_type: api_key
+rate_limits: "Explorer: 1 request per second"
+tags:
+  - prediction-markets
+  - order-book
+  - market-data
+  - backtesting
+links:
+  - name: Documentation
+    url: https://depthfeed.com/docs
+  - name: Open liquidity benchmark
+    url: https://depthfeed.com/arena/liquidity
