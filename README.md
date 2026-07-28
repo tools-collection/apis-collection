@@ -1511,6 +1511,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Bannerbear](./pages/bannerbear/README.md) - Bannerbear API auto-generates social media images, banners, and PDFs from templates
 - [ClickMeter](./pages/clickmeter/README.md) - ClickMeter API RESTful services
 - [Countly](./pages/countly/README.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
+- [DomScan](./pages/domscan/README.md) - Domain intelligence APIs for availability, DNS, WHOIS/RDAP, TLS, subdomains, email authentication, reputation, valuation, and brand monitoring 🆓
 - [EventBrite](./pages/eventbrite/README.md) - Eventbrite Python SDK
 - [Facebook Marketing API](./pages/facebook-marketing-api/README.md) - Marketing API Marketing APIs are a collection of Graph API endpoints that can be used to help you advertise on Facebook
 - [Google AdSense](./pages/google-adsense/README.md) - Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads
@@ -1862,6 +1863,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [BlockScore](./pages/blockscore/README.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
 - [Censys.io](./pages/censys-io/README.md) - Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security
 - [CRXcavator](./pages/crxcavator/README.md) - These factors include permissions, inclusion of vulnerable third party javascript libraries, weak content security policies, missing details from the Chrome Web Store description, and more
+- [DomScan](./pages/domscan/README.md) - Domain intelligence APIs for availability, DNS, WHOIS/RDAP, TLS, subdomains, email authentication, reputation, valuation, and brand monitoring 🆓
 - [FilterLists](./pages/filterlists/README.md) - By Collin M
 - [Firebase](./pages/firebase/README.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [FraudLabs Pro](./pages/fraudlabs-pro/README.md) - FraudLabs Pro Rest API to screen the order transaction for online fraud
@@ -2189,6 +2191,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
 - [Cloudmersive Validate](./pages/cloudmersive-validate/README.md) - Data Validation APIs
 - [Cognito](./pages/cognito/README.md) - Can take a customer&#x27;s cellphone number and return name, address history, full SSN, and date of birth
+- [DomScan](./pages/domscan/README.md) - Domain intelligence APIs for availability, DNS, WHOIS/RDAP, TLS, subdomains, email authentication, reputation, valuation, and brand monitoring 🆓
 - [Form-Api](./pages/form-api/README.md) - Build forms easily, autocomplete and validate data
 - [FraudLabs Pro](./pages/fraudlabs-pro/README.md) - FraudLabs Pro Rest API to screen the order transaction for online fraud
 - [ipstack](./pages/ipstack/README.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup

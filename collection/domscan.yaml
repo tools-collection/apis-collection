@@ -1,0 +1,21 @@
+name: DomScan
+slug: domscan
+description: Domain intelligence APIs for availability, DNS, WHOIS/RDAP, TLS, subdomains, email authentication, reputation, valuation, and brand monitoring
+categories:
+  - Security
+  - Validation & Verification
+  - Marketing & SEO
+type: REST
+is_free: true
+is_active: true
+auth_type: api_key
+rate_limits: 10,000 free credits per month
+specification:
+  type: openapi
+  url: https://domscan.net/v1/openapi.json
+  version: "3.1.0"
+links:
+  - name: Documentation
+    url: https://domscan.net/docs
+  - name: API catalog
+    url: https://domscan.net/apis
