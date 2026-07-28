@@ -355,6 +355,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [CryptoCompare](./pages/cryptocompare/README.md) - Cryptocurrencies Comparison
 - [Cryptonator](./pages/cryptonator/README.md) - Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 exchanges
 - [CurrencyScoop.com](./pages/currencyscoop-com/README.md) - Real-time and historical currency rates JSON API
+- [DepthFeed](./pages/depthfeed/README.md) - Historical and live prediction-market order-book data for backtesting and liquidity analysis 🆓
 - [Exchange Rates API](./pages/exchange-rates-api/README.md) - The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies
 - [Gemini](./pages/gemini/README.md) - Public REST APIs provide market data such as: current order book recent trading activity trade history
 - [Hybrix](./pages/hybrix/README.md) - The API is an open source multi ledger API, that allows developers to build multi-blockchain and multi-ledger solutions on 26+ blockchains
@@ -482,6 +483,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [ProxyCrawl](./pages/proxycrawl/README.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
 
 ### Casino & Gambling 🎰
+- [DepthFeed](./pages/depthfeed/README.md) - Historical and live prediction-market order-book data for backtesting and liquidity analysis 🆓
 - [Lottery Number Generation](./pages/lottery-number-generation/README.md) - Hundereds of lottery games from various countries are supported
 - [Oddsapi](./pages/oddsapi/README.md) - Sports data API provides live and historical sports data from all around the world
 
@@ -1041,6 +1043,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [CurrencyScoop.com](./pages/currencyscoop-com/README.md) - Real-time and historical currency rates JSON API
 - [Currencystack](./pages/currencystack/README.md) - Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment
 - [Czech National Bank](./pages/czech-national-bank/README.md) - A collection of exchange rates
+- [DepthFeed](./pages/depthfeed/README.md) - Historical and live prediction-market order-book data for backtesting and liquidity analysis 🆓
 - [ExchangeRate-API.com](./pages/exchangerate-api-com/README.md) - Accurate &amp; reliable Exchange Rates API trusted by tens of thousands of developers since 2010 🆓
 - [ExchangeRatesAPI.io](./pages/exchangeratesapi-io/README.md) - Exchange rates API is a free service for current and historical foreign exchange rates published by the European Central Bank
 - [Financial Modeling Prep](./pages/financial-modeling-prep/README.md) - Access all stocks discounted cash flow statements, market price, stock markets news, and learn more about Financial Modeling
