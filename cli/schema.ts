@@ -32,7 +32,7 @@ export const apiSchema = z.object({
   type: z.string().optional(),
   is_free: z.boolean().optional(),
   is_active: z.boolean().optional().default(true),
-  logo: z.string().url().optional(),
+  logo: z.string().url().nullable().optional(),
   contact: z.string().optional(),
   discussion_url: z.string().url().optional(),
   auth_type: authType,

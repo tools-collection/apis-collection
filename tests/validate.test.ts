@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { apiSchema } from "../src/schema.js";
+import { apiSchema } from "../cli/schema.js";
 
 describe("validate logic", () => {
   it("detects slug mismatch", () => {

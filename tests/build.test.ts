@@ -1,6 +1,6 @@
 import { describe, it, expect } from "vitest";
-import { readAllApis } from "../src/utils.js";
-import { getProjectRoot } from "../src/utils.js";
+import { readAllApis } from "../cli/utils.js";
+import { getProjectRoot } from "../cli/utils.js";
 
 describe("build", () => {
   it("readAllApis returns non-empty array from collection", () => {
