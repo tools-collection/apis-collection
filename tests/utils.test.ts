@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { makeSlug, compact } from "../src/utils.js";
+import { makeSlug, compact } from "../cli/utils.js";
 
 describe("makeSlug", () => {
   it("lowercases and slugifies", () => expect(makeSlug("YouTube API")).toBe("youtube-api"));

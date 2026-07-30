@@ -39,7 +39,7 @@ No, it is generated from the template and API data.
 Search for issues with labels ["help wanted" and "new api"](https://github.com/tools-collection/apis-collection/issues?q=is%3Aissue+is%3Aopen+label%3A"new+api"+label%3A"help+wanted"). These list one or more APIs that should be added.
 
 # Does API definition have a schema?
-Yes — the schema is defined in [`src/schema.ts`](https://github.com/tools-collection/apis-collection/blob/main/src/schema.ts) using Zod.
+Yes. The schema is defined in [`cli/schema.ts`](https://github.com/tools-collection/apis-collection/blob/main/cli/schema.ts) using Zod.
 
 Required fields: `name`, `slug`, `categories` (at least one from `categories.yaml`).
 

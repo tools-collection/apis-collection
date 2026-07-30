@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { apiSchema } from "../src/schema.js";
+import { apiSchema } from "../cli/schema.js";
 
 describe("apiSchema", () => {
   it("accepts minimal valid API", () => {
@@ -23,6 +23,11 @@ describe("apiSchema", () => {
       links: [{ name: "Docs", url: "https://example.com" }],
       libraries: [{ name: "SDK", platform: "Node.js" }],
     });
+    expect(result.success).toBe(true);
+  });
+
+  it("accepts legacy APIs with a null logo", () => {
+    const result = apiSchema.safeParse({ name: "Test", slug: "test", categories: ["Other"], logo: null });
     expect(result.success).toBe(true);
   });
 
