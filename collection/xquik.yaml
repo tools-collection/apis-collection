@@ -1,0 +1,85 @@
+name: Xquik
+slug: xquik
+description: >-
+  Developer API for X data, monitoring, bulk extraction, webhooks, and user-approved account actions. Includes SDKs
+  and MCP access. Not affiliated with X Corp.
+categories:
+  - Social
+  - Scrapers & Data Mining
+  - Search
+type: REST
+is_free: false
+is_active: true
+logo: https://xquik.com/icon.svg
+auth_type: api_key
+tags:
+  - x
+  - social-media
+  - data-extraction
+  - monitoring
+  - webhooks
+  - mcp
+specification:
+  type: openapi
+  url: https://xquik.com/openapi.json
+  version: 3.1.0
+links:
+  - name: Docs / Website
+    url: https://docs.xquik.com/api-reference/overview
+  - name: MCP Server
+    url: https://docs.xquik.com/mcp/overview
+  - name: GitHub
+    url: https://github.com/Xquik-dev
+  - name: Non-Affiliation
+    url: https://docs.xquik.com/non-affiliation
+libraries:
+  - name: Xquik TypeScript SDK
+    documentation_url: https://docs.xquik.com/sdks/typescript
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-typescript
+    platform: TypeScript
+    author: Xquik
+  - name: Xquik Python SDK
+    documentation_url: https://docs.xquik.com/sdks/python
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-python
+    platform: Python
+    author: Xquik
+  - name: Xquik Go SDK
+    documentation_url: https://docs.xquik.com/sdks/go
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-go
+    platform: Go
+    author: Xquik
+  - name: Xquik Java SDK
+    documentation_url: https://docs.xquik.com/sdks/java
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-java
+    platform: Java
+    author: Xquik
+  - name: Xquik Kotlin SDK
+    documentation_url: https://docs.xquik.com/sdks/kotlin
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-kotlin
+    platform: Kotlin
+    author: Xquik
+  - name: Xquik C# SDK
+    documentation_url: https://docs.xquik.com/sdks/csharp
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-csharp
+    platform: .NET
+    author: Xquik
+  - name: Xquik PHP SDK
+    documentation_url: https://docs.xquik.com/sdks/php
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-php
+    platform: PHP
+    author: Xquik
+  - name: Xquik Ruby SDK
+    documentation_url: https://docs.xquik.com/sdks/ruby
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-ruby
+    platform: Ruby
+    author: Xquik
+  - name: Xquik CLI
+    documentation_url: https://docs.xquik.com/sdks/cli
+    source_code_url: https://github.com/Xquik-dev/x-twitter-scraper-cli
+    platform: CLI
+    author: Xquik
+  - name: Xquik Terraform Provider
+    documentation_url: https://docs.xquik.com/sdks/terraform
+    source_code_url: https://github.com/Xquik-dev/terraform-provider-x-twitter-scraper
+    platform: Terraform
+    author: Xquik
