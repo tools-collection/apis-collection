@@ -1517,6 +1517,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Google AdWords API](./pages/google-adwords-api/README.md) - A SOAP API that provides access to Google Ads accounts, campaigns, and reports
 - [HubSpot](./pages/hubspot/README.md) - HubSpot&#x27;s API provides access to CRM contacts, companies, deals, tickets, marketing emails, and automation workflows 🆓
 - [Kaltura VPaaS](./pages/kaltura-vpaas/README.md) - Build video apps and add native video capabilities to your products
+- [Klinky](./pages/klinky/README.md) - A/B testing link shortener API 🆓
 - [Localytics](./pages/localytics/README.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
 - [Mailchimp](./pages/mailchimp/README.md) - Mailchimp&#x27;s Marketing API manages email campaigns, audiences, automations, and reports 🆓
 - [Mailjet](./pages/mailjet/README.md) - Reliable and scalable email delivery platform with SMTP and API
@@ -2167,6 +2168,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [ClickMeter](./pages/clickmeter/README.md) - ClickMeter API RESTful services
 - [Google URL Shortener API](./pages/google-url-shortener-api/README.md) - Used by Google products to create short URLs that can be easily shared, tweeted, or emailed to friends
 - [Is.gd](./pages/is-gd/README.md) - Simple URL shortener
+- [Klinky](./pages/klinky/README.md) - A/B testing link shortener API 🆓
 - [LinkPreview](./pages/linkpreview/README.md) - Preview Web links with our reliable API service
 - [Long Url Shortener](./pages/long-url-shortener/README.md) - Given a long URL, returns a short link
 - [Microlink](./pages/microlink/README.md) - Generate PDF from any website

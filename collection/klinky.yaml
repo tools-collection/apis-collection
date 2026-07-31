@@ -1,0 +1,24 @@
+name: Klinky
+slug: klinky
+description: A/B testing link shortener API. Create and manage short links that split traffic between two destinations at chosen weights, and retrieve per-link click analytics.
+categories:
+  - URLs
+  - Marketing & SEO
+type: REST
+is_free: true
+is_active: true
+logo: https://docs.klinky.io/logo.svg
+auth_type: bearer
+tags:
+  - url-shortener
+  - ab-testing
+  - analytics
+specification:
+  type: openapi
+  url: https://docs.klinky.io/openapi.json
+  version: "1.0.0"
+links:
+  - name: Docs / Website
+    url: https://docs.klinky.io
+  - name: Website
+    url: https://klinky.io
