@@ -1994,6 +1994,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Google Fitness API](./pages/google-fitness-api/README.md) - Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
 - [HealthGraph](./pages/healthgraph/README.md) - RunKeeper&#x27;s web-based HealthGraph API presents Health Graph data, and provides information about a user and friends
 - [JCDecaux Bike](./pages/jcdecaux-bike/README.md) - From the location of the bike stations to the availability of bikes and parking spaces in real time, use our data to experiment new representations or to provide innovative and useful services to users
+- [Live Tennis API](./pages/live-tennis-api/README.md) - Tennis data API with live scores (including serving and break-point state), players with current ranking, fixtures, and usage endpoints on a free keyed tier; paid tiers add completed-match history, point-by-point data, H2H, match events, market prices, bulk packages, rankings listing, and win probability 🆓
 - [NBA Stats](./pages/nba-stats/README.md) - Current and historical NBA Statistics
 - [Nfl Arrests](./pages/nfl-arrests/README.md) - NFL Arrest provides an interactive visualized database of National Football League player Arrests &amp; Charges
 - [NHL Records and Stats](./pages/nhl-records-and-stats/README.md) - Documenting the publicly accessible portions of the NHL API
