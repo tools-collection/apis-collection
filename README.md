@@ -363,6 +363,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Kraken](./pages/kraken-api/README.md) - Kraken&#x27;s REST and WebSocket APIs provide cryptocurrency trading, market data, order management, and account information 🆓
 - [KuCoin](./pages/kucoin-api/README.md) - KuCoin&#x27;s API supports spot, margin, and futures trading with market data, order management, and account endpoints 🆓
 - [Messari](./pages/messari/README.md) - Messari provides an institutional grade Bitcoin and blockchain data API, ranging from market data to fundamentals, blockchain metrics and news
+- [Monetos Crypto Signal](./pages/monetos-crypto-signal/README.md) - Free REST API for crypto market intelligence: real-time prices and market 🆓
 - [Moralis](./pages/moralis/README.md) - Moralis Web3 API provides NFT data, token balances, DeFi positions, transaction history, and wallet analytics across EVM-compatible blockchains including Ethereum, Polygon, and BNB Chain 🆓
 - [Nexchange](./pages/nexchange/README.md) - API for crypto currency exchange.
 - [Nicehash](./pages/nicehash/README.md) - Largest Crypto Mining Marketplace
@@ -1053,6 +1054,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Kraken](./pages/kraken-api/README.md) - Kraken&#x27;s REST and WebSocket APIs provide cryptocurrency trading, market data, order management, and account information 🆓
 - [KuCoin](./pages/kucoin-api/README.md) - KuCoin&#x27;s API supports spot, margin, and futures trading with market data, order management, and account endpoints 🆓
 - [Louis Dorrad](./pages/louis-dorrad/README.md) - Google’s product is quite similar to Amazon’s but it’s actually
+- [Monetos Crypto Signal](./pages/monetos-crypto-signal/README.md) - Free REST API for crypto market intelligence: real-time prices and market 🆓
 - [Music Machinery](./pages/music-machinery/README.md) - Here’s a categorized list of all the Music APIs
 - [NewStack](./pages/newstack/README.md) - Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services
 - [OKX](./pages/okx-api/README.md) - OKX&#x27;s API provides spot, futures, options, and DeFi trading with real-time market data and account management 🆓
