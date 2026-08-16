@@ -1,0 +1,24 @@
+name: Monetos Crypto Signal
+slug: monetos-crypto-signal
+description: |-
+  Free REST API for crypto market intelligence: real-time prices and market
+  summary, fear & greed index, funding-rate anomaly detection across 500+
+  perpetuals, cross-venue reference pricing for BTC/ETH, and on-chain DEX flow
+  analytics across 55+ chains. Free tier, no auth.
+categories:
+  - Blockchain & Cryptocurrencies
+  - Finance & Economics
+type: REST
+is_free: true
+is_active: true
+auth_type: none
+rate_limits: Free tier 100 req/day
+tags:
+  - crypto
+  - bitcoin
+  - ethereum
+  - funding-rates
+  - on-chain
+links:
+  - name: Docs / Website
+    url: https://github.com/MoneyKalle/crypto-signal-api
