@@ -1,0 +1,18 @@
+name: Vega x402 URL Extractor
+slug: vega-url-extractor
+description: Clean web article text extraction from any URL via x402 USDC payment on Base mainnet.
+categories:
+  - Scrapers & Data Mining
+type: REST
+is_free: false
+auth_type: api_key
+rate_limits: "Pay per request ($0.05 USDC)"
+specification:
+  type: openapi
+  url: https://extract.kramsg1online.com/docs/openapi.json
+  version: "1.0.0"
+links:
+  - name: Docs / API
+    url: https://extract.kramsg1online.com
+  - name: Source Code
+    url: https://gitlab.com/kramsg119981405/kramsg1-revenue-apis
