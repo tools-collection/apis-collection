@@ -103,6 +103,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Redtube Api](./pages/redtube-api/README.md) - The Redtube API
 
 ### AI & ML 🤖
+- [AIFast](./pages/aifast/README.md) - OpenAI-compatible API platform for language, image, video, embedding, and search models
 - [Amazon MI API](./pages/amazon-mi-api/README.md) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis
 - [Amazon Transcribe](./pages/amazon-transcribe/README.md) - Automatically convert speech to text
 - [Anthropic Claude](./pages/anthropic/README.md) - Anthropic&#x27;s API provides access to the Claude 4 family of AI models (Claude Opus 4, Sonnet 4, Haiku 4) for text generation, analysis, coding assistance, vision tasks, and extended 1M-token context windows
@@ -672,6 +673,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Abstract](./pages/abstract/README.md) - Suite of utility API&#x27;s (validate emails, create user avatars, calculate VAT, and more)
 - [Abstract API](./pages/abstractapi/README.md) - Abstract API provides a suite of utility APIs including email validation, phone validation, IP geolocation, VAT validation, currency exchange, and holiday data via simple REST endpoints 🆓
 - [Agify.io](./pages/agify-io/README.md) - Free API to check and predict the age of a name
+- [AIFast](./pages/aifast/README.md) - OpenAI-compatible API platform for language, image, video, embedding, and search models
 - [Alchemy](./pages/alchemy-api/README.md) - Alchemy&#x27;s Web3 API provides enhanced node access, NFT data, transaction history, token balances, and webhook notifications across Ethereum, Polygon, Solana, and other blockchains 🆓
 - [Algolia](./pages/algolia/README.md) - Algolia&#x27;s Search API provides fast, typo-tolerant full-text search with faceting, filtering, and personalization 🆓
 - [API2Cart](./pages/api2cart/README.md) - Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once
