@@ -8,8 +8,8 @@ type: REST
 is_free: false
 links:
   - name: Website
-    url: https://www.aifast.club
+    url: https://www.aifast.hk
   - name: Documentation
-    url: https://docs.aifast.club/
+    url: https://docs.aifast.hk/
   - name: API compatibility checker
-    url: https://docs.aifast.club/model-check/
+    url: https://docs.aifast.hk/model-check/

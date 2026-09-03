@@ -1,4 +1,4 @@
-# 📦 [AIFast](https://www.aifast.club)
+# 📦 [AIFast](https://www.aifast.hk)
 
 
 > **OpenAI-compatible API platform for language, image, video, embedding, and search models**
@@ -17,9 +17,9 @@
 *Not specified*
 
 ## 🔗 Links
-- [Website](https://www.aifast.club)
-- [Documentation](https://docs.aifast.club/)
-- [API compatibility checker](https://docs.aifast.club/model-check/)
+- [Website](https://www.aifast.hk)
+- [Documentation](https://docs.aifast.hk/)
+- [API compatibility checker](https://docs.aifast.hk/model-check/)
 
 ## 🧰 Libraries
 *No libraries available*
