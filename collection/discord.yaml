@@ -116,3 +116,8 @@ libraries:
     platform: Swift
     author: nuclearace
     stargazers_count: 122
+  - name: Discord Lua SDK by filispeen
+    documentation_url: https://github.com/filispeen/discord.lua
+    platform: Lua
+    author: filispeen
+    stargazers_count: 2
