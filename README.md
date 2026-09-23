@@ -2152,6 +2152,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 
 ### Travel ✈️
 - [Amadeus Travel Innovation Sandbox](./pages/amadeus-travel-innovation-sandbox/README.md) - Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel
+- [Bucketlist.nl Dream of the Day](./pages/bucketlist-nl-dream-of-the-day/README.md) - Returns one published travel or life experience idea per day, with image, theme, destination and canonical URL 🆓
 - [GraphHopper](./pages/graphhopper/README.md) - A-to-B routing with turn-by-turn instructions
 - [Izi](./pages/izi/README.md) - izi
 - [Lufthansa Open API](./pages/lufthansa-open-api/README.md) - Lufthansa Developer Network

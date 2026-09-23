@@ -1,0 +1,10 @@
+name: Bucketlist.nl Dream of the Day
+slug: bucketlist-nl-dream-of-the-day
+description: Returns one published travel or life experience idea per day, with image, theme, destination and canonical URL. Multilingual, free, and usable without a key or account.
+categories:
+  - Travel
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag
