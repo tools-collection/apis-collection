@@ -1041,6 +1041,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [CurrencyScoop.com](./pages/currencyscoop-com/README.md) - Real-time and historical currency rates JSON API
 - [Currencystack](./pages/currencystack/README.md) - Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment
 - [Czech National Bank](./pages/czech-national-bank/README.md) - A collection of exchange rates
+- [Eulerpool](./pages/eulerpool/README.md) - Financial data API with 400+ REST endpoints covering global equities and fundamentals, ETFs, insider trades, 13F holdings, macro series from FRED, ECB, IMF, World Bank, OECD and BIS, crypto, FX and commodities 🆓
 - [ExchangeRate-API.com](./pages/exchangerate-api-com/README.md) - Accurate &amp; reliable Exchange Rates API trusted by tens of thousands of developers since 2010 🆓
 - [ExchangeRatesAPI.io](./pages/exchangeratesapi-io/README.md) - Exchange rates API is a free service for current and historical foreign exchange rates published by the European Central Bank
 - [Financial Modeling Prep](./pages/financial-modeling-prep/README.md) - Access all stocks discounted cash flow statements, market price, stock markets news, and learn more about Financial Modeling
