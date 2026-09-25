@@ -1,0 +1,25 @@
+name: Eulerpool
+slug: eulerpool
+description: Financial data API with 400+ REST endpoints covering global equities and fundamentals, ETFs, insider trades, 13F holdings, macro series from FRED, ECB, IMF, World Bank, OECD and BIS, crypto, FX and commodities. JSON responses, API key auth, free tier of 100k requests per month for non-commercial use. SDKs for Python, TypeScript, Go, Java, R, PHP, Rust and C++.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+auth_type: api_key
+specification:
+  type: openapi
+  url: https://api.eulerpool.com/api/1/documentation/json
+links:
+  - name: Docs / Website
+    url: https://eulerpool.com/developers
+  - name: API Reference
+    url: https://api.eulerpool.com/api/1/documentation/json
+libraries:
+  - name: Eulerpool Python SDK
+    documentation_url: https://github.com/eulerpool/eulerpool-python
+    platform: Python
+    author: eulerpool
+  - name: Eulerpool TypeScript SDK
+    documentation_url: https://github.com/eulerpool/eulerpool-js
+    platform: TypeScript
+    author: eulerpool
