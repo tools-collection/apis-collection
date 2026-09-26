@@ -1,0 +1,12 @@
+name: StayingAPI
+slug: stayingapi
+description: Accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels: listings, live pricing, availability, and reviews through a single REST API. Also available as an MCP server.
+categories:
+  - Travel
+type: REST
+is_free: false
+links:
+  - name: Website
+    url: https://stayingapi.com
+  - name: API Reference
+    url: https://api.stayingapi.com/openapi.json
