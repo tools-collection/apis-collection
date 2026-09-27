@@ -1,0 +1,11 @@
+name: APIClaw
+slug: apiclaw
+description: APIClaw provides a flat-rate, OpenAI-compatible AI API for accessing Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models, with plans from $19 per month and a free trial.
+categories:
+  - AI & ML
+  - Development
+type: REST
+is_free: false
+links:
+  - name: Docs / Website
+    url: https://apiclaw.biz
