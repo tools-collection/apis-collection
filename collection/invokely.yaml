@@ -1,0 +1,18 @@
+name: Invokely
+slug: invokely
+description: Query official statistics by indicator and place, with period, unit and source citation
+categories:
+  - Statistics & Data
+type: REST
+is_free: false
+is_active: true
+auth_type: api_key
+rate_limits: The free plan includes 500 MCP calls per month. REST data endpoints require Builder or Pro, or prepaid credits. The anonymous MCP trial allows 25 calls per day per IP.
+specification:
+  type: OpenAPI 3.1
+  url: https://invokely.ai/openapi.json
+links:
+  - name: Docs / Website
+    url: https://invokely.ai/docs
+  - name: Pricing
+    url: https://invokely.ai/pricing

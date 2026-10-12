@@ -2022,6 +2022,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [EPO](./pages/epo/README.md) - Open Patent Services (OPS) is a web service which provides access to the EPO&#x27;s raw data via a standardised XML interface
 - [GBIF](./pages/gbif/README.md) - Free and open access to biodiversity data
 - [HouseCanary Analytics API](./pages/housecanary-analytics-api/README.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
+- [Invokely](./pages/invokely/README.md) - Query official statistics by indicator and place, with period, unit and source citation
 - [Looker](./pages/looker/README.md) - Looker&#x27;s REST API manages dashboards, looks, queries, users, and data connections
 - [Open Food Facts](./pages/open-food-facts/README.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels 🆓
 - [Open Government, Canada](./pages/open-government-canada/README.md) - Collaborative open source project led by the Government of Canada
