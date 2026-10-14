@@ -1,0 +1,14 @@
+name: MentionsAPI
+slug: mentionsapi
+description: AI brand-visibility API that reports whether ChatGPT, Claude, Gemini, Perplexity, Google AI Overviews and Bing Copilot mention a brand, with rank, sentiment and cited URLs per mention. Also available as an MCP server.
+categories:
+  - Marketing & SEO
+type: REST
+is_free: true
+links:
+  - name: Website
+    url: https://mentionsapi.com
+  - name: Documentation
+    url: https://mentionsapi.com/docs
+  - name: API Reference
+    url: https://api.mentionsapi.com/openapi.json
