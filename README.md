@@ -115,7 +115,6 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Big ML](./pages/big-ml/README.md) - BigML removes the complexities of Machine Learning so you can focus on what matters most, enhancing and automating decision making
 - [Blogcast](./pages/blogcast/README.md) - Generate audio versions of your articles
 - [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
-- [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
 - [Cloud Machine Learning Engine](./pages/cloud-machine-learning-engine/README.md) - Take your ML projects to production, quickly and cost-effectively
 - [Cloudflare AI](./pages/cloudflare-ai/README.md) - Cloudflare Workers AI provides serverless inference for LLMs, text embedding, image classification, speech recognition, and translation models running on Cloudflare&#x27;s global edge network 🆓
 - [Cloudmersive Natural Language Processing](./pages/cloudmersive-natural-language-processing/README.md) - Powerful Natural Language Processing APIs
@@ -413,7 +412,6 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Basecamp API](./pages/basecamp-api/README.md) - A web based system for managing collaborative projects
 - [Box](./pages/box/README.md) - Explore the Box APIs and SDKs to use for app development,
 - [Braintree](./pages/braintree/README.md) - Specializes in mobile and web payment systems for ecommerce companies
-- [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
 - [Clust](./pages/clust/README.md) - The best way to gather anyone’s documents, directly from your app &amp; without hassle
 - [Ecart](./pages/ecart/README.md) - Data is offered in JSON format
 - [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
@@ -1300,12 +1298,12 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Bannerbear](./pages/bannerbear/README.md) - Bannerbear API auto-generates social media images, banners, and PDFs from templates
 - [Browshot](./pages/browshot/README.md) - Full API to take screenshots of any website.
 - [Clarifai](./pages/clarifai/README.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
-- [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
 - [Cloudinary](./pages/cloudinary/README.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
 - [Cloudmersive Document and Data Conversion](./pages/cloudmersive-document-and-data-conversion/README.md) - Document and Data Conversion APIs
 - [Dicebear Avatars](./pages/dicebear-avatars/README.md) - Avatars is an avatar placeholder library for designers and developers
 - [Everypixel](./pages/everypixel/README.md) - Automatic image keywording and categorization API
 - [fal.ai](./pages/fal-ai/README.md) - fal
+- [FaviconDL](./pages/favicondl/README.md) - Get the favicon of any website by domain, returned as an image you can embed directly 🆓
 - [Filestack](./pages/filestack/README.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
 - [Flickr](./pages/flickr/README.md) - Search through user Flickr content, contacts, upload or replace photos
 - [Getscreenshot By Rasterwise](./pages/getscreenshot-by-rasterwise/README.md) - GetScreenshot is an affordable and highly scalable screenshot API service
@@ -2396,6 +2394,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Channel Messaing API](./pages/channel-messaing-api/README.md) - Channel Messaging API lets your build real-time application
 - [Choppingboard.Recipes](./pages/choppingboard-recipes/README.md)
 - [City Context](./pages/city-context/README.md) - Crime, school and transportation data for US cities
+- [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
 - [Coinbin](./pages/coinbin/README.md) - Cryptocurrency information
 - [Contentxtractor](./pages/contentxtractor/README.md) - Extract relevant content from articles
 - [Count.Io](./pages/count-io/README.md) - Persistent counting and A/B testing

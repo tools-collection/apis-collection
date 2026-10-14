@@ -1,0 +1,11 @@
+name: FaviconDL
+slug: favicondl
+description: Get the favicon of any website by domain, returned as an image you can embed directly
+categories:
+  - Images & Photography
+type: REST
+is_free: true
+auth_type: none
+links:
+  - name: Docs / Website
+    url: https://favicondl.com/favicon-embed.html
