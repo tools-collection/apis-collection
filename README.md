@@ -1094,6 +1094,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Order Pizza Api](./pages/order-pizza-api/README.md) - A RESTful API as pizza restaurant ordering system
 - [PunkAPI](./pages/punkapi/README.md) - Brewdog&#x27;s DIY Dog as a searchable, filterable API
 - [Recipe Puppy](./pages/recipe-puppy/README.md) - Recipe Puppy API lets you search through recipe puppy database of over a million recipes by keyword and/or by search query
+- [RestoSignals](./pages/restosignals/README.md) - Finds US restaurants and bars 1-6 months before they open by fusing public liquor-license applications, food-service permits and new-business filings into one deduped venue with an opening score (0-100) and owner contact
 - [Spoonacular Food API](./pages/spoonacular-food-api/README.md) - The only Food API you&#x27;ll ever need
 - [TacoFancy API](./pages/tacofancy/README.md) - API for community-driven, object-oriented taco recipe repo - https://github 🆓
 - [The Meal Db](./pages/the-meal-db/README.md) - This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more

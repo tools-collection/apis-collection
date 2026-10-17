@@ -1,0 +1,17 @@
+name: RestoSignals
+slug: restosignals
+description: Finds US restaurants and bars 1-6 months before they open by fusing public liquor-license applications,
+  food-service permits and new-business filings into one deduped venue with an opening score (0-100) and owner contact
+categories:
+  - Food & Drinks
+type: REST
+auth_type: api_key
+is_active: true
+specification:
+  type: openapi
+  url: https://api.restosignals.com/openapi.json
+links:
+  - name: Docs / Website
+    url: https://restosignals.com/restoapi
+  - name: MCP server
+    url: https://github.com/paperandbeyond23-gif/restosignals-mcp
