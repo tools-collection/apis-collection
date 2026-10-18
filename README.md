@@ -1800,6 +1800,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [ProxyCrawl](./pages/proxycrawl/README.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
 - [Restpack](./pages/restpack/README.md) - Screenshot API, HTML to PDF API, Content Extraction API
 - [Scraper API](./pages/scraper-api/README.md) - Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call
+- [ScraperSocial](./pages/scrapersocial/README.md) - ScraperSocial is a REST API for public social media and web data: profiles, posts, engagement stats, comments, keyword search and video transcripts from TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms
 - [Scrapestack](./pages/scrapestack/README.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
 - [Scrapingbee](./pages/scrapingbee/README.md) - Scraping is hard, scraping at scale can be very challenging
 - [Screenshot Machine](./pages/screenshot-machine/README.md) - Free screenshot api for capturing web pages
@@ -1941,6 +1942,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Quora API](./pages/quora-api/README.md) - Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world
 - [Reddit](./pages/reddit/README.md) - Contribute to reddit-archive/reddit development by creating an account on GitHub
 - [Saidit](./pages/saidit/README.md) - Raw Saidit API Wrapper
+- [ScraperSocial](./pages/scrapersocial/README.md) - ScraperSocial is a REST API for public social media and web data: profiles, posts, engagement stats, comments, keyword search and video transcripts from TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms
 - [Sketchfab API](./pages/sketchfab-api/README.md) - Manage your 3D assets
 - [Slack](./pages/slack/README.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box
 - [Snapchat](./pages/snapchat/README.md) - Snapchat’s private API
