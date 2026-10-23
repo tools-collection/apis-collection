@@ -425,6 +425,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Freshservice](./pages/freshservice/README.md) - Freshservice&#x27;s ITSM API manages IT service desk tickets, assets, changes, problems, and releases
 - [Furniture Store Data Api](./pages/furniture-store-data-api/README.md) - The aim is to provide every bit of information which is felt required for a user to know about a furniture store
 - [Google Analytics](./pages/google-analytics/README.md) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content
+- [HummingDeck](./pages/hummingdeck/README.md) - REST API for HummingDeck, a document tracking and digital sales room platform
 - [Hunter.io](./pages/hunter-io/README.md) - Hunter 🆓
 - [ITA&#x27;s Data Services Platform](./pages/itas-data-services-platform/README.md) - The Data Services Platform from the International Trade Administration (ITA) provides direct access to authoritative information on U 🆓
 - [LinkedIn](./pages/linkedin/README.md) - Make it convenient for your users to sign in with their professional identity
@@ -836,6 +837,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Freelancer Api](./pages/freelancer-api/README.md) - It can be used to set up a food delivery network, crowdsource the price for a local repair job, plug into a large pool of translators and more
 - [Ghost](./pages/ghost/README.md) - Ghost&#x27;s Content and Admin APIs provide access to posts, pages, authors, tags, and settings 🆓
 - [Html2pdf.App](./pages/html2pdf-app/README.md) - Free Html to Pdf online generator
+- [HummingDeck](./pages/hummingdeck/README.md) - REST API for HummingDeck, a document tracking and digital sales room platform
 - [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
 - [Microsoft Graph](./pages/microsoft-graph/README.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
 - [Notepad Api - Simplenotes](./pages/notepad-api-simplenotes/README.md) - Share the notes with everyone you want.
