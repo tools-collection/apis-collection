@@ -1303,6 +1303,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Clearbit Logo](./pages/clearbit-logo/README.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
 - [Cloudinary](./pages/cloudinary/README.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
 - [Cloudmersive Document and Data Conversion](./pages/cloudmersive-document-and-data-conversion/README.md) - Document and Data Conversion APIs
+- [CurlShot](./pages/curlshot/README.md) - Screenshot API that turns a URL, HTML or Markdown into PNG, JPEG, WebP, PDF or a scrolling MP4, WebM or GIF video, rendered in a real Chromium browser 🆓
 - [Dicebear Avatars](./pages/dicebear-avatars/README.md) - Avatars is an avatar placeholder library for designers and developers
 - [Everypixel](./pages/everypixel/README.md) - Automatic image keywording and categorization API
 - [fal.ai](./pages/fal-ai/README.md) - fal
@@ -1783,6 +1784,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Blogcast](./pages/blogcast/README.md) - Generate audio versions of your articles
 - [Browshot](./pages/browshot/README.md) - Full API to take screenshots of any website.
 - [Cloudmersive Document and Data Conversion](./pages/cloudmersive-document-and-data-conversion/README.md) - Document and Data Conversion APIs
+- [CurlShot](./pages/curlshot/README.md) - Screenshot API that turns a URL, HTML or Markdown into PNG, JPEG, WebP, PDF or a scrolling MP4, WebM or GIF video, rendered in a real Chromium browser 🆓
 - [Currents](./pages/currents/README.md) - Currents - Capture the world news through simple json News API
 - [Dashblock](./pages/dashblock/README.md) - The easiest way to access websites programmatically and collect structured data
 - [Elis](./pages/elis/README.md) - Automate data extraction from your documents with Artificial Intelligence

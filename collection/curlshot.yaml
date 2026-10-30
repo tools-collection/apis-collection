@@ -1,0 +1,26 @@
+name: CurlShot
+slug: curlshot
+description: >-
+  Screenshot API that turns a URL, HTML or Markdown into PNG, JPEG, WebP, PDF or a scrolling MP4, WebM or GIF video,
+  rendered in a real Chromium browser. Full page, device presets, element capture, dark mode, ad and cookie-banner
+  blocking, async webhooks, bulk jobs and a remote MCP server for AI agents.
+categories:
+  - Images & Photography
+  - Scrapers & Data Mining
+type: REST
+is_free: true
+is_active: true
+auth_type: api_key
+rate_limits: >-
+  Free plan includes 100 screenshots per month with no credit card. Paid plans are 19, 79 and 249 USD per month with
+  no overage fees. Failed renders and cache hits are not counted.
+specification:
+  type: OpenAPI 3.1
+  url: https://curlshot.com/openapi.json
+links:
+  - name: Website
+    url: https://curlshot.com
+  - name: Docs
+    url: https://curlshot.com/docs
+  - name: Pricing
+    url: https://curlshot.com/pricing
