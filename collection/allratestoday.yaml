@@ -1,0 +1,18 @@
+name: AllRatesToday
+slug: allratestoday
+description: Exchange rate API with real-time mid-market rates for 160+ currencies and official rates from 100+ central
+  banks and tax authorities. Free API key; ECB and central-bank endpoints work without a key. JSON, CSV, XML and XLSX
+  output.
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+is_active: true
+auth_type: bearer
+specification:
+  type: openapi
+  url: https://allratestoday.com/openapi.json
+  version: 3.0.3
+links:
+  - name: Docs / Website
+    url: https://allratestoday.com/docs/
