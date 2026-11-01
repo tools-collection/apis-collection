@@ -1,0 +1,20 @@
+name: LurkAPI
+slug: lurkapi
+description: "LurkAPI is a REST API for public social media data: posts, profiles, comments, video transcripts and ads from the Meta, Google, TikTok and LinkedIn ad libraries, from 16 platforms as JSON. The same endpoints are served as a remote MCP server. 100 free credits at signup, then one-off packs from $9 for 10,000 credits."
+categories:
+  - Social
+  - Scrapers & Data Mining
+type: REST
+is_free: false
+is_active: true
+auth_type: api_key
+rate_limits: 50 requests per 10 seconds per account
+specification:
+  type: OpenAPI
+  url: https://lurkapi.com/openapi.json
+  version: "3.1"
+links:
+  - name: Docs / Website
+    url: https://lurkapi.com/docs
+  - name: Pricing
+    url: https://lurkapi.com/pricing
