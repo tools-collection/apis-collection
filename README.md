@@ -1791,6 +1791,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [import.io](./pages/import-io/README.md) - Import
 - [Intellexer](./pages/intellexer/README.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
 - [LinkPreview](./pages/linkpreview/README.md) - Preview Web links with our reliable API service
+- [LurkAPI](./pages/lurkapi/README.md) - LurkAPI is a REST API for public social media data: posts, profiles, comments, video transcripts and ads from the Meta, Google, TikTok and LinkedIn ad libraries, from 16 platforms as JSON
 - [Mercury](./pages/mercury/README.md) - Mercury Web Parser turns web articles into structured content reliably and easily
 - [Microlink](./pages/microlink/README.md) - Generate PDF from any website
 - [MLScrape](./pages/mlscrape/README.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
@@ -1928,6 +1929,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Imgur](./pages/imgur/README.md) - Imgur: The magic of the Internet
 - [Instagram](./pages/instagram/README.md) - How to use the Instagram Graph API
 - [LinkedIn](./pages/linkedin/README.md) - Make it convenient for your users to sign in with their professional identity
+- [LurkAPI](./pages/lurkapi/README.md) - LurkAPI is a REST API for public social media data: posts, profiles, comments, video transcripts and ads from the Meta, Google, TikTok and LinkedIn ad libraries, from 16 platforms as JSON
 - [Mastodon](./pages/mastodon/README.md) - Welcome to the Mastodon documentation
 - [Medium](./pages/medium/README.md) - Documentation for Medium&#x27;s OAuth2 API
 - [Meetup.com](./pages/meetup-com/README.md) - Find groups that host online or in person events and meet people in your local community who share your interests
