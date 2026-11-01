@@ -1030,6 +1030,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 ### Finance & Economics 🏦
 - [1Forge.com](./pages/1forge-com/README.md) - Real-time forex and crypto quotes via JSON and WebSocket
 - [Afex](./pages/afex/README.md) - Send payments to recipients all over the world 24/7 with secure and flexible online platform
+- [AllRatesToday](./pages/allratestoday/README.md) - Exchange rate API with real-time mid-market rates for 160+ currencies and official rates from 100+ central banks and tax authorities 🆓
 - [Alpaca Trading](./pages/alpaca-trading/README.md) - Alpaca&#x27;s Trading API provides commission-free stock and crypto trading, market data, and portfolio management 🆓
 - [Barchart OnDemand](./pages/barchart-ondemand/README.md) - Free Market Data APIs for Stock, futures and forex quotes, and historical data
 - [Brex](./pages/brex/README.md) - Brex&#x27;s API provides access to corporate card transactions, expenses, budgets, vendors, and reimbursements
