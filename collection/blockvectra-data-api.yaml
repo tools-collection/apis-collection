@@ -1,0 +1,37 @@
+name: BlockVectra Data API
+slug: blockvectra-data-api
+description: >-
+  Read-only REST API for indexed EVM blockchain data, including Robinhood Chain.
+  Data requests require an API key. Dataset availability and historical coverage
+  vary by chain.
+categories:
+  - Blockchain & Cryptocurrencies
+type: REST
+is_free: true
+is_active: true
+auth_type: api_key
+rate_limits: >-
+  Free-plan allowances and plan-specific limits apply. Requests are metered in
+  Compute Units; see the published pricing and method costs.
+tags:
+  - evm
+  - blockchain-data
+  - robinhood-chain
+  - openapi
+specification:
+  type: OpenAPI
+  url: https://docs.blockvectra.com/openapi/data.yaml
+  version: 3.1.0
+links:
+  - name: API Documentation
+    url: https://docs.blockvectra.com/en/api/data/
+  - name: Plans and Pricing
+    url: https://blockvectra.com/en/pricing/
+  - name: Documentation Index
+    url: https://docs.blockvectra.com/llms.txt
+libraries:
+  - name: BlockVectra Data API TypeScript SDK
+    platform: TypeScript / JavaScript
+    documentation_url: https://github.com/blockvectra/data-api-js#readme
+    source_code_url: https://github.com/blockvectra/data-api-js
+discussion_url: https://github.com/tools-collection/apis-collection/issues/92
