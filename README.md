@@ -337,6 +337,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Blockchain](./pages/blockchain/README.md) - The easiest and most trusted transaction search engine and block explorer
 - [BlockCypher](./pages/blockcypher/README.md) - Build blockchain applications easily with our web APIs and callbacks
 - [BlockFacts.io](./pages/blockfacts-io/README.md) - SDKs for integration, rich historic tick data
+- [BlockVectra Data API](./pages/blockvectra-data-api/README.md) - Read-only REST API for indexed EVM blockchain data, including Robinhood Chain 🆓
 - [Bybit](./pages/bybit/README.md) - Bybit&#x27;s API provides spot, derivatives, and options trading, market data, and account management for one of the largest crypto derivatives exchanges globally 🆓
 - [Chasing Coin](./pages/chasing-coin/README.md) - Cryptocurrency, coin and token resource on the web
 - [CoinAPI](./pages/coinapi/README.md) - CoinAPI is a platform which provides fast, reliable
