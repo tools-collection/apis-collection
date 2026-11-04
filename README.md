@@ -106,6 +106,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Amazon MI API](./pages/amazon-mi-api/README.md) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis
 - [Amazon Transcribe](./pages/amazon-transcribe/README.md) - Automatically convert speech to text
 - [Anthropic Claude](./pages/anthropic/README.md) - Anthropic&#x27;s API provides access to the Claude 4 family of AI models (Claude Opus 4, Sonnet 4, Haiku 4) for text generation, analysis, coding assistance, vision tasks, and extended 1M-token context windows
+- [AnyAPI.ai](./pages/anyapi-ai/README.md) - One OpenAI-compatible API for 400+ AI models with per-token billing, a free tier of 100K tokens/day and automatic provider failover 🆓
 - [AssemblyAI](./pages/assemblyai/README.md) - AssemblyAI&#x27;s API provides speech-to-text transcription, speaker diarization, sentiment analysis, topic detection, and summarization from audio and video files
 - [AudD](./pages/audd/README.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
 - [AWS Bedrock](./pages/aws-bedrock/README.md) - Amazon Bedrock is a fully managed service that provides access to foundation models from Anthropic, Meta, Mistral, Stability AI, and Amazon via a single API with enterprise security
