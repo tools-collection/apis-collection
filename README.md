@@ -1853,6 +1853,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Yahoo Term Extraction API](./pages/yahoo-term-extraction-api/README.md) - Join the 200,000 developers using Yahoo tools to build their app businesses
 - [Yandex](./pages/yandex/README.md) - Maps and the necessary tools for working it on your web app or site
 - [Yelp](./pages/yelp/README.md) - Yelp&#x27;s API exposes search to 3rd party developers
+- [YouTube Transcript Search API by Arcmira](./pages/arcmira/README.md) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers
 - [Yummly](./pages/yummly/README.md) - Find food recipes
 - [Zenserp](./pages/zenserp/README.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
 
@@ -2085,6 +2086,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Watson Natural Language Understanding](./pages/watson-natural-language-understanding/README.md) - Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understanding will give you results for the features you request
 - [Wolfram|Alpha](./pages/wolfram-alpha/README.md) - General knowledge on every topic; query it all with natural language input
 - [Wordnik](./pages/wordnik/README.md) - The Wordnik API Docs. Dictionary functions
+- [YouTube Transcript Search API by Arcmira](./pages/arcmira/README.md) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers
 - [Yummly](./pages/yummly/README.md) - Find food recipes
 
 ### Translation ㊗️
@@ -2270,6 +2272,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Vimeo](./pages/vimeo/README.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
 - [YouTube](./pages/youtube/README.md) - Add YouTube functionality to your sites and apps
 - [YouTube API](./pages/youtube-api/README.md) - Add YouTube functionality to your sites and apps
+- [YouTube Transcript Search API by Arcmira](./pages/arcmira/README.md) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers
 - [Zoom API](./pages/zoom-api/README.md) - Zoom&#x27;s REST API manages meetings, webinars, users, recordings, and reports 🆓
 
 ### Virtual & Augmented Reality 📱
