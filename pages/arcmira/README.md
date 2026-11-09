@@ -1,7 +1,7 @@
 # 📦 [YouTube Transcript Search API by Arcmira](https://arcmira.com)
 
 
-> **Search indexed YouTube transcripts for timestamped passages, speaker appearances, mentions, sponsors and recommendations. An account is required; a limited free plan and paid plans are available, with feature access depending on the plan.**
+> **YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. An account is required; a limited free plan and paid plans are available, with feature access depending on the plan.**
 
 ## 📝 Details
 - **Categories**: [Search](https://github.com/tools-collection/apis-collection#search-), [Video & Media](https://github.com/tools-collection/apis-collection#video--media-), [Text Analysis & Tools](https://github.com/tools-collection/apis-collection#text-analysis--tools-)
