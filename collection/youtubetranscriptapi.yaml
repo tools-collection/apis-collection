@@ -1,0 +1,12 @@
+name: YouTubeTranscriptAPI
+slug: youtubetranscriptapi
+description: Hosted API that returns YouTube transcripts as clean JSON for a video, channel or playlist, plus YouTube search. Built to work from cloud servers where scrapers get blocked. Free tier: 100 credits, no card required.
+categories:
+  - Video & Media
+type: REST
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://youtubetranscriptapi.com
+  - name: API Reference
+    url: https://youtubetranscriptapi.com/openapi.json
