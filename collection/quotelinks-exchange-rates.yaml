@@ -1,0 +1,21 @@
+name: Quotelinks Exchange Rates
+slug: quotelinks-exchange-rates
+description: Free JSON API for the European Central Bank's daily euro reference rates - 30 currencies since 1999,
+  latest, historical and time-series rates with any base currency, conversion, Frankfurter v1 response format
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+auth_type: none
+rate_limits: 2 requests/second without a key, 10 with a free API key; personal, non-commercial use
+tags:
+  - exchange-rates
+  - currency
+  - ecb
+specification:
+  type: openapi
+  url: https://www.quotelinks.com/api/openapi/quotelinks-exchange-rates.openapi.json
+  version: 3.0.3
+links:
+  - name: Docs / Website
+    url: https://www.quotelinks.com/api/exchange-rates/
