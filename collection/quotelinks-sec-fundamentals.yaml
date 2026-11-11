@@ -1,0 +1,22 @@
+name: Quotelinks SEC Fundamentals
+slug: quotelinks-sec-fundamentals
+description: Free JSON API with standardized financial statements (income statement, balance sheet, cash flow; annual,
+  quarterly and TTM), company profiles and SEC filing lists for 21,000+ companies by ticker or CIK, built nightly from SEC EDGAR
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+auth_type: none
+rate_limits: 2 requests/second without a key, 10 with a free API key; personal, non-commercial use
+tags:
+  - sec
+  - edgar
+  - financial-statements
+  - fundamentals
+specification:
+  type: openapi
+  url: https://www.quotelinks.com/api/openapi/quotelinks-sec-fundamentals.openapi.json
+  version: 3.0.3
+links:
+  - name: Docs / Website
+    url: https://www.quotelinks.com/api/sec-fundamentals/
