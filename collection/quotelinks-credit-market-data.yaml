@@ -1,0 +1,23 @@
+name: Quotelinks Credit Market Data
+slug: quotelinks-credit-market-data
+description: Free JSON API with U.S. credit market data from official sources - the New York Fed Corporate Bond
+  Market Distress Index (weekly since 2005), the U.S. Treasury HQM corporate bond yield curve (par yields and 200 spot
+  maturities, monthly since 1984) and credit default swap aggregates from the CFTC Weekly Swaps Report (weekly since 2012)
+categories:
+  - Finance & Economics
+type: REST
+is_free: true
+auth_type: none
+rate_limits: 2 requests/second without a key, 10 with a free API key; personal, non-commercial use
+tags:
+  - credit
+  - corporate-bonds
+  - yield-curve
+  - credit-default-swaps
+specification:
+  type: openapi
+  url: https://www.quotelinks.com/api/openapi/quotelinks-credit-market-data.openapi.json
+  version: 3.0.3
+links:
+  - name: Docs / Website
+    url: https://www.quotelinks.com/api/credit-market-data/
