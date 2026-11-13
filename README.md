@@ -1186,6 +1186,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Riot Games](./pages/riot-games/README.md) - Provide the League of Legends developer community with access to game data in a secure and reliable way
 - [Scryfall](./pages/scryfall/README.md) - Scryfall is a powerful Magic: The Gathering card search
 - [Steam Web API](./pages/steam/README.md) - Steam WEB API created to provide programmatic access to Steam data and services
+- [The Trivia API](./pages/the-trivia-api/README.md) - Multiple choice trivia questions filterable by category, difficulty, region and 2,000+ topic tags 🆓
 - [Trivia Api](./pages/trivia-api/README.md) - 100k+ trivia entries available via REST API
 - [Vainglory](./pages/vainglory/README.md) - Vainglory Players, Matches and Telemetry
 - [Wargaming.net](./pages/wargaming-net/README.md) - Wargaming Games API. Stats, Matches, Data
