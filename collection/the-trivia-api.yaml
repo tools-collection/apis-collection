@@ -1,0 +1,15 @@
+name: The Trivia API
+slug: the-trivia-api
+description: Multiple choice trivia questions filterable by category, difficulty, region and 2,000+ topic tags
+categories:
+  - Games
+type: REST
+is_free: true
+auth_type: none
+specification:
+  type: openapi
+  url: https://the-trivia-api.com/openapi.json
+  version: 3.0.0
+links:
+  - name: Docs / Website
+    url: https://the-trivia-api.com/docs/
