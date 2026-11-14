@@ -2,8 +2,8 @@ name: GetTranscript
 slug: gettranscript
 description: REST API for extracting YouTube transcripts in multiple formats (TXT, SRT, VTT, JSON, CSV).
 categories:
-  - Video
-  - Social Media
+  - Video & Media
+  - Text Analysis & Tools
 url: https://gettranscript.app
 documentation: https://gettranscript.app/documentation
 auth: apiKey
