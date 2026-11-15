@@ -1,0 +1,17 @@
+name: FreeDict
+slug: freedict
+description: English dictionary API and remote MCP server with definitions, examples, pronunciation, synonyms, rhymes, word origins, slang and translations
+categories:
+  - Content & Dictionaries
+type: REST
+is_active: true
+auth_type: api_key
+specification:
+  type: openapi
+  url: https://freedict.com/api/v1/openapi.json
+  version: 3.1.0
+links:
+  - name: Docs / Website
+    url: https://freedict.com/api/docs
+  - name: GitHub
+    url: https://github.com/freedict-com/freedict-api
