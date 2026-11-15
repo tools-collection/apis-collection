@@ -1,0 +1,11 @@
+name: No Stairs Please
+slug: no-stairs-please
+description: Searchable directory and public MCP endpoint covering 10,000+ live music venues across all 50 US states, DC, and British Columbia with driving-corridor route planning.
+categories:
+  - Music & Audio
+  - Maps & Geo
+type: MCP
+is_free: true
+links:
+  - name: Docs / Website
+    url: https://nostairsplease.com/mcp
