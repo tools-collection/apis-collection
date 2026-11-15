@@ -612,6 +612,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [Elasticpath](./pages/elasticpath/README.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
 - [FavQs](./pages/favqs/README.md) - FavQs allows you to collect, discover, and share your favorite quotes
 - [Forismatic](./pages/forismatic/README.md) - Gives you a random quote per click.
+- [FreeDict](./pages/freedict/README.md) - English dictionary API and remote MCP server with definitions, examples, pronunciation, synonyms, rhymes, word origins, slang and translations
 - [Glosbe API](./pages/glosbe-api/README.md) - Dictionary API and Translation Memory API description
 - [Graphql360](./pages/graphql360/README.md) - Create and consume 360 degree panoramic tours using a GraphQL API
 - [Lingua Robot API](./pages/lingua-robot-api/README.md) - English dictionary API providing an access to the data of over 800 000 English lexical entries, such as words, phrasal verbs, multiword expressions etc
