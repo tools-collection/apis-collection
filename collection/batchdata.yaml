@@ -1,0 +1,24 @@
+name: BatchData
+slug: batchdata
+description: Real estate data API for property search and lookup, owner contact data (skip tracing), comparables,
+  address verification and geocoding, and phone verification, with a hosted MCP server for AI agents. Covers 169
+  million+ U.S. parcels
+categories:
+  - Real Estate
+type: REST
+is_free: false
+is_active: true
+auth_type: bearer
+tags:
+  - property data
+  - real estate
+  - skip tracing
+  - geocoding
+  - mcp
+links:
+  - name: Website
+    url: https://batchdata.io/api-solutions
+  - name: Docs
+    url: https://developer.batchdata.com/
+  - name: MCP server
+    url: https://batchdata.io/mcp-server

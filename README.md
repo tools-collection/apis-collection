@@ -1731,6 +1731,7 @@ Supported by [Online Tools Collection](https://tools-collection.net)
 - [UI Names](./pages/ui-names/README.md) - A simple tool to generate names for use in designs and mockups
 
 ### Real Estate 🏗️
+- [BatchData](./pages/batchdata/README.md) - Real estate data API for property search and lookup, owner contact data (skip tracing), comparables, address verification and geocoding, and phone verification, with a hosted MCP server for AI agents
 - [Graphql360](./pages/graphql360/README.md) - Create and consume 360 degree panoramic tours using a GraphQL API
 - [HouseCanary Analytics API](./pages/housecanary-analytics-api/README.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
 
