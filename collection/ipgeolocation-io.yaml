@@ -1,0 +1,12 @@
+name: IPGeolocation.io
+slug: ipgeolocation-io
+description: Accurate IP geolocation, ASN, company, timezone, currency and abuse-contact data, plus VPN, proxy, Tor and bot detection with a threat score. Free tier of 1,000 requests per day, no credit card, commercial use allowed. REST JSON and XML for IPv4 and IPv6.
+categories:
+  - Maps & Geo
+  - Security
+type: REST
+is_free: true
+logo: null
+links:
+  - name: Docs / Website
+    url: https://ipgeolocation.io/documentation.html
